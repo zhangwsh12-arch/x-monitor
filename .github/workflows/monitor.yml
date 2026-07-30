@@ -54,7 +54,7 @@ jobs:
           if [ "${{ steps.mode.outputs.mode }}" = "weekly" ]; then
             python run_weekly.py
           elif [ "${{ steps.mode.outputs.mode }}" = "backfill" ]; then
-            python run_backfill.py 7
+            python run_backfill.py 30
           else
             python run_daily.py
           fi
