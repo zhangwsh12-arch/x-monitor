@@ -1,6 +1,5 @@
 """一次性回填 + 诊断：抓每个账号最近 N 天推文，按真实发布日期分装成多天日报快照。
-修复：不再因单条旧推文提前停止翻页（转发的时间戳可能是原推文时间，会乱序）。
-诊断：把每个账号第一页原始返回摘要 dump 到 data/_diag.json 便于排查。
+兼容 tweets/data 字段；dump 顶层结构到 data/_diag.json 便于排查。
 用法：python run_backfill.py [天数，默认30]
 """
 import sys
@@ -18,27 +17,25 @@ from render import render_daily
 
 def fetch_recent(client: TwitterApiClient, handle: str, since_utc,
                  max_pages: int = 30, diag: list | None = None):
-    """抓最近推文。收集所有页内推文，最后统一按时间过滤（不提前 break，避免转发乱序漏抓）。"""
     collected = []
     cursor = ""
     pages = 0
     for _ in range(max_pages):
         resp = client.last_tweets(handle, cursor=cursor)
-        tweets = resp.get("tweets") or []
+        tweets = resp.get("tweets")
+        if tweets is None:
+            tweets = resp.get("data") or []
         pages += 1
         if diag is not None and pages == 1:
-            for t in tweets[:8]:
-                diag.append({
-                    "handle": handle,
-                    "id": t.get("id"),
-                    "type": t.get("type"),
-                    "createdAt": t.get("createdAt"),
-                    "isReply": t.get("isReply"),
-                    "has_retweeted": bool(t.get("retweeted_tweet")),
-                    "has_quoted": bool(t.get("quoted_tweet")),
-                    "author": (t.get("author") or {}).get("userName"),
-                    "text": (t.get("text") or "")[:60],
-                })
+            diag.append({
+                "handle": handle,
+                "resp_keys": list(resp.keys()),
+                "status": resp.get("status"),
+                "message": resp.get("message"),
+                "has_next_page": resp.get("has_next_page"),
+                "tweets_len": len(tweets) if isinstance(tweets, list) else "N/A",
+                "raw_sample": str(resp)[:800],
+            })
         if not tweets:
             break
         for t in tweets:
