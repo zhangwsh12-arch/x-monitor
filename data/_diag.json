@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-07-30T12:36:54.137752+09:00",
+  "generated_at": "2026-07-30T12:45:23.472578+09:00",
   "records": [
     {
       "handle": "jamm3rd",
-      "_summary": "翻了1页, 窗口内收集0条"
+      "resp_keys": [
+        "status",
+        "code",
+        "msg",
+        "data",
+        "has_next_page",
+        "next_cursor"
+      ],
+      "status": "success",
+      "message": null,
+      "has_next_page": true,
+      "tweets_len": "N/A",
+      "raw_sample": "{'status': 'success', 'code': 0, 'msg': 'success', 'data': {'pin_tweet': None, 'tweets': [{'type': 'tweet', 'id': '2067194095282581946', 'url': 'https://x.com/jamm3rd/status/2067194095282581946', 'twitterUrl': 'https://twitter.com/jamm3rd/status/2067194095282581946', 'text': '『명조』의 개발사 Kuro Games의 Solon과 다시 만났습니다. TGA에서 둘 다 무관에 그치며 같이 힘내자고 했던게 얼마전인데, 지금은 사랑해주시는 팬 분들이 많아져서 기쁘네요. 서로의 신작을 보며 많은 대화를 나누었고, 앞으로 Kuro에서 준비하고 있는 신작들 아주 기대하셔도 좋을 듯 합니다.\\n#명조 #Solon #시프트업 #NIKKE', 'source': 'Twitter for iPhone', 'retweetCount': 1028, 'replyCount': 123, 'likeCount': 8650, 'quoteCount': 154, 'viewCount': 516400, 'createdAt': 'Wed Jun 17 10:34:13 +0000 2026', 'lang': 'ko', 'bookmarkCount': 595, 'isReply': False, 'inReplyToId': None, 'conversationId': '2067194095282581946', 'displayTextRange': [0, 169], '"
     },
     {
       "handle": "_yoojoonseok",
-      "_summary": "翻了1页, 窗口内收集0条"
+      "resp_keys": [
+        "status",
+        "code",
+        "msg",
+        "data",
+        "has_next_page",
+        "next_cursor"
+      ],
+      "status": "success",
+      "message": null,
+      "has_next_page": true,
+      "tweets_len": "N/A",
+      "raw_sample": "{'status': 'success', 'code': 0, 'msg': 'success', 'data': {'pin_tweet': None, 'tweets': [{'type': 'tweet', 'id': '2081642622645592196', 'url': 'https://x.com/_yoojoonseok/status/2081642622645592196', 'twitterUrl': 'https://twitter.com/_yoojoonseok/status/2081642622645592196', 'text': 'RT @StellarBlade: Ask and you shall receive!\\n\\nYou can now listen to「Make Up My Mind」and「Off The Line」from the Stellar Blade: BLOOD RAIN tra…', 'source': 'Twitter for iPhone', 'retweetCount': 1048, 'replyCount': 157, 'likeCount': 11276, 'quoteCount': 31, 'viewCount': 227257, 'createdAt': 'Mon Jul 27 07:27:30 +0000 2026', 'lang': 'en', 'bookmarkCount': 1245, 'isReply': False, 'inReplyToId': None, 'conversationId': '2081642622645592196', 'displayTextRange': [0, 140], 'inReplyToUserId': None, 'inReplyToUsernam"
     },
     {
       "handle": "hsyoo___",
-      "_summary": "翻了1页, 窗口内收集0条"
+      "resp_keys": [
+        "status",
+        "code",
+        "msg",
+        "data",
+        "has_next_page",
+        "next_cursor"
+      ],
+      "status": "success",
+      "message": null,
+      "has_next_page": true,
+      "tweets_len": "N/A",
+      "raw_sample": "{'status': 'success', 'code': 0, 'msg': 'success', 'data': {'pin_tweet': None, 'tweets': [{'type': 'tweet', 'id': '2079077895931392146', 'url': 'https://x.com/hsyoo___/status/2079077895931392146', 'twitterUrl': 'https://twitter.com/hsyoo___/status/2079077895931392146', 'text': '함께 할 수 있어서 매우 행복했습니다.\\n열정적으로 즐겨주신 지휘관 여러분 모두 진심으로 감사드립니다.\\n\\n#NIKKE #니케 #NIKKEBandlive #FULLBUSTLIVE https://t.co/osgvl1PQwE', 'source': 'Twitter for iPhone', 'retweetCount': 136, 'replyCount': 22, 'likeCount': 875, 'quoteCount': 5, 'viewCount': 24870, 'createdAt': 'Mon Jul 20 05:36:12 +0000 2026', 'lang': 'ko', 'bookmarkCount': 23, 'isReply': False, 'inReplyToId': None, 'conversationId': '2079077895931392146', 'displayTextRange': [0, 97], 'inReplyToUserId': None, 'inReplyToUsername': None, 'author': {'type': 'user'"
     }
   ]
 }
