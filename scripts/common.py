@@ -114,8 +114,25 @@ class TwitterApiClient:
         return {}
 
     def last_tweets(self, user_name: str, cursor: str = "", include_replies: bool = False) -> dict:
-        return self._get(
+        raw = self._get(
             "/twitter/user/last_tweets",
             {"userName": user_name, "cursor": cursor,
              "includeReplies": "true" if include_replies else "false"},
         )
+        # API 实际结构: { status, code, msg, data:{ pin_tweet, tweets:[...] },
+        #                has_next_page, next_cursor }
+        # 统一拍平为 { tweets, has_next_page, next_cursor, status, message }
+        data = raw.get("data")
+        if isinstance(data, dict):
+            tweets = data.get("tweets") or []
+        elif isinstance(data, list):
+            tweets = data
+        else:
+            tweets = raw.get("tweets") or []
+        return {
+            "tweets": tweets,
+            "has_next_page": raw.get("has_next_page", False),
+            "next_cursor": raw.get("next_cursor", ""),
+            "status": raw.get("status") or raw.get("msg"),
+            "message": raw.get("message") or raw.get("msg"),
+        }
