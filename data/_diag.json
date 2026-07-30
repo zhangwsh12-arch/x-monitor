@@ -1,20 +1,4 @@
 {
-  "generated_at": "2026-07-30T12:59:05.602426+09:00",
-  "records": [
-    {
-      "handle": "jamm3rd",
-      "resp_keys": [
-        "tweets",
-        "has_next_page",
-        "next_cursor",
-        "status",
-        "message"
-      ],
-      "status": "success",
-      "message": "success",
-      "has_next_page": true,
-      "tweets_len": 20,
-      "raw_sample": "{'tweets': [{'type': 'tweet', 'id': '2067194095282581946', 'url': 'https://x.com/jamm3rd/status/2067194095282581946', 'twitterUrl': 'https://twitter.com/jamm3rd/status/2067194095282581946', 'text': '『명조』의 개발사 Kuro Games의 Solon과 다시 만났습니다. TGA에서 둘 다 무관에 그치며 같이 힘내자고 했던게 얼마전인데, 지금은 사랑해주시는 팬 분들이 많아져서 기쁘네요. 서로의 신작을 보며 많은 대화를 나누었고, 앞으로 Kuro에서 준비하고 있는 신작들 아주 기대하셔도 좋을 듯 합니다.\\n#명조 #Solon #시프트업 #NIKKE', 'source': 'Twitter for iPhone', 'retweetCount': 1028, 'replyCount': 123, 'likeCount': 8650, 'quoteCount': 154, 'viewCount': 516405, 'createdAt': 'Wed Jun 17 10:34:13 +0000 2026', 'lang': 'ko', 'bookmarkCount': 595, 'isReply': False, 'inReplyToId': None, 'conversationId': '2067194095282581946', 'displayTextRange': [0, 169], 'inReplyToUserId': None, 'inReplyToUsername': None, 'author': {'type': 'user', "
-    }
-  ]
+  "generated_at": "2026-07-30T13:06:17.513056+09:00",
+  "records": []
 }
