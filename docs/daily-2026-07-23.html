@@ -17,9 +17,14 @@
   header{margin-bottom:20px}
   h1{font-size:22px;font-weight:700;display:flex;align-items:center;gap:8px}
   .date{color:var(--muted);font-size:14px;margin-top:4px}
-  .nav{margin:14px 0 26px;display:flex;gap:10px;flex-wrap:wrap}
-  .nav a{font-size:13px;color:var(--accent);text-decoration:none;padding:5px 12px;
-    background:var(--card);border:1px solid var(--border);border-radius:20px}
+  .nav{margin:14px 0 26px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .nav-btn{font-size:14px;color:var(--accent);text-decoration:none;padding:6px 14px;
+    background:var(--card);border:1px solid var(--border);border-radius:8px;
+    display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+  .nav-btn.disabled{color:#c4c9cf;pointer-events:none;background:#f2f3f5}
+  .nav select{font-size:14px;color:var(--text);padding:6px 10px;border:1px solid var(--border);
+    border-radius:8px;background:var(--card);cursor:pointer;max-width:200px}
+  .nav-label{font-size:12px;color:var(--muted);margin-right:2px}
   .acct{background:var(--card);border:1px solid var(--border);border-radius:14px;
     padding:18px 20px;margin-bottom:18px;box-shadow:var(--shadow)}
   .acct-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
@@ -53,76 +58,101 @@
     <div class="date">日报 · 2026-07-23（KST）· 过去 24 小时</div>
   </header>
 
-  
+  <nav class="nav">
+    <a class="nav-btn" href="daily-2026-07-22.html">← 前一天</a>
+    
+
+    <span class="nav-label">日期</span>
+    <select onchange="if(this.value)location.href='daily-'+this.value+'.html'">
+      
+      <option value="2026-07-30" >2026-07-30</option>
+      
+      <option value="2026-07-29" >2026-07-29</option>
+      
+      <option value="2026-07-28" >2026-07-28</option>
+      
+      <option value="2026-07-27" >2026-07-27</option>
+      
+      <option value="2026-07-26" >2026-07-26</option>
+      
+      <option value="2026-07-25" >2026-07-25</option>
+      
+      <option value="2026-07-24" >2026-07-24</option>
+      
+      <option value="2026-07-23" selected>2026-07-23</option>
+      
+      <option value="2026-07-22" >2026-07-22</option>
+      
+      <option value="2026-07-21" >2026-07-21</option>
+      
+      <option value="2026-07-20" >2026-07-20</option>
+      
+      <option value="2026-07-19" >2026-07-19</option>
+      
+      <option value="2026-07-18" >2026-07-18</option>
+      
+      <option value="2026-07-17" >2026-07-17</option>
+      
+      <option value="2026-07-16" >2026-07-16</option>
+      
+      <option value="2026-07-15" >2026-07-15</option>
+      
+      <option value="2026-07-14" >2026-07-14</option>
+      
+      <option value="2026-07-13" >2026-07-13</option>
+      
+      <option value="2026-07-12" >2026-07-12</option>
+      
+      <option value="2026-07-11" >2026-07-11</option>
+      
+      <option value="2026-07-10" >2026-07-10</option>
+      
+      <option value="2026-07-09" >2026-07-09</option>
+      
+      <option value="2026-07-08" >2026-07-08</option>
+      
+      <option value="2026-07-07" >2026-07-07</option>
+      
+      <option value="2026-07-06" >2026-07-06</option>
+      
+      <option value="2026-07-05" >2026-07-05</option>
+      
+      <option value="2026-07-04" >2026-07-04</option>
+      
+      <option value="2026-07-03" >2026-07-03</option>
+      
+      <option value="2026-07-02" >2026-07-02</option>
+      
+      <option value="2026-07-01" >2026-07-01</option>
+      
+    </select>
+
+    <a class="nav-btn" href="daily-2026-07-24.html">后一天 →</a>
+    
+
+    
+  </nav>
 
   
   <section class="acct">
     <div class="acct-head">
       <div class="acct-name">jamm3rd<span class="acct-handle">@jamm3rd</span></div>
-      <div class="counts">原创 2 · 转发 1 · 引用 0</div>
+      <div class="counts">原创 0 · 转发 0 · 引用 0</div>
     </div>
-    <div class="topic">💡 在讨论新项目进展与 AI 相关话题（示例）</div>
+    <div class="topic">💡 今日无更新</div>
     
-      
-      <div class="item">
-        <span class="badge b-post">原创</span>
-        <span class="text">Shipping a big update this week. Been heads down on the new rendering pipeline.</span>
-        <div class="text-zh">🇨🇳 本周将发布一次大更新，最近一直在专注做新的渲染管线。</div>
-        
-        <div class="meta">
-          👍 342 · 🔁 58 · 💬 21 · 👁 21000
-           · <a href="https://x.com/jamm3rd/1" target="_blank">查看原文 ↗</a>
-        </div>
-      </div>
-      
-      <div class="item">
-        <span class="badge b-retweet">转发</span>
-        <span class="text">RT</span>
-        
-        
-        <div class="src">↳ @unrealengine：New Nanite features are live.</div>
-        
-        <div class="meta">
-          👍 0 · 🔁 120 · 💬 0 · 👁 0
-           · <a href="https://x.com/jamm3rd/2" target="_blank">查看原文 ↗</a>
-        </div>
-      </div>
-      
-      <div class="item">
-        <span class="badge b-quote">引用</span>
-        <span class="text">This is exactly the direction the industry should go.</span>
-        <div class="text-zh">🇨🇳 这正是行业应该走的方向。</div>
-        
-        <div class="src">↳ @gamedev：Open-sourcing our tools.</div>
-        
-        <div class="meta">
-          👍 89 · 🔁 12 · 💬 6 · 👁 8800
-           · <a href="https://x.com/jamm3rd/3" target="_blank">查看原文 ↗</a>
-        </div>
-      </div>
-      
+      <div class="empty">今日无新增内容。</div>
     
   </section>
   
   <section class="acct">
     <div class="acct-head">
       <div class="acct-name">yoojoonseok<span class="acct-handle">@_yoojoonseok</span></div>
-      <div class="counts">原创 1 · 转发 0 · 引用 0</div>
+      <div class="counts">原创 0 · 转发 0 · 引用 0</div>
     </div>
-    <div class="topic">💡 分享今日工作与团队近况（示例）</div>
+    <div class="topic">💡 今日无更新</div>
     
-      
-      <div class="item">
-        <span class="badge b-post">原创</span>
-        <span class="text">오늘 팀과 함께 좋은 진전을 이뤘습니다. 곧 공유하겠습니다.</span>
-        <div class="text-zh">🇨🇳 今天和团队取得了不错的进展，很快会分享。</div>
-        
-        <div class="meta">
-          👍 512 · 🔁 33 · 💬 40 · 👁 30000
-           · <a href="https://x.com/_yoojoonseok/4" target="_blank">查看原文 ↗</a>
-        </div>
-      </div>
-      
+      <div class="empty">今日无新增内容。</div>
     
   </section>
   
@@ -138,7 +168,7 @@
   </section>
   
 
-  <footer>自动生成 · 数据来源 TwitterAPI.io · 2026-07-23 12:35 KST</footer>
+  <footer>自动生成 · 数据来源 TwitterAPI.io · 2026-07-30 12:19 KST</footer>
 </div>
 </body>
 </html>

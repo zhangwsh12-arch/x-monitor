@@ -17,9 +17,14 @@
   header{margin-bottom:20px}
   h1{font-size:22px;font-weight:700;display:flex;align-items:center;gap:8px}
   .date{color:var(--muted);font-size:14px;margin-top:4px}
-  .nav{margin:14px 0 26px;display:flex;gap:10px;flex-wrap:wrap}
-  .nav a{font-size:13px;color:var(--accent);text-decoration:none;padding:5px 12px;
-    background:var(--card);border:1px solid var(--border);border-radius:20px}
+  .nav{margin:14px 0 26px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .nav-btn{font-size:14px;color:var(--accent);text-decoration:none;padding:6px 14px;
+    background:var(--card);border:1px solid var(--border);border-radius:8px;
+    display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+  .nav-btn.disabled{color:#c4c9cf;pointer-events:none;background:#f2f3f5}
+  .nav select{font-size:14px;color:var(--text);padding:6px 10px;border:1px solid var(--border);
+    border-radius:8px;background:var(--card);cursor:pointer;max-width:200px}
+  .nav-label{font-size:12px;color:var(--muted);margin-right:2px}
   .acct{background:var(--card);border:1px solid var(--border);border-radius:14px;
     padding:18px 20px;margin-bottom:18px;box-shadow:var(--shadow)}
   .acct-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
@@ -53,12 +58,80 @@
     <div class="date">日报 · 2026-07-28（KST）· 过去 24 小时</div>
   </header>
 
-  
   <nav class="nav">
-    <a href="daily-2026-07-30.html">2026-07-30</a><a href="daily-2026-07-29.html">2026-07-29</a><a href="daily-2026-07-27.html">2026-07-27</a><a href="daily-2026-07-26.html">2026-07-26</a><a href="daily-2026-07-25.html">2026-07-25</a><a href="daily-2026-07-24.html">2026-07-24</a>
+    <a class="nav-btn" href="daily-2026-07-27.html">← 前一天</a>
+    
+
+    <span class="nav-label">日期</span>
+    <select onchange="if(this.value)location.href='daily-'+this.value+'.html'">
+      
+      <option value="2026-07-30" >2026-07-30</option>
+      
+      <option value="2026-07-29" >2026-07-29</option>
+      
+      <option value="2026-07-28" selected>2026-07-28</option>
+      
+      <option value="2026-07-27" >2026-07-27</option>
+      
+      <option value="2026-07-26" >2026-07-26</option>
+      
+      <option value="2026-07-25" >2026-07-25</option>
+      
+      <option value="2026-07-24" >2026-07-24</option>
+      
+      <option value="2026-07-23" >2026-07-23</option>
+      
+      <option value="2026-07-22" >2026-07-22</option>
+      
+      <option value="2026-07-21" >2026-07-21</option>
+      
+      <option value="2026-07-20" >2026-07-20</option>
+      
+      <option value="2026-07-19" >2026-07-19</option>
+      
+      <option value="2026-07-18" >2026-07-18</option>
+      
+      <option value="2026-07-17" >2026-07-17</option>
+      
+      <option value="2026-07-16" >2026-07-16</option>
+      
+      <option value="2026-07-15" >2026-07-15</option>
+      
+      <option value="2026-07-14" >2026-07-14</option>
+      
+      <option value="2026-07-13" >2026-07-13</option>
+      
+      <option value="2026-07-12" >2026-07-12</option>
+      
+      <option value="2026-07-11" >2026-07-11</option>
+      
+      <option value="2026-07-10" >2026-07-10</option>
+      
+      <option value="2026-07-09" >2026-07-09</option>
+      
+      <option value="2026-07-08" >2026-07-08</option>
+      
+      <option value="2026-07-07" >2026-07-07</option>
+      
+      <option value="2026-07-06" >2026-07-06</option>
+      
+      <option value="2026-07-05" >2026-07-05</option>
+      
+      <option value="2026-07-04" >2026-07-04</option>
+      
+      <option value="2026-07-03" >2026-07-03</option>
+      
+      <option value="2026-07-02" >2026-07-02</option>
+      
+      <option value="2026-07-01" >2026-07-01</option>
+      
+    </select>
+
+    <a class="nav-btn" href="daily-2026-07-29.html">后一天 →</a>
+    
+
     
   </nav>
-  
 
   
   <section class="acct">
@@ -95,7 +168,7 @@
   </section>
   
 
-  <footer>自动生成 · 数据来源 TwitterAPI.io · 2026-07-30 11:26 KST</footer>
+  <footer>自动生成 · 数据来源 TwitterAPI.io · 2026-07-30 12:19 KST</footer>
 </div>
 </body>
 </html>
