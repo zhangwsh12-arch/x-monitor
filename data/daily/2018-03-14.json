@@ -1,0 +1,91 @@
+{
+  "date": "2018-03-14",
+  "generated_at": "2026-07-30T15:06:19.642194+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "973866915637547009",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/973866915637547009",
+          "text": "キャミの衣装光源テクスチャが欠落していました。ゲームを再実行すると正常に表示されます。申し訳ありませんでした。💦\n＃デスチャ ＃キャミ https://t.co/Z5JZmqpPCd",
+          "created_at": "Wed Mar 14 10:22:20 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 1348,
+            "retweet": 377,
+            "reply": 2,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "973799334193127425",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/973799334193127425",
+          "text": "DMMバージョンのケプリ\n\n＃デスティニーチャイルド\n＃デスチャ\n＃ステキじゃん https://t.co/9FTw2F7u7x",
+          "created_at": "Wed Mar 14 05:53:48 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 1235,
+            "retweet": 289,
+            "reply": 1,
+            "quote": 8,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "973757699602001920",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/973757699602001920",
+          "text": "ストリートファイターxデスティニーチャイルドコラボ！\n今日から春麗とキャミがデスチャにデビュー\n\n＃ストリートファイター ＃デスチャ https://t.co/Q1G69lSIk1",
+          "created_at": "Wed Mar 14 03:08:21 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 9430,
+            "retweet": 3364,
+            "reply": 10,
+            "quote": 56,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

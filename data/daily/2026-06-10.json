@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-07-30T15:06:19.829079+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2064375105283887121",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2064375105283887121",
+          "text": "The Special Illustration by Jeong Juno, my long-time mentor.✨",
+          "created_at": "Tue Jun 09 15:52:33 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 5518,
+            "retweet": 452,
+            "reply": 85,
+            "quote": 11,
+            "view": 114892
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Stellar Blade will be coming to Nintendo Switch 2 later this year💫\nStay tuned for more updates!\n\n#StellarBlade #NintendoSwitch2 https://t.co/NrrD7WypzX",
+            "url": "https://x.com/StellarBlade/status/2064362329131864358"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 3,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2064475510592380950",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2064475510592380950",
+          "text": "Which one? \n#StellarBladeBLOODRAIN #StellarBlade #SummerGameFest",
+          "created_at": "Tue Jun 09 22:31:32 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 38,
+            "retweet": 2,
+            "reply": 6,
+            "quote": 0,
+            "view": 1788
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "summergamefest",
+            "text": "What was the favorite game you saw at #SummerGameFest?",
+            "url": "https://x.com/summergamefest/status/2064426641980539040"
+          }
+        },
+        {
+          "id": "2064367090367447072",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2064367090367447072",
+          "text": "Stay tuned for more updates!\n#StellarBlade #StellarBladeNintendoSwitch2 #StellarBladeBLOODRAIN",
+          "created_at": "Tue Jun 09 15:20:43 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 518,
+            "retweet": 27,
+            "reply": 75,
+            "quote": 3,
+            "view": 17939
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Stellar Blade will be coming to Nintendo Switch 2 later this year💫\nStay tuned for more updates!\n\n#StellarBlade #NintendoSwitch2 https://t.co/NrrD7WypzX",
+            "url": "https://x.com/StellarBlade/status/2064362329131864358"
+          }
+        },
+        {
+          "id": "2064366653840994668",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2064366653840994668",
+          "text": "Hello NS2 world 👋\n#StellarBlade #NintendoDirect #StellarBladeNintendoSwitch2 #StellarBladeBLOODRAIN",
+          "created_at": "Tue Jun 09 15:18:59 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 241,
+            "retweet": 15,
+            "reply": 19,
+            "quote": 0,
+            "view": 5433
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Save humanity from extinction in this electrifying story-driven action adventure. Stellar Blade is coming to Nintendo Switch 2 in 2026!\n\n#StellarBlade #NintendoDirect\n\nhttps://t.co/cH4U5jKGl9",
+            "url": "https://x.com/StellarBlade/status/2064362381631762898"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

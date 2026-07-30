@@ -1,0 +1,75 @@
+{
+  "date": "2025-05-16",
+  "generated_at": "2026-07-30T15:06:19.752137+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1923058708050837939",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1923058708050837939",
+          "text": "『ステラブレイド』PC版、ただいま予約受付中！！6月11日発売！！\n#StellarBladePC #STEAM #Epicstore #予約購入 #25新コスチューム https://t.co/glOot45T4s",
+          "created_at": "Thu May 15 16:51:39 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 3312,
+            "retweet": 751,
+            "reply": 245,
+            "quote": 37,
+            "view": 415317
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1923193195715854359",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1923193195715854359",
+          "text": "「ステラブレイド」PC版の追加コスチュームの一部をご紹介します。その他にも、さまざまなコンテンツが追加されています🧡\n#StellarBladePC #STEAM #EpicgameStore #25新規コスチューム https://t.co/I8gravaE1b",
+          "created_at": "Fri May 16 01:46:03 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 5916,
+            "retweet": 984,
+            "reply": 87,
+            "quote": 46,
+            "view": 512288
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

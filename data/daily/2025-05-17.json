@@ -1,0 +1,59 @@
+{
+  "date": "2025-05-17",
+  "generated_at": "2026-07-30T15:06:19.753186+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1923574904391336031",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1923574904391336031",
+          "text": "『ステラブレイド』PC版の予約販売がSteamグローバルランキングで第2位を記録しております。ユーザーの皆さまに心より感謝申し上げます。私たちの想いをさらに形にできるよう、引き続きご支援いただけますと幸いです✨️\n#StellarBladePC #STEAM #Epicstore #予約購入 https://t.co/XnQj7HVmQp",
+          "created_at": "Sat May 17 03:02:50 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 2482,
+            "retweet": 376,
+            "reply": 121,
+            "quote": 17,
+            "view": 245501
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

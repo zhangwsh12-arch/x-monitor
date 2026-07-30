@@ -1,0 +1,75 @@
+{
+  "date": "2018-04-23",
+  "generated_at": "2026-07-30T15:06:19.648594+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "988276649652244480",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/988276649652244480",
+          "text": "GWはデスティニーチャイルドと一緒に！\n新チャイルド「ホルス」と「バスト」の高画質イラストを紹介します。\n＃デスチャ https://t.co/rDiKHp3med",
+          "created_at": "Mon Apr 23 04:41:29 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 1303,
+            "retweet": 544,
+            "reply": 11,
+            "quote": 28,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "988276281035841536",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/988276281035841536",
+          "text": "GWはデスティニーチャイルドと一緒に！\n新チャイルド「クレオパトラ」の高画質イラストを紹介します。\n＃デスチャ https://t.co/U1EL1TzO7k",
+          "created_at": "Mon Apr 23 04:40:01 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 3733,
+            "retweet": 991,
+            "reply": 7,
+            "quote": 15,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

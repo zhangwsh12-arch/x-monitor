@@ -1,0 +1,59 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-07-30T15:06:19.815174+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2045155082896036229",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2045155082896036229",
+          "text": "May not know it yet, but won’t hear it just once. On repeat. Obsessed with “Pretty”\n\nPretty STAR (Pretty for you) | GODDESS OF VICTORY: NIKKE OST https://t.co/5JznqgeTbx - @YouTube\n\n#NIKKE #LevelNine",
+          "created_at": "Fri Apr 17 14:59:03 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 54,
+            "retweet": 2,
+            "reply": 2,
+            "quote": 0,
+            "view": 5061
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

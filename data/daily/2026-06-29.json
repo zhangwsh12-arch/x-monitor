@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-07-30T15:06:19.833579+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2071400530476433642",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2071400530476433642",
+          "text": "Only a few days away from NIKKE AX 2026, an exciting moment awaits! Please come visit the NIKKE booth, and let’s enjoy it all together 👏\n#NIKKE #AX2026",
+          "created_at": "Mon Jun 29 01:09:05 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 61,
+            "retweet": 5,
+            "reply": 1,
+            "quote": 0,
+            "view": 3027
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【NIKKE Anime Expo 2026 – Booth & Special Guest Info】\n\nCommanders, let's give a warm welcome to our special guests!\n\nAnd don't miss Devs' Secret Mission... We're so excited for what's to come!!!\n\n📅 Event Period: July 2 ~ July 5\n📍 Booth SF5, South Hall Lobby, LA Convention Center\n\n#NIKKEAX2026\n#NIKKE",
+            "url": "https://x.com/NIKKE_en/status/2070854899185913879"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

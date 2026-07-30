@@ -1,0 +1,75 @@
+{
+  "date": "2018-06-27",
+  "generated_at": "2026-07-30T15:06:19.656932+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1011825478041100288",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1011825478041100288",
+          "text": "デスティニーチャイルド新キャラの攻撃アニメーション。 https://t.co/7nF9QsS8VL",
+          "created_at": "Wed Jun 27 04:16:07 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 5080,
+            "retweet": 1290,
+            "reply": 13,
+            "quote": 14,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1011817930714112000",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1011817930714112000",
+          "text": "今日更新される新キャラクター「自請妃」のイラストです。\n＃デスティニーチャイルド ＃デスチャ https://t.co/jBdyBYu9kK",
+          "created_at": "Wed Jun 27 03:46:08 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2357,
+            "retweet": 520,
+            "reply": 5,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

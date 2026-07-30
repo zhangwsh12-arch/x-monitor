@@ -1,0 +1,75 @@
+{
+  "date": "2017-12-29",
+  "generated_at": "2026-07-30T15:06:19.627407+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "946739337139445762",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/946739337139445762",
+          "text": "日本にきたが、作業は続く\n#デスチャ https://t.co/T6CxTy8tOa",
+          "created_at": "Fri Dec 29 13:47:02 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1842,
+            "retweet": 325,
+            "reply": 12,
+            "quote": 5,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "946618023258894336",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/946618023258894336",
+          "text": "コミケきました。デスチャグッズ販売中...しかし、購入はできないしました😭 https://t.co/P75f4okLFF",
+          "created_at": "Fri Dec 29 05:44:58 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 251,
+            "retweet": 58,
+            "reply": 3,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

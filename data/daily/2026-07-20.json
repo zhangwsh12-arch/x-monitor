@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-30T12:59:05.605412+09:00",
+  "generated_at": "2026-07-30T15:06:19.841299+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -18,25 +18,59 @@
       "handle": "_yoojoonseok",
       "name": "yoojoonseok",
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2078975828860539228",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2078975828860539228",
+          "text": "An Era Ends, A New Generation Begins.\nCongrats Spain 🇪🇸 \nThank you Messi 🇦🇷",
+          "created_at": "Sun Jul 19 22:50:37 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 5,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "view": 272
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
     },
     {
       "handle": "hsyoo___",
       "name": "hsyoo",
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2079077895931392146",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2079077895931392146",
+          "text": "함께 할 수 있어서 매우 행복했습니다.\n열정적으로 즐겨주신 지휘관 여러분 모두 진심으로 감사드립니다.\n\n#NIKKE #니케 #NIKKEBandlive #FULLBUSTLIVE https://t.co/osgvl1PQwE",
+          "created_at": "Mon Jul 20 05:36:12 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 876,
+            "retweet": 136,
+            "reply": 22,
+            "quote": 5,
+            "view": 24884
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
     }
   ]
 }

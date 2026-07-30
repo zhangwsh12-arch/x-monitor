@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-07-30T15:06:19.831975+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2067194095282581946",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2067194095282581946",
+          "text": "『명조』의 개발사 Kuro Games의 Solon과 다시 만났습니다. TGA에서 둘 다 무관에 그치며 같이 힘내자고 했던게 얼마전인데, 지금은 사랑해주시는 팬 분들이 많아져서 기쁘네요. 서로의 신작을 보며 많은 대화를 나누었고, 앞으로 Kuro에서 준비하고 있는 신작들 아주 기대하셔도 좋을 듯 합니다.\n#명조 #Solon #시프트업 #NIKKE",
+          "created_at": "Wed Jun 17 10:34:13 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 8649,
+            "retweet": 1028,
+            "reply": 123,
+            "quote": 154,
+            "view": 516469
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "2067193561867813334",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2067193561867813334",
+          "text": "『鳴潮』の開発会社、Kuro GamesのSolonさんと再びお会いしました。TGAでお互い受賞は叶わず、「これからも一緒に頑張りましょう」と話していたのが、ついこの間のことのようです。今ではたくさんのファンの皆さんに愛していただけるようになり、本当に嬉しいですね。\n今回はお互いの新作を見ながら、いろいろなお話をさせていただきました。Kuro Gamesがこれから準備している新作たちも、きっと大いに期待していただいて大丈夫だと思います。\n#鳴潮 #Solon #SHIFTUP",
+          "created_at": "Wed Jun 17 10:32:06 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 9684,
+            "retweet": 1153,
+            "reply": 145,
+            "quote": 158,
+            "view": 470496
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2025-06-15",
+  "generated_at": "2026-07-30T15:06:19.763962+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1933958262308925788",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1933958262308925788",
+          "text": "Starting my diet today.",
+          "created_at": "Sat Jun 14 18:42:35 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 5321,
+            "retweet": 216,
+            "reply": 106,
+            "quote": 9,
+            "view": 214421
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "ShiftUpWorld",
+            "text": "⚪️Technical Director and Game Director for #StellarBlade during PC launch day! ✨\n\nAlso, new hot art work in the background. 👀\n\nPhoto via @thisisgamecom 💝 https://t.co/WcNOZeWiWA",
+            "url": "https://x.com/ShiftUpWorld/status/1933789942871974179"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2024-08-20",
+  "generated_at": "2026-07-30T15:06:19.729102+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1825885033741324505",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1825885033741324505",
+          "text": "私の人生において最も影響を受けた2つの作品、攻殻機動隊の草薙 素子役、ベヨネッタ役を演じてくださった 田中敦子さんが亡くなられました。 その声は永遠に私の心に残るでしょう。 \n\n謹んでご冥福をお祈り申し上げます。",
+          "created_at": "Tue Aug 20 13:18:10 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 8530,
+            "retweet": 1519,
+            "reply": 32,
+            "quote": 23,
+            "view": 518782
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1825884109115371697",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1825884109115371697",
+          "text": "Atsuko Tanaka, who voiced Motoko Kusanagi in Ghost in the Shell and Bayonetta, two of the most influential works of my life, has passed away. Her voice will forever be in my heart. \n\nrest in peace.",
+          "created_at": "Tue Aug 20 13:14:29 +0000 2024",
+          "lang": "en",
+          "metrics": {
+            "like": 2289,
+            "retweet": 407,
+            "reply": 17,
+            "quote": 13,
+            "view": 134053
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

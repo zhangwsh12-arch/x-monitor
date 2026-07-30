@@ -1,0 +1,80 @@
+{
+  "date": "2024-10-25",
+  "generated_at": "2026-07-30T15:06:19.733862+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1849773663823986839",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1849773663823986839",
+          "text": "「胜利女神」即将与中国用户见面。 激动人心🧡\n#NIKKE胜利女神 #CHINA #Seeyousoon https://t.co/vGG36yCp56",
+          "created_at": "Fri Oct 25 11:23:03 +0000 2024",
+          "lang": "zh",
+          "metrics": {
+            "like": 2690,
+            "retweet": 464,
+            "reply": 41,
+            "quote": 23,
+            "view": 230496
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1849639996376088780",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1849639996376088780",
+          "text": "みんなの力を...俺に貸してくれ！\n#StellarBlade #PS5 #PSawards",
+          "created_at": "Fri Oct 25 02:31:54 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 1663,
+            "retweet": 406,
+            "reply": 64,
+            "quote": 23,
+            "view": 181715
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "PlayStation_jp",
+            "text": "「PlayStation® Partner Awards 2024 Japan Asia」12月3日（火）開催決定！\n本日10月24日（木）より「USERS’ CHOICE AWARD」と「PLAYSTATION GENERATIONS AWARDS」のユーザー投票を受付開始。ぜひご参加ください！\n\n詳しくはこちら⇒ https://t.co/AdvEscW2LC\n\n#PSパートナーアワード2024 https://t.co/K6fVGYhp4f",
+            "url": "https://x.com/PlayStation_jp/status/1849333465344507967"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

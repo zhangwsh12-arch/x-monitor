@@ -1,0 +1,64 @@
+{
+  "date": "2025-06-16",
+  "generated_at": "2026-07-30T15:06:19.764897+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1934594758456045633",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/1934594758456045633",
+          "text": "Heartfelt gratitude to everyone who has supported the journey of Stellar Blade. We’ve come to deeply appreciate how meaningful, important, and exciting it is to create a great game and deliver it to players in the best way possible. Sincerely thank our Team, Partners, and Players",
+          "created_at": "Mon Jun 16 12:51:48 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 4,
+            "retweet": 2,
+            "reply": 0,
+            "quote": 0,
+            "view": 685
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "いつも応援してくださり、心より感謝申し上げます。\n 『NIKKE』と『ステラーブレイド』、どちらも引き続きよろしくお願いいたします！\n#ステラーブレイド #300万本突破 #ニケ #深く感謝 https://t.co/M0N1iiZkAM",
+            "url": "https://x.com/StellarBlade/status/1934563105302097943"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

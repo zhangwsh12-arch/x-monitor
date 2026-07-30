@@ -1,0 +1,59 @@
+{
+  "date": "2017-12-05",
+  "generated_at": "2026-07-30T15:06:19.620964+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "937933069931204608",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/937933069931204608",
+          "text": "「The War of GENESIS III」キャラクターリメイク中 https://t.co/TUTxP14rC2",
+          "created_at": "Tue Dec 05 06:34:04 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1247,
+            "retweet": 201,
+            "reply": 10,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

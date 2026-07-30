@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-10",
+  "generated_at": "2026-07-30T15:06:19.760780+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 4,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1932409286417854946",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1932409286417854946",
+          "text": "Yosihida님과 Yoko님, 그리고 Saito님, 영상에 출연해주셔서 진심으로 감사 드립니다! 함께 이야기 나눌 수 있어서 큰 영광이었습니다. 제가 나올때면 민망해서 잘 못보겠지만요...ㅠ ㅠ\n#StellarBlade #NIKKE #NieR\nhttps://t.co/hhmVvWsdYs https://t.co/z7ARcvem51",
+          "created_at": "Tue Jun 10 12:07:30 +0000 2025",
+          "lang": "ko",
+          "metrics": {
+            "like": 265,
+            "retweet": 25,
+            "reply": 6,
+            "quote": 1,
+            "view": 71673
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1932407784420815165",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1932407784420815165",
+          "text": "yoshiP様、Yoko様、そしてSaito様とご一緒した時間はとても楽しかったです。一緒にお話しできたことを光栄に思います。自分が映っているときは恥ずかしくてあまり見られないのですが…☺️\n#StellarBlade #NIKKE #NieR\nhttps://t.co/paUtuJ5mjh https://t.co/1wZ7fRQQed",
+          "created_at": "Tue Jun 10 12:01:32 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 1148,
+            "retweet": 150,
+            "reply": 7,
+            "quote": 1,
+            "view": 164708
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1932407689633784065",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1932407689633784065",
+          "text": "Such a fun time with YosiP, Yoko, and Saito! Thrilled to chat with you all. But man, I get so embarrassed watching myself on screen... ☺️\n#StellarBlade #NIKKE #NieR\nhttps://t.co/aM54er4Qtv https://t.co/PIa4mpsBOW",
+          "created_at": "Tue Jun 10 12:01:10 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 3174,
+            "retweet": 230,
+            "reply": 25,
+            "quote": 9,
+            "view": 178592
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1932316876035567821",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1932316876035567821",
+          "text": "『 ステラーブレイド』が日本のSteamで人気ランキング第1位を達成しました！ご支持いただいた日本のプレイヤーの皆さまに心より感謝申し上げます！！ コンプリートエディションをご購入いただいた方は、「紅蓮」スキンもぜひお受け取りください💕\n#StellarBlade #ステラーブレイド #STEAM #6月12日",
+          "created_at": "Tue Jun 10 06:00:18 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 4351,
+            "retweet": 791,
+            "reply": 63,
+            "quote": 40,
+            "view": 346827
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

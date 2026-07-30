@@ -1,0 +1,75 @@
+{
+  "date": "2017-09-20",
+  "generated_at": "2026-07-30T15:06:19.595811+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "910474284530728960",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/910474284530728960",
+          "text": "サキュバス3人と一緒に。\n#デスチャ #東京ゲームショウ https://t.co/fo1hIWKhor",
+          "created_at": "Wed Sep 20 12:02:39 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 174,
+            "retweet": 54,
+            "reply": 2,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "910466195685490688",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/910466195685490688",
+          "text": "今幕張メッセは戦争中♨️ https://t.co/ibIRUy2nCt",
+          "created_at": "Wed Sep 20 11:30:31 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 117,
+            "retweet": 41,
+            "reply": 3,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

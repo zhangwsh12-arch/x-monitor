@@ -1,0 +1,59 @@
+{
+  "date": "2025-12-15",
+  "generated_at": "2026-07-30T15:06:19.790878+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2000524471304704398",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2000524471304704398",
+          "text": "#NIKKE https://t.co/gTWwwHilkA",
+          "created_at": "Mon Dec 15 11:12:56 +0000 2025",
+          "lang": "qme",
+          "metrics": {
+            "like": 1102,
+            "retweet": 88,
+            "reply": 15,
+            "quote": 6,
+            "view": 40669
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

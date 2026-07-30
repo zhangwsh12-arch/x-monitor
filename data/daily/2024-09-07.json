@@ -1,0 +1,59 @@
+{
+  "date": "2024-09-07",
+  "generated_at": "2026-07-30T15:06:19.730489+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1832147019747750391",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1832147019747750391",
+          "text": "最初のイブのデザイン、2020年に描いた絵です。\nThe 「First EVE」 design, drawn in 2020.🩷\n#StellarBlade #PS5 #EVE",
+          "created_at": "Fri Sep 06 20:01:03 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 6540,
+            "retweet": 833,
+            "reply": 58,
+            "quote": 24,
+            "view": 406777
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

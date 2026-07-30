@@ -1,0 +1,75 @@
+{
+  "date": "2017-11-27",
+  "generated_at": "2026-07-30T15:06:19.617498+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "935070747914940416",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/935070747914940416",
+          "text": "コンビニとあれこれコラボをしたかったが、このような主人公では無理だろう...\n＃デスチャ https://t.co/Yqql8O5efl",
+          "created_at": "Mon Nov 27 09:00:13 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 765,
+            "retweet": 217,
+            "reply": 5,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "934985321996886016",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/934985321996886016",
+          "text": "100万ダウンロード、本当にありがとうございます。\n私は今まで描いたすべてのゲームのイラストよりも多くのイラストをこのデスチャ を通じて披露しようと思います。これからも。本気を込めて描いていきます。\n\n#デスティニーチャイルド\n#デスチャ https://t.co/NjWG0P7s2I",
+          "created_at": "Mon Nov 27 03:20:46 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 2180,
+            "retweet": 715,
+            "reply": 13,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

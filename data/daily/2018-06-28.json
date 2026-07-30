@@ -1,0 +1,59 @@
+{
+  "date": "2018-06-28",
+  "generated_at": "2026-07-30T15:06:19.657652+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1012159782478741504",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1012159782478741504",
+          "text": "今回のアップデートの重要キャラクター「バリ」の最終ボスのイメージです。イラストは、「血羅」様。\n＃デスティニーチャイルド ＃デスチャ https://t.co/86d4QJREr0",
+          "created_at": "Thu Jun 28 02:24:31 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2057,
+            "retweet": 466,
+            "reply": 6,
+            "quote": 12,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

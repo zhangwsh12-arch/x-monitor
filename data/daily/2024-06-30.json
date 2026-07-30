@@ -1,0 +1,81 @@
+{
+  "date": "2024-06-30",
+  "generated_at": "2026-07-30T15:06:19.725425+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1807397924047085707",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1807397924047085707",
+          "text": "だ....誰ですか？",
+          "created_at": "Sun Jun 30 12:56:59 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 864,
+            "retweet": 116,
+            "reply": 24,
+            "quote": 13,
+            "view": 202208
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "hsyoo___",
+            "text": "SHIFT UP\nTHIRD NIKKE STUDIO\n\n #니케 #NIKKE #ニケ #メガニケ https://t.co/vjRtZxu4ma",
+            "url": "https://x.com/hsyoo___/status/1807271066655658281"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1807271066655658281",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1807271066655658281",
+          "text": "SHIFT UP\nTHIRD NIKKE STUDIO\n\n #니케 #NIKKE #ニケ #メガニケ https://t.co/vjRtZxu4ma",
+          "created_at": "Sun Jun 30 04:32:54 +0000 2024",
+          "lang": "en",
+          "metrics": {
+            "like": 3103,
+            "retweet": 265,
+            "reply": 62,
+            "quote": 35,
+            "view": 471220
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

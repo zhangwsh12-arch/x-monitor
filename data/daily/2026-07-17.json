@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-30T12:59:05.606117+09:00",
+  "generated_at": "2026-07-30T15:06:19.839514+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -18,13 +18,30 @@
       "handle": "_yoojoonseok",
       "name": "yoojoonseok",
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2077962662542201235",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2077962662542201235",
+          "text": "The NIKKE Summer Pop-up is now open! We have lots of amazing summer-themed merchandise ready for you, be sure to stop by!\n\n🗓️ 7/17(Fri) ~ 7/30(Thu)\n📍 The Hyundai Seoul, B1F\n🗺️ https://t.co/YVYX2IFiRc\n\n#NIKKE #NIKKEMerch #NIKKESummer #NIKKEPopup https://t.co/mZxytn8zBE",
+          "created_at": "Fri Jul 17 03:44:40 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 346,
+            "retweet": 51,
+            "reply": 1,
+            "quote": 6,
+            "view": 14698
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
     },
     {
       "handle": "hsyoo___",

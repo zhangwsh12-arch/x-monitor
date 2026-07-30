@@ -1,0 +1,86 @@
+{
+  "date": "2025-12-31",
+  "generated_at": "2026-07-30T15:06:19.792867+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2006345777640358030",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2006345777640358030",
+          "text": "羨ましくないと言えば嘘になる…。#NIKKE",
+          "created_at": "Wed Dec 31 12:44:44 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 2532,
+            "retweet": 165,
+            "reply": 11,
+            "quote": 5,
+            "view": 228142
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "cosplay_110",
+            "text": "コミケ2日目お疲れ様でした！\nRYUさんのブースでお手伝い＆NIKKEブースで登壇させていただきました🐰\n\nお写真や動画がありましたらDMで送っていただけたら嬉しいです！カメラでもスマホでも✨\n\n⇩ヒョンソク氏とおねえちゃんと一緒♡ https://t.co/nthsy6ItG6",
+            "url": "https://x.com/cosplay_110/status/2006308020599595447"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2006345769868308747",
+          "kind": "quote",
+          "url": "https://x.com/hsyoo___/status/2006345769868308747",
+          "text": "また次回、改めて伺います。\n皆さま、どうぞ良いお年をお迎えください。\n\nHappy New Year to all Commanders!\n\n지휘관 여러분 모두 새해 복 많이 받으시고 건강한 한 해 되시길 바랍니다!\n\n#NIKKE #NIKKE2026新年 #NIKKE2026NewYear #니케 #ニケ",
+          "created_at": "Wed Dec 31 12:44:42 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 867,
+            "retweet": 169,
+            "reply": 14,
+            "quote": 2,
+            "view": 49902
+          },
+          "author_handle": "hsyoo___",
+          "source_tweet": {
+            "handle": "Emiya1173",
+            "text": "DOROになったヒョンソク氏\n#NIKKE冬2025　#NIKKEコミケ107\n#FeedSnowWhite https://t.co/h8Tm9NmkRO",
+            "url": "https://x.com/Emiya1173/status/2006332481746944354"
+          }
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

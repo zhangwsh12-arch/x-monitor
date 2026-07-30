@@ -1,0 +1,107 @@
+{
+  "date": "2017-12-28",
+  "generated_at": "2026-07-30T15:06:19.626647+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 4,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "946111892044443648",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/946111892044443648",
+          "text": "メンテナンス終了。オープンしました！\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/fgH8NtbJ3Y",
+          "created_at": "Wed Dec 27 20:13:47 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 554,
+            "retweet": 124,
+            "reply": 4,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "946264733920894976",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/946264733920894976",
+          "text": "昨日デスチャのレイド,シーズン0が終了しました。ご参加いただいた皆様に心より感謝申し上げます。\n初めての試みで、行き届かない点も恥ずかしいほどたくさんありました。\nしかし、諦めずに改善していきますので、ぜひ皆様のご意見を聞かせてください。\nそして今後とも応援よろしくお願いします！",
+          "created_at": "Thu Dec 28 06:21:07 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 88,
+            "retweet": 19,
+            "reply": 2,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "946263380301455360",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/946263380301455360",
+          "text": "「守護神コウガ」と「グルーミーモア」のイラストです。\n＃デスティニーチャイルド\n＃デスチャ https://t.co/0bxpxIGx4F",
+          "created_at": "Thu Dec 28 06:15:45 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 933,
+            "retweet": 263,
+            "reply": 3,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "946263038365011968",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/946263038365011968",
+          "text": "新しい「コウガ」のLive2Dイメージです。 \n＃デスティニーチャイルド\n#デスチャ https://t.co/Xj0PmZvnwM",
+          "created_at": "Thu Dec 28 06:14:23 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 278,
+            "retweet": 98,
+            "reply": 0,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2025-05-02",
+  "generated_at": "2026-07-30T15:06:19.750151+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1918217444839342274",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1918217444839342274",
+          "text": "건대 커먼그라운드에서 'NIKKE 2.5주년 리틀 머메이드' 오프라인 이벤트가 진행 중입니다! 4일 까지 진행되니 부담없이 들려주세요💙\n#NIKKE  #NIKKEAnniversary",
+          "created_at": "Fri May 02 08:14:12 +0000 2025",
+          "lang": "ko",
+          "metrics": {
+            "like": 1723,
+            "retweet": 297,
+            "reply": 21,
+            "quote": 14,
+            "view": 125270
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

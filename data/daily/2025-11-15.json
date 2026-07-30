@@ -1,0 +1,59 @@
+{
+  "date": "2025-11-15",
+  "generated_at": "2026-07-30T15:06:19.786950+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1989656979816821008",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1989656979816821008",
+          "text": "공식은 아니지만 NIKKE 솔로레이드 대회 NCK 재밌습니다.\n\nhttps://t.co/Q5Ase9SXiX\n\n#니케 #NIKKE",
+          "created_at": "Sat Nov 15 11:29:24 +0000 2025",
+          "lang": "ko",
+          "metrics": {
+            "like": 196,
+            "retweet": 33,
+            "reply": 9,
+            "quote": 1,
+            "view": 26393
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

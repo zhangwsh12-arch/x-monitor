@@ -1,0 +1,59 @@
+{
+  "date": "2025-11-16",
+  "generated_at": "2026-07-30T15:06:19.787812+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1989988392650862721",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1989988392650862721",
+          "text": "https://t.co/f50Xl2I1tS",
+          "created_at": "Sun Nov 16 09:26:19 +0000 2025",
+          "lang": "zxx",
+          "metrics": {
+            "like": 633,
+            "retweet": 86,
+            "reply": 19,
+            "quote": 44,
+            "view": 80535
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

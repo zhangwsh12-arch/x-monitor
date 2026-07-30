@@ -1,0 +1,75 @@
+{
+  "date": "2018-07-28",
+  "generated_at": "2026-07-30T15:06:19.661242+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1023081058391052288",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1023081058391052288",
+          "text": "水着特集その第二に、ダービーです！\n＃デスティニーチャイルド ＃デスチャ https://t.co/7KEcklvHBR",
+          "created_at": "Sat Jul 28 05:41:46 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2905,
+            "retweet": 675,
+            "reply": 9,
+            "quote": 12,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1023080868204634112",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1023080868204634112",
+          "text": "水着特集その最初に、モナです。\n＃デスティニーチャイルド ＃デスチャ https://t.co/iGU4umzzed",
+          "created_at": "Sat Jul 28 05:41:01 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2503,
+            "retweet": 614,
+            "reply": 10,
+            "quote": 35,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

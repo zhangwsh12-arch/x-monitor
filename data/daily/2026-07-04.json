@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-30T12:59:05.609920+09:00",
+  "generated_at": "2026-07-30T15:06:19.835851+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -18,13 +18,46 @@
       "handle": "_yoojoonseok",
       "name": "yoojoonseok",
       "counts": {
-        "post": 0,
+        "post": 2,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2073180561041129696",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2073180561041129696",
+          "text": "Found Eve at AX2026\n#StellarBlade #Eve",
+          "created_at": "Fri Jul 03 23:02:18 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 60,
+            "retweet": 8,
+            "reply": 2,
+            "quote": 0,
+            "view": 1701
+          },
+          "author_handle": "_yoojoonseok"
+        },
+        {
+          "id": "2073179191311573390",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2073179191311573390",
+          "text": "AX2026 Day 2. It seems even more fans have visited than last year. Always get great energy from here, awesome! There are more exciting events planned for Day 3 tomorrow, please be sure to stop by at 3 p.m. 🙌\n#NIKKE #NIKKEAX2026",
+          "created_at": "Fri Jul 03 22:56:51 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 248,
+            "retweet": 22,
+            "reply": 2,
+            "quote": 0,
+            "view": 9636
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
     },
     {
       "handle": "hsyoo___",

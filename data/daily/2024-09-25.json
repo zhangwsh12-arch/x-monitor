@@ -1,0 +1,85 @@
+{
+  "date": "2024-09-25",
+  "generated_at": "2026-07-30T15:06:19.731193+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 2,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1838867049549832594",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1838867049549832594",
+          "text": "Yoko様 改めまして、ありがとうございました。お忙しい時期が過ぎたらまたお会いしましょうね。 それにしても、いつまでもお忙しいようですね....。😂",
+          "created_at": "Wed Sep 25 09:04:03 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 540,
+            "retweet": 91,
+            "reply": 5,
+            "quote": 1,
+            "view": 67705
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "yokotaro",
+            "text": "ステラブレードさんにコラボで衣装とか出していただきました……！",
+            "url": "https://x.com/yokotaro/status/1838758991641612697"
+          }
+        },
+        {
+          "id": "1838858409787167140",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1838858409787167140",
+          "text": "Yoko様、齊藤様、そしてスクウェア・エニックス様のご協力のおかげで無事に進めることができました。ありがとうございました、ご期待ください！\n#StellarBlade ❤️#NieR #PS5",
+          "created_at": "Wed Sep 25 08:29:43 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 1097,
+            "retweet": 226,
+            "reply": 20,
+            "quote": 2,
+            "view": 111006
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "SaitoYosuke_Z",
+            "text": "かなり前にキム・ヒョンテさんからアツイｗラブコールがありましたが、何とかこのタイミングで発表できてよかったです！",
+            "url": "https://x.com/SaitoYosuke_Z/status/1838759240661635222"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

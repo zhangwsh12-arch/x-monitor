@@ -1,0 +1,91 @@
+{
+  "date": "2018-05-28",
+  "generated_at": "2026-07-30T15:06:19.654094+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1000980103780749312",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1000980103780749312",
+          "text": "新システム「ソウルカルタ」実機映像。#デスチャ https://t.co/jVNrfuiZ6c",
+          "created_at": "Mon May 28 06:00:28 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 543,
+            "retweet": 210,
+            "reply": 8,
+            "quote": 5,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1000964473966870528",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1000964473966870528",
+          "text": "「ニュービーモナ」の隠された物語とイラスト制作過程が盛られたページもオープンしました。見てください！https://t.co/XoMFLTwDgd\n＃デスチャ https://t.co/IOaBu9ibgM",
+          "created_at": "Mon May 28 04:58:22 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 777,
+            "retweet": 188,
+            "reply": 0,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1000947606724395008",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1000947606724395008",
+          "text": "二ュービモナのイラストです。\n＃デスティニーチャイルド ＃デスチャ https://t.co/o0nnwochox",
+          "created_at": "Mon May 28 03:51:20 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2134,
+            "retweet": 503,
+            "reply": 6,
+            "quote": 17,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

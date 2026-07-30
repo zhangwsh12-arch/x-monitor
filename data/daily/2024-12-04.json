@@ -1,0 +1,64 @@
+{
+  "date": "2024-12-04",
+  "generated_at": "2026-07-30T15:06:19.740057+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1864266444550361113",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1864266444550361113",
+          "text": "ありがとうございました！次回はNieR次作と一緒に受賞したいです😎",
+          "created_at": "Wed Dec 04 11:12:11 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 830,
+            "retweet": 80,
+            "reply": 7,
+            "quote": 2,
+            "view": 53617
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "yokotaro",
+            "text": "Congratulations!\n＼（◎血◎）／",
+            "url": "https://x.com/yokotaro/status/1863953354390663454"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

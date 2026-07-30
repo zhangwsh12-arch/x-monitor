@@ -1,0 +1,91 @@
+{
+  "date": "2018-12-07",
+  "generated_at": "2026-07-30T15:06:19.675767+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1070724724282449920",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1070724724282449920",
+          "text": "The English version of DESTINY CHILD is finally out! Over 150 illustrations created with 5 years' worth of hard work are now revealed in the game. Hope you come check them out! https://t.co/3WtrURDnQA https://t.co/StAsaQwGnN",
+          "created_at": "Thu Dec 06 17:00:42 +0000 2018",
+          "lang": "en",
+          "metrics": {
+            "like": 926,
+            "retweet": 270,
+            "reply": 21,
+            "quote": 18,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1070891076758601728",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1070891076758601728",
+          "text": "台灣版本的《命運之子 DESTINY CHILD》終於上線了，您可以在APP STORE和Google Play商店中下載並立即遊玩！請來和這些利用Live2D所提升的華麗Child相遇吧！\n\n現在遊戲內展示了超過150個經過5年努力工作而完成的精美插圖，希望您能進入遊戲欣賞，我將不勝感激！ https://t.co/ZCpVHEfJOS https://t.co/ed5t164qlV",
+          "created_at": "Fri Dec 07 04:01:43 +0000 2018",
+          "lang": "zh",
+          "metrics": {
+            "like": 301,
+            "retweet": 55,
+            "reply": 1,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1070889919453683713",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1070889919453683713",
+          "text": "ในที่สุด Destiny Child เวอร์ชั่นไทยก็เปิดแล้ว! พบกับตัวละครมากมายกว่า 150 ตัวที่ใช้เวลาในการออกแบบมากกว่า 5 ปีภายในเกม! หวังว่าเพื่อนๆทุกคนจะชื่นชอบกับดีไซน์ตัวละครนะ! https://t.co/ZCpVHEfJOS https://t.co/FvgYHEtUZ3",
+          "created_at": "Fri Dec 07 03:57:07 +0000 2018",
+          "lang": "th",
+          "metrics": {
+            "like": 147,
+            "retweet": 33,
+            "reply": 1,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

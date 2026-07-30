@@ -1,0 +1,64 @@
+{
+  "date": "2025-11-24",
+  "generated_at": "2026-07-30T15:06:19.789375+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1992879165687939520",
+          "kind": "quote",
+          "url": "https://x.com/hsyoo___/status/1992879165687939520",
+          "text": "面白いですね\n\n#NIKKE",
+          "created_at": "Mon Nov 24 08:53:13 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 368,
+            "retweet": 44,
+            "reply": 5,
+            "quote": 0,
+            "view": 45247
+          },
+          "author_handle": "hsyoo___",
+          "source_tweet": {
+            "handle": "valneco1",
+            "text": "@SavaNIKKE さん主催のサバゲー行ってきました〜\n\nNIKKEと一緒に装甲車両乗ったりラプチャーの気持ち体験できたり、、\n今までのサバゲーとは全く違うゲームでとても楽しかったです(･ω･)ﾉｼ\n\n#サバニケ\n#ニケサバゲー\n#桜さんに撃たれたい\n@_nukaduki \n@lazulinescent https://t.co/Wk3PfyXQUc",
+            "url": "https://x.com/valneco1/status/1992852158581231767"
+          }
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

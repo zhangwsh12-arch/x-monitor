@@ -1,4 +1,32 @@
 {
-  "generated_at": "2026-07-30T13:06:17.513056+09:00",
-  "records": []
+  "generated_at": "2026-07-30T15:06:19.578352+09:00",
+  "records": [
+    {
+      "handle": "jamm3rd",
+      "tweets_len": 20,
+      "has_next_page": true
+    },
+    {
+      "handle": "jamm3rd",
+      "_summary": "翻了19页, 共358条"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "tweets_len": 20,
+      "has_next_page": true
+    },
+    {
+      "handle": "_yoojoonseok",
+      "_summary": "翻了5页, 共66条"
+    },
+    {
+      "handle": "hsyoo___",
+      "tweets_len": 20,
+      "has_next_page": true
+    },
+    {
+      "handle": "hsyoo___",
+      "_summary": "翻了3页, 共38条"
+    }
+  ]
 }

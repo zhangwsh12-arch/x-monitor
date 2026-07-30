@@ -1,0 +1,75 @@
+{
+  "date": "2019-04-05",
+  "generated_at": "2026-07-30T15:06:19.679300+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1114146899727020032",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1114146899727020032",
+          "text": "私作っているシフトアップの次期作「プロジェクトイヴ」のティーザー映像です。公式ページで4K60fpsに日本語字幕で見ることができます。\nhttps://t.co/uVqdgb3COU https://t.co/jLWNjbFqVn",
+          "created_at": "Fri Apr 05 12:44:55 +0000 2019",
+          "lang": "ja",
+          "metrics": {
+            "like": 3400,
+            "retweet": 1120,
+            "reply": 16,
+            "quote": 18,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1114144105519407104",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1114144105519407104",
+          "text": "私作っているシフトアップの次のゲーム「プロジェクトイヴ」のスクリーンショットです。\nhttps://t.co/uVqdgb3COU https://t.co/oh938OXe9q",
+          "created_at": "Fri Apr 05 12:33:49 +0000 2019",
+          "lang": "ja",
+          "metrics": {
+            "like": 9899,
+            "retweet": 2645,
+            "reply": 43,
+            "quote": 79,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2022-08-16",
+  "generated_at": "2026-07-30T15:06:19.689116+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1559521363152744448",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1559521363152744448",
+          "text": "スチームパンク自動販売機\n#midjourney https://t.co/hbLGWxbTEQ",
+          "created_at": "Tue Aug 16 12:44:02 +0000 2022",
+          "lang": "ja",
+          "metrics": {
+            "like": 872,
+            "retweet": 114,
+            "reply": 0,
+            "quote": 4,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1559443504673468416",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1559443504673468416",
+          "text": "習作ホルムアルテード·ミク\n#midjourny https://t.co/0mBLFtiYZj",
+          "created_at": "Tue Aug 16 07:34:39 +0000 2022",
+          "lang": "ja",
+          "metrics": {
+            "like": 340,
+            "retweet": 32,
+            "reply": 0,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1559442771152609280",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1559442771152609280",
+          "text": "習作スチームパンクミク\n#Midjourney https://t.co/FZ89KwIsk4",
+          "created_at": "Tue Aug 16 07:31:44 +0000 2022",
+          "lang": "ja",
+          "metrics": {
+            "like": 542,
+            "retweet": 70,
+            "reply": 2,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

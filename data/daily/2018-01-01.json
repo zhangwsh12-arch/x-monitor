@@ -1,0 +1,59 @@
+{
+  "date": "2018-01-01",
+  "generated_at": "2026-07-30T15:06:19.628777+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "947483889441816578",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/947483889441816578",
+          "text": "もしかしたら照明も点灯しないかで待ったが何もない...しかし、みんな新年あけましておめでとうございます！ https://t.co/36sTiAddFJ",
+          "created_at": "Sun Dec 31 15:05:37 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 170,
+            "retweet": 12,
+            "reply": 7,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2025-07-19",
+  "generated_at": "2026-07-30T15:06:19.771078+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1946577824904851659",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1946577824904851659",
+          "text": "Hello, this is Hyung-Tae Kim, Director of Stellar Blade.\n\nThe official Stellar Blade account has been compromised, and unauthorized posts containing cryptocurrency airdrops and suspicious signup promotions are currently being uploaded.\n\nWe kindly ask everyone to refrain from engaging with any of these posts and to remain cautious. We are currently in active discussions regarding the recovery of the hacked account, and we sincerely ask for your patience and understanding during this process.\n\nThank you.\n\nHyung-Tae Kim\n#StellarBlade #ScamAlert #CryptoScam #StaySafe",
+          "created_at": "Sat Jul 19 14:28:13 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 3884,
+            "retweet": 737,
+            "reply": 145,
+            "quote": 43,
+            "view": 235843
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2018-06-14",
+  "generated_at": "2026-07-30T15:06:19.654817+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1007186857388433408",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1007186857388433408",
+          "text": "今日追加されるソウルカルタ2種のイラストです。\n＃デスチャ ＃デスティニーチャイルド ＃カード https://t.co/UsA9iZJdhX",
+          "created_at": "Thu Jun 14 09:03:54 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 865,
+            "retweet": 199,
+            "reply": 1,
+            "quote": 4,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1007139649297395713",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1007139649297395713",
+          "text": "今日の新キャラクター,「ルナ」のイラストです。私の妻であるKKUEM(クエム)が描きました。\n＃デスチャ ＃デスティニーチャイルド ＃ワールドボス https://t.co/XsVNIT42T5",
+          "created_at": "Thu Jun 14 05:56:18 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 3410,
+            "retweet": 811,
+            "reply": 7,
+            "quote": 7,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2025-06-12",
+  "generated_at": "2026-07-30T15:06:19.762810+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1933141808663437639",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1933141808663437639",
+          "text": "皆さまのおかげで、ここまで来ることができました。Steamグローバル売上トップセラーに入ることができたのも、応援してくださったユーザーの皆さまのお力添えによるものです。心より感謝申し上げます。\n#ステラーブレイド #StellarBlade #Steam #TopSeller https://t.co/dbv2CWRJlu",
+          "created_at": "Thu Jun 12 12:38:17 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 5464,
+            "retweet": 756,
+            "reply": 159,
+            "quote": 25,
+            "view": 360651
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

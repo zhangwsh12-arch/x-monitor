@@ -1,0 +1,59 @@
+{
+  "date": "2017-11-20",
+  "generated_at": "2026-07-30T15:06:19.611759+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "932557032103624704",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/932557032103624704",
+          "text": "今日の昼渋谷からCM開始しました！ 4日残りましたね。本当にドキドキ...\n#デスチャ https://t.co/ecKizBQPLP",
+          "created_at": "Mon Nov 20 10:31:37 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 196,
+            "retweet": 75,
+            "reply": 3,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-07-30T15:06:19.827564+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2063703173823664623",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063703173823664623",
+          "text": "Let your imagination run wild 👀\n#StellarBladeBLOODRAIN #StellarBlade",
+          "created_at": "Sun Jun 07 19:22:33 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 330,
+            "retweet": 18,
+            "reply": 16,
+            "quote": 0,
+            "view": 7793
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "The question on everyones lips after the trailer... who is he? 🤔\n\n#StellarBladeBLOODRAIN #StellarBlade https://t.co/voWYjYt6dh",
+            "url": "https://x.com/StellarBlade/status/2063682404183679473"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

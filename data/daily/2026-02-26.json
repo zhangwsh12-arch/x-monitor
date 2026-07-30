@@ -1,0 +1,75 @@
+{
+  "date": "2026-02-26",
+  "generated_at": "2026-07-30T15:06:19.798233+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2027034590788059566",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2027034590788059566",
+          "text": "⚠️先日、Blue Blockerの誤作動により、フォロワー様数名が誤ってブロックされてしまう事態が発生いたしました。私は、自分のアートの方向性についての好き嫌いを理由にどなたかをブロックすることはありません。もしブロックされている方がいらっしゃいましたら、お手数ですがお知らせいただけますと幸いです。ご心配をおかけし、深くお詫び申し上げます。",
+          "created_at": "Thu Feb 26 14:54:41 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 461,
+            "retweet": 92,
+            "reply": 48,
+            "quote": 74,
+            "view": 212661
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "2027034033780408519",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2027034033780408519",
+          "text": "⚠️Recently, an error with \"Blue Blocker\" caused some of my followers to be accidentally blocked. I want to clarify that I never block anyone based on their personal opinion of my artistic direction. If you find that you have been blocked, please let me know so I can resolve it. I sincerely apologize for any concern this may have caused.",
+          "created_at": "Thu Feb 26 14:52:28 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 541,
+            "retweet": 62,
+            "reply": 84,
+            "quote": 66,
+            "view": 362234
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

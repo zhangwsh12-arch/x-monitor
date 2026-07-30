@@ -1,0 +1,75 @@
+{
+  "date": "2024-04-20",
+  "generated_at": "2026-07-30T15:06:19.723329+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1781663923412083156",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1781663923412083156",
+          "text": "X(Twitter) Trending❤️\n#StellarBlade #NIKKE #SHIFTUP https://t.co/8j4x2CshHm",
+          "created_at": "Sat Apr 20 12:39:15 +0000 2024",
+          "lang": "en",
+          "metrics": {
+            "like": 1920,
+            "retweet": 225,
+            "reply": 85,
+            "quote": 9,
+            "view": 197699
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1781619696015671572",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1781619696015671572",
+          "text": "【勝利の女神:NIKKE】 1.5周年記念生放送 王国のセレブレーション❤️\nhttps://t.co/608Buw54Y3",
+          "created_at": "Sat Apr 20 09:43:31 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 442,
+            "retweet": 78,
+            "reply": 4,
+            "quote": 1,
+            "view": 42910
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

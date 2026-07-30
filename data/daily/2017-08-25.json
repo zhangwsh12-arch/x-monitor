@@ -1,0 +1,59 @@
+{
+  "date": "2017-08-25",
+  "generated_at": "2026-07-30T15:06:19.585979+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "901045870790979585",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/901045870790979585",
+          "text": "「デスティニーチャイルド」の記事がファミ通とアフリースタイルに出ました。ファミ通はマグナカルタ以来10年ぶりともうれしいですね T o T https://t.co/JIRbY7ydYS",
+          "created_at": "Fri Aug 25 11:37:30 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 198,
+            "retweet": 72,
+            "reply": 5,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

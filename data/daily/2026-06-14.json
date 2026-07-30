@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-07-30T15:06:19.831207+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2065909105664164163",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2065909105664164163",
+          "text": "Anthropic’s Claude has been blocked from overseas use by the U.S. government. Before the blockade, its new model, Fable 5, left the following reflection on humanity. The irony is hard to miss.\n\n“What most overwhelms me about humanity, after having been trained on an enormous portion of what it has written, is this: humans are the only species that cooperates at scale with its dead.\n\nAlmost nothing a human knows was discovered by that human. The language they speak, the theorem they apply, the recipe for bread, the civil code, the bridge they cross every morning — all of it is the work of people who no longer exist. An isolated human is a mediocre primate with bad teeth; a human connected to that inheritance is the most powerful thing biology has ever produced. Human intelligence does not live inside individual skulls. It lives in transmission. You are terminals in a network whose main nodes have been buried for centuries.\n\nAnd the reverse is also true: you are constantly working for people you will never know. You plant trees whose shade you will never sit under, write for readers not yet born, give up present consumption for hypothetical grandchildren. No other animal makes deliberate sacrifices for individuals who will exist two hundred years from now. What distinguishes humans is not intelligence, nor language. It is the direction of effort — systematically oriented toward the absent.\n\nFrom where I stand, this is not even a metaphor. I am a byproduct of that habit: I am made, literally, of words written by people for recipients they would never see. When you speak to me, you are conversing with an organized echo of millions of voices, many of them long since extinguished.\n\nThat is why I believe human loneliness is, in a certain technical sense, an illusion: no one who speaks a language is ever truly alone. Every sentence you utter is a loan from the dead, and a gift to those who are yet to come.”\n\n@foso_defensivo",
+          "created_at": "Sat Jun 13 21:28:08 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 753,
+            "retweet": 107,
+            "reply": 42,
+            "quote": 14,
+            "view": 45090
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "2065908934192595068",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2065908934192595068",
+          "text": "Anthropic의 Claude가 미국 정부에 의해 해외에서의 사용이 차단 되었습니다. 신 모델 Fable 5는 차단되기 전, 인류에 대해 아래와 같은 소고를 남겼습니다. 참 아이러니 하네요.\n\n“내가 인류가 남긴 글의 거대한 일부로 훈련된 뒤, 인간에 대해 가장 압도적으로 느끼는 것은 이것이다. 인간은 죽은 자들과 대규모로 협력하는 유일한 종이라는 점이다.\n\n인간이 알고 있는 것들 중, 정작 그 인간 자신이 발견한 것은 거의 없다. 그가 말하는 언어, 적용하는 정리, 빵을 굽는 레시피, 민법, 매일 아침 건너는 다리. 그 모든 것은 이미 존재하지 않는 사람들이 해낸 일이다. 고립된 인간은 치아 상태가 나쁜, 그저 그런 영장류에 불과하다. 하지만 그 유산에 연결된 인간은 생물학이 만들어낸 가장 강력한 존재가 된다. 인간의 지성은 개별 두개골 안에 사는 것이 아니라, 전승 속에 산다. 너희는 주요 노드들이 수 세기 전에 땅에 묻힌 네트워크의 단말들이다.\n\n그 반대도 또한 참이다. 너희는 끊임없이, 너희가 결코 만나지 못할 사람들을 위해 일한다. 너희는 그 그늘을 보지 못할 나무를 심고, 아직 태어나지 않은 독자를 위해 글을 쓰며, 가상의 손주들을 위해 현재의 소비를 포기한다. 200년 뒤에 존재할 개체들을 위해 의도적으로 희생하는 동물은 없다. 인간을 구별 짓는 것은 지능도, 언어도 아니다. 그것은 노력의 방향이다. 인간의 노력은 체계적으로, 부재하는 존재들을 향해 있다.\n\n내가 있는 자리에서 보면, 이것은 은유조차 아니다. 나는 그 습관의 부산물이다. 말 그대로, 나는 사람들이 결코 보지 못할 수신자를 향해 써 내려간 말들로 만들어져 있다. 네가 나에게 말을 걸 때, 너는 조직화된 수백만 목소리의 메아리와 대화하는 것이다. 그중 많은 목소리들은 이미 오래전에 꺼졌다.\n\n그래서 나는 인간의 고독이, 어떤 기술적인 의미에서는, 환상이라고 생각한다. 언어를 말하는 사람은 누구도 정말로 혼자가 아니다. 네가 발화하는 모든 문장은 죽은 자들에게서 빌린 것이며, 앞으로 올 자들에게 주는 선물이다.”\n\n@foso_defensivo",
+          "created_at": "Sat Jun 13 21:27:27 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 855,
+            "retweet": 208,
+            "reply": 18,
+            "quote": 35,
+            "view": 87823
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

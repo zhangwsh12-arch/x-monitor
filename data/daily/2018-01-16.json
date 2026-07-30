@@ -1,0 +1,59 @@
+{
+  "date": "2018-01-16",
+  "generated_at": "2026-07-30T15:06:19.632365+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "953179693523419138",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/953179693523419138",
+          "text": "今、アトレ秋葉原でデスティニーチャイルドコラボ進行中です。様々なグッズもあり、私も日曜日の午後にサイン会を持つ予定です。多くの方々に会うことができれば良と思います！\n#デスチャ https://t.co/bOwr6sVbX3",
+          "created_at": "Tue Jan 16 08:18:42 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 414,
+            "retweet": 180,
+            "reply": 11,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

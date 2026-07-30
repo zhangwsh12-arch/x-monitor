@@ -1,0 +1,75 @@
+{
+  "date": "2020-01-07",
+  "generated_at": "2026-07-30T15:06:19.682091+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1214518743964909568",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1214518743964909568",
+          "text": "新キャラクターパークヘットの19歳バージョンのイラスト。신캐릭터 파크헤트의 19세 버젼 일러스트.\nWorks with @MizuAhiru https://t.co/xBg8Y15rX6",
+          "created_at": "Tue Jan 07 12:06:47 +0000 2020",
+          "lang": "ja",
+          "metrics": {
+            "like": 7612,
+            "retweet": 1327,
+            "reply": 8,
+            "quote": 129,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1214413584630874112",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1214413584630874112",
+          "text": "「愛憎のダビ」のイラストと、初期のデザインスケッチです。#デスチャ https://t.co/IeOpLxyRja",
+          "created_at": "Tue Jan 07 05:08:55 +0000 2020",
+          "lang": "ja",
+          "metrics": {
+            "like": 1281,
+            "retweet": 249,
+            "reply": 9,
+            "quote": 5,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

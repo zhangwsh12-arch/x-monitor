@@ -1,0 +1,59 @@
+{
+  "date": "2017-08-19",
+  "generated_at": "2026-07-30T15:06:19.582099+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "898920164695068673",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/898920164695068673",
+          "text": "マグナカルタ2の主人公「ジュト」のイメージです。最初完成したイラスト、そして、モデリングが変更されて仕方なく再び修正した最終的なイラスト、再び作業途中時間がない完成していなかった最後のラフです。物足りなさが軽く残る主人公ですね。 https://t.co/1zYwd3n7wA",
+          "created_at": "Sat Aug 19 14:50:43 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1364,
+            "retweet": 350,
+            "reply": 3,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

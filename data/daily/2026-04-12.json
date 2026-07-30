@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-12",
+  "generated_at": "2026-07-30T15:06:19.812450+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2043256310997880861",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2043256310997880861",
+          "text": "So moved! #NIKKE",
+          "created_at": "Sun Apr 12 09:14:01 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 204,
+            "retweet": 10,
+            "reply": 3,
+            "quote": 1,
+            "view": 4292
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "Dreameaterism",
+            "text": "Call it a gooner mobile game if you want, but Goddess of Victory: NIKKE is one of the most impactful games I’ve ever experienced, period. From the story, to the music, to the art-style and even the community. So honored to have been along for the ride since day one.\n\nTy Shift-up https://t.co/ylkMI03mwR",
+            "url": "https://x.com/Dreameaterism/status/2043186659492253710"
+          }
+        },
+        {
+          "id": "2043241768175693844",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2043241768175693844",
+          "text": "So many Commanders came by even on the last day of the exhibition. Deeply grateful for overwhelming support. Unforgettable\n#NIKKE https://t.co/Ru0lJlZU8V",
+          "created_at": "Sun Apr 12 08:16:13 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 269,
+            "retweet": 30,
+            "reply": 4,
+            "quote": 2,
+            "view": 4990
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

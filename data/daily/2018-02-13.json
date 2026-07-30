@@ -1,0 +1,123 @@
+{
+  "date": "2018-02-13",
+  "generated_at": "2026-07-30T15:06:19.637200+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 5,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "963399480404946944",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/963399480404946944",
+          "text": "「モーガン」のLive2Dイメージ。\n＃デスチャ https://t.co/IurKzzR8Yi",
+          "created_at": "Tue Feb 13 13:08:29 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 1338,
+            "retweet": 325,
+            "reply": 2,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "963337039167942657",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/963337039167942657",
+          "text": "「モーガン」のスケッチ。線があまりにも太いではないか悩み中です。\n\n＃デスチャ https://t.co/FyjDpcT543",
+          "created_at": "Tue Feb 13 09:00:22 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 562,
+            "retweet": 74,
+            "reply": 2,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "963331371795017728",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/963331371795017728",
+          "text": "「-Cafe de petit-」の新チャイルド「ヒルド」の壁紙です。「血羅」さんの作品です。驚異的なグラマーチャイルドを今後継続披露する予定です♥\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/6ymCxgV3Wm",
+          "created_at": "Tue Feb 13 08:37:51 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 596,
+            "retweet": 154,
+            "reply": 6,
+            "quote": 8,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "963329363339956224",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/963329363339956224",
+          "text": "「-Cafe de petit-」のもう一つの新チャイルド「ヴェルデレト」の壁紙です。「KKUEM」さんの作品です。\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/DZH8afbxRj",
+          "created_at": "Tue Feb 13 08:29:52 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 385,
+            "retweet": 146,
+            "reply": 0,
+            "quote": 5,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "963324111853244416",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/963324111853244416",
+          "text": "「ラグナブレイク-Cafe de petit-」に登場する新チャイルド「モーガン」のメガネバージョンの壁紙です。私はこちらの方がもっと気に入りますね♡\n\n#デスティニーチャイルド\n#デスチャ https://t.co/8pb0soXesN",
+          "created_at": "Tue Feb 13 08:09:00 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 814,
+            "retweet": 193,
+            "reply": 3,
+            "quote": 5,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

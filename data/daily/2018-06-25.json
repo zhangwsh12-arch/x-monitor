@@ -1,0 +1,59 @@
+{
+  "date": "2018-06-25",
+  "generated_at": "2026-07-30T15:06:19.656237+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1011147911424458752",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1011147911424458752",
+          "text": "誰かがビットコインで建築を開始した。 https://t.co/jieTD08Akl",
+          "created_at": "Mon Jun 25 07:23:42 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 337,
+            "retweet": 72,
+            "reply": 3,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

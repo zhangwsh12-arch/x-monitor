@@ -1,0 +1,75 @@
+{
+  "date": "2017-11-22",
+  "generated_at": "2026-07-30T15:06:19.613549+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "933315736210042880",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/933315736210042880",
+          "text": "「デスティニーチャイルド」タイダル画面 https://t.co/rI8LdYy75h",
+          "created_at": "Wed Nov 22 12:46:26 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 427,
+            "retweet": 155,
+            "reply": 4,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "933200287115776001",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/933200287115776001",
+          "text": "事前登録150万人突破！今日からアプリをダウンロードすることができます。ぜひゲームで会いましょう(Ｔ▽Ｔ)/ https://t.co/G0dkkrdzgq",
+          "created_at": "Wed Nov 22 05:07:41 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 144,
+            "retweet": 83,
+            "reply": 1,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

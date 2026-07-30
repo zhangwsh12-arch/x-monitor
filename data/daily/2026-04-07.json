@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-07",
+  "generated_at": "2026-07-30T15:06:19.808333+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 2,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2041471982882144759",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2041471982882144759",
+          "text": "Super cute Doro #DORO #NIKKE",
+          "created_at": "Tue Apr 07 11:03:44 +0000 2026",
+          "lang": "pt",
+          "metrics": {
+            "like": 2,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "view": 533
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "amiami_akiba",
+            "text": "【#あみあみ秋葉原ラジオ会館店】\n            \n蝸之殼Snail Shell様の\n「勝利の女神：NIKKE DORO ノンスケール 完成品アクションフィギュア 」少数ですが再入荷しました！！！\n\n下りエスカレーター側レジにて販売中です♪\nご来店お待ちしております！\n\n※人気商品につきお一人様一点までの購入制限です。\n※完売の際はご容赦ください。\n\n#NIKKE　#メガニケ　#蝸之殼Snail_Shell",
+            "url": "https://x.com/amiami_akiba/status/2041383750777602148"
+          }
+        },
+        {
+          "id": "2041455918991515849",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2041455918991515849",
+          "text": "It's the 'EVE' of Chicken Day—get ready, everyone!🐔",
+          "created_at": "Tue Apr 07 09:59:54 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 198
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "EVE is dropping into @PUBG. Someone told her about 'cans'🥫 https://t.co/uQ5Ackp9GN",
+            "url": "https://x.com/StellarBlade/status/2041441375028453470"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

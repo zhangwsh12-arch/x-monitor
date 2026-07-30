@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-08",
+  "generated_at": "2026-07-30T15:06:19.809213+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 2,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2041723352625332454",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2041723352625332454",
+          "text": "いらっしゃいませ\n#NIKKE #DORO #Scarlet",
+          "created_at": "Wed Apr 08 03:42:35 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 7,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 598
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "Red_Rat030",
+            "text": "홍련스시🍣\n\n홍련 : DO령 어서오시게 오마카세가 준비되어있다네\n\n#NIKKE #NIKKEfanart #니케 #ニケ #doro https://t.co/mDRbF8N5QN",
+            "url": "https://x.com/Red_Rat030/status/2038635562782122263"
+          }
+        },
+        {
+          "id": "2041709791211614380",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2041709791211614380",
+          "text": "Only in a few hours.. #StellarBlade #EVE #PUBG",
+          "created_at": "Wed Apr 08 02:48:42 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 9,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 1,
+            "view": 2633
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "PUBG",
+            "text": "D-1. She lands.\n\nPC: April 8\nConsole: April 16 (UTC) \n\n#CONTENDER #EVE #StellarBlade https://t.co/Gn5KlpFLtN",
+            "url": "https://x.com/PUBG/status/2041458450677612934"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

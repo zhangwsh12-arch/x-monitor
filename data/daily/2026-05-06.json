@@ -1,0 +1,59 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-07-30T15:06:19.820479+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2051926637986644412",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2051926637986644412",
+          "text": "최근 한국에서는 대회 상금을 기부하거나, 그림 작가분들과 팬분들께서 기부에 참여하시는 모습을 자주 보았습니다.\n\n5월 5일이 어린이날이었던 점, 그리고 니케 지휘관 여러분께 받은 따뜻한 마음에 힘입어 저도 작은 마음으로 기부 활동에 동참합니다.\n\n #니케 #NIKKE #ニケ #メガニケ https://t.co/sARWwELVrp",
+          "created_at": "Wed May 06 07:26:48 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 1564,
+            "retweet": 367,
+            "reply": 51,
+            "quote": 37,
+            "view": 74518
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

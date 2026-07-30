@@ -1,0 +1,91 @@
+{
+  "date": "2017-09-23",
+  "generated_at": "2026-07-30T15:06:19.598334+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "911483434639417345",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/911483434639417345",
+          "text": "「デスティニーチャイルド」イベント無事終了しました。助けてくださったすべての方と来てくださったすべての方々に感謝いたします！ https://t.co/G6MRfB781D",
+          "created_at": "Sat Sep 23 06:52:40 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 172,
+            "retweet": 65,
+            "reply": 2,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "911459305336971264",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/911459305336971264",
+          "text": "4gamerさんと電撃さんのルーキープライズにノミネートされました！！ありがとうございます！\n#デスチャ https://t.co/utAJZIfhLC",
+          "created_at": "Sat Sep 23 05:16:47 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 100,
+            "retweet": 34,
+            "reply": 4,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "911389519609454593",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/911389519609454593",
+          "text": "東京ゲームショウ2017ステージイベント！\n『DESTINY‘S DAY in Japan』は、本日12:50～DMM GAMES ブース特設ステージ【2-S01】で開催します！ みんな見に来てください！\n#デスティニーチャイルド #デスチャ #DestinyChild https://t.co/uXzMtSz3sK",
+          "created_at": "Sat Sep 23 00:39:28 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 111,
+            "retweet": 55,
+            "reply": 0,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

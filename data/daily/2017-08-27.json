@@ -1,0 +1,59 @@
+{
+  "date": "2017-08-27",
+  "generated_at": "2026-07-30T15:06:19.587809+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "901686950251208705",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/901686950251208705",
+          "text": "今、韓国ではデスティニーチャイルドイラストコンテストが開かれています。その中インパクトのある作品を紹介します。日本でもコンテストを開いて素晴らしいイラストレーターの方々に会いたいですね。一度見に来てください🧡https://t.co/yXGoetwQp2 https://t.co/WDAGoFTjUK",
+          "created_at": "Sun Aug 27 06:04:56 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1623,
+            "retweet": 544,
+            "reply": 3,
+            "quote": 8,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

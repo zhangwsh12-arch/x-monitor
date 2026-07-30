@@ -1,0 +1,128 @@
+{
+  "date": "2017-12-14",
+  "generated_at": "2026-07-30T15:06:19.625185+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 4,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "941242877488783362",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/941242877488783362",
+          "text": "負けてしまった。 https://t.co/bn7fnjjULU",
+          "created_at": "Thu Dec 14 09:46:04 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 29,
+            "retweet": 5,
+            "reply": 1,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "tyanK92sk",
+            "text": "今回神すぎ\n #デスチャ https://t.co/EHwofF0qm4",
+            "url": "https://x.com/tyanK92sk/status/941241978250960896"
+          }
+        },
+        {
+          "id": "941240969881559040",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/941240969881559040",
+          "text": "う...うわっ！\n\n＃デスチャ \n＃ダブル https://t.co/7xsmS0nBy7",
+          "created_at": "Thu Dec 14 09:38:29 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 324,
+            "retweet": 63,
+            "reply": 16,
+            "quote": 4,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "941232573094572032",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/941232573094572032",
+          "text": "オープンしました！\n＃デスティニーチャイルド\n＃デスチャ https://t.co/I1XyaZslRC",
+          "created_at": "Thu Dec 14 09:05:07 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 159,
+            "retweet": 39,
+            "reply": 0,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "941211786413457414",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/941211786413457414",
+          "text": "「デスティニーチャイルド」最強の新しいコンテンツ「ラグナブレイク」登場！\n魅力あふれるクリスマスの妖精たちのPVをぜひ見てください！\n＃デスチャ \n＃クリスマスレイド\n#★5が3%!? https://t.co/I6uOWsmHmg",
+          "created_at": "Thu Dec 14 07:42:31 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 382,
+            "retweet": 234,
+            "reply": 9,
+            "quote": 6,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "941138844891602944",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/941138844891602944",
+          "text": "今日更新される新コンテンツ「ラグナブレイク」のボスVer「クラムプス」です。\n＃デスティニーチャイルド\n＃デスチャ https://t.co/v4omQdZymt",
+          "created_at": "Thu Dec 14 02:52:40 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 502,
+            "retweet": 137,
+            "reply": 4,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

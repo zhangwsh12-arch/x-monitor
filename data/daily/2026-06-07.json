@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-07-30T15:06:19.826143+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2063424569290191358",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2063424569290191358",
+          "text": "With Masayoshi Yokohama from SEGA RGG. I’m really looking forward to Virtua Fighter Crossroad and Stranger Than Heaven!\n#StellarBlade #SGF #BLOODRAIN #SEGA #RGG https://t.co/QFddCJ7qBA",
+          "created_at": "Sun Jun 07 00:55:28 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 872,
+            "retweet": 89,
+            "reply": 6,
+            "quote": 1,
+            "view": 29824
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "2063421782972117156",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2063421782972117156",
+          "text": "What a fantastic show, and thanks to the amazing developers. Great work, Geoff Keighley.\n#StellarBlade #SGF #BLOODRAIN https://t.co/WMHf44Mdiz",
+          "created_at": "Sun Jun 07 00:44:24 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 3335,
+            "retweet": 181,
+            "reply": 66,
+            "quote": 3,
+            "view": 234905
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 7,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2063463129871507572",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063463129871507572",
+          "text": "How cool is it 👊\n#StellarBladeBLOODRAIN #StellarBlade #Evie",
+          "created_at": "Sun Jun 07 03:28:42 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 334,
+            "retweet": 16,
+            "reply": 20,
+            "quote": 0,
+            "view": 14562
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "An extended cut of a scene from the BLOOD RAIN trailer 👀\n\n#StellarBladeBLOODRAIN #StellarBlade https://t.co/KsHF5imN6Z",
+            "url": "https://x.com/StellarBlade/status/2063455911276847464"
+          }
+        },
+        {
+          "id": "2063443915446128683",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063443915446128683",
+          "text": "👍",
+          "created_at": "Sun Jun 07 02:12:21 +0000 2026",
+          "lang": "art",
+          "metrics": {
+            "like": 12,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 954
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "geoffkeighley",
+            "text": "Thank you!!! 🙏",
+            "url": "https://x.com/geoffkeighley/status/2063434418333892809"
+          }
+        },
+        {
+          "id": "2063436487732187336",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063436487732187336",
+          "text": "Huge respect! So hyped for Stranger than Heaven and Virtua Fighter Crossroads. Can’t wait for more updates! 🔥🕹️",
+          "created_at": "Sun Jun 07 01:42:50 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 52,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "view": 1540
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "yokoyama_masa",
+            "text": "SHIFT UPの皆さんと https://t.co/MrAzcsGfMK",
+            "url": "https://x.com/yokoyama_masa/status/2063418624296284480"
+          }
+        },
+        {
+          "id": "2063434027999395904",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063434027999395904",
+          "text": "Huge respect to SEGA and RGG Studio for always delivering amazing games consistently\n#StellarBladeBLOODRAIN #StellarBlade #SEGA #RGG #SummerGameFest",
+          "created_at": "Sun Jun 07 01:33:03 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 47,
+            "retweet": 3,
+            "reply": 0,
+            "quote": 0,
+            "view": 1453
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "jamm3rd",
+            "text": "With Masayoshi Yokohama from SEGA RGG. I’m really looking forward to Virtua Fighter Crossroad and Stranger Than Heaven!\n#StellarBlade #SGF #BLOODRAIN #SEGA #RGG https://t.co/QFddCJ7qBA",
+            "url": "https://x.com/jamm3rd/status/2063424569290191358"
+          }
+        },
+        {
+          "id": "2063429205355065503",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063429205355065503",
+          "text": "Thanks for organizing such a wonderful event. We appreciate your continued support for Stellar Blade: BLOOD RAIN\n#StellarBladeBLOODRAIN #StellarBlade #SummerGameFest @geoffkeighley",
+          "created_at": "Sun Jun 07 01:13:53 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 95,
+            "retweet": 8,
+            "reply": 3,
+            "quote": 0,
+            "view": 2529
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "jamm3rd",
+            "text": "What a fantastic show, and thanks to the amazing developers. Great work, Geoff Keighley.\n#StellarBlade #SGF #BLOODRAIN https://t.co/WMHf44Mdiz",
+            "url": "https://x.com/jamm3rd/status/2063421782972117156"
+          }
+        },
+        {
+          "id": "2063365861822583021",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063365861822583021",
+          "text": "Which one do you like best?",
+          "created_at": "Sat Jun 06 21:02:11 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 49,
+            "retweet": 2,
+            "reply": 4,
+            "quote": 0,
+            "view": 1744
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "X compression strikes again 😭 Hopefully these work as  4K! 🙏 https://t.co/m8DKImVloX",
+            "url": "https://x.com/StellarBlade/status/2063303938049516026"
+          }
+        },
+        {
+          "id": "2063365714405454066",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063365714405454066",
+          "text": "Which one do you like best?",
+          "created_at": "Sat Jun 06 21:01:36 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 59,
+            "retweet": 1,
+            "reply": 13,
+            "quote": 0,
+            "view": 2454
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "The BLOOD RAIN trailer makes for some beautiful wallpapers! Which one's your favourite?\n\n[Ultrawide wallpapers in the comments👇]\n\n #StellarBladeBLOODRAIN #StellarBlade https://t.co/Wg1m1FqxpH",
+            "url": "https://x.com/StellarBlade/status/2063289818654937131"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

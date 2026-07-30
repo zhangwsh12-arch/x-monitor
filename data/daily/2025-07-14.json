@@ -1,0 +1,91 @@
+{
+  "date": "2025-07-14",
+  "generated_at": "2026-07-30T15:06:19.766948+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1944765623168548915",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1944765623168548915",
+          "text": "ステラーブレイド ディレクターのキム・ヒョンテです。\n\n現在、ステラーブレイド公式X（旧Twitter）アカウントが不正アクセスを受け、暗号通貨広告などの投稿が行われる問題が発生しております。\nただいまX社と連携し、アカウントの復旧に全力で取り組んでおります。正式に復旧をお知らせするまで、同アカウントから発信される投稿はすべて無視していただけますようお願い申し上げます。また、通報が集中するとアカウントが停止される可能性もございますので、併せてご注意ください。\n\nご心配をおかけし誠に申し訳ございません。速やかな正常化に努めてまいります。\n\n金亨泰 拝",
+          "created_at": "Mon Jul 14 14:27:11 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 1854,
+            "retweet": 756,
+            "reply": 14,
+            "quote": 21,
+            "view": 205699
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1944765286839926896",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1944765286839926896",
+          "text": "Hello, this is Hyung-Tae Kim, Director of Stellar Blade.\n\nWe have confirmed that the official Stellar Blade X (formerly Twitter) account has been compromised, resulting in unauthorized cryptocurrency advertisements being posted.\nOur team is working closely with X to restore the account as quickly as possible. Until we issue a formal notice of recovery, please disregard all content published from the account. Repeated reports could trigger an automated suspension, so we kindly ask for your patience and caution in this regard.\n\nWe apologize for any concern this may cause and will resolve the situation without delay.\n\nSincerely,\nHyung-Tae Kim",
+          "created_at": "Mon Jul 14 14:25:51 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 7124,
+            "retweet": 754,
+            "reply": 150,
+            "quote": 51,
+            "view": 354939
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1944706834553831485",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1944706834553831485",
+          "text": "Thanks for the warm welcome, Team ASOBI💛 And happy birthday to NIKO! 🎉🎂\n#AstroBot #TeamASOBI #Nicolas https://t.co/yNcmxug6BU",
+          "created_at": "Mon Jul 14 10:33:34 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 2642,
+            "retweet": 187,
+            "reply": 24,
+            "quote": 4,
+            "view": 148695
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

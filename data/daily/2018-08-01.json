@@ -1,0 +1,59 @@
+{
+  "date": "2018-08-01",
+  "generated_at": "2026-07-30T15:06:19.662017+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1024587627423354880",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1024587627423354880",
+          "text": "今回こっそり公開された、リザの水着スキンアニメーションです！\n＃デスティニーチャイルド ＃デスチャ https://t.co/VgKV4B2I67",
+          "created_at": "Wed Aug 01 09:28:20 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 3686,
+            "retweet": 1032,
+            "reply": 29,
+            "quote": 35,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

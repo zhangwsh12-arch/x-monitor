@@ -1,0 +1,59 @@
+{
+  "date": "2025-11-06",
+  "generated_at": "2026-07-30T15:06:19.786113+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1986264868597735736",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1986264868597735736",
+          "text": "This video contains Japanese and English subtitles.\n\nhttps://t.co/EzvQqk6IJL\n\n#니케 #NIKKE #ニケ #メガニケ",
+          "created_at": "Thu Nov 06 02:50:22 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 96,
+            "retweet": 26,
+            "reply": 2,
+            "quote": 2,
+            "view": 19583
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

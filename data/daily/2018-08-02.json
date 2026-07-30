@@ -1,0 +1,59 @@
+{
+  "date": "2018-08-02",
+  "generated_at": "2026-07-30T15:06:19.662753+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1024842070484123653",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1024842070484123653",
+          "text": "＃パンツの日 とだが、本当ですか? https://t.co/GOGmvd5PQO",
+          "created_at": "Thu Aug 02 02:19:24 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2612,
+            "retweet": 532,
+            "reply": 7,
+            "quote": 7,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

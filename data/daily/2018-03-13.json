@@ -1,0 +1,75 @@
+{
+  "date": "2018-03-13",
+  "generated_at": "2026-07-30T15:06:19.641478+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "973563773091905536",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/973563773091905536",
+          "text": "新キャラクター、シトリーもこっそり〜\n\n#デスティニーチャイルド\n#デスチャ https://t.co/egYzjoiplR",
+          "created_at": "Tue Mar 13 14:17:46 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2202,
+            "retweet": 635,
+            "reply": 9,
+            "quote": 13,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "973558848156966912",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/973558848156966912",
+          "text": "20対1の戦い。\n#デスティニーチャイルド\n#デスチャ https://t.co/ruP6bqIcsl",
+          "created_at": "Tue Mar 13 13:58:11 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 366,
+            "retweet": 175,
+            "reply": 3,
+            "quote": 10,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

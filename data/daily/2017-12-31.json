@@ -1,0 +1,59 @@
+{
+  "date": "2017-12-31",
+  "generated_at": "2026-07-30T15:06:19.628107+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "947375965079875584",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/947375965079875584",
+          "text": "コミケで素敵な作家とファンの方々の多くを会うことができて嬉しかったです。今回の機会を得て責任を持って着実に前に進む事を決意出来ました。来年コミケに参戦してみたいですね！ https://t.co/nZTtB6y3UW",
+          "created_at": "Sun Dec 31 07:56:46 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 168,
+            "retweet": 31,
+            "reply": 4,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

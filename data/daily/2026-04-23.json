@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-07-30T15:06:19.818719+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2047111293338091925",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2047111293338091925",
+          "text": "It’s so….really nice!! \n#NIKKE #NIKKEanniversary #NIKKETTSTAR",
+          "created_at": "Thu Apr 23 00:32:20 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 9,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 912
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "tanakaumbreon",
+            "text": "降〜臨⭐️ https://t.co/iZE1pMbTT8",
+            "url": "https://x.com/tanakaumbreon/status/2047091189967700036"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

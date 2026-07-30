@@ -1,0 +1,59 @@
+{
+  "date": "2022-11-15",
+  "generated_at": "2026-07-30T15:06:19.698202+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1592353536339509248",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1592353536339509248",
+          "text": "「NIKKE」が韓国と日本で1位を記録しました。 遅くなりましたが、深く感謝申し上げます。 エラーを早く捕まえます!😭 https://t.co/Jb4GkDKH6X",
+          "created_at": "Tue Nov 15 03:07:22 +0000 2022",
+          "lang": "ja",
+          "metrics": {
+            "like": 17632,
+            "retweet": 3377,
+            "reply": 74,
+            "quote": 98,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

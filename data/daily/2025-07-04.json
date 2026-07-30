@@ -1,0 +1,59 @@
+{
+  "date": "2025-07-04",
+  "generated_at": "2026-07-30T15:06:19.765931+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1940813043266736164",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1940813043266736164",
+          "text": "レアテムゲット。📦👣\n#DeathStranding2OnTheBeach #Hamilton https://t.co/dGdgEUzDUf",
+          "created_at": "Thu Jul 03 16:41:02 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 1767,
+            "retweet": 140,
+            "reply": 30,
+            "quote": 6,
+            "view": 159701
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

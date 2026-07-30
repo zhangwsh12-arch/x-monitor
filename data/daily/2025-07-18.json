@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-18",
+  "generated_at": "2026-07-30T15:06:19.769980+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1946148972768428399",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1946148972768428399",
+          "text": "직접 시간쪼개서 만들고 있는 사무실의 굿즈 전시장 (2)\n\n#니케 #승리의여신니케 #GODDESSOFVICTORY #NIKKE   #NIKKEGoddessOfVictory #ニケ #メガニケ https://t.co/jRzdtAAC8j",
+          "created_at": "Fri Jul 18 10:04:07 +0000 2025",
+          "lang": "ko",
+          "metrics": {
+            "like": 190,
+            "retweet": 37,
+            "reply": 3,
+            "quote": 0,
+            "view": 11020
+          },
+          "author_handle": "hsyoo___"
+        },
+        {
+          "id": "1946148813108097284",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1946148813108097284",
+          "text": "직접 시간쪼개서 만들고 있는 사무실의 굿즈 전시장 (1)\n\n#니케 #승리의여신니케 #GODDESSOFVICTORY #NIKKE   #NIKKEGoddessOfVictory #ニケ #メガニケ https://t.co/eXuw4HkQ1g",
+          "created_at": "Fri Jul 18 10:03:29 +0000 2025",
+          "lang": "ko",
+          "metrics": {
+            "like": 246,
+            "retweet": 43,
+            "reply": 5,
+            "quote": 3,
+            "view": 16745
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

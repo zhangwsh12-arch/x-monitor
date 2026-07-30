@@ -1,0 +1,107 @@
+{
+  "date": "2017-11-24",
+  "generated_at": "2026-07-30T15:06:19.615276+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 4,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "933995159917756416",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/933995159917756416",
+          "text": "私の好きなチャイルド、「メティス」です。キズナシナリオが愛らしい娘。\n＃デスティニーチャイルド ＃デスチャ https://t.co/mKN7Lvssyx",
+          "created_at": "Fri Nov 24 09:46:13 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 586,
+            "retweet": 183,
+            "reply": 0,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "933985812382748672",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/933985812382748672",
+          "text": "私の好きなチャイルド、マヤウエルです。私もレベルアップ中！\n#デスティニーチャイルド #デスチャ #ところで男の子 https://t.co/p935Ilvcpo",
+          "created_at": "Fri Nov 24 09:09:04 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1440,
+            "retweet": 453,
+            "reply": 2,
+            "quote": 8,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "933902381246377984",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/933902381246377984",
+          "text": "申し訳ありません。あまりにも多くのユーザーの方々が訪問してくださったおかげで、接続に問題がありました。\n今では正常に接続されます！\n＃デスティニーチャイルド ＃デスチャ https://t.co/DLykCndTpk",
+          "created_at": "Fri Nov 24 03:37:33 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 233,
+            "retweet": 110,
+            "reply": 8,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "933893391573585920",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/933893391573585920",
+          "text": "「デスティニーチャイルド」、開始します。 https://t.co/lXPRWEj1AJ",
+          "created_at": "Fri Nov 24 03:01:50 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1438,
+            "retweet": 584,
+            "reply": 8,
+            "quote": 5,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

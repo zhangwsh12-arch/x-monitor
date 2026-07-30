@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-07-30T15:06:19.832761+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2067842784015593815",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2067842784015593815",
+          "text": "🤩",
+          "created_at": "Fri Jun 19 05:31:53 +0000 2026",
+          "lang": "art",
+          "metrics": {
+            "like": 18,
+            "retweet": 2,
+            "reply": 0,
+            "quote": 0,
+            "view": 869
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "HidekiKamiya_X",
+            "text": "三上さんのスタジオに遊びに行かせていただきました…話し込んでつい長居してしまいました…\n三上さんの手を握るの、生まれて初めてだったかも…ﾄｩﾝｸ https://t.co/Jko9Kt2H2o",
+            "url": "https://x.com/HidekiKamiya_X/status/2067178745165967462"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2026-01-31",
+  "generated_at": "2026-07-30T15:06:19.796161+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2017596027755499764",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2017596027755499764",
+          "text": "今回のオーケストラは、本当に多くの力を注いで準備しました。\n楽しんでいただけたのであれば、とても嬉しく思います。\n監督の編曲、ボーカルの皆さんの素晴らしい歌唱力、\nそして楽団の皆さんの見事な演奏のおかげで、最高のステージとなりました。\n\n次回も全力で挑みます！💪\n\n会場に足を運んでくださった指揮官の皆さまに、心より感謝いたします。\n限られた時間の中で、すべての方に十分なファンサービスをお届けできなかった点は心残りですが、\nこの一枚の写真を通して、その想いをお伝えできればと思います。🙇‍♂️\n\n#NIKKEconcert2026 #ニケオケコン2026",
+          "created_at": "Sat Jan 31 13:49:12 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2107,
+            "retweet": 355,
+            "reply": 17,
+            "quote": 30,
+            "view": 121445
+          },
+          "author_handle": "hsyoo___"
+        },
+        {
+          "id": "2017451697308897642",
+          "kind": "quote",
+          "url": "https://x.com/hsyoo___/status/2017451697308897642",
+          "text": "While watching the rehearsal, my right eye teared up six times, to be exact.\nWas my left eye on duty?\n\n#NIKKEconcert2026",
+          "created_at": "Sat Jan 31 04:15:41 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 421,
+            "retweet": 47,
+            "reply": 5,
+            "quote": 0,
+            "view": 29957
+          },
+          "author_handle": "hsyoo___",
+          "source_tweet": {
+            "handle": "PernelleMusic",
+            "text": "We're rehearsing for the concert! \n#NIKKEconcert2026 https://t.co/zWhR0t5yD0",
+            "url": "https://x.com/PernelleMusic/status/2017138071855403457"
+          }
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

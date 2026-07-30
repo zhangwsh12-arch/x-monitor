@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-07-30T15:06:19.805960+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2040007566231756901",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2040007566231756901",
+          "text": "See who'd here, let's go for a chicken next week. #StellarBlade #EVE #PUBG",
+          "created_at": "Fri Apr 03 10:04:39 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 7,
+            "retweet": 0,
+            "reply": 2,
+            "quote": 0,
+            "view": 507
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "PUBG",
+            "text": "PUBG x Stellar Blade Collaboration presents, Contender #003: EVE\n\nFrom savior to survivor.\nIn the Battlegrounds, survival is the only rule.\n\nEVE engaged.\nSurvival begins.\n\nPC: April 8 / Console: April 16 (UTC)\n\n#CONTENDER #EVE #StellarBlade https://t.co/zrdLEe4MNR",
+            "url": "https://x.com/PUBG/status/2039991339278835746"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

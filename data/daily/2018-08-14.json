@@ -1,0 +1,91 @@
+{
+  "date": "2018-08-14",
+  "generated_at": "2026-07-30T15:06:19.664497+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1029253817169145856",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1029253817169145856",
+          "text": "デスティニーチャイルドのファンの方々が集まって、「夏のファンアートサイト」を作っていただきました。とてもありがとうございます！\n＃デスチャ\n\nhttps://t.co/g3iuWv5kAC https://t.co/xq0VoWk6k2",
+          "created_at": "Tue Aug 14 06:30:07 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 263,
+            "retweet": 88,
+            "reply": 1,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1029252078625931264",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1029252078625931264",
+          "text": "デスティニーチャイルドの夏のアップデート「サマースキャンダル」のスペシャルイメージイラストです！\n＃デスチャ https://t.co/18Tp9AsYou",
+          "created_at": "Tue Aug 14 06:23:12 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2782,
+            "retweet": 762,
+            "reply": 8,
+            "quote": 14,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1029251970152914945",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1029251970152914945",
+          "text": "すでに多くの方々が見ただろうが、水着「リザ」のイラストと1920 x 1200 壁紙です。\n＃デスティニーチャイルド ＃デスチャ https://t.co/CBEPVPopEk",
+          "created_at": "Tue Aug 14 06:22:46 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 4141,
+            "retweet": 828,
+            "reply": 12,
+            "quote": 10,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

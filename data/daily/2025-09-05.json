@@ -1,0 +1,59 @@
+{
+  "date": "2025-09-05",
+  "generated_at": "2026-07-30T15:06:19.781023+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1963884625509634284",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1963884625509634284",
+          "text": "このたび「COINS IN RUSH」アップデートを通じて、NIKKEが日本のApp Storeで第1位を獲得しました。\n指揮官の皆さまに、心より感謝申し上げます🧡\n#ニケ #メガニケ #NIKKE https://t.co/V2VJUbHEHv",
+          "created_at": "Fri Sep 05 08:39:16 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 5845,
+            "retweet": 976,
+            "reply": 297,
+            "quote": 108,
+            "view": 438060
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-30T12:59:05.603719+09:00",
+  "generated_at": "2026-07-30T15:06:19.842720+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -19,12 +19,34 @@
       "name": "yoojoonseok",
       "counts": {
         "post": 0,
-        "retweet": 0,
+        "retweet": 1,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2081642622645592196",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2081642622645592196",
+          "text": "RT @StellarBlade: Ask and you shall receive!\n\nYou can now listen to「Make Up My Mind」and「Off The Line」from the Stellar Blade: BLOOD RAIN tra…",
+          "created_at": "Mon Jul 27 07:27:30 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 11276,
+            "retweet": 1048,
+            "reply": 157,
+            "quote": 31,
+            "view": 227562
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Ask and you shall receive!\n\nYou can now listen to「Make Up My Mind」and「Off The Line」from the Stellar Blade: BLOOD RAIN trailer on Spotify and Apple Music!\n\n🟢 Spotify: https://t.co/ytiHCmvbDL\n🍎 Apple Music: https://t.co/Qj0AR3d4ok https://t.co/jqJMgZEdII",
+            "url": "https://x.com/StellarBlade/status/2081592501945970934"
+          }
+        }
+      ],
+      "topic": ""
     },
     {
       "handle": "hsyoo___",

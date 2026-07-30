@@ -1,0 +1,59 @@
+{
+  "date": "2018-11-09",
+  "generated_at": "2026-07-30T15:06:19.673613+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1060787980070150145",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1060787980070150145",
+          "text": "「デスティニーチャイルドイラコン」の奨励賞、特別賞受賞作が発表されました。大賞、最優秀賞、優秀賞受賞作品は、11月23日開催される1周年イベント章で発表される予定です。少し遅れましたが、期待してください。もう一度参加してくださった作家たちに感謝します！\nhttps://t.co/jSImCBrd7R",
+          "created_at": "Fri Nov 09 06:55:37 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 98,
+            "retweet": 43,
+            "reply": 4,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

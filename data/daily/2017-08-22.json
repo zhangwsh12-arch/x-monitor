@@ -1,0 +1,80 @@
+{
+  "date": "2017-08-22",
+  "generated_at": "2026-07-30T15:06:19.584019+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "899963976091451392",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/899963976091451392",
+          "text": "トサカ野郎(主人公）とモナ描いています！\n#デスチャー https://t.co/muOwFUFXqh",
+          "created_at": "Tue Aug 22 11:58:27 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 234,
+            "retweet": 43,
+            "reply": 2,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "899949510318673920",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/899949510318673920",
+          "text": "日本のパブリッシャーの塊センスに心配になり始めた。 https://t.co/gVk7noDlwA",
+          "created_at": "Tue Aug 22 11:00:58 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 56,
+            "retweet": 26,
+            "reply": 1,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "destinyc_info",
+            "text": "ダビは、お腹空いたらモナ姉さまのこのスタンプを使ってるよ～！\nこんな美しいモナ姉さまにご飯に誘われたら誰も断れないでしょ？\n皆もどんな時に使ってるか、良かったら教えてね★\n#デスチャ https://t.co/KGELRHQzP8",
+            "url": "https://x.com/destinyc_info/status/899832711845629952"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

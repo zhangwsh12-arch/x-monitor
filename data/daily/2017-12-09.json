@@ -1,0 +1,91 @@
+{
+  "date": "2017-12-09",
+  "generated_at": "2026-07-30T15:06:19.623090+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "939370323828338688",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/939370323828338688",
+          "text": "＃3\n昨日、ついに「銃夢」の映画版トレーラーが公開されました。キャメロン監督が直接製作ではありませなかったのクオリティに物足りなさはありますが、まだ時間はあるから...是非素敵な姿で完成することを！そしてヨコ（アリタ）の目のサイズは少し減らして欲しい... https://t.co/iZ0NhNlInc",
+          "created_at": "Sat Dec 09 05:45:12 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 386,
+            "retweet": 291,
+            "reply": 2,
+            "quote": 11,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "939370073621274624",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/939370073621274624",
+          "text": "＃2\nそして、「銃夢」映画化の版権を持つジェームズ・キャメロンにポスターをプレゼントしながら、映画製作がいつ行われるか聞いて見て、次の文が書かれたサインポスターを受けることができました。「Keep the faith、She's coming！」 https://t.co/JZ76fIMfPC",
+          "created_at": "Sat Dec 09 05:44:12 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 204,
+            "retweet": 104,
+            "reply": 0,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "939369972890976256",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/939369972890976256",
+          "text": "＃1\n「銃夢」は私の人生で最高の漫画です。\n新装版（新装版）には、祝辞を送ったし、連載中のウルトラジャンプは、以下のイラストを掲載したりしました。 https://t.co/PvNhS0MhZs",
+          "created_at": "Sat Dec 09 05:43:48 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 5791,
+            "retweet": 1787,
+            "reply": 15,
+            "quote": 13,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

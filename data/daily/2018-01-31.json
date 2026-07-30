@@ -1,0 +1,80 @@
+{
+  "date": "2018-01-31",
+  "generated_at": "2026-07-30T15:06:19.634430+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "958679347354771456",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/958679347354771456",
+          "text": "本気で大きな助けました。直接見たとき、全体のデザインと繊細な仕上げ、高いクオリティの深さ感動しました。これからもよろしくお願いします。 https://t.co/HdSZWUwjOs",
+          "created_at": "Wed Jan 31 12:32:22 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 111,
+            "retweet": 27,
+            "reply": 0,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "sezitak",
+            "text": "スマホゲーム「デスティニーチャイルド」さんの秋葉原駅周辺で展開された各種広告ビジュアルの制作を @tatsdesign @rgrphs とお手伝いしました！ こちらは草野デザイン事務所さま @kusano_design @ksnty とお仕事させていただきました。たいへん光栄でございます…。（※掲出は本日迄） #デスチャ https://t.co/i9d1q75yF4",
+            "url": "https://x.com/sezitak/status/958676114976550912"
+          }
+        },
+        {
+          "id": "958558812125958145",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/958558812125958145",
+          "text": "初音ミクと雪ミク1920x1080壁紙です。初めて描いてみるミクので緊張しましたね。雪ミクはKKUEM様の作品なのに、私より上手ですよね！\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/ld50OH1ouk",
+          "created_at": "Wed Jan 31 04:33:24 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 3390,
+            "retweet": 1285,
+            "reply": 18,
+            "quote": 13,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

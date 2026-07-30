@@ -1,0 +1,59 @@
+{
+  "date": "2025-07-16",
+  "generated_at": "2026-07-30T15:06:19.768068+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1945489583380304295",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1945489583380304295",
+          "text": "NIKKE의 오케스트라 콘서트의 댓글 중 “화면 넘어 울어버렸다.” 는 말을 보고선 저도 왠지 울컥했네요.\n\n우리 NIKKE를 사랑해주셔서 감사합니다.\n더 열심히 해야겠습니다.\n\n#니케 #승리의여신니케 #GODDESSOFVICTORY #NIKKE  #NIKKEGoddessOfVictory #ニケ #メガニケ",
+          "created_at": "Wed Jul 16 14:23:56 +0000 2025",
+          "lang": "ko",
+          "metrics": {
+            "like": 296,
+            "retweet": 57,
+            "reply": 14,
+            "quote": 0,
+            "view": 21517
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

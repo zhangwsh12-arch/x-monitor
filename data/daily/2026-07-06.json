@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-30T12:59:05.609327+09:00",
+  "generated_at": "2026-07-30T15:06:19.836772+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -30,13 +30,30 @@
       "handle": "hsyoo___",
       "name": "hsyoo",
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2074060570278637822",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2074060570278637822",
+          "text": "It was a pleasure meeting you all. We gain strength from the many words of encouragement you sent us. Thank you!\n\n#NIKKE #AnimeExpo2026 https://t.co/zi1BXGrwUL",
+          "created_at": "Mon Jul 06 09:19:08 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1428,
+            "retweet": 148,
+            "reply": 11,
+            "quote": 1,
+            "view": 30977
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
     }
   ]
 }

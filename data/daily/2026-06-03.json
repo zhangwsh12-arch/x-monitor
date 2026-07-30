@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-07-30T15:06:19.823920+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2061941993543172589",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2061941993543172589",
+          "text": "Cory Ballock is back.",
+          "created_at": "Tue Jun 02 22:44:14 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 225,
+            "retweet": 33,
+            "reply": 24,
+            "quote": 8,
+            "view": 28688
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "PlayStation",
+            "text": "God of War Laufey is the next mainline chapter in Santa Monica Studio's series.\n\nFirst gameplay and story details of the newly announced PS5 action adventure: https://t.co/VTg1O9UNYX https://t.co/1r7MmiOnBZ",
+            "url": "https://x.com/PlayStation/status/2061935079102771404"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

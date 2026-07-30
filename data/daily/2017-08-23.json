@@ -1,0 +1,59 @@
+{
+  "date": "2017-08-23",
+  "generated_at": "2026-07-30T15:06:19.585074+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "900288795827814400",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/900288795827814400",
+          "text": "モナのクローズアップ絵です。韓国ではおっぱい部分がエロいというわけで少し紳士的に修正して発表されましたが、日本ではどうなるのでしょう？\nｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ・・・ https://t.co/YPOr9zecVz",
+          "created_at": "Wed Aug 23 09:29:10 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1088,
+            "retweet": 282,
+            "reply": 16,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2024-11-02",
+  "generated_at": "2026-07-30T15:06:19.736081+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1852538746388021463",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1852538746388021463",
+          "text": "【勝利の女神：NIKKE】オーケストラコンサート「MELODIES OF VICTORY」ティザーPV🎵\n#NIKKE  #NIKKE2ndAnniversary  #NIKKEconcert",
+          "created_at": "Sat Nov 02 02:30:30 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 1154,
+            "retweet": 252,
+            "reply": 6,
+            "quote": 7,
+            "view": 85366
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1852537690480341459",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1852537690480341459",
+          "text": "「勝利の女神」NIKKE、2周年記念新宿3D屋外広告を実施します！\n#NIKKE  #NIKKE2ndAnniversary  #CrossSHINJUKUvision\nhttps://t.co/HtUj90CUZv",
+          "created_at": "Sat Nov 02 02:26:18 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 2877,
+            "retweet": 559,
+            "reply": 14,
+            "quote": 12,
+            "view": 178142
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

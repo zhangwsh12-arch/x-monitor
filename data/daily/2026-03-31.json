@@ -1,0 +1,118 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-07-30T15:06:19.801781+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2038869698432139717",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2038869698432139717",
+          "text": "Upcoming SHIFT UP Announcement | 2026.04.01 https://t.co/Y1NVuuIdUC 출처 @YouTube",
+          "created_at": "Tue Mar 31 06:43:11 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1528,
+            "retweet": 294,
+            "reply": 52,
+            "quote": 40,
+            "view": 189226
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 2,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2038856971751924197",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2038856971751924197",
+          "text": "Whose call was that? Stay tuned.\n\n#SHIFTUP, #SHIFTUP_Corp",
+          "created_at": "Tue Mar 31 05:52:36 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 19,
+            "retweet": 0,
+            "reply": 2,
+            "quote": 0,
+            "view": 1734
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "SHIFTUP_Corp",
+            "text": "There are some calls that need to be answered.\n\n2026 . 04 . 01\n\n🔗 https://t.co/jmGqe1qMWu https://t.co/61NkXFBDC4",
+            "url": "https://x.com/SHIFTUP_Corp/status/2038855589892345988"
+          }
+        },
+        {
+          "id": "2038856696739811786",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2038856696739811786",
+          "text": "The official SHIFT UP X account (@SHIFTUP_Corp ) is live! We ask for your continued interest and support for 「GODDESS OF VICTORY: NIKKE」, 「STELLAR BLADE」, SHIFT UP Dev. team and all SHIFT UP future titles\n#SHIFTUP, #SHIFTUP_Corp",
+          "created_at": "Tue Mar 31 05:51:31 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 406,
+            "retweet": 48,
+            "reply": 7,
+            "quote": 0,
+            "view": 20011
+          },
+          "author_handle": "_yoojoonseok"
+        },
+        {
+          "id": "2038827203119718566",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2038827203119718566",
+          "text": "What will it look like?",
+          "created_at": "Tue Mar 31 03:54:19 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 4,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 549
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【NIKKE2 Coming Soon】\n\nLet’s witness the debut of NIKKE2 together.\nApril 1 — coming soon with a shocking reveal.\n\nWhat do you imagine NIKKE2 will be like, Commander?\nClick the button and join the discussion and write your vision of a new world!\n\n#NIKKE2\n#NewNIKKE",
+            "url": "https://x.com/NIKKE_en/status/2038815294546719009"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

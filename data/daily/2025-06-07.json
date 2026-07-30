@@ -1,0 +1,76 @@
+{
+  "date": "2025-06-07",
+  "generated_at": "2026-07-30T15:06:19.759221+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1931312738053292344",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1931312738053292344",
+          "text": "『勝利の女神：NIKKE』×『Stellar Blade』コラボ記念スペシャル放送の映像です。後半にはコンテンツの紹介もございますので、まだご覧になっていない方はぜひチェックしてください✨\nhttps://t.co/k3pycg13b1\n#NIKKEコラボ記念SP放送 #NIKKE #StellarBlade #ニケ #メガニケ https://t.co/0UiReSM0mI",
+          "created_at": "Sat Jun 07 11:30:13 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 1445,
+            "retweet": 281,
+            "reply": 19,
+            "quote": 4,
+            "view": 85283
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1931294188177690883",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1931294188177690883",
+          "text": "The Stella Blade Collaboration Event is fully dubbed. We hope you, Commanders, enjoy it.\n\n#니케 #승리의여신니케 #GODDESSOFVICTORY #NIKKE #NIKKEGoddessOfVictory #ニケ #メガニケ",
+          "created_at": "Sat Jun 07 10:16:30 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 602,
+            "retweet": 72,
+            "reply": 12,
+            "quote": 6,
+            "view": 25850
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

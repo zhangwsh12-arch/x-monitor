@@ -1,0 +1,59 @@
+{
+  "date": "2025-05-23",
+  "generated_at": "2026-07-30T15:06:19.755249+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1925835455615905844",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1925835455615905844",
+          "text": "「ルピー」のフィギュアが届きました。このハイクオリティ！色使い！造形美！素晴らしかったです…！\n#NIKKE #ニケ #メガニケ https://t.co/YUZhp757qp",
+          "created_at": "Fri May 23 08:45:27 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 7736,
+            "retweet": 835,
+            "reply": 113,
+            "quote": 41,
+            "view": 428435
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-30T12:59:05.605916+09:00",
+  "generated_at": "2026-07-30T15:06:19.840412+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -18,13 +18,30 @@
       "handle": "_yoojoonseok",
       "name": "yoojoonseok",
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2078419634940940604",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2078419634940940604",
+          "text": "Let’s Scream!!\n#NIKKE #NIKKEBandLive https://t.co/OuwvzZUEnh",
+          "created_at": "Sat Jul 18 10:00:30 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 95,
+            "retweet": 9,
+            "reply": 0,
+            "quote": 0,
+            "view": 5049
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
     },
     {
       "handle": "hsyoo___",

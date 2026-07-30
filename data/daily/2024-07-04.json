@@ -1,0 +1,59 @@
+{
+  "date": "2024-07-04",
+  "generated_at": "2026-07-30T15:06:19.726557+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1808770637475033459",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1808770637475033459",
+          "text": "日本アプリストア1位を達成しました！ \n本当にありがとうございます💕\n#NIKKE #ニケ #Appstore https://t.co/t60FHOdKsV",
+          "created_at": "Thu Jul 04 07:51:39 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 6350,
+            "retweet": 1130,
+            "reply": 148,
+            "quote": 112,
+            "view": 555519
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

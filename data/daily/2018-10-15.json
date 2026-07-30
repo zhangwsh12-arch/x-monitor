@@ -1,0 +1,59 @@
+{
+  "date": "2018-10-15",
+  "generated_at": "2026-07-30T15:06:19.672212+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1051489024915857409",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1051489024915857409",
+          "text": "「DCIC、デスティニーチャイルドイラストコンテスト」が先ほどの作品登録を締め切りました。総1,200点余りの素晴らしい作品を数多くの作家の方々が登録していただきました。皆さんの 多くの関心と参加に心から深く感謝申し上げます！🥰\nhttps://t.co/jSImCBrd7R https://t.co/QdeFGvWtlo",
+          "created_at": "Sun Oct 14 15:04:53 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 270,
+            "retweet": 87,
+            "reply": 2,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2018-02-26",
+  "generated_at": "2026-07-30T15:06:19.639355+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "968094069116162050",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/968094069116162050",
+          "text": "流れる....汗\n\n#デスティニーチャイルド\n#デスチャforDMM https://t.co/bs2pFhJrFh",
+          "created_at": "Mon Feb 26 12:03:07 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 12425,
+            "retweet": 3449,
+            "reply": 44,
+            "quote": 105,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "968042077144596480",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/968042077144596480",
+          "text": "ワイドverデスチャプレイ中。\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/5EzoKz1VYF",
+          "created_at": "Mon Feb 26 08:36:31 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 1070,
+            "retweet": 284,
+            "reply": 7,
+            "quote": 12,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2018-02-12",
+  "generated_at": "2026-07-30T15:06:19.636513+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "963035845224574979",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/963035845224574979",
+          "text": "かわいい（？）メイドがいっぱい出てくる新規レイドアップデートPVです！新キャラクターもいっぱい！\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/f8AM4qfLpp",
+          "created_at": "Mon Feb 12 13:03:32 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 710,
+            "retweet": 308,
+            "reply": 5,
+            "quote": 8,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2017-09-21",
+  "generated_at": "2026-07-30T15:06:19.596685+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "910847528219828225",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/910847528219828225",
+          "text": "すごいケーキをプレゼントしてもらっちゃったよ！\n#デスチャ https://t.co/TW9k85VmL7",
+          "created_at": "Thu Sep 21 12:45:48 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 193,
+            "retweet": 38,
+            "reply": 1,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "910679457224024064",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/910679457224024064",
+          "text": "「モナ」,「リザ」,「ダビ」\n#デスチャ #TGS2017 https://t.co/cQ7Frl6qUq",
+          "created_at": "Thu Sep 21 01:37:56 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 457,
+            "retweet": 136,
+            "reply": 0,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2025-07-17",
+  "generated_at": "2026-07-30T15:06:19.769057+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1945507519839019413",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1945507519839019413",
+          "text": "It was a real pleasure spending time with Mr. Hamaguchi from Square Enix today. Next time, let’s talk about silly and lighthearted things too!\n#FF7 #SquareEnix #gamedev https://t.co/3kwO4OSK8z",
+          "created_at": "Wed Jul 16 15:35:13 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 1801,
+            "retweet": 161,
+            "reply": 43,
+            "quote": 10,
+            "view": 174744
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

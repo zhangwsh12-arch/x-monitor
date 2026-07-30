@@ -1,0 +1,59 @@
+{
+  "date": "2022-10-28",
+  "generated_at": "2026-07-30T15:06:19.696136+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1585864183740248064",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1585864183740248064",
+          "text": "Happy HALLOWEEN!!\n\nAI 아웃풋을 바탕으로, 제 스타일의 페인팅을 더해 완성해 보았습니다. 자세한 것은 아래 덧글로...\n#할로윈 #Halloween #ハロウィン https://t.co/3bGLDsKWor",
+          "created_at": "Fri Oct 28 05:20:59 +0000 2022",
+          "lang": "ko",
+          "metrics": {
+            "like": 17679,
+            "retweet": 2142,
+            "reply": 18,
+            "quote": 135,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

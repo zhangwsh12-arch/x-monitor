@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-30T12:59:05.608141+09:00",
+  "generated_at": "2026-07-30T15:06:19.838600+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -20,11 +20,33 @@
       "counts": {
         "post": 0,
         "retweet": 0,
-        "quote": 0,
+        "quote": 1,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2075494372918042899",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2075494372918042899",
+          "text": "NIKKE at BW2026\n#NIKKE #NIKKEBW2026 #DORO",
+          "created_at": "Fri Jul 10 08:16:33 +0000 2026",
+          "lang": "nl",
+          "metrics": {
+            "like": 9,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 944
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "neroli_nikke",
+            "text": "doro &amp; cindy カチューシャ\ncn NIKKE ブースは夢の国？ https://t.co/QUNMyUH5jj",
+            "url": "https://x.com/neroli_nikke/status/2075467288321609817"
+          }
+        }
+      ],
+      "topic": ""
     },
     {
       "handle": "hsyoo___",

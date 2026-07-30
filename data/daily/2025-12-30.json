@@ -1,0 +1,76 @@
+{
+  "date": "2025-12-30",
+  "generated_at": "2026-07-30T15:06:19.791635+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2005929586748535236",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2005929586748535236",
+          "text": "First Comiket, impressive! https://t.co/CNYiXOpr8o",
+          "created_at": "Tue Dec 30 09:10:56 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 415
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2005942761111933172",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2005942761111933172",
+          "text": "明日も会いましょう。\n\n#NIKKEコミケ107 #NIKKE #ニケ https://t.co/b9I5lQB1Vo",
+          "created_at": "Tue Dec 30 10:03:17 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 2252,
+            "retweet": 307,
+            "reply": 15,
+            "quote": 10,
+            "view": 95411
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2017-10-05",
+  "generated_at": "2026-07-30T15:06:19.602614+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "915835027056844800",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/915835027056844800",
+          "text": "ただ....フィギュアの写真を上げたかった。 https://t.co/MyAMbwqhlq",
+          "created_at": "Thu Oct 05 07:04:20 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 289,
+            "retweet": 46,
+            "reply": 2,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

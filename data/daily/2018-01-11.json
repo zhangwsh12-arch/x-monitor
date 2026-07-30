@@ -1,0 +1,75 @@
+{
+  "date": "2018-01-11",
+  "generated_at": "2026-07-30T15:06:19.630942+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "951345792270270464",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/951345792270270464",
+          "text": "今日、新しく追加されたバステッドのスキンです。一生懸命描きました！\n＃デスティニーチャイルド\n＃デスチャ https://t.co/yHRLeHFy5j",
+          "created_at": "Thu Jan 11 06:51:26 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 3754,
+            "retweet": 922,
+            "reply": 17,
+            "quote": 17,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "951332673330454528",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/951332673330454528",
+          "text": "マジか.... https://t.co/vUWOUxDIW8",
+          "created_at": "Thu Jan 11 05:59:18 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 122,
+            "retweet": 53,
+            "reply": 2,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

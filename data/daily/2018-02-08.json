@@ -1,0 +1,59 @@
+{
+  "date": "2018-02-08",
+  "generated_at": "2026-07-30T15:06:19.635821+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "961330887894827008",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/961330887894827008",
+          "text": "あまりにも紙の右側に描いた。\n\n＃デスチャ https://t.co/e7YBHY3LVZ",
+          "created_at": "Wed Feb 07 20:08:38 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 388,
+            "retweet": 53,
+            "reply": 0,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

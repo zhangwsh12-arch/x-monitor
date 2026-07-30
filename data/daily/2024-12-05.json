@@ -1,0 +1,80 @@
+{
+  "date": "2024-12-05",
+  "generated_at": "2026-07-30T15:06:19.741234+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1864633565671248179",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1864633565671248179",
+          "text": "Yoshida Shuheiさんを初めてCMで拝見したときを思い出しました。 その間、ゲーム界のためにご苦労様でしたし、大変お世話になりました。 ありがとうございました！",
+          "created_at": "Thu Dec 05 11:30:59 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 2016,
+            "retweet": 286,
+            "reply": 50,
+            "quote": 27,
+            "view": 266364
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1864598687743398054",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1864598687743398054",
+          "text": "プレステブログで今年のゲーム投票が始まりました。 第二のイブの誕生に一票をお願いします！🏆\n#StellarBlade #GOTY #Vote",
+          "created_at": "Thu Dec 05 09:12:24 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 590,
+            "retweet": 110,
+            "reply": 19,
+            "quote": 1,
+            "view": 42368
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "PlayStation",
+            "text": "The PS Blog Game of the Year 2024 awards celebrate multiple titles across 19 categories.\n\nVote and decide the winners: https://t.co/XiS8qwgQrt https://t.co/uYQ4ZLxyqP",
+            "url": "https://x.com/PlayStation/status/1864350736395444472"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

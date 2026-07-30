@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-07-30T15:06:19.817815+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2046766813179195606",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2046766813179195606",
+          "text": "Stay tuned! Just in 9 hours 🤩\n#NIKKE #LEVELNINE #NIKKEAnnniversary #NIKKETTSTAR",
+          "created_at": "Wed Apr 22 01:43:30 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 64,
+            "retweet": 3,
+            "reply": 3,
+            "quote": 0,
+            "view": 1617
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "cosmograph0",
+            "text": "[MV] T.T. STAR - Be My Star\nGODDESS OF VICTORY: NIKKE OST\n26.04.22 20:00 KST\nhttps://t.co/eeisY0fTIV\n#NIKKE #LEVELNINE #NIKKEAnnniversary #NIKKETTSTAR",
+            "url": "https://x.com/cosmograph0/status/2046753105166086586"
+          }
+        },
+        {
+          "id": "2046766141062943049",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2046766141062943049",
+          "text": "New arrivals! \n#NIKKE #NIKKE_Merch https://t.co/W13so9PEHO",
+          "created_at": "Wed Apr 22 01:40:49 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 10,
+            "retweet": 2,
+            "reply": 1,
+            "quote": 0,
+            "view": 447
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

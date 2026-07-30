@@ -1,0 +1,75 @@
+{
+  "date": "2025-05-22",
+  "generated_at": "2026-07-30T15:06:19.754193+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1925531755462926457",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1925531755462926457",
+          "text": "最初に描いて話題(？)になった「リアン」を改めて描き直してみました。KKUEMさん、採用してくれるでしょうか？😘\n#NIKKE #Lian #Refine https://t.co/HfTubVOW9C",
+          "created_at": "Thu May 22 12:38:39 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 7545,
+            "retweet": 1031,
+            "reply": 92,
+            "quote": 93,
+            "view": 575586
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1925389825676554620",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1925389825676554620",
+          "text": "最強コラボ爆誕！『ステラブレイド × 勝利の女神：NIKKE』DLCフル映像、ついに解禁!🔥\n#NIKKE #StellarBlade #CrossCollabo #June11 https://t.co/px3sTP0juP",
+          "created_at": "Thu May 22 03:14:41 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 7059,
+            "retweet": 1868,
+            "reply": 124,
+            "quote": 226,
+            "view": 759981
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

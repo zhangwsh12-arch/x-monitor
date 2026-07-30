@@ -1,0 +1,91 @@
+{
+  "date": "2025-08-24",
+  "generated_at": "2026-07-30T15:06:19.778272+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1959343668256776517",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1959343668256776517",
+          "text": "MagnaCarta on PS2 is also a precious memory for me, so I’ll share one more AI figure photo. I can’t help but imagine how amazing it would be if figures like this really came out.🥲\n#nanobanana #Magnacarta #Kalintz #Rith #Figure https://t.co/uQM9dV2qlE",
+          "created_at": "Sat Aug 23 19:55:08 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 1991,
+            "retweet": 228,
+            "reply": 68,
+            "quote": 29,
+            "view": 231125
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1959306582749241664",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1959306582749241664",
+          "text": "PS2版『マグナカルタ』リス 1/7スケールフィギュアのサンプルが公開されました!🧡\n#nanobanana #また嘘です #LiesofK #Magnacarta #Rith https://t.co/jGe1pQkMgo",
+          "created_at": "Sat Aug 23 17:27:46 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 3320,
+            "retweet": 362,
+            "reply": 30,
+            "quote": 26,
+            "view": 210186
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1959305625395249259",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1959305625395249259",
+          "text": "The sample of the「MagnaCarta」PS2 version Rith 1/7 scale figure is here!🧡\n#nanobanana #LiesofK2 #Magnacarta #Rith #FakeAgain https://t.co/WlRnYLpO7U",
+          "created_at": "Sat Aug 23 17:23:57 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 2273,
+            "retweet": 226,
+            "reply": 41,
+            "quote": 25,
+            "view": 155039
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

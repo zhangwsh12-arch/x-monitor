@@ -1,0 +1,75 @@
+{
+  "date": "2018-04-08",
+  "generated_at": "2026-07-30T15:06:19.647204+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "982963630818783232",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/982963630818783232",
+          "text": "アーティストのスタッフが描いたアンドロイドリザの序盤スケッチ\n＃デスチャ https://t.co/dzAa5spU1Q",
+          "created_at": "Sun Apr 08 12:49:26 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 380,
+            "retweet": 64,
+            "reply": 1,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "982963071038586880",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/982963071038586880",
+          "text": "ワーキングナウ\n#デスチャ https://t.co/uQ9PNpVifS",
+          "created_at": "Sun Apr 08 12:47:13 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 334,
+            "retweet": 50,
+            "reply": 1,
+            "quote": 4,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-07-30T15:06:19.816057+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2045302206895886767",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2045302206895886767",
+          "text": "Story figure looks incredible, so excited 🤩\n\n📍SHIBUYA TSUTAYA 6階IP書店\n#NIKKE #IP書店 https://t.co/d3SsGA6GYo",
+          "created_at": "Sat Apr 18 00:43:40 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 640,
+            "retweet": 60,
+            "reply": 6,
+            "quote": 0,
+            "view": 17700
+          },
+          "author_handle": "_yoojoonseok"
+        },
+        {
+          "id": "2045298685677113652",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2045298685677113652",
+          "text": "SHIBUYA TSUTAYA POP UP SHOP Vol.2. \nCome check out all new merch.\n\n📅2026年4月1日(水)〜4月24日(金)\n📍SHIBUYA TSUTAYA 6階IP書店\n\n#NIKKE #IP書店 https://t.co/qRyUO6wu9x",
+          "created_at": "Sat Apr 18 00:29:41 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 171,
+            "retweet": 14,
+            "reply": 2,
+            "quote": 1,
+            "view": 7768
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

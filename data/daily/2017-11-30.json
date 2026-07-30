@@ -1,0 +1,91 @@
+{
+  "date": "2017-11-30",
+  "generated_at": "2026-07-30T15:06:19.619573+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 3,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "936166406738939904",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/936166406738939904",
+          "text": "今の起動画面のダビちゃんはLive2D製作のために、以下のように分節されました。もちろん分節した後からが本当のはじまりですが・・・。\n＃デスティニーチャイルド\n＃デスチャ https://t.co/gEhJYX94Lz",
+          "created_at": "Thu Nov 30 09:33:59 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 4770,
+            "retweet": 2175,
+            "reply": 20,
+            "quote": 35,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "936154647386918914",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/936154647386918914",
+          "text": "メンテナンス、終わりました。\n＃デスチャ https://t.co/PAITysKSlE",
+          "created_at": "Thu Nov 30 08:47:15 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 237,
+            "retweet": 51,
+            "reply": 0,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "936115463557279744",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/936115463557279744",
+          "text": "今回のアップデートチャイルドの1920x1200の壁紙です。\n＃デスチャ https://t.co/K9VLHdqsXI",
+          "created_at": "Thu Nov 30 06:11:33 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 1722,
+            "retweet": 525,
+            "reply": 7,
+            "quote": 10,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

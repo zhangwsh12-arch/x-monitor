@@ -1,0 +1,59 @@
+{
+  "date": "2025-10-02",
+  "generated_at": "2026-07-30T15:06:19.782635+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1973751606555631745",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/1973751606555631745",
+          "text": "TGSに訪れたついでにFalcomに行ってきました。\n大ファンなので夢が叶ったような気分でした。\n特に大好きだった『英雄伝説I』のセリオス、『英雄伝説II』のアトラス、『英雄伝説III』のジュリオとクリスの新しい姿を見ることができて、とても幸せでした。\nもちろん、『Ys』シリーズのアドルとダーナに会えたのも嬉しかったです。\n近藤季洋さんからさまざまなお話を伺うことができ、開発者としても意義深い時間でした。謙虚さと職人精神について学べるひとときでした。\nファンとしても、これからの面白いゲームを楽しみにしています。",
+          "created_at": "Thu Oct 02 14:07:08 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 151,
+            "retweet": 25,
+            "reply": 2,
+            "quote": 0,
+            "view": 14573
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

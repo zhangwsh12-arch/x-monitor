@@ -1,0 +1,59 @@
+{
+  "date": "2018-04-19",
+  "generated_at": "2026-07-30T15:06:19.647897+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "986798293869936640",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/986798293869936640",
+          "text": "今日更新されたアシュトーレスのコスプレです。レイヤは、すぐにイラストレーター本人のKKUEM（クエム）さん！\n＃デスティニーチャイルド \n＃デスチャ https://t.co/6r8aKJtoE0",
+          "created_at": "Thu Apr 19 02:47:01 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 581,
+            "retweet": 171,
+            "reply": 2,
+            "quote": 6,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

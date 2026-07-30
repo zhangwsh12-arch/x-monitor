@@ -1,0 +1,59 @@
+{
+  "date": "2025-09-03",
+  "generated_at": "2026-07-30T15:06:19.780217+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1963224903890448491",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1963224903890448491",
+          "text": "『ブレイドアンドソウル2』の日本サービスが終了するというお知らせを聞きました。このIPを共に作り上げてきた立場として、大きな惜しさが残ります。私が好きだったポー・ファランのフィギュア（映像）をアップします。\n#ブレイドアンドソウル #ポー・ファラン #nanobanana #BLADEnSOUL https://t.co/bcTo3uzBPt",
+          "created_at": "Wed Sep 03 12:57:46 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 543,
+            "retweet": 72,
+            "reply": 52,
+            "quote": 8,
+            "view": 91753
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

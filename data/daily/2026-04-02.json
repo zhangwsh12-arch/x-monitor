@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-07-30T15:06:19.805065+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 3,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2039622085505589263",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2039622085505589263",
+          "text": "One Dream, One Force 🤜🤛",
+          "created_at": "Thu Apr 02 08:32:54 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 5,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 266
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "SHIFTUP_Corp",
+            "text": "What does it mean to find the right partner? Shinji Mikami on why UNBOUND x SHIFT UP makes sense",
+            "url": "https://x.com/SHIFTUP_Corp/status/2039614223039504694"
+          }
+        },
+        {
+          "id": "2039586794015248494",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2039586794015248494",
+          "text": "Real conversations and creative sparks always go well with a drink 🍻",
+          "created_at": "Thu Apr 02 06:12:40 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 8,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 1,
+            "view": 971
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "SHIFTUP_Corp",
+            "text": "The best stories begin around the same table, with a few laughs and what’s still to come 👀 https://t.co/OEkzHrq8d4",
+            "url": "https://x.com/SHIFTUP_Corp/status/2039584820398096809"
+          }
+        },
+        {
+          "id": "2039561329238016164",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2039561329238016164",
+          "text": "Exciting chemistry between two LEGENDS.\n@SHIFTUP_Corp @UNBND_Official",
+          "created_at": "Thu Apr 02 04:31:28 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 21,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "view": 528
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "SHIFTUP_Corp",
+            "text": "We are still so excited about our partnership with @UNBND_Official 🥂 Here’s what Hyung Tae Kim had to say about it. https://t.co/jXKLQJJ7Vf",
+            "url": "https://x.com/SHIFTUP_Corp/status/2039556804850626785"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2018-02-28",
+  "generated_at": "2026-07-30T15:06:19.640082+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "968723928565809152",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/968723928565809152",
+          "text": "解放されたマアートと新しいマアートスキンが更新されました。PC版とモバイルの両方同じ！\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/GJ7qSirIKw",
+          "created_at": "Wed Feb 28 05:45:57 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 1324,
+            "retweet": 309,
+            "reply": 6,
+            "quote": 3,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "968721045162258435",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/968721045162258435",
+          "text": "DMMGamesからPC版デスチャがついにリリース！\nhttps://t.co/t5NC074mLT\n\n＃デスティニーチャイルド\n＃アップグレード（！） https://t.co/pOXepXXjXi",
+          "created_at": "Wed Feb 28 05:34:29 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2243,
+            "retweet": 728,
+            "reply": 6,
+            "quote": 21,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

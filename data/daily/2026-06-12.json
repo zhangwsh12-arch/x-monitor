@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-07-30T15:06:19.830354+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 4,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2065212890882453814",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2065212890882453814",
+          "text": "Memories from a year ago are flooding back\n#StellarBlade #StellarBladePC #StellarBladeAnniversary",
+          "created_at": "Thu Jun 11 23:21:37 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 309,
+            "retweet": 17,
+            "reply": 12,
+            "quote": 0,
+            "view": 6577
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Every piece of Stellar Blade content is now live on PS5 and PC. Thank you for waiting. We couldn’t have done it without YOU💚\n#StellarBlade #StellarBladePC #PS5 #Steam #EpicGameStore #NowAvailable",
+            "url": "https://x.com/StellarBlade/status/1932923911009939670"
+          }
+        },
+        {
+          "id": "2065201653029195957",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2065201653029195957",
+          "text": "REMARKABLE👍",
+          "created_at": "Thu Jun 11 22:36:58 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 34,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 1129
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "geoffkeighley",
+            "text": "Thank you for making this our most-watched #SummerGameFest yet!\n\nThis year's SGF showcase delivered 62 million livestreams, with double-digital growth across all key metrics. https://t.co/rjbclPuWDE",
+            "url": "https://x.com/geoffkeighley/status/2065152823097249930"
+          }
+        },
+        {
+          "id": "2065200171760472151",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2065200171760472151",
+          "text": "The music in Stella Blade is absolutely incredible, play it now🎧 Isn't the cover art amazing too? \n#StellarBlade #StellarBladeMerch",
+          "created_at": "Thu Jun 11 22:31:05 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 89,
+            "retweet": 9,
+            "reply": 9,
+            "quote": 0,
+            "view": 3714
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Take a seat, recover your HP and refill your tumbler☕\nTurn your home into the ultimate Camp with these Stellar Blade vinyls from Laced records!\n\n🛒Pre-Order at https://t.co/WhH0NGLWg8 https://t.co/HsRbttOvxa",
+            "url": "https://x.com/StellarBlade/status/2065071559396462650"
+          }
+        },
+        {
+          "id": "2065198104346071487",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2065198104346071487",
+          "text": "Time really flies🚀 Stella Blade PC ver. has already reached its 1st anniversary. Thanks to the support of our fans, Stella Blade has achieved incredible success. We are deeply grateful for your continued support, and we look forward to bringing you more great games and updates in the future🫰\n#StellarBlade #StellarBladePC #StellarBladeAnniversary #StellarBladeBLOODRAIN",
+          "created_at": "Thu Jun 11 22:22:52 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 185,
+            "retweet": 17,
+            "reply": 18,
+            "quote": 0,
+            "view": 4064
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Today marks the 1 year anniversary of Stellar Blade’s release on PC! 🥳\nTo celebrate this milestone, Director Kim Hyung Tae has prepared a special message for all of our fans.\nYou can read the English translation below 👇\n\n[Kim Hyung Tae's Message]\n\"⭐To all the fans who have loved Stellar Blade and EVE, I offer my most heartfelt thanks!!\nThank you❤️\"\n\nWe also want to say a HUGE thank you to everyone who participated in our #StellarBlade2ndAnniversary event! We loved seeing all of your amazing screenshots, fan art, and cosplay!",
+            "url": "https://x.com/StellarBlade/status/2065192351421575275"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

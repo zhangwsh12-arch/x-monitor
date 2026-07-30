@@ -1,0 +1,59 @@
+{
+  "date": "2018-07-07",
+  "generated_at": "2026-07-30T15:06:19.659036+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1015471079412793345",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1015471079412793345",
+          "text": "韓国でオープンしたコラボカフェに来ました。まもなく日本でも面白いオフラインイベントを準備しているのでお楽しみにぐださい！ #デスチャ https://t.co/ovWKOec5kF",
+          "created_at": "Sat Jul 07 05:42:26 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 561,
+            "retweet": 169,
+            "reply": 2,
+            "quote": 4,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

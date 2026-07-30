@@ -1,0 +1,59 @@
+{
+  "date": "2017-10-29",
+  "generated_at": "2026-07-30T15:06:19.607583+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "924490366962692096",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/924490366962692096",
+          "text": "CBTが進行中デスティニーチャイルド！私の最近の悩みは軽減呼ぶです。どのようなものいいか、皆さん助けてください！",
+          "created_at": "Sun Oct 29 04:17:34 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 13,
+            "retweet": 14,
+            "reply": 3,
+            "quote": 1,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

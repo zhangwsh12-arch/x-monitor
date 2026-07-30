@@ -1,0 +1,80 @@
+{
+  "date": "2018-08-30",
+  "generated_at": "2026-07-30T15:06:19.666684+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1035067600567382016",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1035067600567382016",
+          "text": "不足している日本語だから聞くつらいかもしれませんが、映像も用意してみました。恥ずかし....",
+          "created_at": "Thu Aug 30 07:32:01 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 116,
+            "retweet": 42,
+            "reply": 4,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "destinyc_info",
+            "text": "『DCIC-デスティニーチャイルド イラストコンテスト-』審査員の「キム・ヒョンテ」と「KKUEM」より、皆様へのメッセージ到着！\nぜひご覧ください♪\n\n■イラストコンテストの詳細はこちら\nhttps://t.co/Iq0J2jZjy6\n#デスチャ #DCIC #イラコン https://t.co/QJ8l0727hx",
+            "url": "https://x.com/destinyc_info/status/1035056317759508480"
+          }
+        },
+        {
+          "id": "1035066901326491650",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1035066901326491650",
+          "text": "今回「デスティニーチャイルドイラストコンテスト」(DCIC)を開催することになりました。慎重な気持ちで、日本のお絵描きさんを招待したいと思います。たくさんの方にご参加いただけたら嬉しいです！よろしくお願いいたします！\n\n＃デスチャ #DCIC ＃イラコン https://t.co/OfPsjL4xEN",
+          "created_at": "Thu Aug 30 07:29:14 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 2116,
+            "retweet": 672,
+            "reply": 10,
+            "quote": 6,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2025-08-14",
+  "generated_at": "2026-07-30T15:06:19.775160+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1955914709401788521",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1955914709401788521",
+          "text": "✨ついに来たぞ…黄金Doro賞!!🌟\n#NIKKE #Doro #Golden https://t.co/ckAi13Hmr0",
+          "created_at": "Thu Aug 14 08:49:40 +0000 2025",
+          "lang": "ja",
+          "metrics": {
+            "like": 11141,
+            "retweet": 1749,
+            "reply": 78,
+            "quote": 51,
+            "view": 460264
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

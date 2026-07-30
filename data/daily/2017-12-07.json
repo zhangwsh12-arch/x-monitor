@@ -1,0 +1,59 @@
+{
+  "date": "2017-12-07",
+  "generated_at": "2026-07-30T15:06:19.621645+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "938676832697696256",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/938676832697696256",
+          "text": "1999 - 2017 \n#2 https://t.co/4rsnqfBaMX",
+          "created_at": "Thu Dec 07 07:49:31 +0000 2017",
+          "lang": "und",
+          "metrics": {
+            "like": 2571,
+            "retweet": 615,
+            "reply": 8,
+            "quote": 7,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

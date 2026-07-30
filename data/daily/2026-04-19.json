@@ -1,0 +1,59 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-07-30T15:06:19.816942+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2045695703889121736",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2045695703889121736",
+          "text": "3.5주년 재미있게 즐겨주세요. 🙏\n\n#NIKKE #NIKKEAnniversary https://t.co/m80zKLrtPC",
+          "created_at": "Sun Apr 19 02:47:17 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 3877,
+            "retweet": 621,
+            "reply": 44,
+            "quote": 15,
+            "view": 69575
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

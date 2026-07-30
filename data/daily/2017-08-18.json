@@ -1,0 +1,59 @@
+{
+  "date": "2017-08-18",
+  "generated_at": "2026-07-30T15:06:19.581126+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "898378351240388608",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/898378351240388608",
+          "text": "マグナカルタを覚えてくださる方々が多くて軽く触れる。広く知られていなかったイラストをアップロードしてみます。 https://t.co/ns0PQ4A9GR",
+          "created_at": "Fri Aug 18 02:57:44 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 9246,
+            "retweet": 4698,
+            "reply": 80,
+            "quote": 88,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2024-06-22",
+  "generated_at": "2026-07-30T15:06:19.724729+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1804496829134090598",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1804496829134090598",
+          "text": "ニケの指揮官の皆さんと会った今日のこと、忘れられません。\n#NIKKE #NIKKEファンミ https://t.co/sFqyXRX0V1",
+          "created_at": "Sat Jun 22 12:49:04 +0000 2024",
+          "lang": "ja",
+          "metrics": {
+            "like": 5765,
+            "retweet": 877,
+            "reply": 62,
+            "quote": 66,
+            "view": 668506
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

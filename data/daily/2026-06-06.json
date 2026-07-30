@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-07-30T15:06:19.824680+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2063109100930806049",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2063109100930806049",
+          "text": "「Stellar Blade: BLOOD RAIN」Official high-resolution key art🍷🌧\n#StellarBlade #StellarBladeBloodRain #EVIE #ShiftUp https://t.co/4e6OWZrz6t",
+          "created_at": "Sat Jun 06 04:01:55 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 21784,
+            "retweet": 2783,
+            "reply": 503,
+            "quote": 177,
+            "view": 667234
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 3,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2063205269396734268",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2063205269396734268",
+          "text": "It was such a wonderful event, and it was an honor to be a part of it alongside those amazing new releases. Thank you #SummerGameFest and @geoffkeighley \n#StellarBladeBLOODRAIN #StellarBlade https://t.co/iNWdCMpDPZ",
+          "created_at": "Sat Jun 06 10:24:03 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 132,
+            "retweet": 4,
+            "reply": 3,
+            "quote": 0,
+            "view": 2513
+          },
+          "author_handle": "_yoojoonseok"
+        },
+        {
+          "id": "2063076735751750123",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063076735751750123",
+          "text": "Stay Tuned🙏",
+          "created_at": "Sat Jun 06 01:53:18 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 528,
+            "retweet": 25,
+            "reply": 15,
+            "quote": 0,
+            "view": 9255
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "IGN",
+            "text": "Take a look at the debut trailer for Stellar Blade: Blood Rain, the sequel to the hit 2024 action adventure game. https://t.co/P4UiN0I3gd\n\n#IGNSummerOfGaming https://t.co/O290Lm8Gxr",
+            "url": "https://x.com/IGN/status/2063057598627082380"
+          }
+        },
+        {
+          "id": "2063075229434609727",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2063075229434609727",
+          "text": "Received so much kind words and support after Stellar Blade: Blood Rain revealed. We are truly moved and feel a great sense of responsibility. More than any words of thanks, we believe the best way to show our appreciation is to create a game of the highest quality that lives up to their expectations and deliver it to them as soon as possible. We will do our very best to achieve this, and we would be grateful if you would continue to follow our updates with interest. Above all, I would like to express my deepest gratitude to everyone at EVE Studio who is developing this wonderful game with passion and dedication🙏\n#StellarBladeBloodRain #STELLABLADE #Evie",
+          "created_at": "Sat Jun 06 01:47:19 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2704,
+            "retweet": 215,
+            "reply": 110,
+            "quote": 11,
+            "view": 54293
+          },
+          "author_handle": "_yoojoonseok"
+        },
+        {
+          "id": "2063050695058874435",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063050695058874435",
+          "text": "How is the combat of Evie? We're trying out some new challenges that differ from the previous game.\n#StellarBladeBLOODRAIN #StellarBlade #EVIE",
+          "created_at": "Sat Jun 06 00:09:49 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1500,
+            "retweet": 75,
+            "reply": 157,
+            "quote": 8,
+            "view": 38766
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "ok show of hands who else fell in love with Evie instantly 🙋‍♂️\n\n#StellarBladeBLOODRAIN #StellarBlade https://t.co/XHyUcrne2c",
+            "url": "https://x.com/StellarBlade/status/2063048226408935560"
+          }
+        },
+        {
+          "id": "2063042031866544139",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2063042031866544139",
+          "text": "We’re incredibly excited to announce Stellar Blade: Blood Rain, the highly anticipated sequel to Stellar Blade. Join our captivating new protagonist, EVIE, on a thrilling brand-new journey. We're working harder than ever to deliver a game worthy of our amazing fans. Thank you for your endless support. Stay tuned!\n#StellarBladeBLOODRAIN #StellarBlade #SummerGameFest #EVIE\n\nTrailer: https://t.co/5V7G37pFnb",
+          "created_at": "Fri Jun 05 23:35:24 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 330,
+            "retweet": 33,
+            "reply": 16,
+            "quote": 4,
+            "view": 7555
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "summergamefest",
+            "text": "Stellar Blade: Blood Rain, the official sequel to @SHIFTUP_Corp’s stylish action adventure, has been revealed at #SummerGameFest.\n\nPlay @StellarBlade today — now on sale on Playstation Store and Epic Games Store.\n\nWatch the full trailer: https://t.co/KkDRoDNvfW https://t.co/nLJvHJ4XR9",
+            "url": "https://x.com/summergamefest/status/2063029113124958698"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

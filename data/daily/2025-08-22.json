@@ -1,0 +1,64 @@
+{
+  "date": "2025-08-22",
+  "generated_at": "2026-07-30T15:06:19.777236+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1958593084717244537",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1958593084717244537",
+          "text": "Thank you for remembering me. In truth, I have been devoting myself to real sparring in the shadows, preparing to continue entering TEKKEN!! If my own participation proves impossible, then I must ask you please allow “EVE” to take the stage in my stead.\n#TEKKEN #EVE #serious #solemn #unyield",
+          "created_at": "Thu Aug 21 18:12:34 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 3836,
+            "retweet": 383,
+            "reply": 75,
+            "quote": 75,
+            "view": 645280
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "Harada_TEKKEN",
+            "text": "How nostalgic. He once told me that he liked TEKKEN Series.\nI met him again backstage at The Game Awards late last year, and he had become a very calm and refined gentleman.\nI’m a fan of his work.",
+            "url": "https://x.com/Harada_TEKKEN/status/1958510940007305336"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2025-08-12",
+  "generated_at": "2026-07-30T15:06:19.774100+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1955162610917392732",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1955162610917392732",
+          "text": "「K-POP Demon Hunters」의 주제곡인 \"Golden\"이 Billboard Hot 100 1위에 오른 것을 축하합니다! 즐거운 애니메이션과 함께 최고로 멋진OST를 꼭 감상해보세요🧡\n#KpopDemomHunters #Billboard #Huntrix #Golden https://t.co/hacFGrWyws",
+          "created_at": "Tue Aug 12 07:01:06 +0000 2025",
+          "lang": "ko",
+          "metrics": {
+            "like": 471,
+            "retweet": 44,
+            "reply": 8,
+            "quote": 4,
+            "view": 77650
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1955000109302944089",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1955000109302944089",
+          "text": "Recently, I had the pleasure of meeting Guillaume Broche, the leader of the 33 Expedition, and Maxance Playez, the Principal sound designer. We shared wonderful stories, and I also got to hear about their surprising connections with Korean games. Je serai dans l’équipe française à la fin de l’année pour soutenir l’Expédition. Thank you for creating such an amazing work, and I look forward to the day we meet again!\n#ClairObscurExpedition33 #SHIFTUP #France #MyGOTY",
+          "created_at": "Mon Aug 11 20:15:22 +0000 2025",
+          "lang": "en",
+          "metrics": {
+            "like": 4017,
+            "retweet": 362,
+            "reply": 51,
+            "quote": 32,
+            "view": 325210
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

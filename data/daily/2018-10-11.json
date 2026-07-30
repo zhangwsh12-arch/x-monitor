@@ -1,0 +1,75 @@
+{
+  "date": "2018-10-11",
+  "generated_at": "2026-07-30T15:06:19.670767+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 2,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1050330420644986885",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1050330420644986885",
+          "text": "「DOAXvv」x「デスティニーチャイルド」コラボ公開されました！\nマリーローズは本当に描画難しかったのですが、動いた時は本当にやりがいのある！ゲームで是非ご確認下さい❤️\n＃デスチャ #DOAXVV https://t.co/ZHzsgtwyhx",
+          "created_at": "Thu Oct 11 10:21:01 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 5379,
+            "retweet": 1505,
+            "reply": 11,
+            "quote": 21,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        },
+        {
+          "id": "1050223270992072704",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/1050223270992072704",
+          "text": "「DOAXvv」x「デスティニーチャイルド」コラボ！\n白かすみは私が一番好きなキャラです。💕\n＃デスチャ ＃デッドオアアライブ https://t.co/3l7jHlqCGT",
+          "created_at": "Thu Oct 11 03:15:14 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 28796,
+            "retweet": 7204,
+            "reply": 52,
+            "quote": 112,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

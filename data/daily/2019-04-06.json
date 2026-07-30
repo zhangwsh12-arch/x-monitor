@@ -1,0 +1,64 @@
+{
+  "date": "2019-04-06",
+  "generated_at": "2026-07-30T15:06:19.680026+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "1114406704270073856",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/1114406704270073856",
+          "text": "Yokotaro様とプラチナゲームズの作品は私の永遠のリファレンスです。何とか近くまで到達することができるように頑張ります。（＞ω＜）",
+          "created_at": "Sat Apr 06 05:57:17 +0000 2019",
+          "lang": "ja",
+          "metrics": {
+            "like": 195,
+            "retweet": 52,
+            "reply": 2,
+            "quote": 0,
+            "view": 0
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "yokotaro",
+            "text": "これは楽しみ……そしてニーアの地形ジャンルが「セミオープンワールド」というのを初めて知った。＞次世代コンソールAAAゲーム『イブ』発表、艶やかで美しい映像公開。キム・ヒョンテ氏が監督を務める https://t.co/xHERXvswVG",
+            "url": "https://x.com/yokotaro/status/1114352861209489408"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

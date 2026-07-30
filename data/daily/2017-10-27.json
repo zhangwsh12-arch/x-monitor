@@ -1,0 +1,59 @@
+{
+  "date": "2017-10-27",
+  "generated_at": "2026-07-30T15:06:19.606740+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "923784687964655617",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/923784687964655617",
+          "text": "デスティニーチャイルドのCBTを進行方の18：9の新型携帯電話をお使いの方は、まず、16：9モードでプレイしてください。18：9モードでは、タッチ位置がずれる現象があります。できるだけ早く高知ます！ https://t.co/gDPbaVWNGk",
+          "created_at": "Fri Oct 27 05:33:27 +0000 2017",
+          "lang": "ja",
+          "metrics": {
+            "like": 35,
+            "retweet": 10,
+            "reply": 2,
+            "quote": 2,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

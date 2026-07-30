@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-30T12:59:05.610485+09:00",
+  "generated_at": "2026-07-30T15:06:19.834425+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -18,25 +18,59 @@
       "handle": "_yoojoonseok",
       "name": "yoojoonseok",
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2072540394378973465",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2072540394378973465",
+          "text": "Can’t believe it’s already been a year. So much fun last year and look forward to AX2026\n#NIKKE #AX2026 https://t.co/edaqlkKs15",
+          "created_at": "Thu Jul 02 04:38:30 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 190,
+            "retweet": 20,
+            "reply": 0,
+            "quote": 0,
+            "view": 10771
+          },
+          "author_handle": "_yoojoonseok"
+        }
+      ],
+      "topic": ""
     },
     {
       "handle": "hsyoo___",
       "name": "hsyoo",
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2072337657150267667",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2072337657150267667",
+          "text": "오늘 업데이트 예정인 니케의 소개 영상 제작 과정에 문제가 있어 현재 영상 업로드가 늦어지고 있습니다. 최대한 신속히 대응하여 최대한 빠르게 업로드 진행하도록 하겠습니다.",
+          "created_at": "Wed Jul 01 15:12:54 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 1143,
+            "retweet": 176,
+            "reply": 50,
+            "quote": 28,
+            "view": 73403
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "date": "2018-02-07",
+  "generated_at": "2026-07-30T15:06:19.635150+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "961155212231589890",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/961155212231589890",
+          "text": "バレンタインデーにあなたを探しに行く、「メイドモード マヤウェル」です。かわいい男の娘ですよね♥\n\n＃デスティニーチャイルド\n＃デスチャ https://t.co/gTqJM27ipW",
+          "created_at": "Wed Feb 07 08:30:34 +0000 2018",
+          "lang": "ja",
+          "metrics": {
+            "like": 6524,
+            "retweet": 2209,
+            "reply": 25,
+            "quote": 57,
+            "view": 0
+          },
+          "author_handle": "jamm3rd"
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

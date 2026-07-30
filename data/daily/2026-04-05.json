@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-05",
+  "generated_at": "2026-07-30T15:06:19.807557+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2040464360976650256",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2040464360976650256",
+          "text": "First revealed 7 years ago, the first step toward history. It feels surreal. #StellarBlade #SHIFTUP",
+          "created_at": "Sat Apr 04 16:19:48 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 27,
+            "retweet": 2,
+            "reply": 1,
+            "quote": 0,
+            "view": 672
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "ShiftUpWorld",
+            "text": "Project EVE First Teaser Trailer was released on this day, 7 years ago! 🌟\n\nShowcasing an early concept of the uncensored action game that would become #StellarBlade ☄️\n\n#Throwback https://t.co/02Ms7kvTeU",
+            "url": "https://x.com/ShiftUpWorld/status/2040459383444750441"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}

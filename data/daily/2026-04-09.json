@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-07-30T15:06:19.810145+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2042230007934988574",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2042230007934988574",
+          "text": "Busy or not, never miss a selfie 📸\n#PUBG #StellarBlade #EVE",
+          "created_at": "Thu Apr 09 13:15:51 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 7,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "view": 603
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "nanoguava01",
+            "text": "From Savior to survivor.\n#PUBG #CONTENDER #EVE #StellarBlade https://t.co/t4aeiObcja",
+            "url": "https://x.com/nanoguava01/status/2042212040438407357"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2042246068407349659",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2042246068407349659",
+          "text": "😂😂 https://t.co/GWglUhZhFg",
+          "created_at": "Thu Apr 09 14:19:40 +0000 2026",
+          "lang": "qme",
+          "metrics": {
+            "like": 1487,
+            "retweet": 197,
+            "reply": 21,
+            "quote": 10,
+            "view": 35182
+          },
+          "author_handle": "hsyoo___"
+        }
+      ],
+      "topic": ""
+    }
+  ]
+}

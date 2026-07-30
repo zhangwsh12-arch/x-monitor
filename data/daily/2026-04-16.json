@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-07-30T15:06:19.814292+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2044564692132155622",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2044564692132155622",
+          "text": "It’s too crowded in the desert!! 🏜",
+          "created_at": "Wed Apr 15 23:53:03 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 753,
+            "retweet": 41,
+            "reply": 12,
+            "quote": 0,
+            "view": 27528
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "CrimsonDesert_",
+            "text": "#CrimsonDesert has sold through over 5 million copies worldwide!\nThank you to every Greymane who has joined us on this journey, experienced the world of Pywel, and supported the game. Reaching this milestone would not have been possible without your support and we are truly grateful 🙌❤️",
+            "url": "https://x.com/CrimsonDesert_/status/2044321076990337428"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}
