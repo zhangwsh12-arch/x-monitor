@@ -1,6 +1,6 @@
 """一次性回填：抓每个账号最近 N 天推文，按真实发布日期分装成过去 N 天的日报快照，
 并生成看板。绕过 24h 窗口，但抓完会更新 state 游标，避免日报重复抓。
-用法：python run_backfill.py [天数，默认7]
+用法：python run_backfill.py [天数，默认30]
 """
 import sys
 from collections import defaultdict
@@ -15,7 +15,7 @@ from interpret import interpret_daily
 from render import render_daily
 
 
-def fetch_recent(client: TwitterApiClient, handle: str, since_utc, max_pages: int = 12):
+def fetch_recent(client: TwitterApiClient, handle: str, since_utc, max_pages: int = 30):
     """抓最近推文直到超过 since_utc。返回 [(created_dt, item), ...]。"""
     collected = []
     cursor = ""
@@ -39,7 +39,7 @@ def fetch_recent(client: TwitterApiClient, handle: str, since_utc, max_pages: in
     return collected
 
 
-def main(days: int = 7):
+def main(days: int = 30):
     accounts = load_accounts()
     client = TwitterApiClient()
     since_utc = now_kst().astimezone(timezone.utc) - timedelta(days=days)
@@ -100,5 +100,5 @@ def main(days: int = 7):
 
 
 if __name__ == "__main__":
-    n = int(sys.argv[1]) if len(sys.argv) > 1 else 7
+    n = int(sys.argv[1]) if len(sys.argv) > 1 else 30
     main(n)
