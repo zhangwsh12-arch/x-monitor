@@ -17,9 +17,14 @@
   header{margin-bottom:20px}
   h1{font-size:22px;font-weight:700;display:flex;align-items:center;gap:8px}
   .date{color:var(--muted);font-size:14px;margin-top:4px}
-  .nav{margin:14px 0 26px;display:flex;gap:10px;flex-wrap:wrap}
-  .nav a{font-size:13px;color:var(--accent);text-decoration:none;padding:5px 12px;
-    background:var(--card);border:1px solid var(--border);border-radius:20px}
+  .nav{margin:14px 0 26px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .nav-btn{font-size:14px;color:var(--accent);text-decoration:none;padding:6px 14px;
+    background:var(--card);border:1px solid var(--border);border-radius:8px;
+    display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+  .nav-btn.disabled{color:#c4c9cf;pointer-events:none;background:#f2f3f5}
+  .nav select{font-size:14px;color:var(--text);padding:6px 10px;border:1px solid var(--border);
+    border-radius:8px;background:var(--card);cursor:pointer;max-width:200px}
+  .nav-label{font-size:12px;color:var(--muted);margin-right:2px}
   .acct{background:var(--card);border:1px solid var(--border);border-radius:14px;
     padding:18px 20px;margin-bottom:18px;box-shadow:var(--shadow)}
   .acct-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
@@ -53,12 +58,28 @@
     <div class="date">日报 · {{ date }}（KST）· 过去 24 小时</div>
   </header>
 
-  {% if weeks or dates %}
   <nav class="nav">
-    {% for d in dates %}<a href="daily-{{ d }}.html">{{ d }}</a>{% endfor %}
-    {% for w in weeks %}<a href="weekly-{{ w }}.html">周报 {{ w }}</a>{% endfor %}
+    {% if prev_date %}<a class="nav-btn" href="daily-{{ prev_date }}.html">← 前一天</a>
+    {% else %}<span class="nav-btn disabled">← 前一天</span>{% endif %}
+
+    <span class="nav-label">日期</span>
+    <select onchange="if(this.value)location.href='daily-'+this.value+'.html'">
+      {% for d in all_dates %}
+      <option value="{{ d }}" {% if d == date %}selected{% endif %}>{{ d }}</option>
+      {% endfor %}
+    </select>
+
+    {% if next_date %}<a class="nav-btn" href="daily-{{ next_date }}.html">后一天 →</a>
+    {% else %}<span class="nav-btn disabled">后一天 →</span>{% endif %}
+
+    {% if weeks %}
+    <span class="nav-label">周报</span>
+    <select onchange="if(this.value)location.href='weekly-'+this.value+'.html'">
+      <option value="">选择周报…</option>
+      {% for w in weeks %}<option value="{{ w }}">{{ w }}</option>{% endfor %}
+    </select>
+    {% endif %}
   </nav>
-  {% endif %}
 
   {% for acc in accounts %}
   <section class="acct">
