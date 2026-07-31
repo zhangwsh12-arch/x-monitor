@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T08:09:26.202410+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 3,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2083000861157200237",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2083000861157200237",
+          "text": "RT @jamm3rd: “Wanna be in LOVE” feat. EVIE \nfrom Stellar Blade : BLOODRAIN official original Song MUSIC VIDEO 4K💗\n#StellarBlade #BLOODRAIN…",
+          "created_at": "Fri Jul 31 01:24:40 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2730,
+            "retweet": 408,
+            "reply": 721,
+            "quote": 429,
+            "view": 708353
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "jamm3rd",
+            "text": "“Wanna be in LOVE” feat. EVIE \nfrom Stellar Blade : BLOODRAIN official original Song MUSIC VIDEO 4K💗\n#StellarBlade #BLOODRAIN #Shiftup #EVIE #OST #kpop #Idol #Enjoy https://t.co/C9zU1YN4wz",
+            "url": "https://x.com/jamm3rd/status/2082994661048610829"
+          }
+        },
+        {
+          "id": "2083000831323062386",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2083000831323062386",
+          "text": "RT @jamm3rd: \"Wanna be in LOVE\" feat. EVIE from Stellar Blade : BLOODRAIN🎶 \nEVIE’s new music video is now available in 4K on YouTube. We’d…",
+          "created_at": "Fri Jul 31 01:24:33 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2828,
+            "retweet": 331,
+            "reply": 460,
+            "quote": 187,
+            "view": 412537
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "jamm3rd",
+            "text": "\"Wanna be in LOVE\" feat. EVIE from Stellar Blade : BLOODRAIN🎶 \nEVIE’s new music video is now available in 4K on YouTube. We’d love for you to watch it and share your thoughts with us!\nhttps://t.co/n1bhFiH1IJ https://t.co/kjmGnqoe9W",
+            "url": "https://x.com/jamm3rd/status/2082994905325187473"
+          }
+        },
+        {
+          "id": "2082996285850968404",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2082996285850968404",
+          "text": "RT @StellarBlade: Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.c…",
+          "created_at": "Fri Jul 31 01:06:29 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2126,
+            "retweet": 288,
+            "reply": 381,
+            "quote": 181,
+            "view": 441060
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.co/0tFPsJqkbx",
+            "url": "https://x.com/StellarBlade/status/2082994852569264185"
+          }
+        },
+        {
+          "id": "2082995761713946842",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2082995761713946842",
+          "text": "Lovely Evie is back! And yes, you 'Wanna be in LOVE🎶' with her. Don't resist it💕\n#Evie",
+          "created_at": "Fri Jul 31 01:04:24 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 28,
+            "retweet": 4,
+            "reply": 9,
+            "quote": 1,
+            "view": 1943
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.co/0tFPsJqkbx",
+            "url": "https://x.com/StellarBlade/status/2082994852569264185"
+          }
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ]
+}
