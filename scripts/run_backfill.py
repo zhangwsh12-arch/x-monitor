@@ -1,9 +1,10 @@
-"""一次性回填：抓每个账号最近若干页的全部推文，按真实发布日期分装成快照，
-为「每个真的有推文的日期」生成日报，并渲染看板。抓多少展多少，不限时间窗口。
+"""一次性回填：抓每个账号最近若干页推文，只保留 2026-07-01 之后的，
+按真实发布日期分装成快照并翻译，为有内容的日期生成日报+渲染看板。
 用法：python run_backfill.py [最多翻页数，默认40]
 """
 import sys
 from collections import defaultdict
+from datetime import datetime, timezone
 
 from common import (
     TwitterApiClient, load_accounts, load_state, save_state,
@@ -13,9 +14,12 @@ from fetch import parse_created_at, classify, simplify
 from interpret import interpret_daily
 from render import render_daily
 
+# 只回填这个日期(含)之后的内容
+SINCE = datetime(2026, 7, 1, tzinfo=timezone.utc)
+
 
 def fetch_all(client: TwitterApiClient, handle: str, max_pages: int = 40, diag: list | None = None):
-    """抓最近 max_pages 页的全部推文，不做时间过滤。返回 [(created_dt, item), ...]。"""
+    """抓最近若干页，只保留 SINCE 之后的推文。返回 [(created_dt, item), ...]。"""
     collected = []
     cursor = ""
     pages = 0
@@ -24,23 +28,27 @@ def fetch_all(client: TwitterApiClient, handle: str, max_pages: int = 40, diag: 
         tweets = resp.get("tweets") or []
         pages += 1
         if diag is not None and pages == 1:
-            diag.append({
-                "handle": handle,
-                "tweets_len": len(tweets),
-                "has_next_page": resp.get("has_next_page"),
-            })
+            diag.append({"handle": handle, "tweets_len": len(tweets),
+                         "has_next_page": resp.get("has_next_page")})
         if not tweets:
             break
+        page_all_old = True
         for t in tweets:
             created = parse_created_at(t.get("createdAt", ""))
-            collected.append((created, simplify(t, classify(t))))
+            if created and created >= SINCE:
+                collected.append((created, simplify(t, classify(t))))
+                page_all_old = False
+            elif created and created >= SINCE.replace(month=6):
+                page_all_old = False
         if not resp.get("has_next_page"):
+            break
+        if page_all_old:
             break
         cursor = resp.get("next_cursor") or ""
         if not cursor:
             break
     if diag is not None:
-        diag.append({"handle": handle, "_summary": f"翻了{pages}页, 共{len(collected)}条"})
+        diag.append({"handle": handle, "_summary": f"翻了{pages}页, 7/1后收集{len(collected)}条"})
     return collected
 
 
@@ -48,7 +56,7 @@ def main(max_pages: int = 40):
     accounts = load_accounts()
     client = TwitterApiClient()
 
-    per_date = defaultdict(dict)   # date_key -> handle -> [items]
+    per_date = defaultdict(dict)
     newest_ids = {}
     diag = []
 
@@ -67,11 +75,10 @@ def main(max_pages: int = 40):
                 continue
             dk = created.astimezone(KST).strftime("%Y-%m-%d")
             per_date[dk].setdefault(handle, []).append(it)
-        log.info("@%s 回填抓到 %d 条", handle, len(rows))
+        log.info("@%s 回填抓到 %d 条(7/1后)", handle, len(rows))
 
     write_json(DATA_DIR / "_diag.json", {"generated_at": now_kst().isoformat(), "records": diag})
 
-    # 为「每个真的有推文的日期」生成快照
     generated_days = []
     for d in sorted(per_date.keys()):
         accounts_data = []
@@ -92,7 +99,6 @@ def main(max_pages: int = 40):
         generated_days.append(d)
         log.info("已生成 %s 快照", d)
 
-    # 更新去重游标
     state = load_state()
     for h, mid in newest_ids.items():
         cur = (state.get(h) or {}).get("last_seen_id")
@@ -100,7 +106,6 @@ def main(max_pages: int = 40):
             state[h] = {"last_seen_id": mid}
     save_state(state)
 
-    # 渲染（升序，index.html 最终指向最新一天）
     for d in sorted(generated_days):
         snap = read_json(DAILY_DIR / f"{d}.json")
         if snap:
