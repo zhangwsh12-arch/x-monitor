@@ -7,10 +7,13 @@ from common import log
 
 
 def _llm_config():
+    # 用 or 兜底：避免 Secret 存在但为空字符串时拿到 "" 导致 URL 无域名
+    base = (os.getenv("LLM_API_BASE") or "https://api.deepseek.com").rstrip("/")
+    model = os.getenv("LLM_MODEL") or "deepseek-chat"
     return {
-        "base": os.getenv("LLM_API_BASE", "https://api.deepseek.com").rstrip("/"),
+        "base": base,
         "key": os.getenv("LLM_API_KEY", ""),
-        "model": os.getenv("LLM_MODEL", "deepseek-chat"),
+        "model": model,
     }
 
 
