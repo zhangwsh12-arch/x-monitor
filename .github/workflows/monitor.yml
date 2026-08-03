@@ -4,8 +4,8 @@ on:
   schedule:
     # 日报：KST 07:00 = UTC 22:00
     - cron: "0 22 * * *"
-    # 周报：KST 周一 08:00 = UTC 周日 23:00
-    - cron: "0 23 * * 0"
+    # 周报：KST 周一 11:00 = UTC 周一 02:00
+    - cron: "0 2 * * 1"
   workflow_dispatch:
     inputs:
       mode:
@@ -36,7 +36,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "mode=${{ github.event.inputs.mode }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "0 23 * * 0" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 2 * * 1" ]; then
             echo "mode=weekly" >> "$GITHUB_OUTPUT"
           else
             echo "mode=daily" >> "$GITHUB_OUTPUT"
