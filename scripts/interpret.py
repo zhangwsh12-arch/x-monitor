@@ -95,7 +95,7 @@ def interpret_keywords(window_texts_by_handle: dict[str, list[str]]) -> dict | N
     blocks = []
     for h, texts in window_texts_by_handle.items():
         if texts:
-            blocks.append(f"@{h}:\n" + "\n".join(f"- {t}" for t in texts))
+            blocks.append(f"账号 {h}:\n" + "\n".join(f"- {t}" for t in texts))
     if not blocks:
         return None
     content = _chat([
@@ -105,6 +105,7 @@ def interpret_keywords(window_texts_by_handle: dict[str, list[str]]) -> dict | N
             "同时判断账号之间是否存在真实的共同关注领域：只有当至少两个账号围绕同一具体主题"
             "明确反复出现交集时才输出 common；若没有真实重叠，common 必须返回空数组，"
             "禁止为了凑数给出宽泛/牵强的共同点。"
+            'accounts 的键必须是账号原始 handle，不要带 @ 前缀。'
             '只返回JSON：{"accounts":{"handle":["kw1","kw2"]},"common":["kw"]}，不要多余文字。'
         )},
         {"role": "user", "content": "\n\n".join(blocks)},
@@ -113,7 +114,10 @@ def interpret_keywords(window_texts_by_handle: dict[str, list[str]]) -> dict | N
         return None
     try:
         data = json.loads(content[content.find("{"):content.rfind("}") + 1])
-        return {"accounts": data.get("accounts", {}), "common": data.get("common", [])}
+        raw_accounts = data.get("accounts", {}) or {}
+        # 防御性处理：不管 LLM 是否遵守"不带 @"的指示，统一去掉前缀再匹配
+        norm_accounts = {k.lstrip("@"): v for k, v in raw_accounts.items()}
+        return {"accounts": norm_accounts, "common": data.get("common", [])}
     except Exception as e:  # noqa
         log.warning("关键词解析失败: %s", e)
         return None
