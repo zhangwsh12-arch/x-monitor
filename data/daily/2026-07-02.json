@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-08-03T16:34:06.086581+09:00",
+  "generated_at": "2026-08-03T17:00:09.444346+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -36,12 +36,13 @@
             "retweet": 19,
             "reply": 0,
             "quote": 0,
-            "view": 11006
+            "view": 11007
           },
-          "author_handle": "_yoojoonseok"
+          "author_handle": "_yoojoonseok",
+          "text_zh": "真不敢相信已经过去一年了。去年玩得太开心了，期待AX2026\n#NIKKE #AX2026 https://t.co/edaqlkKs15"
         }
       ],
-      "topic": ""
+      "topic": "该账号今日回顾去年漫展快乐，并表达对AX2026的期待。"
     },
     {
       "handle": "hsyoo___",
@@ -67,10 +68,11 @@
             "quote": 28,
             "view": 73630
           },
-          "author_handle": "hsyoo___"
+          "author_handle": "hsyoo___",
+          "text_zh": "今天预定更新的妮姬介绍视频制作过程中出现问题，目前视频上传延迟。我们将尽快处理，尽快完成上传。"
         }
       ],
-      "topic": ""
+      "topic": "视频制作遇阻，妮姬介绍更新延迟，团队正加紧处理。"
     }
   ]
 }

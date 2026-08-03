@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-08-03T16:36:06.122633+09:00",
+  "generated_at": "2026-08-03T17:00:39.377721+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -33,20 +33,21 @@
           "lang": "en",
           "metrics": {
             "like": 11346,
-            "retweet": 1057,
+            "retweet": 1058,
             "reply": 163,
             "quote": 32,
-            "view": 247860
+            "view": 247893
           },
           "author_handle": "_yoojoonseok",
           "source_tweet": {
             "handle": "StellarBlade",
             "text": "Ask and you shall receive!\n\nYou can now listen to「Make Up My Mind」and「Off The Line」from the Stellar Blade: BLOOD RAIN trailer on Spotify and Apple Music!\n\n🟢 Spotify: https://t.co/ytiHCmvbDL\n🍎 Apple Music: https://t.co/Qj0AR3d4ok https://t.co/jqJMgZEdII",
             "url": "https://x.com/StellarBlade/status/2081592501945970934"
-          }
+          },
+          "text_zh": "转发 @StellarBlade：有求必应！\n\n现在你可以收听《星刃：血雨》原声带中的《下定决心》和《偏离轨道》了。"
         }
       ],
-      "topic": ""
+      "topic": "该账号今日关注《星刃：血雨》原声带新曲上线。"
     },
     {
       "handle": "hsyoo___",

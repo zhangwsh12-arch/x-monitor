@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-03T16:36:42.133416+09:00",
+  "generated_at": "2026-08-03T17:00:50.889444+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -20,16 +20,17 @@
           "created_at": "Fri Jul 31 15:08:54 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 2141,
+            "like": 2143,
             "retweet": 216,
             "reply": 536,
             "quote": 197,
-            "view": 376543
+            "view": 376858
           },
-          "author_handle": "jamm3rd"
+          "author_handle": "jamm3rd",
+          "text_zh": "\"想要坠入爱河\" 与《星刃》中的EVIE合作：BLOODRAIN\nEVIE的新音乐视频现已在YouTube上线。如果您能观看视频并分享您的想法，我将不胜感激！https://t.co/n1bhFiH1IJ\n\n#星刃 #BLOODRAIN #EVIE https://t.co/eNiLyZAQ5W"
         }
       ],
-      "topic": ""
+      "topic": "今日聚焦《星刃》EVIE新歌《BLOODRAIN》MV发布，邀粉丝观看并分享感受。"
     },
     {
       "handle": "_yoojoonseok",

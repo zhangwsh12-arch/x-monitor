@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-08-03T16:35:42.115793+09:00",
+  "generated_at": "2026-08-03T17:00:33.878327+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -38,10 +38,11 @@
             "quote": 0,
             "view": 332
           },
-          "author_handle": "_yoojoonseok"
+          "author_handle": "_yoojoonseok",
+          "text_zh": "一个时代落幕，新一代开启。\n恭喜西班牙 🇪🇸 \n感谢梅西 🇦🇷"
         }
       ],
-      "topic": ""
+      "topic": "西班牙夺冠，梅西谢幕，足坛新时代开启。"
     },
     {
       "handle": "hsyoo___",
@@ -65,12 +66,13 @@
             "retweet": 137,
             "reply": 22,
             "quote": 5,
-            "view": 25356
+            "view": 25358
           },
-          "author_handle": "hsyoo___"
+          "author_handle": "hsyoo___",
+          "text_zh": "能和大家在一起，我感到非常幸福。\n衷心感谢所有热情享受的指挥官们。\n\n#NIKKE #妮姬 #NIKKEBandlive #FULLBUSTLIVE"
         }
       ],
-      "topic": ""
+      "topic": "该账号今日聚焦NIKKE线下音乐会，分享与指挥官共聚的幸福感言。"
     }
   ]
 }

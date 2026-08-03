@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-08-03T16:34:42.097321+09:00",
+  "generated_at": "2026-08-03T17:00:18.647323+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -48,12 +48,13 @@
             "retweet": 149,
             "reply": 11,
             "quote": 1,
-            "view": 31644
+            "view": 31646
           },
-          "author_handle": "hsyoo___"
+          "author_handle": "hsyoo___",
+          "text_zh": "很高兴与大家见面。我们从你们发来的许多鼓励话语中汲取了力量。谢谢！\n\n#NIKKE #AnimeExpo2026 https://t.co/zi1BXGrwUL"
         }
       ],
-      "topic": ""
+      "topic": "该账号今日宣布参与AnimeExpo2026，并感谢粉丝支持。"
     }
   ]
 }
