@@ -19,27 +19,41 @@ def _chat(messages: list[dict], temperature: float = 0.3, max_tokens: int = 1500
     if not cfg["key"]:
         return None
     import requests
-    try:
-        r = requests.post(
-            f"{cfg['base']}/chat/completions",
-            headers={"Authorization": f"Bearer {cfg['key']}", "Content-Type": "application/json"},
-            json={"model": cfg["model"], "messages": messages,
-                  "temperature": temperature, "max_tokens": max_tokens},
-            timeout=60,
-        )
-        r.raise_for_status()
-        return r.json()["choices"][0]["message"]["content"].strip()
-    except Exception as e:  # noqa
-        log.warning("LLM 调用失败，降级为原文: %s", e)
-        return None
+    import time
+    for attempt in range(3):
+        try:
+            r = requests.post(
+                f"{cfg['base']}/chat/completions",
+                headers={"Authorization": f"Bearer {cfg['key']}", "Content-Type": "application/json"},
+                json={"model": cfg["model"], "messages": messages,
+                      "temperature": temperature, "max_tokens": max_tokens},
+                timeout=90,
+            )
+            r.raise_for_status()
+            return r.json()["choices"][0]["message"]["content"].strip()
+        except Exception as e:  # noqa
+            log.warning("LLM 调用失败(第%d次): %s", attempt + 1, e)
+            if attempt < 2:
+                time.sleep(3)
+    return None
+
+
+def _is_2026(it: dict) -> bool:
+    """只翻译 2026 年的推文，更早的不翻以省额度。"""
+    c = it.get("created_at") or ""
+    return c.strip().endswith("2026")
 
 
 def interpret_daily(fetch_result: dict) -> dict:
     """给每条非中文推文加中文译文；给每个账号加一句话话题概括。"""
     for acc in fetch_result["accounts"]:
         items = acc["items"]
-        # 1) 批量翻译非中文推文
-        to_translate = [it for it in items if (it.get("lang") or "").lower() not in ("zh", "zh-cn", "zh-tw", "")]
+        # 1) 批量翻译非中文推文（仅 2026 年、且 lang 非中文）
+        to_translate = [
+            it for it in items
+            if _is_2026(it)
+            and (it.get("lang") or "").lower() not in ("zh", "zh-cn", "zh-tw", "zh-hans", "zh-hant")
+        ]
         if to_translate:
             payload = [{"i": idx, "text": it["text"][:500]} for idx, it in enumerate(to_translate)]
             content = _chat([
@@ -71,7 +85,6 @@ def interpret_daily(fetch_result: dict) -> dict:
 
 def interpret_weekly(daily_snapshots: list[dict]) -> str:
     """基于近 7 日快照做趋势合成，返回完整段落形式的中文分析。"""
-    # 汇总每账号一周内容
     by_account: dict[str, list[str]] = {}
     for snap in daily_snapshots:
         for acc in snap.get("accounts", []):
