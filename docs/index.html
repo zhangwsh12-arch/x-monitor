@@ -25,6 +25,16 @@
   .nav select{font-size:14px;color:var(--text);padding:6px 10px;border:1px solid var(--border);
     border-radius:8px;background:var(--card);cursor:pointer;max-width:200px}
   .nav-label{font-size:12px;color:var(--muted);margin-right:2px}
+  .focus-section{background:#f0f7ff;border-left:3px solid var(--accent);border-radius:6px;
+    padding:10px 14px;margin-bottom:16px}
+  .focus-title{font-size:13px;font-weight:700;color:#1a5fa8;margin-bottom:6px}
+  .focus-sub{font-size:11px;color:var(--muted);font-weight:400;margin-left:4px}
+  .focus-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:4px 0}
+  .focus-acct{font-size:12px;color:var(--muted);min-width:64px}
+  .kw-chip{display:inline-block;font-size:12px;padding:2px 10px;border-radius:10px;
+    background:#eef1f4;color:var(--text);border:1px solid var(--border)}
+  .focus-common{border-top:1px dashed var(--border);padding-top:6px;margin-top:2px}
+  .kw-chip-common{background:#fff3d6;color:#8a5c00;border-color:#f0d9a0}
   .acct{background:var(--card);border:1px solid var(--border);border-radius:14px;
     padding:18px 20px;margin-bottom:18px;box-shadow:var(--shadow)}
   .acct-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
@@ -55,21 +65,40 @@
 <div class="wrap">
   <header>
     <h1>📡 X 账号动态看板</h1>
-    <div class="date">日报 · 2026-08-01（KST）· 过去 24 小时</div>
+    <div class="date">日报 · 2026-08-03（KST）· 过去 24 小时</div>
   </header>
 
+  
+  <section class="focus-section">
+    <div class="focus-title">📌 近期关注点<span class="focus-sub">（近30天）</span></div>
+    
+      
+    
+      
+    
+      
+    
+    
+    <div class="focus-row focus-common">
+      <span class="focus-acct">🔗 共同关注</span>
+      <span class="kw-chip kw-chip-common">星刃宣传</span><span class="kw-chip kw-chip-common">NIKKE活动</span>
+    </div>
+    
+  </section>
+  
+
   <nav class="nav">
-    <a class="nav-btn" href="daily-2026-07-31.html">← 前一天</a>
+    <a class="nav-btn" href="daily-2026-08-02.html">← 前一天</a>
     
 
     <span class="nav-label">日期</span>
     <select onchange="if(this.value)location.href='daily-'+this.value+'.html'">
       
-      <option value="2026-08-03" >2026-08-03</option>
+      <option value="2026-08-03" selected>2026-08-03</option>
       
       <option value="2026-08-02" >2026-08-02</option>
       
-      <option value="2026-08-01" selected>2026-08-01</option>
+      <option value="2026-08-01" >2026-08-01</option>
       
       <option value="2026-07-31" >2026-07-31</option>
       
@@ -759,8 +788,7 @@
       
     </select>
 
-    <a class="nav-btn" href="daily-2026-08-02.html">后一天 →</a>
-    
+    <span class="nav-btn disabled">后一天 →</span>
 
     
     <span class="nav-label">周报</span>
@@ -775,28 +803,11 @@
   <section class="acct">
     <div class="acct-head">
       <div class="acct-name">jamm3rd<span class="acct-handle">@jamm3rd</span></div>
-      <div class="counts">原创 1 · 转发 0 · 引用 0</div>
+      <div class="counts">原创 0 · 转发 0 · 引用 0</div>
     </div>
-    <div class="topic">💡 今日聚焦《星刃》EVIE新歌《BLOODRAIN》MV发布，邀粉丝观看并分享感受。</div>
+    <div class="topic">💡 今日无更新</div>
     
-      
-      <div class="item">
-        <span class="badge b-post">原创</span>
-        <span class="text">"Wanna be in LOVE" feat. EVIE from Stellar Blade : BLOODRAIN
-EVIE’s new music video is now available in YouTube. I would be very grateful if you could watch the video and share your thoughts! https://t.co/n1bhFiH1IJ
-
-#StellarBlade #BLOODRAIN #EVIE https://t.co/eNiLyZAQ5W</span>
-        <div class="text-zh">🇨🇳 "想要坠入爱河" 与《星刃》中的EVIE合作：BLOODRAIN
-EVIE的新音乐视频现已在YouTube上线。如果您能观看视频并分享您的想法，我将不胜感激！https://t.co/n1bhFiH1IJ
-
-#星刃 #BLOODRAIN #EVIE https://t.co/eNiLyZAQ5W</div>
-        
-        <div class="meta">
-          👍 2143 · 🔁 216 · 💬 536 · 👁 376858
-           · <a href="https://x.com/jamm3rd/status/2083208289408684257" target="_blank">查看原文 ↗</a>
-        </div>
-      </div>
-      
+      <div class="empty">今日无新增内容。</div>
     
   </section>
   
@@ -823,7 +834,7 @@ EVIE的新音乐视频现已在YouTube上线。如果您能观看视频并分享
   </section>
   
 
-  <footer>自动生成 · 数据来源 TwitterAPI.io · 2026-08-03 17:00 KST</footer>
+  <footer>自动生成 · 数据来源 TwitterAPI.io · 2026-08-03 18:02 KST</footer>
 </div>
 </body>
 </html>
