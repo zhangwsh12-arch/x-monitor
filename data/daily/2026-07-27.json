@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-30T15:06:19.842720+09:00",
+  "generated_at": "2026-08-03T16:36:06.122633+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -32,11 +32,11 @@
           "created_at": "Mon Jul 27 07:27:30 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 11276,
-            "retweet": 1048,
-            "reply": 157,
-            "quote": 31,
-            "view": 227562
+            "like": 11346,
+            "retweet": 1057,
+            "reply": 163,
+            "quote": 32,
+            "view": 247860
           },
           "author_handle": "_yoojoonseok",
           "source_tweet": {

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-30T15:06:19.834425+09:00",
+  "generated_at": "2026-08-03T16:34:06.086581+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -32,11 +32,11 @@
           "created_at": "Thu Jul 02 04:38:30 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 190,
-            "retweet": 20,
+            "like": 189,
+            "retweet": 19,
             "reply": 0,
             "quote": 0,
-            "view": 10771
+            "view": 11006
           },
           "author_handle": "_yoojoonseok"
         }
@@ -61,11 +61,11 @@
           "created_at": "Wed Jul 01 15:12:54 +0000 2026",
           "lang": "ko",
           "metrics": {
-            "like": 1143,
-            "retweet": 176,
+            "like": 1142,
+            "retweet": 175,
             "reply": 50,
             "quote": 28,
-            "view": 73403
+            "view": 73630
           },
           "author_handle": "hsyoo___"
         }

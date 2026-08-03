@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-30T15:06:19.836772+09:00",
+  "generated_at": "2026-08-03T16:34:42.097321+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -44,11 +44,11 @@
           "created_at": "Mon Jul 06 09:19:08 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 1428,
-            "retweet": 148,
+            "like": 1431,
+            "retweet": 149,
             "reply": 11,
             "quote": 1,
-            "view": 30977
+            "view": 31644
           },
           "author_handle": "hsyoo___"
         }

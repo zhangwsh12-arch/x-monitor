@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-30T15:06:19.835851+09:00",
+  "generated_at": "2026-08-03T16:34:30.093750+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -36,7 +36,7 @@
             "retweet": 8,
             "reply": 2,
             "quote": 0,
-            "view": 1701
+            "view": 1712
           },
           "author_handle": "_yoojoonseok"
         },
@@ -52,7 +52,7 @@
             "retweet": 22,
             "reply": 2,
             "quote": 0,
-            "view": 9636
+            "view": 9652
           },
           "author_handle": "_yoojoonseok"
         }
