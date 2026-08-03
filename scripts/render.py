@@ -16,6 +16,12 @@ def _env():
     return env
 
 
+def _history_links():
+    dates = sorted([p.stem for p in DAILY_DIR.glob("*.json")], reverse=True)[:14]
+    weeks = sorted([p.stem for p in WEEKLY_DIR.glob("*.json")], reverse=True)[:8]
+    return dates, weeks
+
+
 def render_daily(daily: dict) -> None:
     env = _env()
     # 全部日期(倒序，新→旧)供下拉；周报单独下拉
@@ -25,8 +31,8 @@ def render_daily(daily: dict) -> None:
     if cur not in all_dates:
         all_dates = sorted(set(all_dates + [cur]), reverse=True)
     idx = all_dates.index(cur)
-    next_date = all_dates[idx - 1] if idx > 0 else None
-    prev_date = all_dates[idx + 1] if idx < len(all_dates) - 1 else None
+    next_date = all_dates[idx - 1] if idx > 0 else None          # 更近的一天(后一天)
+    prev_date = all_dates[idx + 1] if idx < len(all_dates) - 1 else None  # 更早的一天(前一天)
     ctx = {
         "date": cur,
         "accounts": daily["accounts"],
@@ -34,9 +40,11 @@ def render_daily(daily: dict) -> None:
         "weeks": weeks,
         "prev_date": prev_date,
         "next_date": next_date,
+        "keywords": daily.get("keywords"),
         "generated_at": now_kst().strftime("%Y-%m-%d %H:%M KST"),
     }
     html = env.get_template("dashboard.html.j2").render(**ctx)
+    # 首页 = 最新日报；同时留存 daily-YYYY-MM-DD.html
     (DOCS_DIR / "index.html").write_text(html, encoding="utf-8")
     (DOCS_DIR / f"daily-{daily['date']}.html").write_text(html, encoding="utf-8")
 
