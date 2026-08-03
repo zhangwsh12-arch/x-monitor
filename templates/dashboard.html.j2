@@ -25,6 +25,16 @@
   .nav select{font-size:14px;color:var(--text);padding:6px 10px;border:1px solid var(--border);
     border-radius:8px;background:var(--card);cursor:pointer;max-width:200px}
   .nav-label{font-size:12px;color:var(--muted);margin-right:2px}
+  .focus-section{background:#f0f7ff;border-left:3px solid var(--accent);border-radius:6px;
+    padding:10px 14px;margin-bottom:16px}
+  .focus-title{font-size:13px;font-weight:700;color:#1a5fa8;margin-bottom:6px}
+  .focus-sub{font-size:11px;color:var(--muted);font-weight:400;margin-left:4px}
+  .focus-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:4px 0}
+  .focus-acct{font-size:12px;color:var(--muted);min-width:64px}
+  .kw-chip{display:inline-block;font-size:12px;padding:2px 10px;border-radius:10px;
+    background:#eef1f4;color:var(--text);border:1px solid var(--border)}
+  .focus-common{border-top:1px dashed var(--border);padding-top:6px;margin-top:2px}
+  .kw-chip-common{background:#fff3d6;color:#8a5c00;border-color:#f0d9a0}
   .acct{background:var(--card);border:1px solid var(--border);border-radius:14px;
     padding:18px 20px;margin-bottom:18px;box-shadow:var(--shadow)}
   .acct-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
@@ -57,6 +67,26 @@
     <h1>📡 X 账号动态看板</h1>
     <div class="date">日报 · {{ date }}（KST）· 过去 24 小时</div>
   </header>
+
+  {% if keywords %}
+  <section class="focus-section">
+    <div class="focus-title">📌 近期关注点<span class="focus-sub">（近30天）</span></div>
+    {% for acc in accounts %}
+      {% if keywords.accounts[acc.handle] %}
+      <div class="focus-row">
+        <span class="focus-acct">{{ acc.name }}</span>
+        {% for kw in keywords.accounts[acc.handle] %}<span class="kw-chip">{{ kw }}</span>{% endfor %}
+      </div>
+      {% endif %}
+    {% endfor %}
+    {% if keywords.common %}
+    <div class="focus-row focus-common">
+      <span class="focus-acct">🔗 共同关注</span>
+      {% for kw in keywords.common %}<span class="kw-chip kw-chip-common">{{ kw }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </section>
+  {% endif %}
 
   <nav class="nav">
     {% if prev_date %}<a class="nav-btn" href="daily-{{ prev_date }}.html">← 前一天</a>
