@@ -44,6 +44,7 @@ def _chat(messages: list[dict], temperature: float = 0.3, max_tokens: int = 1500
 def _is_2026(it: dict) -> bool:
     """只翻译 2026 年的推文，更早的不翻以省额度。"""
     c = it.get("created_at") or ""
+    # created_at 形如 "Wed Jun 17 10:34:13 +0000 2026"，年份在末尾
     return c.strip().endswith("2026")
 
 
@@ -84,6 +85,38 @@ def interpret_daily(fetch_result: dict) -> dict:
         else:
             acc["topic"] = "今日无更新"
     return fetch_result
+
+
+def interpret_keywords(window_texts_by_handle: dict[str, list[str]]) -> dict | None:
+    """基于近 30 天各账号文本，提炼每账号关键词 + 判断是否存在真实共同关注。
+    无 key / 无内容 / 解析失败时返回 None（调用方据此隐藏整个区块）。"""
+    if not any(window_texts_by_handle.values()):
+        return None
+    blocks = []
+    for h, texts in window_texts_by_handle.items():
+        if texts:
+            blocks.append(f"@{h}:\n" + "\n".join(f"- {t}" for t in texts))
+    if not blocks:
+        return None
+    content = _chat([
+        {"role": "system", "content": (
+            "你是资讯归纳专家。基于给定的X账号近30天内容，为每个账号提炼3-5个简体中文关键词/短语"
+            "（每个不超过8字），概括其反复出现的持续关注主题，不要复述单条推文。"
+            "同时判断账号之间是否存在真实的共同关注领域：只有当至少两个账号围绕同一具体主题"
+            "明确反复出现交集时才输出 common；若没有真实重叠，common 必须返回空数组，"
+            "禁止为了凑数给出宽泛/牵强的共同点。"
+            '只返回JSON：{"accounts":{"handle":["kw1","kw2"]},"common":["kw"]}，不要多余文字。'
+        )},
+        {"role": "user", "content": "\n\n".join(blocks)},
+    ], temperature=0.3, max_tokens=500)
+    if not content:
+        return None
+    try:
+        data = json.loads(content[content.find("{"):content.rfind("}") + 1])
+        return {"accounts": data.get("accounts", {}), "common": data.get("common", [])}
+    except Exception as e:  # noqa
+        log.warning("关键词解析失败: %s", e)
+        return None
 
 
 def interpret_weekly(daily_snapshots: list[dict]) -> str:
