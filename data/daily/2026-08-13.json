@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T07:50:22.765021+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "jamm3rd",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "yoojoonseok",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2087384321040798022",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2087384321040798022",
+          "text": "Super awesome! Really looking forward to its release👍",
+          "created_at": "Wed Aug 12 03:42:58 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 20,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "view": 1169
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "pbzero_official",
+            "text": "Pre-orders for Phantom Blade Zero are now open!\n\nWatch the 11-minute trailer and follow Soul deeper into his journey, where new faces and encounters await along the way.\n\nDonnie Yen has served as Creative Consultant on Phantom Blade Zero since 2023, bringing his martial arts and action filmmaking expertise to the game’s combat design. He also takes on the role of Facial & Motion Capture Actor for Mó Yuan.\n\nHuge thanks to Donnie and his stunt team for bringing authentic kung fu to the game.",
+            "url": "https://x.com/pbzero_official/status/2087358425135214823"
+          },
+          "text_zh": "太棒了！非常期待它的发布👍"
+        }
+      ],
+      "topic": "该账号今日关注某产品发布，表达期待与赞赏。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "hsyoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "星刃血雨",
+        "EVIE音乐",
+        "官方OST",
+        "4K音乐视频"
+      ],
+      "_yoojoonseok": [
+        "星刃血雨",
+        "EVIE音乐",
+        "NIKKE活动",
+        "游戏周边"
+      ],
+      "hsyoo___": [
+        "NIKKE活动",
+        "指挥官互动",
+        "现场演出"
+      ]
+    },
+    "common": [
+      "星刃血雨",
+      "EVIE音乐",
+      "NIKKE活动"
+    ]
+  }
+}
