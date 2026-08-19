@@ -124,7 +124,7 @@ def interpret_keywords(window_texts_by_handle: dict[str, list[str]]) -> dict | N
 
 
 def interpret_weekly(daily_snapshots: list[dict]) -> str:
-    """基于近 7 日快照做趋势合成，返回完整段落形式的中文分析。"""
+    """基于近 7 日快照做简洁周报，适合直接推送企业微信。"""
     by_account: dict[str, list[str]] = {}
     for snap in daily_snapshots:
         for acc in snap.get("accounts", []):
@@ -132,20 +132,21 @@ def interpret_weekly(daily_snapshots: list[dict]) -> str:
             for it in acc.get("items", []):
                 txt = it.get("text_zh") or it.get("text") or ""
                 if txt:
-                    by_account.setdefault(key, []).append(f"[{it['kind']}] {txt[:200]}")
+                    by_account.setdefault(key, []).append(f"[{it['kind']}] {txt[:160]}")
     if not by_account:
-        return "本周监控的账号无新增内容。"
+        return "本周监控账号无新增动态。"
     blocks = []
     for k, msgs in by_account.items():
-        blocks.append(f"### {k}\n" + "\n".join(msgs[:40]))
+        blocks.append(f"### {k}\n" + "\n".join(msgs[:12]))
     corpus = "\n\n".join(blocks)
     analysis = _chat([
         {"role": "system", "content": (
-            "你是资深的游戏行业与舆情分析师。基于给定的一周社媒内容，写一份中文周度趋势分析。"
-            "要求：分账号写成完整段落（不要用表格、不要用生硬的要点符号堆砌），"
-            "指出每个账号本周关注的核心话题、反复出现的主题、值得留意的信号；"
-            "最后用一段做整体趋势总结。语言精炼、干货、可直接阅读。"
+            "你是游戏行业社媒观察员。基于给定的一周内容，输出一份供企业微信直接推送的极简中文周报。"
+            "严格遵守：总字数不超过350字；只写有新增内容的账号；每个账号只用1条项目符号，"
+            "限45字以内，按“账号：核心动态；值得关注的信号”表达；最后只用1条“整体”项目符号，"
+            "限50字以内。不要复述推文原文、不要背景铺陈、不要空泛评价、不要表格、不要使用标题或段落。"
+            "如无真实共同趋势，整体项写“整体：账号关注点分散，暂无明确共同主题。”"
         )},
-        {"role": "user", "content": corpus[:12000]},
-    ], temperature=0.4, max_tokens=2500)
-    return analysis or "（未配置 LLM，以下为本周原始内容汇总）\n\n" + corpus
+        {"role": "user", "content": corpus[:6000]},
+    ], temperature=0.2, max_tokens=500)
+    return analysis or "本周动态已更新；中文分析暂不可用，请查看看板。"
