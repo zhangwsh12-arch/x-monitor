@@ -1,10 +1,10 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T07:30:27.022469+09:00",
+  "generated_at": "2026-08-19T16:53:39.819266+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
-      "name": "jamm3rd",
+      "name": "金亨泰",
       "first_run": false,
       "counts": {
         "post": 0,
@@ -17,7 +17,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "yoojoonseok",
+      "name": "jason",
       "first_run": false,
       "counts": {
         "post": 0,
@@ -30,7 +30,7 @@
     },
     {
       "handle": "hsyoo___",
-      "name": "hsyoo",
+      "name": "yoo",
       "first_run": false,
       "counts": {
         "post": 0,
@@ -45,24 +45,25 @@
   "keywords": {
     "accounts": {
       "jamm3rd": [
-        "星刃血雨音乐",
-        "EVIE合作曲",
-        "游戏OST推广"
+        "星刃血雨",
+        "EVIE音乐",
+        "官方OST",
+        "4K音乐视频"
       ],
       "_yoojoonseok": [
-        "NIKKE游戏",
-        "游戏活动参与",
-        "星刃音乐转发"
+        "NIKKE",
+        "星刃血雨",
+        "EVIE",
+        "游戏音乐"
       ],
       "hsyoo___": [
-        "SHIFTUP高管",
-        "NIKKE活动",
-        "游戏社区互动"
+        "SHIFTUP",
+        "升职",
+        "游戏公司"
       ]
     },
     "common": [
-      "星刃血雨音乐",
-      "NIKKE游戏"
+      "星刃血雨"
     ]
   }
 }
