@@ -2,7 +2,7 @@
 import re
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from common import TEMPLATES_DIR, DOCS_DIR, DAILY_DIR, WEEKLY_DIR, now_kst
+from common import TEMPLATES_DIR, DOCS_DIR, DAILY_DIR, WEEKLY_DIR, now_kst, read_json
 
 KIND_LABEL = {"post": "原创", "retweet": "转发", "quote": "引用", "reply": "回复"}
 
@@ -22,17 +22,19 @@ def _history_links():
     return dates, weeks
 
 
-def render_daily(daily: dict) -> None:
+def render_daily(daily: dict, update_index: bool = True) -> None:
+    """渲染单个日报页面。update_index=False 时不覆盖首页。"""
     env = _env()
-    # 全部日期(倒序，新→旧)供下拉；周报单独下拉
     all_dates = sorted([p.stem for p in DAILY_DIR.glob("*.json")], reverse=True)
     weeks = sorted([p.stem for p in WEEKLY_DIR.glob("*.json")], reverse=True)[:12]
     cur = daily["date"]
     if cur not in all_dates:
         all_dates = sorted(set(all_dates + [cur]), reverse=True)
+
     idx = all_dates.index(cur)
-    next_date = all_dates[idx - 1] if idx > 0 else None          # 更近的一天(后一天)
-    prev_date = all_dates[idx + 1] if idx < len(all_dates) - 1 else None  # 更早的一天(前一天)
+    next_date = all_dates[idx - 1] if idx > 0 else None
+    prev_date = all_dates[idx + 1] if idx < len(all_dates) - 1 else None
+
     ctx = {
         "date": cur,
         "accounts": daily["accounts"],
@@ -43,10 +45,27 @@ def render_daily(daily: dict) -> None:
         "keywords": daily.get("keywords"),
         "generated_at": now_kst().strftime("%Y-%m-%d %H:%M KST"),
     }
+
     html = env.get_template("dashboard.html.j2").render(**ctx)
-    # 首页 = 最新日报；同时留存 daily-YYYY-MM-DD.html
-    (DOCS_DIR / "index.html").write_text(html, encoding="utf-8")
+
+    if update_index:
+        (DOCS_DIR / "index.html").write_text(html, encoding="utf-8")
+
     (DOCS_DIR / f"daily-{daily['date']}.html").write_text(html, encoding="utf-8")
+
+
+def refresh_recent_daily_pages(days: int = 31) -> int:
+    """重渲染最近日报页面，使历史页面的“后一天”链接能指向新生成日期。"""
+    count = 0
+    files = sorted(DAILY_DIR.glob("*.json"), reverse=True)[:days]
+
+    for path in files:
+        daily = read_json(path)
+        if daily:
+            render_daily(daily, update_index=False)
+            count += 1
+
+    return count
 
 
 def _analysis_to_html(text: str) -> str:
