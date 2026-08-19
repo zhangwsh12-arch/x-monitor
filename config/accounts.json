@@ -1,8 +1,8 @@
 {
   "accounts": [
-    { "handle": "jamm3rd",       "name": "jamm3rd" },
-    { "handle": "_yoojoonseok",  "name": "yoojoonseok" },
-    { "handle": "hsyoo___",      "name": "hsyoo" }
+    { "handle": "jamm3rd", "name": "金亨泰" },
+    { "handle": "_yoojoonseok", "name": "jason" },
+    { "handle": "hsyoo___", "name": "yoo" }
   ],
-  "note": "handle 不带 @；name 为看板显示名。"
+  "note": "handle 不带 @；name 为网页、关键词卡片、周报及推送显示名。"
 }
