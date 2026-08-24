@@ -1,0 +1,89 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T07:33:26.125342+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2091819828776738859",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2091819828776738859",
+          "text": "RT @famitsu: Switch2版『ステラーブレイド』の最新トレーラーが公開。2026年後半に発売予定\nhttps://t.co/lw2aAARDW9\n\n地球奪還のために送り込まれた戦士“EVE”の戦いを描くハイスピードアクション。\n\nSwitch2版では、戦闘以外のア…",
+          "created_at": "Mon Aug 24 09:28:05 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 1240,
+            "retweet": 323,
+            "reply": 12,
+            "quote": 33,
+            "view": 153409
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "famitsu",
+            "text": "Switch2版『ステラーブレイド』の最新トレーラーが公開。2026年後半に発売予定\nhttps://t.co/lw2aAARDW9\n\n地球奪還のために送り込まれた戦士“EVE”の戦いを描くハイスピードアクション。\n\nSwitch2版では、戦闘以外のアクティビティではJoy-Con 2のモーション操作に対応。 https://t.co/0i0XCsMm7m",
+            "url": "https://x.com/famitsu/status/2091782667876618331"
+          },
+          "text_zh": "转发 @famitsu：Switch2版《星刃》最新预告片公开，预计2026年下半年发售\nhttps://t.co/lw2aAARDW9\n\n描绘为夺回地球而被派遣的战士“EVE”战斗的高速动作游戏。\n\nSwitch2版中，战斗以外的…"
+        }
+      ],
+      "topic": "Switch2版《星刃》预告公开，2026下半年发售引关注。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "星刃音乐宣传",
+        "EVIE合作推广",
+        "官方MV发布"
+      ],
+      "_yoojoonseok": [
+        "星刃游戏动态",
+        "NIKKE活动",
+        "EVIE音乐转发"
+      ],
+      "hsyoo___": [
+        "SHIFTUP晋升",
+        "游戏开发经历"
+      ]
+    },
+    "common": [
+      "星刃"
+    ]
+  }
+}
