@@ -1,0 +1,155 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T07:34:11.732171+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 4,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2092230340098023888",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2092230340098023888",
+          "text": "RT @NIKKE_japan: 【NIKKE in 京都 with 推し旅開催決定】\n『勝利の女神：NIKKE』× JR東海「推し旅」のコラボ第2弾が開催決定🎉\n\n指揮官、ニケたちと一緒に新幹線で京都へ——\n\n今回の任務は「遺失物調査」🔍️\n東海道新幹線の車内では、ここでしか…",
+          "created_at": "Tue Aug 25 12:39:19 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 6139,
+            "retweet": 1075,
+            "reply": 22,
+            "quote": 91,
+            "view": 237713
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【NIKKE in 京都 with 推し旅開催決定】\n『勝利の女神：NIKKE』× JR東海「推し旅」のコラボ第2弾が開催決定🎉\n\n指揮官、ニケたちと一緒に新幹線で京都へ——\n\n今回の任務は「遺失物調査」🔍️\n東海道新幹線の車内では、ここでしか聴けないニケたちの特別ボイスが彩る物語をお届け。\n\n京都への道中お楽しみください！\n往路・復路で変わるボイスは必聴です🎧\n\n詳細はスレッドをご覧ください👀\n\n#NIKKEin京都 #NIKKE推し旅",
+            "url": "https://x.com/NIKKE_japan/status/2092099649196744705"
+          },
+          "text_zh": "转发 @NIKKE_japan：【NIKKE 京都之旅 与 推し旅 举办决定】\n《胜利女神：NIKKE》× JR东海「推し旅」合作第二弹举办决定🎉\n\n指挥官，与妮姬们一起乘坐新干线前往京都——\n\n本次任务是「遗失物调查」🔍️\n在东海道新干线车内，只有这里才能…"
+        },
+        {
+          "id": "2092230249782079939",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2092230249782079939",
+          "text": "RT @StellarBlade: Stellar Blade Complete Edition launches on Nintendo Switch 2 later in 2026✨ https://t.co/gKiXMfEPwM",
+          "created_at": "Tue Aug 25 12:38:57 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 5218,
+            "retweet": 572,
+            "reply": 161,
+            "quote": 47,
+            "view": 153877
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Stellar Blade Complete Edition launches on Nintendo Switch 2 later in 2026✨ https://t.co/gKiXMfEPwM",
+            "url": "https://x.com/StellarBlade/status/2092144950603665803"
+          },
+          "text_zh": "转发 @StellarBlade：《星刃》完整版将于2026年晚些时候登陆任天堂Switch 2✨ https://t.co/gKiXMfEPwM"
+        },
+        {
+          "id": "2092217934416371759",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2092217934416371759",
+          "text": "RT @StellarBlade: Watch the full, uncut trailer 👉 https://t.co/dFHRI0Jiim",
+          "created_at": "Tue Aug 25 11:50:01 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 208,
+            "retweet": 20,
+            "reply": 7,
+            "quote": 1,
+            "view": 17332
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Watch the full, uncut trailer 👉 https://t.co/dFHRI0Jiim",
+            "url": "https://x.com/StellarBlade/status/2092147301645214120"
+          },
+          "text_zh": "转发 @StellarBlade：观看完整无删减预告片 👉 https://t.co/dFHRI0Jiim"
+        },
+        {
+          "id": "2092053558816395705",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2092053558816395705",
+          "text": "RT @NintendoAmerica: You are EVE, an elite warrior sent to reclaim Earth from mysterious forces. Are you up to the challenge?  \n\nBecome hum…",
+          "created_at": "Tue Aug 25 00:56:51 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 7010,
+            "retweet": 762,
+            "reply": 149,
+            "quote": 88,
+            "view": 773377
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "NintendoAmerica",
+            "text": "You are EVE, an elite warrior sent to reclaim Earth from mysterious forces. Are you up to the challenge?  \n\nBecome humanity’s last hope in Stellar Blade Complete Edition, releasing on Nintendo Switch 2 this year! https://t.co/stbiJfTfP2",
+            "url": "https://x.com/NintendoAmerica/status/2092009054688145609"
+          },
+          "text_zh": "转发 @NintendoAmerica：你是EVE，一名被派往从神秘势力手中夺回地球的精锐战士。你准备好迎接挑战了吗？\n\n成为人类…"
+        }
+      ],
+      "topic": "今日关注《胜利女神：NIKKE》京都联动及《星刃》登陆Switch 2的消息。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "星刃音乐宣传",
+        "EVIE合作曲",
+        "游戏OST推广"
+      ],
+      "_yoojoonseok": [
+        "星刃游戏动态",
+        "NIKKE联动活动",
+        "游戏转发互动"
+      ],
+      "hsyoo___": [
+        "SHIFTUP任职",
+        "游戏开发经历"
+      ]
+    },
+    "common": [
+      "星刃"
+    ]
+  }
+}
