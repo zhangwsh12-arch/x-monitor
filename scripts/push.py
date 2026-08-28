@@ -90,10 +90,48 @@ def _pages_base() -> str:
     return (os.getenv("PAGES_BASE_URL") or "https://zhangwsh12-arch.github.io/x-monitor").rstrip("/")
 
 
-def build_weekly_markdown(week_key: str, analysis: str) -> str:
+def _weekly_counts(snaps: list[dict]):
+    """汇总近 7 日每账号条数（原创/转发/引用/回复）。返回 (agg, order)。"""
+    agg: dict[str, dict] = {}
+    order: list[str] = []
+    for s in snaps:
+        for a in s.get("accounts", []):
+            h = a["handle"]
+            if h not in agg:
+                agg[h] = {"post": 0, "retweet": 0, "quote": 0, "reply": 0}
+                order.append(h)
+            c = a.get("counts", {}) or {}
+            for k in ("post", "retweet", "quote", "reply"):
+                agg[h][k] += c.get(k, 0)
+    return agg, order
+
+
+def _name_of(snaps: list[dict], handle: str) -> str:
+    for s in snaps:
+        for a in s.get("accounts", []):
+            if a["handle"] == handle:
+                return a.get("name") or handle
+    return handle
+
+
+def build_weekly_markdown(week_key: str, analysis: str, snaps: list | None = None) -> str:
     base = _pages_base()
-    footer = (
-        f"\n> 🔗 查看完整周报网页：[点击查看↗]({base}/weekly-{week_key}.html)\n"
-        f"> 🏠 看板首页：[x-monitor↗]({base}/)"
-    )
-    return f"# 📈 X 账号周度趋势分析 · {week_key}\n> 覆盖近 7 日 · KST\n\n{analysis}\n{footer}"
+    lines = [f"# 📈 X 账号周度趋势分析 · {week_key}", "> 覆盖近 7 日 · KST", ""]
+    if snaps:
+        agg, order = _weekly_counts(snaps)
+        dmin = min((s["date"] for s in snaps), default="")
+        dmax = max((s["date"] for s in snaps), default="")
+        if dmin and dmax and dmin != dmax:
+            lines[1] = f"> 覆盖近 7 日（{dmin}–{dmax}）· KST"
+        lines.append("## 📊 本周概览")
+        for h in order:
+            c = agg[h]
+            lines.append(
+                f"- **{_name_of(snaps, h)}**：原创 {c['post']} / 转发 {c['retweet']} / "
+                f"引用 {c['quote']} / 回复 {c['reply']}"
+            )
+        lines.append("")
+    lines.append(analysis)
+    lines.append("")
+    lines.append(f"> 🏠 看板首页：[x-monitor↗]({base}/)")
+    return "\n".join(lines)
