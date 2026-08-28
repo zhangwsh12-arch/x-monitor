@@ -1,6 +1,6 @@
 """周流程：聚合近 7 日快照 → 趋势合成 → 存周报 → 渲染 → 推送。"""
 from common import (
-    DAILY_DIR, WEEKLY_DIR, kst_week_key, read_json, write_json, now_kst, log,
+    DAILY_DIR, WEEKLY_DIR, kst_week_key, read_json, write_json, now_kst, log, load_accounts,
 )
 from interpret import interpret_weekly
 from render import render_weekly
@@ -26,7 +26,7 @@ def main():
         log.warning("无日报快照，跳过周报")
         return
 
-    analysis = interpret_weekly(snaps)
+    analysis = interpret_weekly(snaps, load_accounts())
 
     write_json(WEEKLY_DIR / f"{week_key}.json", {
         "week": week_key,
@@ -39,7 +39,7 @@ def main():
     render_weekly(week_key, analysis)
     log.info("已渲染周报页")
 
-    push(build_weekly_markdown(week_key, analysis))
+    push(build_weekly_markdown(week_key, analysis, snaps))
     log.info("=== 周报流程结束 ===")
 
 
