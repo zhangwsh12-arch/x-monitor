@@ -114,8 +114,18 @@ def _name_of(snaps: list[dict], handle: str) -> str:
     return handle
 
 
-def build_weekly_markdown(week_key: str, analysis: str, snaps: list | None = None) -> str:
+def build_weekly_markdown(
+    week_key: str,
+    analysis: str,
+    snaps: list | None = None,
+    monitored: list[dict] | None = None,
+) -> str:
     base = _pages_base()
+    # 用 accounts.json 的名字作为权威来源（避免日报快照用旧昵称）
+    auth_names: dict[str, str] = {}
+    if monitored:
+        for acc in monitored:
+            auth_names[acc["handle"]] = acc.get("name") or acc["handle"]
     lines = [f"# 📈 X 账号周度趋势分析 · {week_key}", "> 覆盖近 7 日 · KST", ""]
     if snaps:
         agg, order = _weekly_counts(snaps)
@@ -126,8 +136,9 @@ def build_weekly_markdown(week_key: str, analysis: str, snaps: list | None = Non
         lines.append("## 📊 本周概览")
         for h in order:
             c = agg[h]
+            nm = auth_names.get(h) or _name_of(snaps, h)
             lines.append(
-                f"- **{_name_of(snaps, h)}**：原创 {c['post']} / 转发 {c['retweet']} / "
+                f"- **{nm}**：原创 {c['post']} / 转发 {c['retweet']} / "
                 f"引用 {c['quote']} / 回复 {c['reply']}"
             )
         lines.append("")
