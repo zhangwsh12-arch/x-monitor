@@ -123,8 +123,11 @@ def interpret_keywords(window_texts_by_handle: dict[str, list[str]]) -> dict | N
         return None
 
 
-def interpret_weekly(daily_snapshots: list[dict]) -> str:
-    """基于近 7 日快照做简洁周报，适合直接推送企业微信。"""
+def interpret_weekly(daily_snapshots: list[dict], monitored: list[dict] | None = None) -> str:
+    """基于近 7 日快照做结构化周报：每账号要点（编号）+ 整体趋势。
+
+    monitored 为 config/accounts.json 中的账号列表，用于保证无更新的账号也出现。
+    """
     by_account: dict[str, list[str]] = {}
     display_names: dict[str, str] = {}
 
@@ -133,37 +136,57 @@ def interpret_weekly(daily_snapshots: list[dict]) -> str:
             handle = acc["handle"]
             name = acc.get("name") or handle
             display_names[handle] = name
-
-            # 给模型的输入直接使用昵称，降低其输出 ID 的概率。
-            key = name
+            key = name  # 给模型的输入直接用昵称，降低其输出 @ID 的概率
             for it in acc.get("items", []):
                 txt = it.get("text_zh") or it.get("text") or ""
                 if txt:
                     by_account.setdefault(key, []).append(f"[{it['kind']}] {txt[:160]}")
 
-    if not by_account:
-        return "本周监控账号无新增动态。"
+    # 监控账号全名单：保证无更新的账号也出现在周报里
+    if monitored:
+        monitored_names = [acc.get("name") or acc["handle"] for acc in monitored]
+    else:
+        monitored_names = list(display_names.values())
 
     blocks = []
     for name, msgs in by_account.items():
-        blocks.append(f"### {name}\n" + "\n".join(msgs[:12]))
+        blocks.append(f"[{name}]:\n" + "\n".join(msgs[:15]))
+    corpus = "\n\n".join(blocks) if blocks else "（本周三个账号均无新增内容）"
 
-    corpus = "\n\n".join(blocks)
-
+    # 动态构造「每账号一个小标题 + 逐条列表」模板，覆盖全部监控账号
+    account_tpl = "\n".join(
+        f"### {nm}\n- <该账号本周具体动态，逐条列出；若无更新写「本周无更新」>"
+        for nm in monitored_names
+    )
+    prompt = (
+        "你是游戏行业社媒观察员。基于给定的一周内容，输出一份结构清晰、可直接推送企业微信的中文周报。\n"
+        "严格按以下格式输出（用三级标题 ### 分隔每个账号，账号下用无序列表 - 逐条列出具体动态；"
+        "不要表格、不要「整体趋势」段落、不要 emoji 标题）：\n"
+        "## 📌 主要内容\n"
+        f"{account_tpl}\n"
+        "要求：\n"
+        "1. 账号名称必须严格使用输入中给出的昵称，禁止输出任何 @账号ID。\n"
+        "2. 不要重复「本周概览」里已有的原创/转发/引用/回复条数统计，只描述内容本身。\n"
+        "3. 用具体、可感知的语言描述该账号本周实际发了/转了什么：点名具体游戏、作品、角色、活动、公告，"
+        "或说明转发的是谁的什么内容。当同一主题有多条时，把具体内容逐条点名列出来，"
+        "不要用『数条XX资讯』『若干动态』这类一笔带过的表述。\n"
+        "4. 禁止使用抽象概括性表述（如『关注跨平台移植』『IP联动营销』『关注行业动态』『营销动作』等空泛词），"
+        "只写看得见的具体事实。\n"
+        "5. 若本周该账号无任何新增内容，该账号下写「- 本周无更新」。\n"
+        "6. 可用 **加粗** 标出具体游戏/作品名，提升可读性。\n"
+        "7. 语言精炼、干货、可直接阅读；总长度控制在 600 字以内。"
+    )
     analysis = _chat([
-        {"role": "system", "content": (
-            "你是游戏行业社媒观察员。基于给定的一周内容，输出一份供企业微信直接推送的极简中文周报。"
-            "严格遵守：总字数不超过350字；只写有新增内容的账号；每个账号只用1条项目符号，"
-            "限45字以内，按“账号：核心动态；值得关注的信号”表达；最后只用1条“整体”项目符号，"
-            "限50字以内。不要复述推文原文、不要背景铺陈、不要空泛评价、不要表格、不要使用标题或段落。"
-            "账号名称必须严格使用输入中给出的中文或英文昵称，禁止输出任何 @账号ID。"
-            "如无真实共同趋势，整体项写“整体：账号关注点分散，暂无明确共同主题。”"
-        )},
-        {"role": "user", "content": corpus[:6000]},
-    ], temperature=0.2, max_tokens=500)
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": f"本周各账号内容如下：\n{corpus}"},
+    ], temperature=0.3, max_tokens=900)
 
     if not analysis:
-        return "本周动态已更新；中文分析暂不可用，请查看看板。"
+        lines = ["## 📌 主要内容"]
+        for nm in monitored_names:
+            lines.append(f"### {nm}")
+            lines.append("- 本周无更新" if nm not in by_account else "- 详见看板")
+        analysis = "\n".join(lines)
 
     # 双保险：即使 LLM 仍写出 @ID，推送前也强制替换成昵称。
     for handle, name in display_names.items():
