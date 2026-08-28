@@ -26,7 +26,8 @@ def main():
         log.warning("无日报快照，跳过周报")
         return
 
-    analysis = interpret_weekly(snaps, load_accounts())
+    monitored = load_accounts()
+    analysis = interpret_weekly(snaps, monitored)
 
     write_json(WEEKLY_DIR / f"{week_key}.json", {
         "week": week_key,
@@ -39,7 +40,7 @@ def main():
     render_weekly(week_key, analysis)
     log.info("已渲染周报页")
 
-    push(build_weekly_markdown(week_key, analysis, snaps))
+    push(build_weekly_markdown(week_key, analysis, snaps, monitored))
     log.info("=== 周报流程结束 ===")
 
 
