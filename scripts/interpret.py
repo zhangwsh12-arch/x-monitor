@@ -164,7 +164,7 @@ def interpret_weekly(daily_snapshots: list[dict], monitored: list[dict] | None =
         parts.append("- ① <该作品下动态1>")
         parts.append("（若本周无更新：- 本周无更新）")
         if i < len(monitored_names) - 1:
-            parts.append("> ───────────────")  # 账号间分隔线
+            parts.append("——————")  # 账号间分隔线（纯文本，不用 > 避免企微左侧竖线）
     account_tpl = "\n".join(parts)
     prompt = (
         "你是游戏行业社媒观察员。基于给定的一周内容，输出一份结构清晰、可直接推送企业微信的中文周报。\n"
@@ -185,7 +185,8 @@ def interpret_weekly(daily_snapshots: list[dict], monitored: list[dict] | None =
         "6. 若本周该账号无任何新增内容，该账号下写「- 本周无更新」。\n"
         "7. 每条动态控制在 60 字以内（一行能看完）。\n"
         "8. 语言精炼、干货、可直接阅读；总长度控制在 600 字以内。\n"
-        "9. 术语规范：Stellar Blade 统一译为《剑星》，禁止用《星刃》；NIKKE 直接使用英文 NIKKE，不要写成《妮姬》或《胜利女神：妮姬》。"
+        "9. 术语规范：Stellar Blade 统一译为《剑星》，禁止用《星刃》；NIKKE 直接使用英文 NIKKE，不要写成《妮姬》或《胜利女神：妮姬》。\n"
+        "10. 账号之间用纯文本横线 ———— 分隔，不要用 > 引用块格式（企微引用块会带左侧竖线）。"
     )
     analysis = _chat([
         {"role": "system", "content": prompt},
