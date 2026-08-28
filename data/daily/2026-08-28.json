@@ -1,0 +1,155 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T15:03:06.781204+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 3,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2092977575333109905",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2092977575333109905",
+          "text": "RT @AnimuCollect: Goddess of Victory: Nikke - Anis: Star 1/7!\n\n#Nikke https://t.co/lYXsaD41Qu",
+          "created_at": "Thu Aug 27 14:08:34 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1204,
+            "retweet": 91,
+            "reply": 0,
+            "quote": 9,
+            "view": 15639
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "AnimuCollect",
+            "text": "Goddess of Victory: Nikke - Anis: Star 1/7!\n\n#Nikke https://t.co/lYXsaD41Qu",
+            "url": "https://x.com/AnimuCollect/status/2092746033532916111"
+          },
+          "text_zh": "转发 @AnimuCollect：胜利女神：妮姬 - 阿尼斯：星 1/7！\n\n#妮姬 https://t.co/lYXsaD41Qu"
+        },
+        {
+          "id": "2092977528558227882",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2092977528558227882",
+          "text": "RT @amiami_a_event: 【#あみあみ秋葉原ラジオ会館店】\n\n＼明日から開催／\n＜予告＞勝利の女神：NIKKE × KAKAO FRIENDS &lt;Doro＆Choonsik&gt; コラボショップ in あみあみ\n期間：8/28(金)～9/13(日)\n\n🟠店頭先行販売の…",
+          "created_at": "Thu Aug 27 14:08:23 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 85,
+            "retweet": 29,
+            "reply": 0,
+            "quote": 2,
+            "view": 13545
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "amiami_a_event",
+            "text": "【#あみあみ秋葉原ラジオ会館店】\n\n＼明日から開催／\n＜予告＞勝利の女神：NIKKE × KAKAO FRIENDS <Doro＆Choonsik> コラボショップ in あみあみ\n期間：8/28(金)～9/13(日)\n\n🟠店頭先行販売のほか、あみあみ限定商品を販売\n🟠イベント対象商品のご購入で、対象特典をプレゼント🎁\n1️⃣購入金額3,000円(税込)ごとに「缶バッジ(全3種)」をランダムで1つプレゼント！\n2️⃣購入金額に関わらず、イベント対象商品を購入したお客様に、1会計あたり「うちわ(全1種)」を1枚プレゼント！\n\n※状況に応じて、購入制限・入場制限を設ける場合があります。\n\n#NIKKE #ニケ #KakaoFriends #Choonsik",
+            "url": "https://x.com/amiami_a_event/status/2092885074673103183"
+          },
+          "text_zh": "转发 @amiami_a_event：【#秋叶原电台会馆店】\n\n＼明天开始／\n＜预告＞胜利女神：NIKKE × KAKAO FRIENDS <Doro＆Choonsik> 合作商店 in 秋叶原\n期间：8/28(周五)～9/13(周日)\n\n🟠门店先行发售的…"
+        },
+        {
+          "id": "2092970193307771291",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2092970193307771291",
+          "text": "RT @famitsu: Switch 2版『ステラーブレイド コンプリートエディション』東京ゲームショウで試遊出展\nhttps://t.co/bRFsfFWBiY\n\n世界初の一般向け試遊でイヴの戦いをひと足先に体験。9月20日にはキム・ヒョンテ氏が登壇するステージの生配信も予…",
+          "created_at": "Thu Aug 27 13:39:14 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 507,
+            "retweet": 84,
+            "reply": 2,
+            "quote": 2,
+            "view": 71400
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "famitsu",
+            "text": "Switch 2版『ステラーブレイド コンプリートエディション』東京ゲームショウで試遊出展\nhttps://t.co/bRFsfFWBiY\n\n世界初の一般向け試遊でイヴの戦いをひと足先に体験。9月20日にはキム・ヒョンテ氏が登壇するステージの生配信も予定されている。 https://t.co/uI1NhOgEDI",
+            "url": "https://x.com/famitsu/status/2092959167632064835"
+          },
+          "text_zh": "转发 @famitsu：Switch 2版《星刃 完全版》在东京游戏展提供试玩展出\nhttps://t.co/bRFsfFWBiY\n\n世界首次面向公众的试玩，可抢先体验伊芙的战斗。9月20日还有金亨泰先生登台的舞台直播预定…"
+        },
+        {
+          "id": "2092961624063668617",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2092961624063668617",
+          "text": "Breaking news! 🚨 Don't forget Sep 20th! 📅\nWe're preparing something truly exciting for a very special stage. Stay tuned and show us some love! ❤️\n#StellarBlade #StellarBladeNS2 #TGS2026",
+          "created_at": "Thu Aug 27 13:05:11 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 214,
+            "retweet": 20,
+            "reply": 23,
+            "quote": 0,
+            "view": 8339
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "We're heading to Tokyo Game Show 2026! ✨\n\nDrop by to be one of the first to experience Stellar Blade on Nintendo Switch 2! \n\nAnd don't miss a special live stage appearance from Kim Hyung Tae himself on Sunday, Sept 20! (Don’t worry if you can’t make it, it will also be streamed live on YouTube!)\n\nWe can't wait to see you there! 💙",
+            "url": "https://x.com/StellarBlade/status/2092915766110851243"
+          },
+          "text_zh": "突发新闻！🚨 别忘了9月20日！📅\n我们正在为一个非常特别的舞台准备一些真正令人兴奋的东西。敬请期待并给我们一些爱！❤️\n#星刃 #星刃NS2 #TGS2026"
+        }
+      ],
+      "topic": "该账号今日聚焦妮姬手办与联动活动，并关注星刃NS2版TGS试玩情报。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "星刃音乐合作",
+        "EVIE宣传",
+        "游戏OST推广"
+      ],
+      "_yoojoonseok": [
+        "星刃Switch2",
+        "胜利女神妮姬",
+        "游戏展会活动"
+      ],
+      "hsyoo___": [
+        "SHIFTUP管理",
+        "游戏开发经历"
+      ]
+    },
+    "common": [
+      "星刃"
+    ]
+  }
+}
