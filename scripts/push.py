@@ -86,5 +86,14 @@ def build_daily_markdown(daily: dict) -> str:
     return "\n".join(lines)
 
 
+def _pages_base() -> str:
+    return (os.getenv("PAGES_BASE_URL") or "https://zhangwsh12-arch.github.io/x-monitor").rstrip("/")
+
+
 def build_weekly_markdown(week_key: str, analysis: str) -> str:
-    return f"# 📈 X 账号周度趋势分析 · {week_key}\n> 覆盖近 7 日 · KST\n\n{analysis}"
+    base = _pages_base()
+    footer = (
+        f"\n> 🔗 查看完整周报网页：[点击查看↗]({base}/weekly-{week_key}.html)\n"
+        f"> 🏠 看板首页：[x-monitor↗]({base}/)"
+    )
+    return f"# 📈 X 账号周度趋势分析 · {week_key}\n> 覆盖近 7 日 · KST\n\n{analysis}\n{footer}"
