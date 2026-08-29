@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T12:36:58.982140+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2093225364763898067",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2093225364763898067",
+          "text": "RT @StellarBlade: We've got some new channels! A quick reminder of everywhere you can follow and engage with Stellar Blade👇\n\n🆕 TikTok: http…",
+          "created_at": "Fri Aug 28 06:33:11 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2687,
+            "retweet": 210,
+            "reply": 64,
+            "quote": 2,
+            "view": 53259
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "We've got some new channels! A quick reminder of everywhere you can follow and engage with Stellar Blade👇\n\n🆕 TikTok: https://t.co/B5O8paUk7k\n🆕 IG: https://t.co/LwsuxXJ6gT\n🆕 FB: https://t.co/BH78NWEibg\nYouTube: https://t.co/S3IAjWT2E1\nDiscord: https://t.co/431th70C7f\nReddit: https://t.co/qCKimaPPmy",
+            "url": "https://x.com/StellarBlade/status/2093216072724021649"
+          },
+          "text_zh": "转发 @StellarBlade：我们开通了一些新频道！快速提醒您可以在哪里关注和互动Stellar Blade👇\n\n🆕 TikTok：http…"
+        }
+      ],
+      "topic": "《Stellar Blade》开通新频道，提醒玩家关注互动。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "星刃音乐合作",
+        "EVIE新曲宣传",
+        "游戏OST推广"
+      ],
+      "_yoojoonseok": [
+        "星刃游戏动态",
+        "胜利女神妮姬",
+        "游戏展会活动",
+        "任天堂Switch2"
+      ],
+      "hsyoo___": [
+        "游戏开发经历",
+        "SHIFTUP晋升",
+        "职业生涯回顾"
+      ]
+    },
+    "common": [
+      "星刃"
+    ]
+  }
+}
