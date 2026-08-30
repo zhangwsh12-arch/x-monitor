@@ -1,0 +1,112 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T09:02:27.988522+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 2,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2093617582121111712",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2093617582121111712",
+          "text": "RT @totakeke___: 색지들과 카부토무시 카운터즈가 여행을 떠났습니다！\n받아주신 여러분, 사인을 받으러 와주신 여러분 모두 감사합니다🙌✨ https://t.co/c69HWpRQKq",
+          "created_at": "Sat Aug 29 08:31:43 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 372,
+            "retweet": 43,
+            "reply": 1,
+            "quote": 1,
+            "view": 17035
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "totakeke___",
+            "text": "색지들과 카부토무시 카운터즈가 여행을 떠났습니다！\n받아주신 여러분, 사인을 받으러 와주신 여러분 모두 감사합니다🙌✨ https://t.co/c69HWpRQKq",
+            "url": "https://x.com/totakeke___/status/2093595504043266384"
+          },
+          "text_zh": "转发 @totakeke___：彩纸们和独角仙计数器们出发去旅行了！\n感谢接待的各位，也感谢前来要签名的各位🙌✨ https://t.co/c69HWpRQKq"
+        },
+        {
+          "id": "2093617534431904038",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2093617534431904038",
+          "text": "RT @totakeke___: 부스를 설치해 주셨습니다!\n오늘 하루 잘 부탁드립니다~!\n세 번째 카드는 덤이니 꼭 가져가 주세요.\n(귀엽게 만들어 주셔서 많이 가져왔습니다💪✨) https://t.co/iD4tYzYUU2",
+          "created_at": "Sat Aug 29 08:31:32 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 96,
+            "retweet": 15,
+            "reply": 2,
+            "quote": 1,
+            "view": 10921
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "totakeke___",
+            "text": "부스를 설치해 주셨습니다!\n오늘 하루 잘 부탁드립니다~!\n세 번째 카드는 덤이니 꼭 가져가 주세요.\n(귀엽게 만들어 주셔서 많이 가져왔습니다💪✨) https://t.co/iD4tYzYUU2",
+            "url": "https://x.com/totakeke___/status/2093496890684006416"
+          },
+          "text_zh": "转发 @totakeke___：摊位已经布置好了！\n今天一天请多关照~！\n第三张卡片是赠品，请务必拿走。\n（因为做得很可爱，所以带了很多来💪✨） https://t.co/iD4tYzYUU2"
+        }
+      ],
+      "topic": "该账号今日关注同人展摊位活动与粉丝互动，分享布置和赠品细节。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "星刃音乐宣传",
+        "游戏OST推广",
+        "EVIE合作曲目"
+      ],
+      "_yoojoonseok": [
+        "星刃游戏资讯",
+        "NIKKE联动活动",
+        "游戏展会动态"
+      ],
+      "hsyoo___": [
+        "游戏开发经历",
+        "SHIFTUP晋升",
+        "职业生涯回顾"
+      ]
+    },
+    "common": [
+      "星刃"
+    ]
+  }
+}
