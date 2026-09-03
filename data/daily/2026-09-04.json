@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T08:54:15.638234+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "星刃游戏资讯",
+        "妮姬相关活动",
+        "游戏展会宣传",
+        "合作联动情报"
+      ],
+      "hsyoo___": [
+        "游戏开发经历",
+        "SHIFTUP任职",
+        "职业晋升感悟"
+      ]
+    },
+    "common": []
+  }
+}
