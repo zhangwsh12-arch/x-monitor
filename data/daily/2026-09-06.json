@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T08:43:52.297258+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2096123623329402921",
+          "kind": "post",
+          "url": "https://x.com/hsyoo___/status/2096123623329402921",
+          "text": "상황을 개선하지 못하고 말뿐인 약속은 신뢰성이 추락할 수 밖에 없을 겁니다. 심장이 두근거리는 것이 아니라 평소보다 심장이 위에 떠있는 느낌이 들 정도로 정말 많이 속상한데, 할 말이 없습니다.\n\n이 다음 공지 시점은 아주 빠르진 않겠지만 제 자리를 걸고 제대로 수습하겠습니다.",
+          "created_at": "Sat Sep 05 06:29:50 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 2163,
+            "retweet": 522,
+            "reply": 383,
+            "quote": 202,
+            "view": 277202
+          },
+          "author_handle": "hsyoo___",
+          "text_zh": "无法改善状况，只停留在口头承诺上，信任度只会不断下滑。不是心跳加速，而是感觉心脏比平时悬得更高，真的非常难过，无话可说。\n\n下一次公告的时间不会很快，但我会以我的位置作担保，妥善收拾好局面。"
+        }
+      ],
+      "topic": "账号正讨论信任危机与承诺兑现问题，表达焦虑并承诺将妥善处理。"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "星刃游戏资讯",
+        "胜利女神妮姬",
+        "游戏展会活动",
+        "合作周边商品"
+      ],
+      "hsyoo___": [
+        "游戏开发管理",
+        "公司人事变动",
+        "行业信任问题"
+      ]
+    },
+    "common": []
+  }
+}
