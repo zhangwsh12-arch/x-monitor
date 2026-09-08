@@ -87,7 +87,7 @@ def build_daily_markdown(daily: dict) -> str:
 
 
 def _pages_base() -> str:
-    return (os.getenv("PAGES_BASE_URL") or "https://zhangwsh12-arch.github.io/x-monitor").rstrip("/")
+    return (os.getenv("PAGES_BASE_URL") or "https://x-moniter-wjvnsw4v.devnet-app.with.woa.com/index.html").rstrip("/")
 
 
 def _weekly_counts(snaps: list[dict]):
