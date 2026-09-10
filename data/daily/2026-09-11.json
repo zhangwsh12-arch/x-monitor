@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T08:56:16.595960+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2097993599900401678",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2097993599900401678",
+          "text": "RT @StellarBlade: I know what I want for Christmas🎄\nStellar Blade Complete Edition is also available as a limited edition SteelBook!\n\nPre-O…",
+          "created_at": "Thu Sep 10 10:20:27 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 4724,
+            "retweet": 353,
+            "reply": 115,
+            "quote": 22,
+            "view": 108772
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "I know what I want for Christmas🎄\nStellar Blade Complete Edition is also available as a limited edition SteelBook!\n\nPre-Order via @PANAXofficial at the links below, or at any participating retailer!\nUS: https://t.co/WIaZb6e7Qu\nEU: https://t.co/kHVZ5e3dzC https://t.co/o9uBlvYDGx",
+            "url": "https://x.com/StellarBlade/status/2097973366581870994"
+          },
+          "text_zh": "转发 @StellarBlade：我知道我圣诞节想要什么了🎄\n《星刃 完整版》还推出了限量版铁盒！\n\n预购…"
+        }
+      ],
+      "topic": "关注《星刃 完整版》限量铁盒预购与圣诞档期发售。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "星刃完全版",
+        "Switch2发售",
+        "东京电玩展",
+        "妮姬周边",
+        "贝优妮塔合作"
+      ],
+      "hsyoo___": [
+        "SHIFTUP副社长",
+        "信任危机",
+        "公告延期",
+        "游戏开发经历"
+      ]
+    },
+    "common": []
+  }
+}
