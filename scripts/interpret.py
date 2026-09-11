@@ -6,6 +6,19 @@ import os
 from common import log
 
 
+# 看板中文译名统一口径：仅作用于模型生成的中文内容，不改动原始推文。
+TERM_REPLACEMENTS = (
+    ("星刃", "剑星"),
+)
+
+
+def normalize_terms(text: str) -> str:
+    """强制规范模型输出中的已知作品中文译名。"""
+    for source, target in TERM_REPLACEMENTS:
+        text = text.replace(source, target)
+    return text
+
+
 def _llm_config():
     # 用 or 兜底：避免 Secret 存在但为空字符串时拿到 "" 导致 URL 无域名
     base = (os.getenv("LLM_API_BASE") or "https://api.deepseek.com").rstrip("/")
@@ -61,7 +74,7 @@ def interpret_daily(fetch_result: dict) -> dict:
         if to_translate:
             payload = [{"i": idx, "text": it["text"][:500]} for idx, it in enumerate(to_translate)]
             content = _chat([
-                {"role": "system", "content": "你是专业的社交媒体翻译。将每条推文翻译成自然流畅的简体中文，保留专有名词与话题标签。只返回 JSON 数组，格式 [{\"i\":序号,\"zh\":\"译文\"}]，不要多余文字。"},
+                {"role": "system", "content": "你是专业的社交媒体翻译。将每条推文翻译成自然流畅的简体中文，保留专有名词与话题标签。术语规范：Stellar Blade、StellarBlade 及其相关版本名称统一译为《剑星》，禁止使用《星刃》。只返回 JSON 数组，格式 [{\"i\":序号,\"zh\":\"译文\"}]，不要多余文字。"},
                 {"role": "user", "content": json.dumps(payload, ensure_ascii=False)},
             ])
             trans_map = {}
@@ -73,7 +86,7 @@ def interpret_daily(fetch_result: dict) -> dict:
                     log.warning("翻译解析失败: %s", e)
             for idx, it in enumerate(to_translate):
                 if idx in trans_map:
-                    it["text_zh"] = trans_map[idx]
+                    it["text_zh"] = normalize_terms(trans_map[idx])
         # 2) 账号话题概括
         if items:
             joined = "\n".join(f"- [{it['kind']}] {it.get('text_zh') or it['text']}" for it in items[:20])
@@ -81,7 +94,7 @@ def interpret_daily(fetch_result: dict) -> dict:
                 {"role": "system", "content": "你是敏锐的行业观察者。用一句不超过40字的简体中文概括该账号今日在关注/讨论什么。只返回这句话本身。"},
                 {"role": "user", "content": f"账号 @{acc['handle']} 今日内容：\n{joined}"},
             ], max_tokens=120)
-            acc["topic"] = topic or ""
+            acc["topic"] = normalize_terms(topic) if topic else ""
         else:
             acc["topic"] = "今日无更新"
     return fetch_result
@@ -117,7 +130,14 @@ def interpret_keywords(window_texts_by_handle: dict[str, list[str]]) -> dict | N
         raw_accounts = data.get("accounts", {}) or {}
         # 防御性处理：不管 LLM 是否遵守"不带 @"的指示，统一去掉前缀再匹配
         norm_accounts = {k.lstrip("@"): v for k, v in raw_accounts.items()}
-        return {"accounts": norm_accounts, "common": data.get("common", [])}
+        normalized_accounts = {
+            handle: [normalize_terms(keyword) for keyword in keywords]
+            for handle, keywords in norm_accounts.items()
+        }
+        return {
+            "accounts": normalized_accounts,
+            "common": [normalize_terms(keyword) for keyword in data.get("common", [])],
+        }
     except Exception as e:  # noqa
         log.warning("关键词解析失败: %s", e)
         return None
@@ -204,4 +224,4 @@ def interpret_weekly(daily_snapshots: list[dict], monitored: list[dict] | None =
     for handle, name in display_names.items():
         analysis = analysis.replace(f"@{handle}", name)
 
-    return analysis
+    return normalize_terms(analysis)
