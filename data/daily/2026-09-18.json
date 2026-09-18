@@ -1,0 +1,130 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T09:02:22.457972+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 2,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2100460509523001703",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2100460509523001703",
+          "text": "RT @IGN: Resident Evil creator Shinji Mikami will officially be honored with the Hall of Fame Award at the 30th Annual D.I.C.E. Awards cere…",
+          "created_at": "Thu Sep 17 05:43:04 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1968,
+            "retweet": 162,
+            "reply": 20,
+            "quote": 17,
+            "view": 110611
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "IGN",
+            "text": "Resident Evil creator Shinji Mikami will officially be honored with the Hall of Fame Award at the 30th Annual D.I.C.E. Awards ceremony on February 18, 2027. https://t.co/lPvvoHyfTy https://t.co/QhJd8horbd",
+            "url": "https://x.com/IGN/status/2100427294737158542"
+          },
+          "text_zh": "转发 @IGN：生化危机之父三上真司将在第30届D.I.C.E.大奖颁奖典礼上正式荣获名人堂奖…"
+        },
+        {
+          "id": "2100424228466241630",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2100424228466241630",
+          "text": "Huge congratulations to Shinji Mikami(@shinji_mikami) on being inducted into the D.I.C.E. Hall of Fame! 🏆\n\nIt's an absolute honor to discuss the future of game development and support his vision.\n\nPlease join us in looking forward to and supporting UNBOUND(@UNBND_Official )'s upcoming journey! ✨\n\n#UNBOUND #ShinjiMikami #DICEAwards #HallOfFame",
+          "created_at": "Thu Sep 17 03:18:54 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 11,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "view": 311
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "UNBND_Official",
+            "text": "Congratulations to @shinji_mikami  on his D.I.C.E. Hall of Fame induction! 🎉\n三上真司さん、D.I.C.E. Hall of Fame 殿堂入りおめでとうございます！\n\nWe’re proud to celebrate this special moment with @suda_51 ! 👏\n須田さんと共に、この特別な瞬間をお祝いします！",
+            "url": "https://x.com/UNBND_Official/status/2100377613525229863"
+          },
+          "text_zh": "热烈祝贺三上真司（@shinji_mikami）入选D.I.C.E.名人堂！🏆\n\n能与他探讨游戏开发的未来并支持他的愿景，是我莫大的荣幸。\n\n请与我们一起期待并支持UNBOUND（@UNBND_Official）即将开启的旅程！✨\n\n#UNBOUND #ShinjiMikami #DICEAwards #HallOfFame"
+        },
+        {
+          "id": "2100417629903315301",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2100417629903315301",
+          "text": "Good morning(こんにちは)~ The Tokyo Game Show has begun and the 7th Airborne Squad has landed. You can try out the Nintendo Switch 2 version of Stellar Blade hands-on at the event, so please visit the SEGA/ATLUS Booth and please give us infinite support 🙏\nAlso on Sunday, September 20! A special stage event featuring Kim Hyungtae, Director of Stellar Blade, is scheduled, so we ask for your continued interest and support. Who knows? Maybe he’s preparing something fun…??\n📍SEGA/ATLUS Booth (Hall 4 / 04-N01)\n📅Sep 17 - 21",
+          "created_at": "Thu Sep 17 02:52:41 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 98,
+            "retweet": 13,
+            "reply": 8,
+            "quote": 1,
+            "view": 3369
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "We are now live at TGS 2026! Come say hi and be one of the first to try out Stellar Blade Complete Edition on the Nintendo Switch 2! \n\n📍SEGA/ATLUS Booth (Hall 4 / 04-N01)\n📅Sep 17 - 21 https://t.co/Vrum5am8et",
+            "url": "https://x.com/StellarBlade/status/2100409519084044491"
+          },
+          "text_zh": "早上好（こんにちは）~ 东京电玩展已经开幕，第7空降小队也已着陆。大家可以在活动现场试玩Nintendo Switch 2版《剑星》，请前往SEGA/ATLUS展台，并给予我们无限支持🙏\n另外，9月20日星期日！届时将举办一场特别舞台活动，《剑星》总监金亨泰将登场，敬请大家持续关注与支持。谁知道呢？也许他正在准备什么有趣的东西…？？\n📍SEGA/ATLUS展台（第4展厅 / 04-N"
+        }
+      ],
+      "topic": "祝贺三上真司入选DICE名人堂，并宣传《剑星》东京电玩展试玩及舞台活动。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "三上真司",
+        "东京电玩展",
+        "Switch2",
+        "游戏开发"
+      ],
+      "hsyoo___": [
+        "信任危机",
+        "口头承诺",
+        "公告延期",
+        "局面收拾"
+      ]
+    },
+    "common": []
+  }
+}
