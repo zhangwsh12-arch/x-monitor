@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T09:06:07.145439+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "三上真司",
+        "Switch2",
+        "东京电玩展",
+        "游戏开发"
+      ],
+      "hsyoo___": [
+        "信任危机",
+        "口头承诺",
+        "公告延迟",
+        "局面收拾"
+      ]
+    },
+    "common": []
+  }
+}
