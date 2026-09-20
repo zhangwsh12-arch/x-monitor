@@ -1,0 +1,130 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T09:01:26.937165+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 2,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2101206003790598199",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101206003790598199",
+          "text": "RT @StellarBlade: Nintendo fans finally get to meet EVE on November 5✨\nPre-Order Stellar Blade Complete Edition now! https://t.co/8vJFAOoVBi",
+          "created_at": "Sat Sep 19 07:05:24 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 4465,
+            "retweet": 401,
+            "reply": 110,
+            "quote": 41,
+            "view": 101592
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Nintendo fans finally get to meet EVE on November 5✨\nPre-Order Stellar Blade Complete Edition now! https://t.co/8vJFAOoVBi",
+            "url": "https://x.com/StellarBlade/status/2098773625155535352"
+          },
+          "text_zh": "转发 @StellarBlade：任天堂粉丝终于可以在11月5日见到EVE了✨\n立即预购《剑星》完整版！https://t.co/8vJFAOoVBi"
+        },
+        {
+          "id": "2101205976712138981",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101205976712138981",
+          "text": "RT @StellarBlade: 「Stellar Blade x Bayonetta」\n\nComing to PS5, PC and Nintendo Switch 2 on November 5\n(Oh, and it's free!❤️) https://t.co/mc…",
+          "created_at": "Sat Sep 19 07:05:18 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 14821,
+            "retweet": 1449,
+            "reply": 246,
+            "quote": 109,
+            "view": 493634
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "「Stellar Blade x Bayonetta」\n\nComing to PS5, PC and Nintendo Switch 2 on November 5\n(Oh, and it's free!❤️) https://t.co/mcwcoevvFb",
+            "url": "https://x.com/StellarBlade/status/2098939724430028992"
+          },
+          "text_zh": "转发 @StellarBlade：「《剑星》× 猎天使魔女」\n\n将于11月5日登陆PS5、PC和Nintendo Switch 2\n（哦对了，免费哦！❤️）https://t.co/mc…"
+        },
+        {
+          "id": "2101191032776130794",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2101191032776130794",
+          "text": "Please come check it out 👊\n#StellarBlade #StellarBladeNS2 #TGS2026",
+          "created_at": "Sat Sep 19 06:05:55 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 167,
+            "retweet": 10,
+            "reply": 16,
+            "quote": 0,
+            "view": 4527
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Tomorrow, Kim Hyung Tae (@jamm3rd) takes to the stage at TGS to discuss Stellar Blade Complete Edition and share a couple of surprises!\n\nHe will also be joined by the amazing Seika Amakawa (@seika_ruru), you definitely don't want to miss this!\n\n🕑 Sep 20, 14:00 JST\n🔗 https://t.co/z1t7Gt2SWC",
+            "url": "https://x.com/StellarBlade/status/2101183868120473960"
+          },
+          "text_zh": "请一定要来看看👊\n#剑星 #StellarBladeNS2 #TGS2026"
+        }
+      ],
+      "topic": "《剑星》11月5日登陆Switch 2，联动猎天使魔女免费上线。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "Switch2",
+        "东京电玩展",
+        "三上真司",
+        "预购"
+      ],
+      "hsyoo___": [
+        "信任危机",
+        "口头承诺",
+        "公告延迟",
+        "局面收拾"
+      ]
+    },
+    "common": []
+  }
+}
