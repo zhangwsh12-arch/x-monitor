@@ -1,0 +1,372 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T09:03:50.388235+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 11,
+        "quote": 3,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2101699850500993101",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101699850500993101",
+          "text": "RT @elore: Stellar Blade Switch2 데모 공개를 기념하여 개인적인 사운드 설정 소개. 기본적으로는 액션 감각을 중시하는 사운드 밸런스를 잡았습니다만, 음악이 조금 더 잘 들리는 감각도 좋아해서, 이 정도로 설정해서 플레이하는…",
+          "created_at": "Sun Sep 20 15:47:46 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 40,
+            "retweet": 7,
+            "reply": 1,
+            "quote": 0,
+            "view": 901
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "elore",
+            "text": "Stellar Blade Switch2 데모 공개를 기념하여 개인적인 사운드 설정 소개. 기본적으로는 액션 감각을 중시하는 사운드 밸런스를 잡았습니다만, 음악이 조금 더 잘 들리는 감각도 좋아해서, 이 정도로 설정해서 플레이하는 편입니다. https://t.co/rXYJmdQ5I6",
+            "url": "https://x.com/elore/status/2101640792251261372"
+          },
+          "text_zh": "转发 @elore：《剑星》Switch2 试玩版公开纪念，分享一下我个人的声音设置。基本上我是以重视动作手感为优先来调整声音平衡的，不过我也喜欢音乐听得更清楚一些的感觉，所以就用这样的设置来游玩……"
+        },
+        {
+          "id": "2101666377778237738",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101666377778237738",
+          "text": "RT @Famitsu_Hayashi: 貴重な対談の進行役をさせてもらいました。何より驚いたのはキム・ヒョンテさんのベヨネッタ愛！ 対談中に「もっと一緒に何かやりたい！」とラブコールを送るほどで、深い熱量で取り組んだことがひしひしと伝わりました。ここから何かが実現することを期…",
+          "created_at": "Sun Sep 20 13:34:46 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 35,
+            "retweet": 10,
+            "reply": 1,
+            "quote": 0,
+            "view": 2226
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "Famitsu_Hayashi",
+            "text": "貴重な対談の進行役をさせてもらいました。何より驚いたのはキム・ヒョンテさんのベヨネッタ愛！ 対談中に「もっと一緒に何かやりたい！」とラブコールを送るほどで、深い熱量で取り組んだことがひしひしと伝わりました。ここから何かが実現することを期待しています！ #ステラーブレイド #ベヨネッタ",
+            "url": "https://x.com/Famitsu_Hayashi/status/2101594696334409748"
+          },
+          "text_zh": "转发 @Famitsu_Hayashi：我有幸担任了这次珍贵对谈的主持人。最让我惊讶的是金亨泰先生对贝优妮塔的热爱！对谈中他甚至发出了「想一起做点什么！」的热情邀约，能深切感受到他是以极大的热情投入其中的。期待从这里能促成些什么……"
+        },
+        {
+          "id": "2101617691778019745",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101617691778019745",
+          "text": "RT @famitsu: 『ステラーブレイド コンプリートエディション』×『ベヨネッタ』コラボ対談。\n「次回作のデザインをさせて！」とSHIFT UPのキム氏のベヨネッタへの愛が爆発\nプラチナゲームズの稲葉敦志氏も乗り気に!?\nhttps://t.co/EIuD5CaGaK…",
+          "created_at": "Sun Sep 20 10:21:18 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 792,
+            "retweet": 145,
+            "reply": 4,
+            "quote": 17,
+            "view": 88703
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "famitsu",
+            "text": "『ステラーブレイド コンプリートエディション』×『ベヨネッタ』コラボ対談。\n「次回作のデザインをさせて！」とSHIFT UPのキム氏のベヨネッタへの愛が爆発\nプラチナゲームズの稲葉敦志氏も乗り気に!?\nhttps://t.co/EIuD5CaGaK\n\n発表されたばかりの4着目のコラボ衣装を含めたスクリーンショットも公開 https://t.co/kK68WJMYrl",
+            "url": "https://x.com/famitsu/status/2101589795688607754"
+          },
+          "text_zh": "转发 @famitsu：《剑星 完整版》×《贝优妮塔》联动对谈。\n「下次让我来设计吧！」SHIFT UP 金先生对贝优妮塔的爱大爆发\n白金工作室的稻叶敦志先生也表现出兴趣！？\nhttps://t.co/EIuD5CaGaK…"
+        },
+        {
+          "id": "2101607171725332582",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101607171725332582",
+          "text": "RT @seika_ruru: TGS SEGA / ATLUSステージ\n『Stellar Blade』地上帰還ステージいかがでしたでしょうか✨\n短い間でしたが最高の作品と最高の関係者の方々とご一緒できて、素敵なステージに立たせて頂けて本当に光栄でした🥹\n\n会場にお越し頂いた皆…",
+          "created_at": "Sun Sep 20 09:39:30 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 6394,
+            "retweet": 520,
+            "reply": 39,
+            "quote": 17,
+            "view": 107967
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "seika_ruru",
+            "text": "TGS SEGA / ATLUSステージ\n『Stellar Blade』地上帰還ステージいかがでしたでしょうか✨\n短い間でしたが最高の作品と最高の関係者の方々とご一緒できて、素敵なステージに立たせて頂けて本当に光栄でした🥹\n\n会場にお越し頂いた皆様をはじめ、配信でご覧いただいた皆様、ありがとうございました！！\n#TGS2026",
+            "url": "https://x.com/seika_ruru/status/2101585638164435386"
+          },
+          "text_zh": "转发 @seika_ruru：TGS SEGA / ATLUS 舞台\n《剑星》重返地表舞台大家觉得如何呢✨\n虽然时间短暂，但能参与最棒的作品、与最棒的相关人士共事，能站上如此精彩的舞台，真的深感荣幸🥹\n\n来到会场的各位……"
+        },
+        {
+          "id": "2101603858875314556",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101603858875314556",
+          "text": "RT @maaji_maji: 2026.09.20 東京ゲームショウ2026 \nセガ・アトラスブース\nStellar Bladeスペシャルステージ\n❏イヴ/ベヨネッタ：天川星夏さん(@seika_ruru)  \n\n#TGS2026 https://t.co/mTrTsXqZUz",
+          "created_at": "Sun Sep 20 09:26:20 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2017,
+            "retweet": 188,
+            "reply": 2,
+            "quote": 8,
+            "view": 23548
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "maaji_maji",
+            "text": "2026.09.20 東京ゲームショウ2026 \nセガ・アトラスブース\nStellar Bladeスペシャルステージ\n❏イヴ/ベヨネッタ：天川星夏さん(@seika_ruru)  \n\n#TGS2026 https://t.co/mTrTsXqZUz",
+            "url": "https://x.com/maaji_maji/status/2101552434632102044"
+          },
+          "text_zh": "转发 @maaji_maji：2026.09.20 东京电玩展2026\n世嘉·ATLUS展台\n《剑星》特别舞台\n❏伊芙/贝优妮塔：天川星夏(@seika_ruru)\n\n#TGS2026 https://t.co/mTrTsXqZUz"
+        },
+        {
+          "id": "2101577793557655617",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101577793557655617",
+          "text": "RT @4GamerNews: 「Stellar Blade」はコンプリートしたあともまだ続く！？　Switch2版出展で来日したキム・ヒョンテ氏にインタビュー［TGS2026］\nhttps://t.co/ODcpWltNoR\n\nイヴのこだわりはボディ（即答）。「完成していませ…",
+          "created_at": "Sun Sep 20 07:42:46 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 457,
+            "retweet": 88,
+            "reply": 2,
+            "quote": 12,
+            "view": 49922
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "4GamerNews",
+            "text": "「Stellar Blade」はコンプリートしたあともまだ続く！？　Switch2版出展で来日したキム・ヒョンテ氏にインタビュー［TGS2026］\nhttps://t.co/ODcpWltNoR\n\nイヴのこだわりはボディ（即答）。「完成していませんよ？」と語る今後の展開についても聞いた https://t.co/fV1yGL5JUK",
+            "url": "https://x.com/4GamerNews/status/2101544427101835642"
+          },
+          "text_zh": "转发 @4GamerNews：《剑星》通关之后还有后续！？为 Switch2 版出展而来到日本的林亨泰（金亨泰）先生专访［TGS2026］\nhttps://t.co/ODcpWltNoR\n\n伊芙最讲究的是身体（秒答）。「还没完成……」"
+        },
+        {
+          "id": "2101577771478900903",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101577771478900903",
+          "text": "RT @4GamerNews: Switch2「Stellar Blade コンプリートエディション」の体験版が，本日配信開始［TGS2026］\nhttps://t.co/oQoGCKHKun\n\nTGSでは生みの親・キム・ヒョンテ氏をゲストに迎えたステージイベントも https…",
+          "created_at": "Sun Sep 20 07:42:40 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 120,
+            "retweet": 37,
+            "reply": 1,
+            "quote": 0,
+            "view": 22970
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "4GamerNews",
+            "text": "Switch2「Stellar Blade コンプリートエディション」の体験版が，本日配信開始［TGS2026］\nhttps://t.co/oQoGCKHKun\n\nTGSでは生みの親・キム・ヒョンテ氏をゲストに迎えたステージイベントも https://t.co/8IZGLwmrLX",
+            "url": "https://x.com/4GamerNews/status/2101559264619921519"
+          },
+          "text_zh": "转发 @4GamerNews：Switch2《剑星 完整版》试玩版今日开始配信［TGS2026］\nhttps://t.co/oQoGCKHKun\n\nTGS 上还有邀请生父金亨泰先生作为嘉宾的舞台活动 https…"
+        },
+        {
+          "id": "2101574460252074014",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101574460252074014",
+          "text": "RT @gamespark: 『ベヨネッタ』コラボ衣装なのに、キム・ヒョンテ氏のオリジナル!? スイッチ2版『ステラーブレイド』インタビューだと思ったら、新衣装の公開や『ブラッドレイン』の話も飛び出した【TGS2026】\nhttps://t.co/sSpkTRwaOI http…",
+          "created_at": "Sun Sep 20 07:29:31 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 324,
+            "retweet": 53,
+            "reply": 3,
+            "quote": 2,
+            "view": 27210
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "gamespark",
+            "text": "『ベヨネッタ』コラボ衣装なのに、キム・ヒョンテ氏のオリジナル!? スイッチ2版『ステラーブレイド』インタビューだと思ったら、新衣装の公開や『ブラッドレイン』の話も飛び出した【TGS2026】\nhttps://t.co/sSpkTRwaOI https://t.co/R5Q0vNVPli",
+            "url": "https://x.com/gamespark/status/2101544430721486906"
+          },
+          "text_zh": "转发 @gamespark：明明是《贝优妮塔》联动服装，却是金亨泰先生的原创！？本以为是对 Switch2 版《剑星》的采访，结果还公开了新服装以及《血雨》的话题【TGS2026】\nhttps://t.co/sSpkTRwaOI http…"
+        },
+        {
+          "id": "2101550915451068736",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101550915451068736",
+          "text": "RT @famitsu: 『ステラーブレード』の『ベヨネッタ』コラボ衣装の最後の1着は、キム・ヒョンテ氏の手によるオリジナルデザイン“ブラックドレス”。【TGS2026】\nhttps://t.co/KniUTpunAS\n\nコスプレイヤーの天川星夏さんがコスチュームを披露。\nSw…",
+          "created_at": "Sun Sep 20 05:55:57 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 480,
+            "retweet": 121,
+            "reply": 4,
+            "quote": 5,
+            "view": 104300
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "famitsu",
+            "text": "『ステラーブレード』の『ベヨネッタ』コラボ衣装の最後の1着は、キム・ヒョンテ氏の手によるオリジナルデザイン“ブラックドレス”。【TGS2026】\nhttps://t.co/KniUTpunAS\n\nコスプレイヤーの天川星夏さんがコスチュームを披露。\nSwitch2無料体験版は本日（9/20）配信開始。 https://t.co/n9WmRJNePd",
+            "url": "https://x.com/famitsu/status/2101550038078144671"
+          },
+          "text_zh": "转发 @famitsu：《剑星》的《贝优妮塔》联动服装最后一款，是由金亨泰先生亲手设计的原创设计「黑发」。 【TGS2026】\nhttps://t.co/KniUTpunAS\n\nCoser 天川星夏展示了这套服装。\nSw…"
+        },
+        {
+          "id": "2101549046062329865",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2101549046062329865",
+          "text": "Let’s play!\n#StellarBlade #StellarBladeNS2",
+          "created_at": "Sun Sep 20 05:48:32 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 78,
+            "retweet": 6,
+            "reply": 10,
+            "quote": 0,
+            "view": 2219
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "The demo for Stellar Blade Complete Edition is now live on the Nintendo eShop!\nTry it out and let us know what you think! 🙏\n\nLearn more at https://t.co/O9bwm2J7Y9 https://t.co/xXtAStaC6W",
+            "url": "https://x.com/StellarBlade/status/2101546711680512149"
+          },
+          "text_zh": "来玩吧！\n#StellarBlade #StellarBladeNS2"
+        },
+        {
+          "id": "2101547710583357743",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2101547710583357743",
+          "text": "The 4th hidden outfit for the Stellar Blade x Bayonetta collaboration is finally revealed! Created as a tribute to the legendary IP, this original suit blends Kim Hyung Tae’s unique design vision with iconic style. \n\nHuge thanks to our friends at PlatinumGames(@platinumgames) for their generous support in making this creative collaboration possible! We’d also like to express our deepest gratitude to Seika Amakawa(@seika_ruru )for perfectly capturing the charm of this original costume.\n\nWe hope you all enjoy it in-game! Oh, wait! The outfits are all FREE and the DEMO is available now!\n\n#StellarBlade #StellarBladeNS2 #TGS2026",
+          "created_at": "Sun Sep 20 05:43:13 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 78,
+            "retweet": 10,
+            "reply": 7,
+            "quote": 0,
+            "view": 2157
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "The fourth costume in the Bayonetta collaboration has been revealed! 👀\n\nA love letter to Bayonetta, Black Tresses is an original design by Kim Hyung Tae (@jamm3rd), reimagining the icon in his own style 💫 https://t.co/vRykdmD1vt",
+            "url": "https://x.com/StellarBlade/status/2101540737276125454"
+          },
+          "text_zh": "《剑星》×《贝优妮塔》联动的第4套隐藏服装终于揭晓！这套原创服装是为致敬这一传奇 IP 而打造，融合了金亨泰独特的设计理念与标志性风格。\n\n衷心感谢白金工作室(@platinumgames)的朋友们的大力支持，让这次创意联动得以实现！我们也要向天川星夏(@seika_ruru)致以最深的谢意，她完美诠释了这套原创服装的魅力。\n\n我们希望大……"
+        },
+        {
+          "id": "2101545434091290783",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101545434091290783",
+          "text": "RT @platinumgames: The final surprise is out! 🖤\nThe fourth Stellar Blade × Bayonetta nano suit is a special look designed by SHIFT UP CEO K…",
+          "created_at": "Sun Sep 20 05:34:10 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1998,
+            "retweet": 221,
+            "reply": 41,
+            "quote": 6,
+            "view": 79066
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "platinumgames",
+            "text": "The final surprise is out! 🖤\nThe fourth Stellar Blade × Bayonetta nano suit is a special look designed by SHIFT UP CEO Kim Hyung-tae himself✨\nWe love its elegant design, and it looks perfect on EVE!",
+            "url": "https://x.com/platinumgames/status/2101541998151025100"
+          },
+          "text_zh": "转发 @platinumgames：最后的惊喜公开了！🖤\n《剑星》×《贝优妮塔》联动的第四套纳米服是由 SHIFT UP CEO 金……设计的特别造型"
+        },
+        {
+          "id": "2101543015978573925",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101543015978573925",
+          "text": "RT @StellarBlade: The fourth costume in the Bayonetta collaboration has been revealed! 👀\n\nA love letter to Bayonetta, Black Tresses is an o…",
+          "created_at": "Sun Sep 20 05:24:34 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 5487,
+            "retweet": 769,
+            "reply": 74,
+            "quote": 81,
+            "view": 288117
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "The fourth costume in the Bayonetta collaboration has been revealed! 👀\n\nA love letter to Bayonetta, Black Tresses is an original design by Kim Hyung Tae (@jamm3rd), reimagining the icon in his own style 💫 https://t.co/vRykdmD1vt",
+            "url": "https://x.com/StellarBlade/status/2101540737276125454"
+          },
+          "text_zh": "转发 @StellarBlade：《贝优妮塔》联动的第四套服装已揭晓！👀\n作为写给贝优妮塔的一封情书，「黑发」是一套原……"
+        },
+        {
+          "id": "2101537980703965679",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2101537980703965679",
+          "text": "Let’s go!\n#StellarBlade #StellarBladeNS2 #TGS2026",
+          "created_at": "Sun Sep 20 05:04:33 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 28,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "view": 946
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "🚨 STARTING SOON 🚨\n\nJoin us in 5 minutes for the「Stellar Blade: Return to Earth」stage event, live from Tokyo Game Show 2026!\n\nWatch here 👇\nhttps://t.co/LZV6CzRMvg",
+            "url": "https://x.com/StellarBlade/status/2101536836938092732"
+          },
+          "text_zh": "出发吧！\n#StellarBlade #StellarBladeNS2 #TGS2026"
+        }
+      ],
+      "topic": "《剑星》Switch2试玩版上线，TGS2026聚焦与《贝优妮塔》联动及金亨泰原创服装。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "贝优妮塔联动",
+        "Switch2版",
+        "金亨泰",
+        "TGS2026"
+      ],
+      "hsyoo___": [
+        "信任危机",
+        "口头承诺",
+        "状况改善",
+        "公告延期"
+      ]
+    },
+    "common": []
+  }
+}
