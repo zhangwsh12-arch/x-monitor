@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T09:41:01.050347+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2101954391263862882",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2101954391263862882",
+          "text": "RT @hattoriactivity: 2026.09.20\n東京ゲームショウ2026\nセガ/アトラス\n『Stellar Blade』地上帰還\nイヴ: ブラックトレスver\n天川星夏 さん\n(＠seika_ruru)\n素敵すぎた。\n#TGS2026\n#StellarBlade…",
+          "created_at": "Mon Sep 21 08:39:13 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 21505,
+            "retweet": 2208,
+            "reply": 44,
+            "quote": 179,
+            "view": 909957
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "hattoriactivity",
+            "text": "2026.09.20\n東京ゲームショウ2026\nセガ/アトラス\n『Stellar Blade』地上帰還\nイヴ: ブラックトレスver\n天川星夏 さん\n(＠seika_ruru)\n素敵すぎた。\n#TGS2026\n#StellarBlade\n#天川星夏 https://t.co/NkO2oD66pl",
+            "url": "https://x.com/hattoriactivity/status/2101924250185843078"
+          },
+          "text_zh": "RT @hattoriactivity: 2026.09.20\n东京电玩展2026\n世嘉/Atlus\n《剑星》重返地球\n伊芙：黑色礼服ver\n天川星夏 女士\n(@seika_ruru)\n太美了。\n#TGS2026\n#StellarBlade…"
+        }
+      ],
+      "topic": "关注东京电玩展2026世嘉展台《剑星》伊芙黑色礼服版及天川星夏相关内容。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "贝优妮塔联动",
+        "东京电玩展",
+        "金亨泰",
+        "Switch2版"
+      ],
+      "hsyoo___": [
+        "信任度下滑",
+        "口头承诺",
+        "状况改善",
+        "公告延期",
+        "收拾局面"
+      ]
+    },
+    "common": []
+  }
+}
