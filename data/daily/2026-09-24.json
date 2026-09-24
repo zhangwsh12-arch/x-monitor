@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T09:21:25.529616+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 2,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2102623183954407809",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2102623183954407809",
+          "text": "I won't give up..🥹 @balbnis \n#StellarBlade #StellarBladeNS2",
+          "created_at": "Wed Sep 23 04:56:46 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 22,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "view": 697
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "balbnis",
+            "text": "Thank you for all the support everyone!!! Wow!!\n\nDamn you Zelda ^_- lol\n\n@PMStudiosUSA @SHIFTUP_Corp https://t.co/64ix6xOXrS",
+            "url": "https://x.com/balbnis/status/2102583867240759487"
+          },
+          "text_zh": "我不会放弃的..🥹 @balbnis \n#剑星 #StellarBladeNS2"
+        },
+        {
+          "id": "2102622223941157077",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2102622223941157077",
+          "text": "Thank you for perfectly capturing the charm of the \"Black Tresses\" outfit\n#StellarBlade #StellarBladeNS2",
+          "created_at": "Wed Sep 23 04:52:57 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 113,
+            "retweet": 5,
+            "reply": 0,
+            "quote": 0,
+            "view": 1338
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "seika_ruru",
+            "text": "Stellar Blade × BAYONETTA \nコラボ衣装「ブラックトレス」\nNintendo Switch 2『Stellar Blade コンプリートエディション』は11/6発売です✨ https://t.co/423qkqsou0",
+            "url": "https://x.com/seika_ruru/status/2102593540413149558"
+          },
+          "text_zh": "感谢你完美捕捉到了“黑发”套装的魅力\n#剑星 #StellarBladeNS2"
+        }
+      ],
+      "topic": "关注《剑星》NS2版黑发套装及玩家创作。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "StellarBladeNS2",
+        "TGS2026",
+        "金亨泰",
+        "联动对谈"
+      ],
+      "hsyoo___": [
+        "信任度下滑",
+        "口头承诺",
+        "公告延迟",
+        "收拾局面"
+      ]
+    },
+    "common": []
+  }
+}
