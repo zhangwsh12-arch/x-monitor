@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T09:24:33.723386+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2102974446873235704",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2102974446873235704",
+          "text": "RT @StellarBlade: 「Stellar Blade」 demo, available for download NOW! https://t.co/g4TiQrzPNf",
+          "created_at": "Thu Sep 24 04:12:34 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 6831,
+            "retweet": 1212,
+            "reply": 597,
+            "quote": 174,
+            "view": 503724
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "「Stellar Blade」 demo, available for download NOW! https://t.co/g4TiQrzPNf",
+            "url": "https://x.com/StellarBlade/status/1773714228048023880"
+          },
+          "text_zh": "转发 @StellarBlade：《剑星》试玩版，现已开放下载！https://t.co/g4TiQrzPNf"
+        }
+      ],
+      "topic": "《剑星》试玩版现已开放下载，账号在关注并转发这一消息。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "StellarBladeNS2",
+        "TGS2026",
+        "贝优妮塔联动",
+        "伊芙"
+      ],
+      "hsyoo___": [
+        "信任度下滑",
+        "口头承诺",
+        "公告延期",
+        "收拾局面"
+      ]
+    },
+    "common": []
+  }
+}
