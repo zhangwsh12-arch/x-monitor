@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T11:09:31.169686+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2107117267863691487",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2107117267863691487",
+          "text": "RT @theweeknd: SEOUL TOWER https://t.co/wsXZSPMVvG",
+          "created_at": "Mon Oct 05 14:34:39 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 9734,
+            "retweet": 891,
+            "reply": 129,
+            "quote": 124,
+            "view": 375298
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "theweeknd",
+            "text": "SEOUL TOWER https://t.co/wsXZSPMVvG",
+            "url": "https://x.com/theweeknd/status/2107093578891866223"
+          },
+          "text_zh": "转发 @theweeknd：首尔塔 https://t.co/wsXZSPMVvG"
+        }
+      ],
+      "topic": "关注The Weeknd晒出的首尔塔打卡照。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "StellarBlade",
+        "TGS2026",
+        "联动对谈",
+        "试玩版"
+      ],
+      "hsyoo___": [
+        "信任危机",
+        "口头承诺",
+        "公告延期",
+        "局面收拾"
+      ]
+    },
+    "common": []
+  }
+}
