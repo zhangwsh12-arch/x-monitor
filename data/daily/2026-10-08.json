@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T10:43:33.385681+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 3,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2107969777037897733",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2107969777037897733",
+          "text": "RT @StellarBlade: We had a very special guest visit SHIFT UP! @Theweeknd dropped in to meet @jamm3rd, check out the studio, and see what we…",
+          "created_at": "Wed Oct 07 23:02:13 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1617,
+            "retweet": 114,
+            "reply": 24,
+            "quote": 5,
+            "view": 27913
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "We had a very special guest visit SHIFT UP! @Theweeknd dropped in to meet @jamm3rd, check out the studio, and see what we've been working on!\n\nIt was such a huge honor to meet Abel and hear he was a fan of Stellar Blade. We hope you enjoy the rest of your time in Korea!",
+            "url": "https://x.com/StellarBlade/status/2107969334803050568"
+          },
+          "text_zh": "转发 @StellarBlade: 我们有一位非常特别的客人参观了 SHIFT UP！@Theweeknd 突然来访，与 @jamm3rd 会面，参观工作室，并了解我们……"
+        },
+        {
+          "id": "2107874454881939477",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2107874454881939477",
+          "text": "RT @GlassTablesXO: The way Abel loves animals is so wholesome 🥹 https://t.co/puIX01vepS",
+          "created_at": "Wed Oct 07 16:43:27 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 179,
+            "retweet": 14,
+            "reply": 0,
+            "quote": 1,
+            "view": 2362
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "GlassTablesXO",
+            "text": "The way Abel loves animals is so wholesome 🥹 https://t.co/puIX01vepS",
+            "url": "https://x.com/GlassTablesXO/status/2107862567259643946"
+          },
+          "text_zh": "转发 @GlassTablesXO: Abel 对动物的爱真是太温馨了 🥹 https://t.co/puIX01vepS"
+        },
+        {
+          "id": "2107873941104820693",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2107873941104820693",
+          "text": "RT @jamm3rd: What an amazing time, Abel🧡 So glad we got to hang out. See you again tomorrow at the concert! #TheWeeknd #SHIFTUP",
+          "created_at": "Wed Oct 07 16:41:24 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1476,
+            "retweet": 101,
+            "reply": 30,
+            "quote": 3,
+            "view": 31680
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "jamm3rd",
+            "text": "What an amazing time, Abel🧡 So glad we got to hang out. See you again tomorrow at the concert! #TheWeeknd #SHIFTUP",
+            "url": "https://x.com/jamm3rd/status/2107865881766481933"
+          },
+          "text_zh": "转发 @jamm3rd: 多么美妙的时光，Abel🧡 很高兴我们能一起玩。明天演唱会上再见！#TheWeeknd #SHIFTUP"
+        },
+        {
+          "id": "2107868449246785992",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2107868449246785992",
+          "text": "Thank you for giving us unforgettable memories. It was an honor to have you here and to share such a deep connection with you. I'm always rooting for you! \n@theweeknd @SHIFTUP_Corp @StellarBlade #StellarBlade",
+          "created_at": "Wed Oct 07 16:19:35 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 117,
+            "retweet": 7,
+            "reply": 2,
+            "quote": 0,
+            "view": 2182
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "theweeknd",
+            "text": "Unforgettable day at Shift Up with Kim Hyung-tae. Thank you for the warm welcome and the inspiration. 🇰🇷🤍 : https://t.co/pwK6FjkLiz https://t.co/Zz97MvBPd9",
+            "url": "https://x.com/theweeknd/status/2107863299572617603"
+          },
+          "text_zh": "感谢你给我们留下难忘的回忆。很荣幸你能来到这里，并与你分享如此深厚的联系。我会一直支持你！\n@theweeknd @SHIFTUP_Corp @StellarBlade #剑星"
+        }
+      ],
+      "topic": "The Weeknd突访SHIFT UP工作室，与剑星团队互动，账号表达感谢与支持。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "_yoojoonseok": [
+        "剑星",
+        "StellarBlade",
+        "TheWeeknd",
+        "TGS2026",
+        "Switch2试玩"
+      ]
+    },
+    "common": []
+  }
+}
