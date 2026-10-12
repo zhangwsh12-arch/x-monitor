@@ -1,11 +1,10 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T09:16:28.807043+09:00",
+  "generated_at": "2026-10-12T18:56:58.710963+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -18,20 +17,63 @@
     {
       "handle": "_yoojoonseok",
       "name": "Jason",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
-        "quote": 0,
+        "quote": 2,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2100424228466241630",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2100424228466241630",
+          "text": "Huge congratulations to Shinji Mikami(@shinji_mikami) on being inducted into the D.I.C.E. Hall of Fame! 🏆\n\nIt's an absolute honor to discuss the future of game development and support his vision.\n\nPlease join us in looking forward to and supporting UNBOUND(@UNBND_Official )'s upcoming journey! ✨\n\n#UNBOUND #ShinjiMikami #DICEAwards #HallOfFame",
+          "created_at": "Thu Sep 17 03:18:54 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 11,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "view": 465
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "UNBND_Official",
+            "text": "Congratulations to @shinji_mikami  on his D.I.C.E. Hall of Fame induction! 🎉\n三上真司さん、D.I.C.E. Hall of Fame 殿堂入りおめでとうございます！\n\nWe’re proud to celebrate this special moment with @suda_51 ! 👏\n須田さんと共に、この特別な瞬間をお祝いします！",
+            "url": "https://x.com/UNBND_Official/status/2100377613525229863"
+          },
+          "text_zh": "热烈祝贺三上真司（@shinji_mikami）入选D.I.C.E.名人堂！🏆\n\n非常荣幸能与他探讨游戏开发的未来，并支持他的愿景。\n\n请大家和我们一起期待并支持UNBOUND（@UNBND_Official）即将开启的旅程！✨\n\n#UNBOUND #三上真司 #DICEAwards #名人堂"
+        },
+        {
+          "id": "2100417629903315301",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2100417629903315301",
+          "text": "Good morning(こんにちは)~ The Tokyo Game Show has begun and the 7th Airborne Squad has landed. You can try out the Nintendo Switch 2 version of Stellar Blade hands-on at the event, so please visit the SEGA/ATLUS Booth and please give us infinite support 🙏\nAlso on Sunday, September 20! A special stage event featuring Kim Hyungtae, Director of Stellar Blade, is scheduled, so we ask for your continued interest and support. Who knows? Maybe he’s preparing something fun…??\n📍SEGA/ATLUS Booth (Hall 4 / 04-N01)\n📅Sep 17 - 21",
+          "created_at": "Thu Sep 17 02:52:41 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 96,
+            "retweet": 13,
+            "reply": 8,
+            "quote": 1,
+            "view": 3708
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "We are now live at TGS 2026! Come say hi and be one of the first to try out Stellar Blade Complete Edition on the Nintendo Switch 2! \n\n📍SEGA/ATLUS Booth (Hall 4 / 04-N01)\n📅Sep 17 - 21 https://t.co/Vrum5am8et",
+            "url": "https://x.com/StellarBlade/status/2100409519084044491"
+          },
+          "text_zh": "早上好（こんにちは）~ 东京电玩展已经开幕，第7空降小队也已降落。大家可以在展会现场试玩Nintendo Switch 2版《剑星》，请前往SEGA/ATLUS展台，并给予我们无限支持🙏\n另外，9月20日星期日！届时将举办一场特别舞台活动，《剑星》总监金亨泰将登场，敬请大家持续关注与支持。谁知道呢？也许他正在准备什么有趣的东西……？？\n📍SEGA/ATLUS展台（第4展厅 / 04-N"
+        }
+      ],
+      "topic": "祝贺三上真司入选DICE名人堂，并宣传《剑星》东京电玩展试玩及舞台活动。"
     },
     {
       "handle": "hsyoo___",
       "name": "Yoo",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,23 +83,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "_yoojoonseok": [
-        "剑星完全版",
-        "Switch2发售",
-        "东京电玩展",
-        "贝优妮塔联动",
-        "妮姬周边"
-      ],
-      "hsyoo___": [
-        "信任度下滑",
-        "口头承诺",
-        "公告延期",
-        "收拾局面"
-      ]
-    },
-    "common": []
-  }
+  ]
 }

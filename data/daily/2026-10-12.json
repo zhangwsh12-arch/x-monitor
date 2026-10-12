@@ -1,11 +1,10 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T10:08:38.640738+09:00",
+  "generated_at": "2026-10-12T18:57:20.536197+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -18,20 +17,41 @@
     {
       "handle": "_yoojoonseok",
       "name": "Jason",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
-        "quote": 0,
+        "quote": 1,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2109454585266127305",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2109454585266127305",
+          "text": "Can't wait, let's collect!\n\nAvailable on Nov. 5th\nPRE-ORDER NOW: https://t.co/DhRh8utixP\n\nAlso available on PS5 and PC!\nPC: https://t.co/zc1hwLkwlZ\nPS5: https://t.co/Mp063CdDG5\n\n#StellarBlade #StellarBladeNS2",
+          "created_at": "Mon Oct 12 01:22:19 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 81,
+            "retweet": 10,
+            "reply": 2,
+            "quote": 0,
+            "view": 1359
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Express your style with 130 stunning Nanosuits for EVE, customize your companions, and piece together the fall of humanity through hidden Memory Sticks and lore-rich Documents. \n\nFrom rare Cans and Fish to snagging game-changing Upgrades, your ultimate collection awaits! https://t.co/sHtwCOU0DS",
+            "url": "https://x.com/StellarBlade/status/2109448972213617103"
+          },
+          "text_zh": "迫不及待了，一起来收集吧！\n\n11月5日上线\n立即预购：https://t.co/DhRh8utixP\n\nPS5和PC平台同步推出！\nPC：https://t.co/zc1hwLkwlZ\nPS5：https://t.co/Mp063CdDG5\n\n#剑星 #StellarBladeNS2"
+        }
+      ],
+      "topic": "《剑星》11月5日登陆PS5和PC，现已开启预购。"
     },
     {
       "handle": "hsyoo___",
       "name": "Yoo",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,17 +61,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "_yoojoonseok": [
-        "剑星",
-        "StellarBlade",
-        "Shift Up",
-        "TGS2026",
-        "联动宣传"
-      ]
-    },
-    "common": []
-  }
+  ]
 }

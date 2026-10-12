@@ -1,24 +1,45 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T10:37:50.139182+09:00",
+  "generated_at": "2026-10-12T18:57:18.435124+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
         "post": 0,
-        "retweet": 0,
+        "retweet": 1,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2108603632375771299",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2108603632375771299",
+          "text": "RT @AceCombatGames: #ACECOMBAT8 has surpassed 1 million copies worldwide faster than any other title in the series!\n\nWe express our gratitu…",
+          "created_at": "Fri Oct 09 17:00:56 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 10503,
+            "retweet": 1834,
+            "reply": 257,
+            "quote": 188,
+            "view": 248023
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "AceCombatGames",
+            "text": "#ACECOMBAT8 has surpassed 1 million copies worldwide faster than any other title in the series!\n\nWe express our gratitude to all the ace pilots around the world and will continue to release updates to ensure you keep enjoying the game, so please continue to support us!\nThe entire “ACE COMBAT 8: WINGS OF THEVE” development team",
+            "url": "https://x.com/AceCombatGames/status/2108361805856735672"
+          },
+          "text_zh": "转发 @AceCombatGames: #皇牌空战8 全球销量突破百万份，速度超越系列中任何其他作品！\n\n我们向…表达感激之情"
+        }
+      ],
+      "topic": "《皇牌空战8》全球销量破百万，速度创系列新高。"
     },
     {
       "handle": "_yoojoonseok",
       "name": "Jason",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -31,7 +52,6 @@
     {
       "handle": "hsyoo___",
       "name": "Yoo",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,17 +61,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "_yoojoonseok": [
-        "剑星",
-        "StellarBlade",
-        "SHIFT UP",
-        "TheWeeknd",
-        "TGS2026"
-      ]
-    },
-    "common": []
-  }
+  ]
 }

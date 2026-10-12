@@ -1,11 +1,91 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T07:34:11.732171+09:00",
+  "generated_at": "2026-10-12T18:56:51.052597+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
+      "counts": {
+        "post": 4,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2092355354286027067",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2092355354286027067",
+          "text": "\"Tides of Annihilation\" gives me the same excitement I used to feel playing classic God of War and Devil May Cry.\nAnd then the boss fights take it somewhere completely unexpected. Watching a game push action this far is honestly thrilling—and slightly terrifying as a developer!\n#TidesofAnnihilation #gamescom2026\nhttps://t.co/Q24UZRkKsM",
+          "created_at": "Tue Aug 25 20:56:05 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1138,
+            "retweet": 98,
+            "reply": 62,
+            "quote": 2,
+            "view": 64271
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "《湮灭之潮》让我重拾了当年玩经典《战神》和《鬼泣》时的那种兴奋感。\n而Boss战更是将它带到了一个完全意想不到的高度。看着一款游戏把动作性推到这种极致，说实话既令人热血沸腾——作为开发者又有点胆战心惊！\n#TidesofAnnihilation #gamescom2026\nhttps://t.co/Q24UZRkKsM"
+        },
+        {
+          "id": "2092352078693957800",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2092352078693957800",
+          "text": "NO LAW, the new game from Neon Giant—the creators of The Ascent, which I absolutely loved—and KRAFTON, was one of the most impressive trailers at Gamescom for me.  Cheering you on! Can’t wait to see more‼️\n#NoLaw #Gamescom2026 #Krafton\nhttps://t.co/2bOsGrrqEv",
+          "created_at": "Tue Aug 25 20:43:04 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 134,
+            "retweet": 6,
+            "reply": 8,
+            "quote": 0,
+            "view": 38102
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "NO LAW，由Neon Giant——《上行战场》的创作者，我超爱那款游戏——与KRAFTON联手打造的新作，是我在科隆游戏展上印象最深刻的预告片之一。为你们加油！迫不及待想看更多‼️\n#NoLaw #Gamescom2026 #Krafton\nhttps://t.co/2bOsGrrqEv"
+        },
+        {
+          "id": "2092351804558422361",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2092351804558422361",
+          "text": "I never expected HoYoverse to take on something this ambitious.\n\"Nodusfall\" feels like a huge and exciting new challenge. I’m really looking forward to seeing where they take it.\n#Nodusfall #Gamescom2026 #Hoyoverse\nhttps://t.co/Uer6zUY3SU",
+          "created_at": "Tue Aug 25 20:41:58 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1455,
+            "retweet": 84,
+            "reply": 25,
+            "quote": 8,
+            "view": 116772
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "我从没想过HoYoverse会挑战如此宏大的项目。\n《Nodusfall》感觉像是一个巨大而令人兴奋的新挑战。我非常期待看到他们会把它带向何方。\n#Nodusfall #Gamescom2026 #Hoyoverse\nhttps://t.co/Uer6zUY3SU"
+        },
+        {
+          "id": "2092351604607643970",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2092351604607643970",
+          "text": "\"Silver Palace\" deserves attention well beyond the 2D subculture audience. Its gorgeous Victorian-punk world is full of style and character. Really impressive work🤍\n#SilverPalace #gamescom2026\nhttps://t.co/WaeQEaa2oP",
+          "created_at": "Tue Aug 25 20:41:11 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 672,
+            "retweet": 57,
+            "reply": 29,
+            "quote": 1,
+            "view": 49878
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "《白银之城》值得被关注，远不止二次元亚文化受众。它那华丽的维多利亚朋克世界充满风格与个性。真的令人印象深刻🤍\n#SilverPalace #gamescom2026\nhttps://t.co/WaeQEaa2oP"
+        }
+      ],
+      "topic": "科隆游戏展新作：湮灭之潮、NO LAW、Nodusfall、白银之城。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -16,111 +96,8 @@
       "topic": "今日无更新"
     },
     {
-      "handle": "_yoojoonseok",
-      "name": "jason",
-      "first_run": false,
-      "counts": {
-        "post": 0,
-        "retweet": 4,
-        "quote": 0,
-        "reply": 0
-      },
-      "items": [
-        {
-          "id": "2092230340098023888",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2092230340098023888",
-          "text": "RT @NIKKE_japan: 【NIKKE in 京都 with 推し旅開催決定】\n『勝利の女神：NIKKE』× JR東海「推し旅」のコラボ第2弾が開催決定🎉\n\n指揮官、ニケたちと一緒に新幹線で京都へ——\n\n今回の任務は「遺失物調査」🔍️\n東海道新幹線の車内では、ここでしか…",
-          "created_at": "Tue Aug 25 12:39:19 +0000 2026",
-          "lang": "ja",
-          "metrics": {
-            "like": 6139,
-            "retweet": 1075,
-            "reply": 22,
-            "quote": 91,
-            "view": 237713
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "NIKKE_japan",
-            "text": "【NIKKE in 京都 with 推し旅開催決定】\n『勝利の女神：NIKKE』× JR東海「推し旅」のコラボ第2弾が開催決定🎉\n\n指揮官、ニケたちと一緒に新幹線で京都へ——\n\n今回の任務は「遺失物調査」🔍️\n東海道新幹線の車内では、ここでしか聴けないニケたちの特別ボイスが彩る物語をお届け。\n\n京都への道中お楽しみください！\n往路・復路で変わるボイスは必聴です🎧\n\n詳細はスレッドをご覧ください👀\n\n#NIKKEin京都 #NIKKE推し旅",
-            "url": "https://x.com/NIKKE_japan/status/2092099649196744705"
-          },
-          "text_zh": "转发 @NIKKE_japan：【NIKKE 京都之旅 与 推し旅 举办决定】\n《胜利女神：NIKKE》× JR东海「推し旅」合作第二弹举办决定🎉\n\n指挥官，与妮姬们一起乘坐新干线前往京都——\n\n本次任务是「遗失物调查」🔍️\n在东海道新干线车内，只有这里才能…"
-        },
-        {
-          "id": "2092230249782079939",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2092230249782079939",
-          "text": "RT @StellarBlade: Stellar Blade Complete Edition launches on Nintendo Switch 2 later in 2026✨ https://t.co/gKiXMfEPwM",
-          "created_at": "Tue Aug 25 12:38:57 +0000 2026",
-          "lang": "en",
-          "metrics": {
-            "like": 5218,
-            "retweet": 572,
-            "reply": 161,
-            "quote": 47,
-            "view": 153877
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "StellarBlade",
-            "text": "Stellar Blade Complete Edition launches on Nintendo Switch 2 later in 2026✨ https://t.co/gKiXMfEPwM",
-            "url": "https://x.com/StellarBlade/status/2092144950603665803"
-          },
-          "text_zh": "转发 @StellarBlade：《剑星》完整版将于2026年晚些时候登陆任天堂Switch 2✨ https://t.co/gKiXMfEPwM"
-        },
-        {
-          "id": "2092217934416371759",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2092217934416371759",
-          "text": "RT @StellarBlade: Watch the full, uncut trailer 👉 https://t.co/dFHRI0Jiim",
-          "created_at": "Tue Aug 25 11:50:01 +0000 2026",
-          "lang": "en",
-          "metrics": {
-            "like": 208,
-            "retweet": 20,
-            "reply": 7,
-            "quote": 1,
-            "view": 17332
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "StellarBlade",
-            "text": "Watch the full, uncut trailer 👉 https://t.co/dFHRI0Jiim",
-            "url": "https://x.com/StellarBlade/status/2092147301645214120"
-          },
-          "text_zh": "转发 @StellarBlade：观看完整无删减预告片 👉 https://t.co/dFHRI0Jiim"
-        },
-        {
-          "id": "2092053558816395705",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2092053558816395705",
-          "text": "RT @NintendoAmerica: You are EVE, an elite warrior sent to reclaim Earth from mysterious forces. Are you up to the challenge?  \n\nBecome hum…",
-          "created_at": "Tue Aug 25 00:56:51 +0000 2026",
-          "lang": "en",
-          "metrics": {
-            "like": 7010,
-            "retweet": 762,
-            "reply": 149,
-            "quote": 88,
-            "view": 773377
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "NintendoAmerica",
-            "text": "You are EVE, an elite warrior sent to reclaim Earth from mysterious forces. Are you up to the challenge?  \n\nBecome humanity’s last hope in Stellar Blade Complete Edition, releasing on Nintendo Switch 2 this year! https://t.co/stbiJfTfP2",
-            "url": "https://x.com/NintendoAmerica/status/2092009054688145609"
-          },
-          "text_zh": "转发 @NintendoAmerica：你是EVE，一名被派往从神秘势力手中夺回地球的精锐战士。你准备好迎接挑战了吗？\n\n成为人类…"
-        }
-      ],
-      "topic": "今日关注《胜利女神：NIKKE》京都联动及《剑星》登陆Switch 2的消息。"
-    },
-    {
       "handle": "hsyoo___",
-      "name": "yoo",
-      "first_run": false,
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -130,26 +107,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "jamm3rd": [
-        "剑星音乐宣传",
-        "EVIE合作曲",
-        "游戏OST推广"
-      ],
-      "_yoojoonseok": [
-        "剑星游戏动态",
-        "NIKKE联动活动",
-        "游戏转发互动"
-      ],
-      "hsyoo___": [
-        "SHIFTUP任职",
-        "游戏开发经历"
-      ]
-    },
-    "common": [
-      "剑星"
-    ]
-  }
+  ]
 }

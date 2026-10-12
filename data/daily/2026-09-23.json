@@ -1,11 +1,10 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T09:14:09.199721+09:00",
+  "generated_at": "2026-10-12T18:57:06.541064+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -18,65 +17,63 @@
     {
       "handle": "_yoojoonseok",
       "name": "Jason",
-      "first_run": false,
       "counts": {
         "post": 0,
-        "retweet": 2,
-        "quote": 0,
+        "retweet": 0,
+        "quote": 2,
         "reply": 0
       },
       "items": [
         {
-          "id": "2102391930806243829",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2102391930806243829",
-          "text": "RT @BGN_STGY: TGSですっごいかわいいEvieに会えました😘😘😘\n終わり際も際に声掛けたのに快くお話してくださってありがとうございました…！\n#StellarBlade #StellarBladeCosplay #TGS2026 https://t.co/PvjT…",
-          "created_at": "Tue Sep 22 13:37:51 +0000 2026",
-          "lang": "ja",
-          "metrics": {
-            "like": 119,
-            "retweet": 18,
-            "reply": 2,
-            "quote": 1,
-            "view": 3697
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "BGN_STGY",
-            "text": "TGSですっごいかわいいEvieに会えました😘😘😘\n終わり際も際に声掛けたのに快くお話してくださってありがとうございました…！\n#StellarBlade #StellarBladeCosplay #TGS2026 https://t.co/PvjTWEKwvx",
-            "url": "https://x.com/BGN_STGY/status/2102090468129738909"
-          },
-          "text_zh": "RT @BGN_STGY: 在TGS上见到了超级可爱的Evie😘😘😘\n活动快结束时才去打招呼，还是很爽快地和我聊了天，非常感谢…！\n#剑星 #剑星Cosplay #TGS2026 https://t.co/PvjT…"
-        },
-        {
-          "id": "2102241157950705946",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2102241157950705946",
-          "text": "RT @StellarBlade: Thank you to everyone who visited us at the SEGA/ATLUS booth to try out Stellar Blade Complete Edition on the Nintendo Sw…",
-          "created_at": "Tue Sep 22 03:38:44 +0000 2026",
+          "id": "2102623183954407809",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2102623183954407809",
+          "text": "I won't give up..🥹 @balbnis \n#StellarBlade #StellarBladeNS2",
+          "created_at": "Wed Sep 23 04:56:46 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 4965,
-            "retweet": 403,
-            "reply": 48,
-            "quote": 8,
-            "view": 66933
+            "like": 25,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "view": 969
           },
           "author_handle": "_yoojoonseok",
           "source_tweet": {
-            "handle": "StellarBlade",
-            "text": "Thank you to everyone who visited us at the SEGA/ATLUS booth to try out Stellar Blade Complete Edition on the Nintendo Switch 2 for the first time, and to everyone who tuned into our live stage event with @jamm3rd and @seika_ruru  from home!❤️ \n\nDon't forget! Stellar Blade Complete Edition launches on Nintendo Switch 2 on November 5 PT / November 6 KST, and the demo is available to play right now! \n\nLearn more at https://t.co/5Mqxv6or3w",
-            "url": "https://x.com/StellarBlade/status/2102231228552253780"
+            "handle": "balbnis",
+            "text": "Thank you for all the support everyone!!! Wow!!\n\nDamn you Zelda ^_- lol\n\n@PMStudiosUSA @SHIFTUP_Corp https://t.co/64ix6xOXrS",
+            "url": "https://x.com/balbnis/status/2102583867240759487"
           },
-          "text_zh": "RT @StellarBlade: 感谢所有来到SEGA/ATLUS展台，在Nintendo Sw…上试玩《剑星 完整版》的各位…"
+          "text_zh": "我不会放弃的..🥹 @balbnis \n#剑星 #StellarBladeNS2"
+        },
+        {
+          "id": "2102622223941157077",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2102622223941157077",
+          "text": "Thank you for perfectly capturing the charm of the \"Black Tresses\" outfit\n#StellarBlade #StellarBladeNS2",
+          "created_at": "Wed Sep 23 04:52:57 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 137,
+            "retweet": 8,
+            "reply": 0,
+            "quote": 0,
+            "view": 1816
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "seika_ruru",
+            "text": "Stellar Blade × BAYONETTA \nコラボ衣装「ブラックトレス」\nNintendo Switch 2『Stellar Blade コンプリートエディション』は11/6発売です✨ https://t.co/423qkqsou0",
+            "url": "https://x.com/seika_ruru/status/2102593540413149558"
+          },
+          "text_zh": "感谢你完美捕捉到了“黑发”套装的魅力\n#剑星 #StellarBladeNS2"
         }
       ],
-      "topic": "关注《剑星》TGS2026展台活动及Evie的Cosplay互动。"
+      "topic": "该账号今日在讨论《剑星》NS2版的黑发套装及坚持态度。"
     },
     {
       "handle": "hsyoo___",
       "name": "Yoo",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -86,24 +83,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "_yoojoonseok": [
-        "剑星",
-        "TGS2026",
-        "金亨泰",
-        "贝优妮塔联动",
-        "Switch2版"
-      ],
-      "hsyoo___": [
-        "信任度下滑",
-        "口头承诺",
-        "状况未改善",
-        "公告延期",
-        "收拾局面"
-      ]
-    },
-    "common": []
-  }
+  ]
 }

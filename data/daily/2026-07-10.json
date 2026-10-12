@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-08-03T17:00:24.971359+09:00",
+  "generated_at": "2026-10-12T18:56:21.912712+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -16,7 +16,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -36,7 +36,7 @@
             "retweet": 0,
             "reply": 0,
             "quote": 0,
-            "view": 965
+            "view": 1060
           },
           "author_handle": "_yoojoonseok",
           "source_tweet": {
@@ -47,11 +47,11 @@
           "text_zh": "NIKKE 在 BW2026\n#NIKKE #NIKKEBW2026 #DORO"
         }
       ],
-      "topic": "该账号今日聚焦NIKKE参展BW2026，讨论DORO相关话题。"
+      "topic": "该账号今日在关注NIKKE在BW2026展会上的相关动态。"
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,

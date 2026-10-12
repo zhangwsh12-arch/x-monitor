@@ -1,11 +1,10 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T09:06:07.145439+09:00",
+  "generated_at": "2026-10-12T18:57:01.780055+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -18,20 +17,41 @@
     {
       "handle": "_yoojoonseok",
       "name": "Jason",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
-        "quote": 0,
+        "quote": 1,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2101191032776130794",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2101191032776130794",
+          "text": "Please come check it out 👊\n#StellarBlade #StellarBladeNS2 #TGS2026",
+          "created_at": "Sat Sep 19 06:05:55 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 174,
+            "retweet": 10,
+            "reply": 18,
+            "quote": 0,
+            "view": 5893
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Tomorrow, Kim Hyung Tae (@jamm3rd) takes to the stage at TGS to discuss Stellar Blade Complete Edition and share a couple of surprises!\n\nHe will also be joined by the amazing Seika Amakawa (@seika_ruru), you definitely don't want to miss this!\n\n🕑 Sep 20, 14:00 JST\n🔗 https://t.co/z1t7Gt2SWC",
+            "url": "https://x.com/StellarBlade/status/2101183868120473960"
+          },
+          "text_zh": "请来看看吧 👊\n#剑星 #剑星NS2 #TGS2026"
+        }
+      ],
+      "topic": "关注《剑星》NS2版及TGS2026相关动态。"
     },
     {
       "handle": "hsyoo___",
       "name": "Yoo",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,23 +61,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "_yoojoonseok": [
-        "剑星",
-        "三上真司",
-        "Switch2",
-        "东京电玩展",
-        "游戏开发"
-      ],
-      "hsyoo___": [
-        "信任危机",
-        "口头承诺",
-        "公告延迟",
-        "局面收拾"
-      ]
-    },
-    "common": []
-  }
+  ]
 }

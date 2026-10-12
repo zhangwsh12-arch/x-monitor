@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-08-03T17:00:27.682438+09:00",
+  "generated_at": "2026-10-12T18:56:23.794254+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -16,7 +16,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 1,
         "retweet": 0,
@@ -32,21 +32,21 @@
           "created_at": "Fri Jul 17 03:44:40 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 346,
-            "retweet": 51,
+            "like": 340,
+            "retweet": 49,
             "reply": 1,
-            "quote": 6,
-            "view": 14778
+            "quote": 7,
+            "view": 15203
           },
           "author_handle": "_yoojoonseok",
-          "text_zh": "NIKKE夏日快闪店现已开幕！我们准备了大量夏日主题的精彩周边商品，欢迎前来光顾！\n\n🗓️ 7/17（周五）~ 7/30（周四）\n📍 现代首尔 B1F\n🗺️ https://t.co/YVYX2IFiRc\n\n#NIKKE #NIKKEMerch #NIKKESummer #NIKKEPopup https://t.co/mZxytn8zBE"
+          "text_zh": "NIKKE夏日快闪店现已开幕！我们为你准备了大量精彩的夏日主题周边，一定要来逛逛！\n\n🗓️ 7/17(周五) ~ 7/30(周四)\n📍 The Hyundai Seoul，B1F\n🗺️ https://t.co/YVYX2IFiRc\n\n#NIKKE #NIKKEMerch #NIKKESummer #NIKKEPopup https://t.co/mZxytn8zBE"
         }
       ],
-      "topic": "该账号今日聚焦NIKKE夏日快闪店开幕，推广首尔限定周边活动。"
+      "topic": "NIKKE夏日快闪店今日在首尔现代百货开幕，持续至7月30日。"
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-08-03T17:00:33.878327+09:00",
+  "generated_at": "2026-10-12T18:56:27.865497+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -16,7 +16,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 1,
         "retweet": 0,
@@ -36,17 +36,17 @@
             "retweet": 0,
             "reply": 1,
             "quote": 0,
-            "view": 332
+            "view": 475
           },
           "author_handle": "_yoojoonseok",
-          "text_zh": "一个时代落幕，新一代开启。\n恭喜西班牙 🇪🇸 \n感谢梅西 🇦🇷"
+          "text_zh": "一个时代落幕，新一代启航。\n祝贺西班牙 🇪🇸\n感谢梅西 🇦🇷"
         }
       ],
-      "topic": "西班牙夺冠，梅西谢幕，足坛新时代开启。"
+      "topic": "西班牙夺冠新时代开启，梅西时代落幕。"
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 1,
         "retweet": 0,
@@ -62,17 +62,17 @@
           "created_at": "Mon Jul 20 05:36:12 +0000 2026",
           "lang": "ko",
           "metrics": {
-            "like": 877,
-            "retweet": 137,
-            "reply": 22,
+            "like": 910,
+            "retweet": 138,
+            "reply": 32,
             "quote": 5,
-            "view": 25358
+            "view": 45529
           },
           "author_handle": "hsyoo___",
-          "text_zh": "能和大家在一起，我感到非常幸福。\n衷心感谢所有热情享受的指挥官们。\n\n#NIKKE #妮姬 #NIKKEBandlive #FULLBUSTLIVE"
+          "text_zh": "能与大家共度时光，我感到非常幸福。\n衷心感谢每一位热情参与的指挥官。\n\n#NIKKE #妮姬 #NIKKEBandlive #FULLBUSTLIVE https://t.co/osgvl1PQwE"
         }
       ],
-      "topic": "该账号今日聚焦NIKKE线下音乐会，分享与指挥官共聚的幸福感言。"
+      "topic": "感谢指挥官参与NIKKE线下演唱会，共度幸福时光。"
     }
   ]
 }

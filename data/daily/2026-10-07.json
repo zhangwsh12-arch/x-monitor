@@ -1,24 +1,67 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T10:21:53.028146+09:00",
+  "generated_at": "2026-10-12T18:57:10.439964+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
         "post": 0,
-        "retweet": 0,
+        "retweet": 2,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2107759982041301502",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2107759982041301502",
+          "text": "RT @yokotaro: 大学の１年後輩でナムコ同期でもあるコーノさん。同期が次々とナムコを辞める中、会社で奮闘しつづけエースコンバット最新作をリリースしたので頂きました！！封筒の熱いメッセージを読みつつ、インストール中でございます。（お手紙写真掲載許可済み）\n\n是非チェック…",
+          "created_at": "Wed Oct 07 09:08:34 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 7491,
+            "retweet": 977,
+            "reply": 29,
+            "quote": 26,
+            "view": 381132
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "yokotaro",
+            "text": "大学の１年後輩でナムコ同期でもあるコーノさん。同期が次々とナムコを辞める中、会社で奮闘しつづけエースコンバット最新作をリリースしたので頂きました！！封筒の熱いメッセージを読みつつ、インストール中でございます。（お手紙写真掲載許可済み）\n\n是非チェックを。\nhttps://t.co/glc4t3BL6r https://t.co/2mHdMqnkkW",
+            "url": "https://x.com/yokotaro/status/2107671043490123836"
+          },
+          "text_zh": "转发 @yokotaro：比我低一届的大学后辈，也是南梦宫同期的小野先生。在同期纷纷离开南梦宫之际，他在公司持续奋斗，推出了《皇牌空战》最新作，所以我收到了这份礼物！！一边读着信封里热情洋溢的留言，一边正在安装中。（已获得信件照片刊登许可）\n\n请务必查看…"
+        },
+        {
+          "id": "2107556133854699857",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2107556133854699857",
+          "text": "RT @theweeknd: SEOUL TOWER https://t.co/wsXZSPMVvG",
+          "created_at": "Tue Oct 06 19:38:33 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 12645,
+            "retweet": 1155,
+            "reply": 150,
+            "quote": 173,
+            "view": 666600
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "theweeknd",
+            "text": "SEOUL TOWER https://t.co/wsXZSPMVvG",
+            "url": "https://x.com/theweeknd/status/2107093578891866223"
+          },
+          "text_zh": "转发 @theweeknd：首尔塔 https://t.co/wsXZSPMVvG"
+        }
+      ],
+      "topic": "横尾太郎晒小野送《皇牌空战》新作礼物，感慨同期离职他仍坚守南梦宫。"
     },
     {
       "handle": "_yoojoonseok",
       "name": "Jason",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -31,7 +74,6 @@
     {
       "handle": "hsyoo___",
       "name": "Yoo",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,17 +83,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "_yoojoonseok": [
-        "剑星",
-        "StellarBlade",
-        "TGS2026",
-        "贝优妮塔联动",
-        "伊芙Cosplay"
-      ]
-    },
-    "common": []
-  }
+  ]
 }

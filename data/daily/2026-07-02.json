@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-08-03T17:00:09.444346+09:00",
+  "generated_at": "2026-10-12T18:56:12.023129+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -16,7 +16,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 1,
         "retweet": 0,
@@ -36,17 +36,17 @@
             "retweet": 19,
             "reply": 0,
             "quote": 0,
-            "view": 11007
+            "view": 11288
           },
           "author_handle": "_yoojoonseok",
-          "text_zh": "真不敢相信已经过去一年了。去年玩得太开心了，期待AX2026\n#NIKKE #AX2026 https://t.co/edaqlkKs15"
+          "text_zh": "不敢相信已经一年了。去年太有趣了，期待AX2026\n#NIKKE #AX2026 https://t.co/edaqlkKs15"
         }
       ],
-      "topic": "该账号今日回顾去年漫展快乐，并表达对AX2026的期待。"
+      "topic": "回顾去年NIKKE参展AX的乐趣，期待AX2026。"
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 1,
         "retweet": 0,
@@ -62,17 +62,17 @@
           "created_at": "Wed Jul 01 15:12:54 +0000 2026",
           "lang": "ko",
           "metrics": {
-            "like": 1142,
+            "like": 1131,
             "retweet": 175,
             "reply": 50,
             "quote": 28,
-            "view": 73630
+            "view": 81702
           },
           "author_handle": "hsyoo___",
-          "text_zh": "今天预定更新的妮姬介绍视频制作过程中出现问题，目前视频上传延迟。我们将尽快处理，尽快完成上传。"
+          "text_zh": "今天预定更新的妮姬介绍视频在制作过程中出现了问题，目前视频上传有所延迟。我们会尽快处理，争取尽早完成上传。"
         }
       ],
-      "topic": "视频制作遇阻，妮姬介绍更新延迟，团队正加紧处理。"
+      "topic": "妮姬介绍视频制作遇问题，上传延迟，正尽快处理。"
     }
   ]
 }

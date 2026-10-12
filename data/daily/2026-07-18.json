@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-08-03T17:00:31.176362+09:00",
+  "generated_at": "2026-10-12T18:56:26.012595+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -16,7 +16,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 1,
         "retweet": 0,
@@ -36,17 +36,17 @@
             "retweet": 9,
             "reply": 0,
             "quote": 0,
-            "view": 5098
+            "view": 5236
           },
           "author_handle": "_yoojoonseok",
-          "text_zh": "让我们一起尖叫吧！！\n#NIKKE #NIKKEBandLive https://t.co/OuwvzZUEnh"
+          "text_zh": "一起尖叫吧！！\n#NIKKE #NIKKEBandLive https://t.co/OuwvzZUEnh"
         }
       ],
-      "topic": "今日聚焦NIKKE乐队Live活动，号召粉丝共同狂欢。"
+      "topic": "关注《NIKKE》乐队直播活动，号召粉丝一起尖叫应援。"
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,

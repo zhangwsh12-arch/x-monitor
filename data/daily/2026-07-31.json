@@ -1,39 +1,17 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-08-03T17:00:42.332894+09:00",
+  "generated_at": "2026-10-12T18:56:31.434270+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
       "counts": {
         "post": 2,
-        "retweet": 1,
+        "retweet": 0,
         "quote": 0,
         "reply": 0
       },
       "items": [
-        {
-          "id": "2082995041497403436",
-          "kind": "retweet",
-          "url": "https://x.com/jamm3rd/status/2082995041497403436",
-          "text": "RT @StellarBlade: Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.c…",
-          "created_at": "Fri Jul 31 01:01:32 +0000 2026",
-          "lang": "en",
-          "metrics": {
-            "like": 2596,
-            "retweet": 347,
-            "reply": 521,
-            "quote": 234,
-            "view": 1218671
-          },
-          "author_handle": "jamm3rd",
-          "source_tweet": {
-            "handle": "StellarBlade",
-            "text": "Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.co/0tFPsJqkbx",
-            "url": "https://x.com/StellarBlade/status/2082994852569264185"
-          },
-          "text_zh": "转发 @StellarBlade：Evie 的最新曲目已正式通过审核。🎶💗\n“想要恋爱”\n大声播放，理性坠入爱河。\n\nhttps://t.c…"
-        },
         {
           "id": "2082994905325187473",
           "kind": "post",
@@ -42,14 +20,14 @@
           "created_at": "Fri Jul 31 01:01:00 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 3324,
-            "retweet": 376,
-            "reply": 576,
-            "quote": 250,
-            "view": 631580
+            "like": 3359,
+            "retweet": 373,
+            "reply": 579,
+            "quote": 252,
+            "view": 691172
           },
           "author_handle": "jamm3rd",
-          "text_zh": "“想要恋爱” feat. EVIE 来自《剑星：血雨》🎶\nEVIE 的新音乐视频现已在 YouTube 上以 4K 画质发布。我们期待您的观看并分享您的想法！\nhttps://t.co/n1bhFiH1IJ https://t.co/kjmGnqoe9W"
+          "text_zh": "《Wanna be in LOVE》feat. EVIE，出自《剑星》：BLOODRAIN🎶\nEVIE的新音乐视频现已在YouTube上以4K画质上线。我们非常希望你能观看，并与我们分享你的想法！\nhttps://t.co/n1bhFiH1IJ https://t.co/kjmGnqoe9W"
         },
         {
           "id": "2082994661048610829",
@@ -59,94 +37,28 @@
           "created_at": "Fri Jul 31 01:00:02 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 3359,
-            "retweet": 476,
-            "reply": 929,
-            "quote": 576,
-            "view": 1154901
+            "like": 3492,
+            "retweet": 487,
+            "reply": 956,
+            "quote": 592,
+            "view": 1342022
           },
           "author_handle": "jamm3rd",
-          "text_zh": "“想要恋爱” feat. EVIE \n来自《剑星：血雨》官方原创歌曲音乐视频 4K💗\n#剑星 #血雨 #Shiftup #EVIE #OST #韩流 #偶像 #享受 https://t.co/C9zU1YN4wz"
+          "text_zh": "《Wanna be in LOVE》feat. EVIE\n出自《剑星》：BLOODRAIN官方原声歌曲MV 4K💗\n#StellarBlade #BLOODRAIN #Shiftup #EVIE #OST #kpop #Idol #Enjoy https://t.co/C9zU1YN4wz"
         }
       ],
-      "topic": "今日聚焦《剑星》新曲“想要恋爱”MV发布，推广EVIE演唱及4K视频。"
+      "topic": "关注《剑星：BLOODRAIN》EVIE新歌MV 4K上线。"
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 0,
-        "retweet": 3,
+        "retweet": 0,
         "quote": 1,
         "reply": 0
       },
       "items": [
-        {
-          "id": "2083000861157200237",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2083000861157200237",
-          "text": "RT @jamm3rd: “Wanna be in LOVE” feat. EVIE \nfrom Stellar Blade : BLOODRAIN official original Song MUSIC VIDEO 4K💗\n#StellarBlade #BLOODRAIN…",
-          "created_at": "Fri Jul 31 01:24:40 +0000 2026",
-          "lang": "en",
-          "metrics": {
-            "like": 3359,
-            "retweet": 476,
-            "reply": 929,
-            "quote": 576,
-            "view": 1154901
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "jamm3rd",
-            "text": "“Wanna be in LOVE” feat. EVIE \nfrom Stellar Blade : BLOODRAIN official original Song MUSIC VIDEO 4K💗\n#StellarBlade #BLOODRAIN #Shiftup #EVIE #OST #kpop #Idol #Enjoy https://t.co/C9zU1YN4wz",
-            "url": "https://x.com/jamm3rd/status/2082994661048610829"
-          },
-          "text_zh": "转发 @jamm3rd：“想要坠入爱河” 由 EVIE 演唱\n来自《剑星：血雨》官方原创歌曲音乐视频 4K💗\n#剑星 #血雨…"
-        },
-        {
-          "id": "2083000831323062386",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2083000831323062386",
-          "text": "RT @jamm3rd: \"Wanna be in LOVE\" feat. EVIE from Stellar Blade : BLOODRAIN🎶 \nEVIE’s new music video is now available in 4K on YouTube. We’d…",
-          "created_at": "Fri Jul 31 01:24:33 +0000 2026",
-          "lang": "en",
-          "metrics": {
-            "like": 3324,
-            "retweet": 376,
-            "reply": 576,
-            "quote": 250,
-            "view": 631586
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "jamm3rd",
-            "text": "\"Wanna be in LOVE\" feat. EVIE from Stellar Blade : BLOODRAIN🎶 \nEVIE’s new music video is now available in 4K on YouTube. We’d love for you to watch it and share your thoughts with us!\nhttps://t.co/n1bhFiH1IJ https://t.co/kjmGnqoe9W",
-            "url": "https://x.com/jamm3rd/status/2082994905325187473"
-          },
-          "text_zh": "转发 @jamm3rd：“想要坠入爱河” 由 EVIE 演唱，出自《剑星：血雨》🎶\nEVIE 的新音乐视频现已在 YouTube 上以 4K 画质发布。我们…"
-        },
-        {
-          "id": "2082996285850968404",
-          "kind": "retweet",
-          "url": "https://x.com/_yoojoonseok/status/2082996285850968404",
-          "text": "RT @StellarBlade: Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.c…",
-          "created_at": "Fri Jul 31 01:06:29 +0000 2026",
-          "lang": "en",
-          "metrics": {
-            "like": 2596,
-            "retweet": 347,
-            "reply": 521,
-            "quote": 234,
-            "view": 1218671
-          },
-          "author_handle": "_yoojoonseok",
-          "source_tweet": {
-            "handle": "StellarBlade",
-            "text": "Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.co/0tFPsJqkbx",
-            "url": "https://x.com/StellarBlade/status/2082994852569264185"
-          },
-          "text_zh": "转发 @StellarBlade：Evie 的最新单曲已正式通过合规审查。🎶💗\n“想要坠入爱河”\n大声播放。理性心动。\n\nhttps://t.c…"
-        },
         {
           "id": "2082995761713946842",
           "kind": "quote",
@@ -159,7 +71,7 @@
             "retweet": 4,
             "reply": 9,
             "quote": 1,
-            "view": 2260
+            "view": 2765
           },
           "author_handle": "_yoojoonseok",
           "source_tweet": {
@@ -167,14 +79,14 @@
             "text": "Evie’s latest track has officially cleared compliance. 🎶💗\n“Wanna be in LOVE”\nPlay it loud. Fall responsibly.\n\nhttps://t.co/0tFPsJqkbx",
             "url": "https://x.com/StellarBlade/status/2082994852569264185"
           },
-          "text_zh": "可爱的 Evie 回来了！没错，你会想和她“坠入爱河🎶”。别抗拒这份心动💕\n#Evie"
+          "text_zh": "可爱的伊薇回来了！没错，你会'想要坠入爱河🎶'与她一起。别抗拒哦💕\n#伊薇"
         }
       ],
-      "topic": "今日聚焦《剑星：血雨》新曲《想要坠入爱河》及Evie回归动态。"
+      "topic": "关注角色伊薇回归，分享其可爱魅力与恋爱主题内容。"
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,

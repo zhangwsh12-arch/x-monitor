@@ -1,24 +1,40 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T07:30:33.855089+09:00",
+  "generated_at": "2026-10-12T18:56:42.085565+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2088631913414361357",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2088631913414361357",
+          "text": "先週の週末のSHIFT UPでは、NIKKEのディレクター、ユ・ヒョンソクの副社長昇進イベントが開催されました。その時撮った写真を共有します。🎊 #Congratulations https://t.co/dIDBHtCb9e",
+          "created_at": "Sat Aug 15 14:20:27 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 3567,
+            "retweet": 505,
+            "reply": 134,
+            "quote": 84,
+            "view": 280544
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "上周周末，在SHIFT UP举办了《NIKKE》总监刘亨锡晋升为副社长的庆祝活动。现在分享当时拍摄的照片。🎊 #Congratulations https://t.co/dIDBHtCb9e"
+        }
+      ],
+      "topic": "NIKKE总监刘亨锡晋升副社长，SHIFT UP举办庆祝活动。"
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
-      "first_run": false,
+      "name": "Jason",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -30,8 +46,7 @@
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
-      "first_run": false,
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,33 +56,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "jamm3rd": [
-        "剑星血雨",
-        "EVIE音乐",
-        "官方OST",
-        "4K音乐视频",
-        "游戏联动歌曲"
-      ],
-      "_yoojoonseok": [
-        "剑星血雨",
-        "EVIE音乐",
-        "NIKKE活动",
-        "游戏周边",
-        "西班牙夺冠"
-      ],
-      "hsyoo___": [
-        "NIKKE活动",
-        "指挥官感谢",
-        "现场演出"
-      ]
-    },
-    "common": [
-      "剑星血雨",
-      "EVIE音乐",
-      "NIKKE活动"
-    ]
-  }
+  ]
 }

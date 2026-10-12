@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-08-03T17:00:15.348223+09:00",
+  "generated_at": "2026-10-12T18:56:15.770432+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -16,7 +16,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 2,
         "retweet": 0,
@@ -32,14 +32,14 @@
           "created_at": "Fri Jul 03 23:02:18 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 60,
-            "retweet": 8,
+            "like": 57,
+            "retweet": 7,
             "reply": 2,
             "quote": 0,
-            "view": 1712
+            "view": 1762
           },
           "author_handle": "_yoojoonseok",
-          "text_zh": "在AX2026找到了Eve\n#StellarBlade #Eve"
+          "text_zh": "在AX2026找到了伊芙\n#剑星 #Eve"
         },
         {
           "id": "2073179191311573390",
@@ -49,21 +49,21 @@
           "created_at": "Fri Jul 03 22:56:51 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 248,
-            "retweet": 22,
+            "like": 245,
+            "retweet": 20,
             "reply": 2,
             "quote": 0,
-            "view": 9652
+            "view": 9726
           },
           "author_handle": "_yoojoonseok",
-          "text_zh": "AX2026第二天。看来来访的粉丝比去年还多。总能从这里获得满满的能量，太棒了！明天第三天还有更多精彩活动，请务必下午3点来逛逛 🙌\n#NIKKE #NIKKEAX2026"
+          "text_zh": "AX2026 第二天。今年来的粉丝似乎比去年还要多。在这里总能感受到满满的热情，太棒了！明天第三天还有更多精彩活动，请务必下午3点来参加哦 🙌\n#NIKKE #NIKKEAX2026"
         }
       ],
-      "topic": "今日聚焦AX2026展会，分享《Stellar Blade》与《NIKKE》活动动态及粉丝互动。"
+      "topic": "该账号在AX2026展会关注《剑星》伊芙与《NIKKE》活动，并预告第三天下午3点见面会。"
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,

@@ -1,11 +1,10 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T09:40:26.819579+09:00",
+  "generated_at": "2026-10-12T18:57:08.748245+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -18,20 +17,41 @@
     {
       "handle": "_yoojoonseok",
       "name": "Jason",
-      "first_run": false,
       "counts": {
         "post": 0,
-        "retweet": 0,
+        "retweet": 1,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2107117267863691487",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2107117267863691487",
+          "text": "RT @theweeknd: SEOUL TOWER https://t.co/wsXZSPMVvG",
+          "created_at": "Mon Oct 05 14:34:39 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 12645,
+            "retweet": 1155,
+            "reply": 150,
+            "quote": 173,
+            "view": 666600
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "theweeknd",
+            "text": "SEOUL TOWER https://t.co/wsXZSPMVvG",
+            "url": "https://x.com/theweeknd/status/2107093578891866223"
+          },
+          "text_zh": "转发 @theweeknd：首尔塔 https://t.co/wsXZSPMVvG"
+        }
+      ],
+      "topic": "该账号今日转发The Weeknd首尔塔相关内容。"
     },
     {
       "handle": "hsyoo___",
       "name": "Yoo",
-      "first_run": false,
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,23 +61,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "_yoojoonseok": [
-        "剑星",
-        "StellarBladeNS2",
-        "TGS2026",
-        "贝优妮塔联动",
-        "Switch2试玩"
-      ],
-      "hsyoo___": [
-        "信任下滑",
-        "口头承诺",
-        "公告延迟",
-        "收拾局面"
-      ]
-    },
-    "common": []
-  }
+  ]
 }

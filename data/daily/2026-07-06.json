@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-08-03T17:00:18.647323+09:00",
+  "generated_at": "2026-10-12T18:56:18.002687+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
@@ -16,7 +16,7 @@
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
+      "name": "Jason",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -28,7 +28,7 @@
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
+      "name": "Yoo",
       "counts": {
         "post": 1,
         "retweet": 0,
@@ -44,17 +44,17 @@
           "created_at": "Mon Jul 06 09:19:08 +0000 2026",
           "lang": "en",
           "metrics": {
-            "like": 1431,
-            "retweet": 149,
-            "reply": 11,
+            "like": 1453,
+            "retweet": 148,
+            "reply": 14,
             "quote": 1,
-            "view": 31646
+            "view": 41411
           },
           "author_handle": "hsyoo___",
-          "text_zh": "很高兴与大家见面。我们从你们发来的许多鼓励话语中汲取了力量。谢谢！\n\n#NIKKE #AnimeExpo2026 https://t.co/zi1BXGrwUL"
+          "text_zh": "很高兴见到大家。你们发来的众多鼓励之言让我们获得了力量。谢谢！\n\n#NIKKE #AnimeExpo2026 https://t.co/zi1BXGrwUL"
         }
       ],
-      "topic": "该账号今日宣布参与AnimeExpo2026，并感谢粉丝支持。"
+      "topic": "感谢粉丝鼓励，并预告NIKKE将参展Anime Expo 2026。"
     }
   ]
 }

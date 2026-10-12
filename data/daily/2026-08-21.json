@@ -1,24 +1,40 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T07:34:34.258907+09:00",
+  "generated_at": "2026-10-12T18:56:49.165872+09:00",
   "accounts": [
     {
       "handle": "jamm3rd",
       "name": "金亨泰",
-      "first_run": false,
       "counts": {
-        "post": 0,
+        "post": 1,
         "retweet": 0,
         "quote": 0,
         "reply": 0
       },
-      "items": [],
-      "topic": "今日无更新"
+      "items": [
+        {
+          "id": "2090487768279622121",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2090487768279622121",
+          "text": "The boss fight in Black Myth: Zhong Kui gave me chills. Game Science is always going full throttle‼️\nhttps://t.co/dRmdHozl6X https://t.co/cp45kNfe24",
+          "created_at": "Thu Aug 20 17:14:57 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1013,
+            "retweet": 61,
+            "reply": 86,
+            "quote": 4,
+            "view": 64541
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "《黑神话：钟馗》里的boss战让我毛骨悚然。游戏科学总是全力以赴‼️\nhttps://t.co/dRmdHozl6X https://t.co/cp45kNfe24"
+        }
+      ],
+      "topic": "游戏科学新作《黑神话：钟馗》boss战令人毛骨悚然，引发热议。"
     },
     {
       "handle": "_yoojoonseok",
-      "name": "jason",
-      "first_run": false,
+      "name": "Jason",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -30,8 +46,7 @@
     },
     {
       "handle": "hsyoo___",
-      "name": "yoo",
-      "first_run": false,
+      "name": "Yoo",
       "counts": {
         "post": 0,
         "retweet": 0,
@@ -41,30 +56,5 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ],
-  "keywords": {
-    "accounts": {
-      "jamm3rd": [
-        "剑星血雨",
-        "EVIE音乐",
-        "官方OST",
-        "4K音乐视频"
-      ],
-      "_yoojoonseok": [
-        "NIKKE",
-        "剑星血雨",
-        "EVIE",
-        "游戏音乐"
-      ],
-      "hsyoo___": [
-        "SHIFTUP",
-        "游戏开发",
-        "晋升"
-      ]
-    },
-    "common": [
-      "剑星血雨",
-      "EVIE"
-    ]
-  }
+  ]
 }
