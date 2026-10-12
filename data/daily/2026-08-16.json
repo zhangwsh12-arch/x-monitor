@@ -74,5 +74,26 @@
       ],
       "topic": "SHIFTUP副总裁、《NIKKE》核心开发者回顾25年游戏生涯，视NIKKE为人生全部。"
     }
-  ]
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星血雨宣传",
+        "EVIE音乐视频",
+        "官方OST推广"
+      ],
+      "_yoojoonseok": [
+        "剑星血雨互动",
+        "NIKKE活动宣传",
+        "EVIE歌曲转发"
+      ],
+      "hsyoo___": [
+        "NIKKE活动感谢",
+        "指挥官互动"
+      ]
+    },
+    "common": [
+      "剑星血雨"
+    ]
+  }
 }

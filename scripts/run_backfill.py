@@ -93,9 +93,14 @@ def main(max_pages: int = 40):
                 "handle": handle, "name": a.get("name", handle),
                 "counts": counts, "items": items,
             })
+        daily_path = DAILY_DIR / f"{d}.json"
+        previous = read_json(daily_path) or {}
         daily = {"date": d, "generated_at": now_kst().isoformat(), "accounts": accounts_data}
         daily = interpret_daily(daily)
-        write_json(DAILY_DIR / f"{d}.json", daily)
+        # 回填只更新账号动态；保留日报流程生成的近 30 天关键词，避免历史页面区块消失。
+        if previous.get("keywords"):
+            daily["keywords"] = previous["keywords"]
+        write_json(daily_path, daily)
         generated_days.append(d)
         log.info("已生成 %s 快照", d)
 

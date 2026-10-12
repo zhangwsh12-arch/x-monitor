@@ -56,5 +56,30 @@
       "items": [],
       "topic": "今日无更新"
     }
-  ]
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星血雨",
+        "EVIE音乐",
+        "官方OST",
+        "4K音乐视频"
+      ],
+      "_yoojoonseok": [
+        "NIKKE",
+        "剑星血雨",
+        "EVIE",
+        "游戏音乐"
+      ],
+      "hsyoo___": [
+        "SHIFTUP",
+        "游戏开发",
+        "晋升"
+      ]
+    },
+    "common": [
+      "剑星血雨",
+      "EVIE"
+    ]
+  }
 }
