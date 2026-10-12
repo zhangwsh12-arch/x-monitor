@@ -31,6 +31,14 @@ def classify(t: dict) -> str:
     return "post"
 
 
+def tweet_id_num(value: str | int | None) -> int:
+    """将 X Snowflake ID 转为整数，避免 18/19 位字符串比较出错。"""
+    try:
+        return int(value or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
 def simplify(t: dict, kind: str) -> dict:
     """精简保留报告/看板所需字段。"""
     author = t.get("author") or {}
@@ -76,12 +84,9 @@ def fetch_account(client: TwitterApiClient, handle: str, last_seen_id: str | Non
             break
         for t in tweets:
             tid = t.get("id")
-            if newest_id is None or (tid and tid > (newest_id or "")):
-                # 记录本轮最大 id 作为新游标
-                if collected == [] and tid:
-                    pass
-            # 命中上次已抓 → 停止（增量去重）
-            if last_seen_id and tid and tid <= last_seen_id:
+            # 命中上次已抓 → 停止（增量去重）。Snowflake ID 必须按数值比较，
+            # 否则 19 位新 ID（以 2 开头）会被误判为小于 18 位旧 ID（以 9 开头）。
+            if last_seen_id and tid and tweet_id_num(tid) <= tweet_id_num(last_seen_id):
                 stop = True
                 break
             created = parse_created_at(t.get("createdAt", ""))
@@ -97,7 +102,11 @@ def fetch_account(client: TwitterApiClient, handle: str, last_seen_id: str | Non
             break
     # 新游标 = 本次抓到的最大 id（tweets 已按时间倒序）
     if collected:
-        max_id = max((c["id"] for c in collected if c.get("id")), default=newest_id)
+        max_id = max(
+            (c["id"] for c in collected if c.get("id")),
+            key=tweet_id_num,
+            default=newest_id,
+        )
         newest_id = max_id
     return collected, newest_id
 

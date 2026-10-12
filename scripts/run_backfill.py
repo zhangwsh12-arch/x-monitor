@@ -10,7 +10,7 @@ from common import (
     TwitterApiClient, load_accounts, load_state, save_state,
     now_kst, KST, DAILY_DIR, DATA_DIR, write_json, read_json, log,
 )
-from fetch import parse_created_at, classify, simplify
+from fetch import parse_created_at, classify, simplify, tweet_id_num
 from interpret import interpret_daily
 from render import render_daily
 
@@ -69,7 +69,7 @@ def main(max_pages: int = 40):
             rows = []
         ids = [it["id"] for _, it in rows if it.get("id")]
         if ids:
-            newest_ids[handle] = max(ids)
+            newest_ids[handle] = max(ids, key=tweet_id_num)
         for created, it in rows:
             if not created:
                 continue
@@ -102,7 +102,7 @@ def main(max_pages: int = 40):
     state = load_state()
     for h, mid in newest_ids.items():
         cur = (state.get(h) or {}).get("last_seen_id")
-        if not cur or mid > cur:
+        if not cur or tweet_id_num(mid) > tweet_id_num(cur):
             state[h] = {"last_seen_id": mid}
     save_state(state)
 
