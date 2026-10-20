@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T10:00:23.789225+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2112018471324430417",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2112018471324430417",
+          "text": "Less than 20 days left until launch, see you soon!\n#StellarBlade #StellarBladeNS2",
+          "created_at": "Mon Oct 19 03:10:17 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 48,
+            "retweet": 6,
+            "reply": 1,
+            "quote": 0,
+            "view": 756
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Transform each moment in the game into your personal masterpiece with Stellar Blade's Photo Mode📸\n\nLet’s show Nintendo fans what this camera can do! Drop your best shots in the replies👇 https://t.co/374DCzMBVH",
+            "url": "https://x.com/StellarBlade/status/2111985683552194814"
+          },
+          "text_zh": "距离发售还有不到20天，很快见！\n#剑星 #剑星NS2"
+        }
+      ],
+      "topic": "该账号今日在关注《剑星》NS2版发售倒计时，距发售不足20天。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "皇牌空战8",
+        "TheWeeknd",
+        "SHIFTUP",
+        "游戏销量"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "StellarBladeNS2",
+        "TheWeeknd",
+        "SHIFTUP",
+        "游戏预购"
+      ]
+    },
+    "common": [
+      "TheWeeknd",
+      "SHIFTUP"
+    ]
+  }
+}
