@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T09:33:14.884501+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "皇牌空战8",
+        "TheWeeknd",
+        "SHIFTUP",
+        "游戏销量"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "StellarBladeNS2",
+        "TheWeeknd",
+        "SHIFTUP",
+        "游戏发售"
+      ]
+    },
+    "common": [
+      "TheWeeknd",
+      "SHIFTUP"
+    ]
+  }
+}
