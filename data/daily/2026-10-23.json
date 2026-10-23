@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T09:30:28.456844+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2113251562487521447",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2113251562487521447",
+          "text": "New album @TOWER_Shibuya \n#NIKKE #NIKKE4thAnniversary https://t.co/UzR1wdURHy",
+          "created_at": "Thu Oct 22 12:50:09 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 118,
+            "retweet": 4,
+            "reply": 3,
+            "quote": 0,
+            "view": 2297
+          },
+          "author_handle": "_yoojoonseok",
+          "text_zh": "新专辑 @TOWER_Shibuya\n#NIKKE #NIKKE4thAnniversary https://t.co/UzR1wdURHy"
+        }
+      ],
+      "topic": "关注NIKKE四周年新专辑在涩谷TOWER唱片店的发售动态。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "皇牌空战8",
+        "TheWeeknd联动",
+        "SHIFTUP合作",
+        "游戏销量"
+      ],
+      "_yoojoonseok": [
+        "剑星宣传",
+        "NIKKE周年",
+        "TheWeeknd联动",
+        "游戏预购"
+      ]
+    },
+    "common": [
+      "TheWeeknd联动",
+      "SHIFTUP合作"
+    ]
+  }
+}
