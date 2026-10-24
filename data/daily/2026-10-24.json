@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T09:25:58.166620+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 4,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2113569176606654583",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2113569176606654583",
+          "text": "RT @NIKKE_japan: 【勝利の女神集結カウントダウン】\n「カウンターズ部隊、エンカウンター！」\n\n人類の希望のために、全員集結！\n\n全部隊集結まで、あと1日…⏰\n\n#NIKKE4周年 https://t.co/w45gORfMH2",
+          "created_at": "Fri Oct 23 09:52:14 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 13081,
+            "retweet": 3315,
+            "reply": 59,
+            "quote": 317,
+            "view": 360078
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【勝利の女神集結カウントダウン】\n「カウンターズ部隊、エンカウンター！」\n\n人類の希望のために、全員集結！\n\n全部隊集結まで、あと1日…⏰\n\n#NIKKE4周年 https://t.co/w45gORfMH2",
+            "url": "https://x.com/NIKKE_japan/status/2113556045885046864"
+          },
+          "text_zh": "RT @NIKKE_japan：【胜利女神集结倒计时】\n「反击部队，遭遇战！」\n\n为了人类的希望，全员集结！\n\n距离全部队集结还有1天…⏰\n\n#NIKKE4周年 https://t.co/w45gORfMH2"
+        },
+        {
+          "id": "2113569166687145984",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2113569166687145984",
+          "text": "RT @NIKKE_en: 【Goddess of Victory Assemble Countdown】\n\n“Counters, enemy contact!”\n\nFor the hope of humanity, here we stand.\n\n1 day to go un…",
+          "created_at": "Fri Oct 23 09:52:12 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 8097,
+            "retweet": 1074,
+            "reply": 87,
+            "quote": 74,
+            "view": 152219
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【Goddess of Victory Assemble Countdown】\n\n“Counters, enemy contact!”\n\nFor the hope of humanity, here we stand.\n\n1 day to go until all squads assemble.\n\n#NIKKE4thAnniversary https://t.co/lU7ymr39Yx",
+            "url": "https://x.com/NIKKE_en/status/2113556034090619079"
+          },
+          "text_zh": "RT @NIKKE_en：【胜利女神集结倒计时】\n\n“反击部队，发现敌人！”\n\n为了人类的希望，我们在此集结。\n\n还剩1天…"
+        },
+        {
+          "id": "2113567672315294123",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2113567672315294123",
+          "text": "RT @OverwatchKR: 오버워치의 새로운 콜라보레이션,\n‘EVE Protocol’을 공개합니다!\n\n#오버워치 #EVEProtocol https://t.co/HGnBGdZ1r0",
+          "created_at": "Fri Oct 23 09:46:15 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 1694,
+            "retweet": 204,
+            "reply": 27,
+            "quote": 649,
+            "view": 202702
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "OverwatchKR",
+            "text": "오버워치의 새로운 콜라보레이션,\n‘EVE Protocol’을 공개합니다!\n\n#오버워치 #EVEProtocol https://t.co/HGnBGdZ1r0",
+            "url": "https://x.com/OverwatchKR/status/2113563586098303126"
+          },
+          "text_zh": "RT @OverwatchKR：守望先锋全新联动，\n“EVE Protocol”正式公开！\n\n#守望先锋 #EVEProtocol https://t.co/HGnBGdZ1r0"
+        },
+        {
+          "id": "2113558858816000471",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2113558858816000471",
+          "text": "왜 나만 사진이 아닌것인가....",
+          "created_at": "Fri Oct 23 09:11:14 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 874,
+            "retweet": 72,
+            "reply": 36,
+            "quote": 1,
+            "view": 32752
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "SHIFTUP_Corp",
+            "text": "We are thrilled to share that @jamm3rd has been recognized as one of the 5 most influential game directors of 2026 at Weibo V Influence Conference!\n\nAn absolute honor to be featured alongside @urokuta_ja, @nhamaguc, @Yocar_Feng, and Soulframe (Liang Qiwei). Congratulations all! https://t.co/5fLKgve6j3",
+            "url": "https://x.com/SHIFTUP_Corp/status/2113433623114486090"
+          },
+          "text_zh": "为什么只有我不是照片啊……"
+        },
+        {
+          "id": "2113558698866135548",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2113558698866135548",
+          "text": "RT @StellarBlade: You have my attention!\n\nOverwatch x EVE Protocol collaboration incoming https://t.co/gvxQzarG1t",
+          "created_at": "Fri Oct 23 09:10:36 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 23270,
+            "retweet": 1623,
+            "reply": 515,
+            "quote": 740,
+            "view": 758461
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "You have my attention!\n\nOverwatch x EVE Protocol collaboration incoming https://t.co/gvxQzarG1t",
+            "url": "https://x.com/StellarBlade/status/2113558319029965268"
+          },
+          "text_zh": "RT @StellarBlade：你成功引起了我的注意！\n\n守望先锋 x EVE Protocol 联动即将到来 https://t.co/gvxQzarG1t"
+        }
+      ],
+      "topic": "该账号关注《胜利女神：NIKKE》四周年集结倒计时及《守望先锋》与EVE Protocol联动消息。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 3,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2113568590939279675",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2113568590939279675",
+          "text": "RT @OverwatchKR: 오버워치의 새로운 콜라보레이션,\n‘EVE Protocol’을 공개합니다!\n\n#오버워치 #EVEProtocol https://t.co/HGnBGdZ1r0",
+          "created_at": "Fri Oct 23 09:49:54 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 1694,
+            "retweet": 204,
+            "reply": 27,
+            "quote": 649,
+            "view": 202702
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "OverwatchKR",
+            "text": "오버워치의 새로운 콜라보레이션,\n‘EVE Protocol’을 공개합니다!\n\n#오버워치 #EVEProtocol https://t.co/HGnBGdZ1r0",
+            "url": "https://x.com/OverwatchKR/status/2113563586098303126"
+          },
+          "text_zh": "RT @OverwatchKR: 守望先锋全新联动企划——「EVE Protocol」正式公开！\n\n#守望先锋 #EVEProtocol https://t.co/HGnBGdZ1r0"
+        },
+        {
+          "id": "2113566238349939032",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2113566238349939032",
+          "text": "RT @StellarBlade: You have my attention!\n\nOverwatch x EVE Protocol collaboration incoming https://t.co/gvxQzarG1t",
+          "created_at": "Fri Oct 23 09:40:34 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 23270,
+            "retweet": 1623,
+            "reply": 515,
+            "quote": 740,
+            "view": 758461
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "You have my attention!\n\nOverwatch x EVE Protocol collaboration incoming https://t.co/gvxQzarG1t",
+            "url": "https://x.com/StellarBlade/status/2113558319029965268"
+          },
+          "text_zh": "RT @StellarBlade: 你成功引起了我的注意！\n\n守望先锋 × EVE Protocol 联动即将来袭 https://t.co/gvxQzarG1t"
+        },
+        {
+          "id": "2113434536671637660",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2113434536671637660",
+          "text": "RT @SHIFTUP_Corp: We are thrilled to share that @jamm3rd has been recognized as one of the 5 most influential game directors of 2026 at Wei…",
+          "created_at": "Fri Oct 23 00:57:13 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 542,
+            "retweet": 65,
+            "reply": 21,
+            "quote": 4,
+            "view": 45739
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "SHIFTUP_Corp",
+            "text": "We are thrilled to share that @jamm3rd has been recognized as one of the 5 most influential game directors of 2026 at Weibo V Influence Conference!\n\nAn absolute honor to be featured alongside @urokuta_ja, @nhamaguc, @Yocar_Feng, and Soulframe (Liang Qiwei). Congratulations all! https://t.co/5fLKgve6j3",
+            "url": "https://x.com/SHIFTUP_Corp/status/2113433623114486090"
+          },
+          "text_zh": "RT @SHIFTUP_Corp: 我们非常荣幸地分享，@jamm3rd 在 Wei… 被评为 2026 年五位最具影响力的游戏总监之一。"
+        }
+      ],
+      "topic": "守望先锋与EVE Protocol联动公布，游戏总监获评最具影响力。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "胜利女神NIKKE",
+        "守望先锋联动",
+        "皇牌空战",
+        "TheWeeknd合作",
+        "剑星"
+      ],
+      "_yoojoonseok": [
+        "守望先锋联动",
+        "剑星",
+        "NIKKE周年",
+        "TheWeeknd",
+        "SHIFTUP"
+      ]
+    },
+    "common": [
+      "守望先锋联动",
+      "剑星",
+      "TheWeeknd"
+    ]
+  }
+}
