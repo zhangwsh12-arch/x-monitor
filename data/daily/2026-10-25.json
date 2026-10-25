@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T09:09:46.082320+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 3,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2113841804911276323",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2113841804911276323",
+          "text": "RT @jpPlayOverwatch: 「オーバーウォッチ」×「EVE Protocol」コラボレーション、始動！\n\n#オーバーウォッチ #EVEProtocol https://t.co/F6lEFDt32e",
+          "created_at": "Sat Oct 24 03:55:34 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 1830,
+            "retweet": 244,
+            "reply": 3,
+            "quote": 44,
+            "view": 177055
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "jpPlayOverwatch",
+            "text": "「オーバーウォッチ」×「EVE Protocol」コラボレーション、始動！\n\n#オーバーウォッチ #EVEProtocol https://t.co/F6lEFDt32e",
+            "url": "https://x.com/jpPlayOverwatch/status/2113588283985006901"
+          },
+          "text_zh": "RT @jpPlayOverwatch：《守望先锋》×《EVE Protocol》联动，启动！\n\n#守望先锋 #EVEProtocol https://t.co/F6lEFDt32e"
+        },
+        {
+          "id": "2113841746929205682",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2113841746929205682",
+          "text": "RT @NIKKE_en: 【NIKKE 4th Anniversary Countdown】\n\n5️⃣ days left until the #NIKKE4thAnniversary version update!\n\nVelvet is leading everyone t…",
+          "created_at": "Sat Oct 24 03:55:20 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 15110,
+            "retweet": 1333,
+            "reply": 84,
+            "quote": 63,
+            "view": 208118
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【NIKKE 4th Anniversary Countdown】\n\n5️⃣ days left until the #NIKKE4thAnniversary version update!\n\nVelvet is leading everyone through special training to become the ultimate bunny maid!\n\nAnd the secret to success?\nA heartfelt devotion to the Commander ❤\n\nThank you to ruca (@rucarachi)​ for this illustration!",
+            "url": "https://x.com/NIKKE_en/status/2113797634171265205"
+          },
+          "text_zh": "RT @NIKKE_en：【NIKKE 4周年倒计时】\n\n距离#NIKKE4thAnniversary版本更新还有5️⃣天！\n\nVelvet正带领大家…"
+        },
+        {
+          "id": "2113841726733578554",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2113841726733578554",
+          "text": "RT @NIKKE_japan: 【勝利の女神集結カウントダウン】\n「この戦い、私たちは必ず勝利する。」\n\n人類の希望のために、全員集結！\nついに本日、全部隊集結🍑\n\n#NIKKE4周年 https://t.co/s1OsVgfalj",
+          "created_at": "Sat Oct 24 03:55:15 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 17628,
+            "retweet": 4914,
+            "reply": 201,
+            "quote": 1150,
+            "view": 821804
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【勝利の女神集結カウントダウン】\n「この戦い、私たちは必ず勝利する。」\n\n人類の希望のために、全員集結！\nついに本日、全部隊集結🍑\n\n#NIKKE4周年 https://t.co/s1OsVgfalj",
+            "url": "https://x.com/NIKKE_japan/status/2113812723330842670"
+          },
+          "text_zh": "RT @NIKKE_japan：【胜利女神集结倒计时】\n“这场战斗，我们必将胜利。”\n\n为了人类的希望，全员集结！\n终于在今天，全部部队集结🍑\n\n#NIKKE4周年 https://t.co/s1OsVgfalj"
+        }
+      ],
+      "topic": "该账号今日在关注《守望先锋》联动及《NIKKE》四周年倒计时等游戏资讯。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2113903670261866519",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2113903670261866519",
+          "text": "RT @ellivahpla: #NIKKE4周年 \n#nikke https://t.co/qrMIu2IX5p",
+          "created_at": "Sat Oct 24 08:01:24 +0000 2026",
+          "lang": "qme",
+          "metrics": {
+            "like": 11,
+            "retweet": 2,
+            "reply": 0,
+            "quote": 0,
+            "view": 2180
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "ellivahpla",
+            "text": "#NIKKE4周年 \n#nikke https://t.co/qrMIu2IX5p",
+            "url": "https://x.com/ellivahpla/status/2113890210937557396"
+          },
+          "text_zh": "转发 @ellivahpla：#NIKKE4周年 \n#nikke https://t.co/qrMIu2IX5p"
+        }
+      ],
+      "topic": "关注《NIKKE》四周年活动，转发相关庆祝内容。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "守望先锋联动",
+        "NIKKE四周年",
+        "剑星",
+        "皇牌空战",
+        "TheWeeknd"
+      ],
+      "_yoojoonseok": [
+        "NIKKE四周年",
+        "守望先锋联动",
+        "剑星",
+        "TheWeeknd",
+        "游戏总监"
+      ]
+    },
+    "common": [
+      "守望先锋联动",
+      "NIKKE四周年",
+      "剑星",
+      "TheWeeknd"
+    ]
+  }
+}
