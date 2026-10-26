@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T09:02:17.434712+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 5,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2114310025976127876",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114310025976127876",
+          "text": "RT @NIKKE_japan: 【4周年記念生放送 終了】\n\n#集えNIKKE4周年\n\n4周年記念生放送「約束の地へ、女神集結」は、無事に終了いたしました！\n\n会場や配信で最後までご覧いただいた指揮官の皆さま、本当にありがとうございました✨\n\n笑いあり、感動あり、そして新たな…",
+          "created_at": "Sun Oct 25 10:56:06 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 7925,
+            "retweet": 1268,
+            "reply": 39,
+            "quote": 135,
+            "view": 406004
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【4周年記念生放送 終了】\n\n#集えNIKKE4周年\n\n4周年記念生放送「約束の地へ、女神集結」は、無事に終了いたしました！\n\n会場や配信で最後までご覧いただいた指揮官の皆さま、本当にありがとうございました✨\n\n笑いあり、感動あり、そして新たな発表も――\n皆さまの心に残ったのは、どの瞬間でしたか？\n出演者の皆さま、そしてたくさんの応援を届けてくださった指揮官の皆さまのおかげで、4周年を一緒にお祝いすることができました📖\n\nぜひ番組の感想も「#集えNIKKE4周年」をつけて投稿してください！\n\n4年間の感謝を胸に、これからも『勝利の女神：NIKKE』をよろしくお願いいたします🍑",
+            "url": "https://x.com/NIKKE_japan/status/2113998992640282898"
+          },
+          "text_zh": "RT @NIKKE_japan：【4周年纪念直播 结束】\n\n#集结吧NIKKE4周年\n\n4周年纪念直播「前往约定之地，女神集结」已顺利结束！\n\n感谢各位指挥官在会场或通过直播观看至最后✨\n\n有欢笑、有感动，还有全新的…"
+        },
+        {
+          "id": "2114309960264015964",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114309960264015964",
+          "text": "RT @NIKKE_japan: 【NIKKE4th Anniversary カウントダウン📢】\n#NIKKE4thAnniversary バージョンアップデートまで、あと4日！🎉\n\n本日は、HOOD先生(@hood_x_art)による素敵なイラストをお届けします🎨\n\nM.M.…",
+          "created_at": "Sun Oct 25 10:55:51 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 9595,
+            "retweet": 1604,
+            "reply": 20,
+            "quote": 69,
+            "view": 255764
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【NIKKE4th Anniversary カウントダウン📢】\n#NIKKE4thAnniversary バージョンアップデートまで、あと4日！🎉\n\n本日は、HOOD先生(@hood_x_art)による素敵なイラストをお届けします🎨\n\nM.M.R.附属高校でも、4周年を祝うお祭りが開催中！\n指揮官の皆さま、今日はお祝い気分に浸りながら、一緒に乾杯しましょう🥂\n\n#NIKKE",
+            "url": "https://x.com/NIKKE_japan/status/2114235509547397154"
+          },
+          "text_zh": "RT @NIKKE_japan：【NIKKE 4th Anniversary 倒计时📢】\n距离 #NIKKE4thAnniversary 版本更新还有4天！🎉\n\n今天为大家带来HOOD老师(@hood_x_art)的精美插画🎨\n\nM.M.…"
+        },
+        {
+          "id": "2114309557925396567",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114309557925396567",
+          "text": "RT @NIKKE_en: ¡Ya se encuentran disponible los subtítulos en español para Goddess of Victory: Nikke! \n\nDiscord: https://t.co/csDqN6hp9l\n\n#N…",
+          "created_at": "Sun Oct 25 10:54:15 +0000 2026",
+          "lang": "es",
+          "metrics": {
+            "like": 13737,
+            "retweet": 1547,
+            "reply": 499,
+            "quote": 346,
+            "view": 453234
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "¡Ya se encuentran disponible los subtítulos en español para Goddess of Victory: Nikke! \n\nDiscord: https://t.co/csDqN6hp9l\n\n#NIKKE #nikkeespañol https://t.co/Ln3mlkiVeO",
+            "url": "https://x.com/NIKKE_en/status/2113973599971520861"
+          },
+          "text_zh": "RT @NIKKE_en：Goddess of Victory: Nikke 的西班牙语字幕现已上线！\n\nDiscord: https://t.co/csDqN6hp9l\n\n#N…"
+        },
+        {
+          "id": "2114309031309500913",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114309031309500913",
+          "text": "RT @StellarBlade: ✨ Overwatch x EVE Protocol\n📆 Nov 4 KST / Nov 3 PST https://t.co/BrqpcypPYr",
+          "created_at": "Sun Oct 25 10:52:09 +0000 2026",
+          "lang": "nl",
+          "metrics": {
+            "like": 10813,
+            "retweet": 718,
+            "reply": 195,
+            "quote": 104,
+            "view": 395222
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "✨ Overwatch x EVE Protocol\n📆 Nov 4 KST / Nov 3 PST https://t.co/BrqpcypPYr",
+            "url": "https://x.com/StellarBlade/status/2114236717263994883"
+          },
+          "text_zh": "RT @StellarBlade：✨ Overwatch x EVE Protocol\n📆 韩国时间11月4日 / 太平洋时间11月3日 https://t.co/BrqpcypPYr"
+        },
+        {
+          "id": "2114280083859107998",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114280083859107998",
+          "text": "RT @PlayOverwatch: Suit up, Heroes. The future is calling. 🚀\n\nGet a closer look at the official Overwatch x EVE Protocol artwork before jum…",
+          "created_at": "Sun Oct 25 08:57:08 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 11992,
+            "retweet": 678,
+            "reply": 282,
+            "quote": 262,
+            "view": 630248
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "PlayOverwatch",
+            "text": "Suit up, Heroes. The future is calling. 🚀\n\nGet a closer look at the official Overwatch x EVE Protocol artwork before jumping into our newest collab on November 3 💫 https://t.co/qDKDNcaJEZ",
+            "url": "https://x.com/PlayOverwatch/status/2114243091309687006"
+          },
+          "text_zh": "RT @PlayOverwatch：整装待发吧，英雄们。未来在召唤。🚀\n\n在正式上线前，先来仔细欣赏官方 Overwatch x EVE Protocol 艺术图…"
+        }
+      ],
+      "topic": "该账号在关注《NIKKE》四周年直播与版本更新，以及《守望先锋》联动消息。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE四周年",
+        "守望先锋联动",
+        "剑星",
+        "游戏直播"
+      ],
+      "_yoojoonseok": [
+        "NIKKE四周年",
+        "守望先锋联动",
+        "剑星",
+        "TheWeeknd",
+        "游戏总监"
+      ]
+    },
+    "common": [
+      "NIKKE四周年",
+      "守望先锋联动",
+      "剑星"
+    ]
+  }
+}
