@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T10:21:30.858540+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 4,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2114682222137782585",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114682222137782585",
+          "text": "RT @mayamadesu: DOROHILIO #NIKKE https://t.co/6dsZc0AxqS",
+          "created_at": "Mon Oct 26 11:35:05 +0000 2026",
+          "lang": "es",
+          "metrics": {
+            "like": 3286,
+            "retweet": 410,
+            "reply": 8,
+            "quote": 6,
+            "view": 36061
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "mayamadesu",
+            "text": "DOROHILIO #NIKKE https://t.co/6dsZc0AxqS",
+            "url": "https://x.com/mayamadesu/status/2114358677172068511"
+          },
+          "text_zh": "转发 @mayamadesu：DOROHILIO #NIKKE https://t.co/6dsZc0AxqS"
+        },
+        {
+          "id": "2114680958494597544",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114680958494597544",
+          "text": "RT @geoffkeighley: https://t.co/Mq4PZj6vHb",
+          "created_at": "Mon Oct 26 11:30:04 +0000 2026",
+          "lang": "zxx",
+          "metrics": {
+            "like": 40537,
+            "retweet": 2645,
+            "reply": 658,
+            "quote": 870,
+            "view": 1940610
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "geoffkeighley",
+            "text": "https://t.co/Mq4PZj6vHb",
+            "url": "https://x.com/geoffkeighley/status/2114422339802964339"
+          },
+          "text_zh": "转发 @geoffkeighley：https://t.co/Mq4PZj6vHb"
+        },
+        {
+          "id": "2114680797114613943",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114680797114613943",
+          "text": "RT @StellarBlade: Collect Stellar Tears and purchase iconic NieR:Automata™ cosmetic items from Emil's Shop!\n\nStyle Eve with legendary cross…",
+          "created_at": "Mon Oct 26 11:29:25 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 3569,
+            "retweet": 325,
+            "reply": 36,
+            "quote": 7,
+            "view": 94833
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Collect Stellar Tears and purchase iconic NieR:Automata™ cosmetic items from Emil's Shop!\n\nStyle Eve with legendary crossover gear, fully included with the Complete Edition on Nintendo Switch 2, launching Nov 5 PST / Nov 6 KST. \n\nRead More: https://t.co/O9bwm2J7Y9 https://t.co/Xrnmsc6vCU",
+            "url": "https://x.com/StellarBlade/status/2114522403598745864"
+          },
+          "text_zh": "转发 @StellarBlade：收集星辰之泪，在埃米尔商店购买《尼尔：机械纪元》标志性外观道具！\n\n用传奇联动装扮为伊芙打造造型……"
+        },
+        {
+          "id": "2114680782119944451",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2114680782119944451",
+          "text": "RT @yosp: Congratulations 🎉 @pbzero_official https://t.co/KhloRE7KKf",
+          "created_at": "Mon Oct 26 11:29:21 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2271,
+            "retweet": 122,
+            "reply": 22,
+            "quote": 7,
+            "view": 35275
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "yosp",
+            "text": "Congratulations 🎉 @pbzero_official https://t.co/KhloRE7KKf",
+            "url": "https://x.com/yosp/status/2114518915015651805"
+          },
+          "text_zh": "转发 @yosp：恭喜 🎉 @pbzero_official https://t.co/KhloRE7KKf"
+        }
+      ],
+      "topic": "关注《剑星》与《尼尔》联动外观及游戏圈动态。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE四周年",
+        "剑星联动",
+        "守望先锋联动",
+        "游戏总监动态"
+      ],
+      "_yoojoonseok": [
+        "NIKKE四周年",
+        "剑星发售",
+        "守望先锋联动",
+        "TheWeeknd造访"
+      ]
+    },
+    "common": [
+      "NIKKE四周年",
+      "守望先锋联动"
+    ]
+  }
+}
