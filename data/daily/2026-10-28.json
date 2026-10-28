@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T10:05:46.720825+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE四周年",
+        "剑星联动",
+        "守望先锋联动",
+        "游戏总监"
+      ],
+      "_yoojoonseok": [
+        "NIKKE四周年",
+        "剑星NS2",
+        "守望先锋联动",
+        "TheWeeknd"
+      ]
+    },
+    "common": [
+      "NIKKE四周年",
+      "守望先锋联动"
+    ]
+  }
+}
