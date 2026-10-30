@@ -1,0 +1,421 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T10:47:23.189166+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 15,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2115891034639196418",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115891034639196418",
+          "text": "RT @uzru0428: #nikke \n지휘관 ! 🦋 https://t.co/rKrgTC5lcx",
+          "created_at": "Thu Oct 29 19:38:28 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 4543,
+            "retweet": 598,
+            "reply": 18,
+            "quote": 1,
+            "view": 27772
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "uzru0428",
+            "text": "#nikke \n지휘관 ! 🦋 https://t.co/rKrgTC5lcx",
+            "url": "https://x.com/uzru0428/status/2115809812609192229"
+          },
+          "text_zh": "RT @uzru0428：#nikke\n指挥官！🦋 https://t.co/rKrgTC5lcx"
+        },
+        {
+          "id": "2115875137090445404",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115875137090445404",
+          "text": "RT @sattou0: NIKKE4周年記念のご依頼で、マリアンを広げさせて頂きました\n#NIKKE4周年 #NIKKE https://t.co/LibKYiGO8P",
+          "created_at": "Thu Oct 29 18:35:18 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 8508,
+            "retweet": 2423,
+            "reply": 29,
+            "quote": 74,
+            "view": 245524
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "sattou0",
+            "text": "NIKKE4周年記念のご依頼で、マリアンを広げさせて頂きました\n#NIKKE4周年 #NIKKE https://t.co/LibKYiGO8P",
+            "url": "https://x.com/sattou0/status/2115760570544853189"
+          },
+          "text_zh": "RT @sattou0：因NIKKE 4周年纪念委托，我绘制了玛丽安\n#NIKKE4周年 #NIKKE https://t.co/LibKYiGO8P"
+        },
+        {
+          "id": "2115873876899143987",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115873876899143987",
+          "text": "RT @mihan_art: They stood beneath a ruined sky, carrying a future they might never see. \n#NIKKE #NIKKEfanart #NIKKE4thAnniversary https://t…",
+          "created_at": "Thu Oct 29 18:30:17 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 3404,
+            "retweet": 493,
+            "reply": 4,
+            "quote": 2,
+            "view": 33553
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "mihan_art",
+            "text": "They stood beneath a ruined sky, carrying a future they might never see. \n#NIKKE #NIKKEfanart #NIKKE4thAnniversary https://t.co/svt97447V8",
+            "url": "https://x.com/mihan_art/status/2115648118968680629"
+          },
+          "text_zh": "RT @mihan_art：他们站在破碎的天空下，背负着或许永远无法看见的未来。\n#NIKKE #NIKKEfanart #NIKKE4thAnniversary https://t…"
+        },
+        {
+          "id": "2115872619404939367",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115872619404939367",
+          "text": "RT @houshoumarine: 🏴‍☠️10月30日21時から🏴‍☠️\n\n新人指揮官・宝鐘マリン、 『NIKKE 4周年作戦』に参戦します🫡✨\n\n以前からすごく気になってたので、どんな世界なのか超ワクワクです💘\n\nキミたちと一緒にNIKKEの4周年を思いっきり楽しむぞ〜！…",
+          "created_at": "Thu Oct 29 18:25:18 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 12990,
+            "retweet": 2365,
+            "reply": 459,
+            "quote": 189,
+            "view": 344165
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "houshoumarine",
+            "text": "🏴‍☠️10月30日21時から🏴‍☠️\n\n新人指揮官・宝鐘マリン、 『NIKKE 4周年作戦』に参戦します🫡✨\n\n以前からすごく気になってたので、どんな世界なのか超ワクワクです💘\n\nキミたちと一緒にNIKKEの4周年を思いっきり楽しむぞ〜！ \n\n【配信待機所】\nhttps://t.co/FZjUMwSBRL\n\n#NIKKE #NIKKE4周年 #NIKKE4周年参戦 #PR",
+            "url": "https://x.com/houshoumarine/status/2115760564798398618"
+          },
+          "text_zh": "RT @houshoumarine：🏴‍☠️10月30日21点开始🏴‍☠️\n\n新人指挥官·宝钟玛琳，将参战「NIKKE 4周年作战」🫡✨\n\n之前就一直非常在意，所以对这是怎样的世界超级兴奋💘\n\n和大家一起尽情享受NIKKE的4周年吧〜！…"
+        },
+        {
+          "id": "2115872522289987827",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115872522289987827",
+          "text": "RT @StellarBlade: Set your alarm⏰\n\nHere's when Stellar Blade Complete Edition launches on Nintendo Switch 2 next week! https://t.co/7Fgelqt…",
+          "created_at": "Thu Oct 29 18:24:54 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1466,
+            "retweet": 149,
+            "reply": 64,
+            "quote": 10,
+            "view": 41330
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Set your alarm⏰\n\nHere's when Stellar Blade Complete Edition launches on Nintendo Switch 2 next week! https://t.co/7FgelqtntH",
+            "url": "https://x.com/StellarBlade/status/2115820955356602378"
+          },
+          "text_zh": "RT @StellarBlade：设好闹钟⏰\n\n以下是《剑星》完整版下周在Nintendo Switch 2上线的具体时间！https://t.co/7Fgelqt…"
+        },
+        {
+          "id": "2115806230900084942",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115806230900084942",
+          "text": "RT @NIKKE_en: 【4th Anniversary No. 1 on App Store Reward】\n\nCommanders,\n\nGODDESS OF VICTORY: NIKKE has reached No. 1 on the App Store! 🎉\n\nTo…",
+          "created_at": "Thu Oct 29 14:01:29 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 10168,
+            "retweet": 641,
+            "reply": 60,
+            "quote": 28,
+            "view": 115413
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【4th Anniversary No. 1 on App Store Reward】\n\nCommanders,\n\nGODDESS OF VICTORY: NIKKE has reached No. 1 on the App Store! 🎉\n\nTo thank you for your support, we are giving 10 Advanced Recruit Vouchers as a token of appreciation! 🎁 \n\nPlease claim them via the in-game mailbox!\n\nHappy gaming!\n\n#NIKKE",
+            "url": "https://x.com/NIKKE_en/status/2115761543803798001"
+          },
+          "text_zh": "RT @NIKKE_en：【4周年App Store第一奖励】\n\n指挥官们，\n\n《胜利女神：NIKKE》已登上App Store榜首！🎉\n\n为…"
+        },
+        {
+          "id": "2115805423324582024",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115805423324582024",
+          "text": "RT @kinoharakossuta: Not every goddess is saved by the light. \n#NIKKE #NIKKEfanart #NIKKE4thAnniversary https://t.co/3mnvg9SWYE",
+          "created_at": "Thu Oct 29 13:58:17 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 11188,
+            "retweet": 1379,
+            "reply": 24,
+            "quote": 3,
+            "view": 96431
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "kinoharakossuta",
+            "text": "Not every goddess is saved by the light. \n#NIKKE #NIKKEfanart #NIKKE4thAnniversary https://t.co/3mnvg9SWYE",
+            "url": "https://x.com/kinoharakossuta/status/2115765601113440311"
+          },
+          "text_zh": "RT @kinoharakossuta：并非每位女神都能被光所拯救。\n#NIKKE #NIKKEfanart #NIKKE4thAnniversary https://t.co/3mnvg9SWYE"
+        },
+        {
+          "id": "2115805378047086788",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115805378047086788",
+          "text": "RT @NIKKE_japan: 【App Storeランキング1位達成】\nこの度『勝利の女神：NIKKE』がApp Storeのセールスランキングで1位を獲得いたしました🎉\n\nいつも応援いただき誠にありがとうございます！\n\n感謝の気持ちを込めて、「高級募集チケット×10」をプ…",
+          "created_at": "Thu Oct 29 13:58:06 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 11506,
+            "retweet": 2352,
+            "reply": 65,
+            "quote": 211,
+            "view": 287543
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【App Storeランキング1位達成】\nこの度『勝利の女神：NIKKE』がApp Storeのセールスランキングで1位を獲得いたしました🎉\n\nいつも応援いただき誠にありがとうございます！\n\n感謝の気持ちを込めて、「高級募集チケット×10」をプレゼントいたします🎁\nゲーム内のメールボックスより、ぜひお受け取りください！\n\n引き続き、4周年フルボイスストーリーイベント「MARIA-n」をお楽しみください✨️\n\n#NIKKE4周年",
+            "url": "https://x.com/NIKKE_japan/status/2115761549839331785"
+          },
+          "text_zh": "RT @NIKKE_japan：【App Store排行榜第一达成】\n此次《胜利女神：NIKKE》在App Store销售排行榜中荣获第一🎉\n\n衷心感谢大家一直以来的支持！\n\n为表达感谢之情，将赠送「高级招募券×10」…"
+        },
+        {
+          "id": "2115729915538727232",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115729915538727232",
+          "text": "RT @NIKKE_en: 【NIKKE PROFILE - Marian: Queen】\n\n✅ Manufacturer: Pilgrim\n✅ Affiliation: Counters\n✅ Weapon: MG: Perfect World\n\nMarian has beco…",
+          "created_at": "Thu Oct 29 08:58:14 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 16242,
+            "retweet": 1398,
+            "reply": 136,
+            "quote": 120,
+            "view": 340428
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【NIKKE PROFILE - Marian: Queen】\n\n✅ Manufacturer: Pilgrim\n✅ Affiliation: Counters\n✅ Weapon: MG: Perfect World\n\nMarian has become a true Queen in order to create a world where no one must die, including those she holds dear; a world filled with love.\n\n#NIKKE4thAnniversary https://t.co/tN82Md2bXO",
+            "url": "https://x.com/NIKKE_en/status/2114175117227888665"
+          },
+          "text_zh": "RT @NIKKE_en：【NIKKE档案 - 玛丽安：女王】\n\n✅ 制造商：朝圣者\n✅ 所属：反击者\n✅ 武器：MG：完美世界\n\n玛丽安已成为…"
+        },
+        {
+          "id": "2115729894105849885",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115729894105849885",
+          "text": "RT @NIKKE_japan: 【コスチューム紹介】\nベールに隠された黒い陰謀。\n\nナユタ(CV：川澄綾子)のコスチュームを紹介します👗\n\n◆コスチューム名\n三毒\n\nフルボイスを含むナユタの新コスチュームは、DARK MONK PASSで獲得できます✨\n\n◆獲得可能期間\n10…",
+          "created_at": "Thu Oct 29 08:58:09 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 9611,
+            "retweet": 1627,
+            "reply": 153,
+            "quote": 203,
+            "view": 960022
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【コスチューム紹介】\nベールに隠された黒い陰謀。\n\nナユタ(CV：川澄綾子)のコスチュームを紹介します👗\n\n◆コスチューム名\n三毒\n\nフルボイスを含むナユタの新コスチュームは、DARK MONK PASSで獲得できます✨\n\n◆獲得可能期間\n10月29日メンテナンス後～11月19日04:59\n\n#NIKKE https://t.co/jMDZ7Fq89s",
+            "url": "https://x.com/NIKKE_japan/status/2115307959555428641"
+          },
+          "text_zh": "RT @NIKKE_japan：【服装介绍】\n隐藏在面纱下的黑色阴谋。\n\n为您介绍娜由塔（CV：川澄绫子）的服装👗\n\n◆服装名称\n三毒\n\n包含全语音的娜由塔新服装，可通过DARK MONK PASS获得✨\n\n◆可获得期间\n10…"
+        },
+        {
+          "id": "2115729866830266705",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115729866830266705",
+          "text": "RT @NIKKE_japan: 【コスチューム紹介】\nこの世で一番幸せな誓い💍\n\nマリアン：クイーン(CV：花澤香菜)のコスチュームを紹介します👗\n\n◆コスチューム名\nラスト・アフェクション\n\nフルボイス、バーストスキルカットシーン、立ち絵ポーズ、SD特殊モーション、コスチュ…",
+          "created_at": "Thu Oct 29 08:58:03 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 14339,
+            "retweet": 3068,
+            "reply": 94,
+            "quote": 395,
+            "view": 496961
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【コスチューム紹介】\nこの世で一番幸せな誓い💍\n\nマリアン：クイーン(CV：花澤香菜)のコスチュームを紹介します👗\n\n◆コスチューム名\nラスト・アフェクション\n\nフルボイス、バーストスキルカットシーン、立ち絵ポーズ、SD特殊モーション、コスチューム専用戦闘エフェクトを含む「マリアン：クイーン - ラスト・アフェクション」は、コスチュームガチャで獲得できます✨\n\n◆獲得可能期間\n11月5日05:00～11月26日04:59\n\n#NIKKE",
+            "url": "https://x.com/NIKKE_japan/status/2115278093879591282"
+          },
+          "text_zh": "RT @NIKKE_japan：【服装介绍】\n这世上最幸福的誓言💍\n\n为您介绍玛丽安：女王（CV：花泽香菜）的服装👗\n\n◆服装名称\n最后·情愫\n\n全语音、爆裂技能过场动画、立绘姿势、SD特殊动作、服装…"
+        },
+        {
+          "id": "2115729833414263110",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115729833414263110",
+          "text": "RT @gigimurin: IT'S THE 4TH ANNIVERSARY EVENT!\n\nIt's time for ONE Gigi Murin to get to the bottom of this...\n\nLet's play Goddess of Victory…",
+          "created_at": "Thu Oct 29 08:57:55 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 4925,
+            "retweet": 385,
+            "reply": 40,
+            "quote": 13,
+            "view": 68747
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "gigimurin",
+            "text": "IT'S THE 4TH ANNIVERSARY EVENT!\n\nIt's time for ONE Gigi Murin to get to the bottom of this...\n\nLet's play Goddess of Victory: NIKKE!\n➡️https://t.co/JI0haNTTh8\n➡️https://t.co/ONzgdF6R2L\n\nCheck @NIKKE_en for more info, and download the game using my link!\nhttps://t.co/lPFi3A3IW6\n\n#NIKKE4thAnniversary #NIKKEholoSquad #PR",
+            "url": "https://x.com/gigimurin/status/2115699166538240146"
+          },
+          "text_zh": "RT @gigimurin：这是4周年活动！\n\n是时候让Gigi Murin来查明真相了…\n\n来玩《胜利女神…"
+        },
+        {
+          "id": "2115729802347049143",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115729802347049143",
+          "text": "RT @hodangdang_ok: 지휘관.\n이번에야말로.\n제가 반드시 지켜드릴게요.\n\n#NIKKE\n#NIKKE4周年 https://t.co/Sjf7b5sjoO",
+          "created_at": "Thu Oct 29 08:57:47 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 15277,
+            "retweet": 1527,
+            "reply": 11,
+            "quote": 4,
+            "view": 74964
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "hodangdang_ok",
+            "text": "지휘관.\n이번에야말로.\n제가 반드시 지켜드릴게요.\n\n#NIKKE\n#NIKKE4周年 https://t.co/Sjf7b5sjoO",
+            "url": "https://x.com/hodangdang_ok/status/2115672569403887905"
+          },
+          "text_zh": "RT @hodangdang_ok：指挥官。\n这次一定要。\n由我来守护您。\n\n#NIKKE\n#NIKKE4周年 https://t.co/Sjf7b5sjoO"
+        },
+        {
+          "id": "2115729785636979034",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115729785636979034",
+          "text": "RT @ourokronii: I’ll be playing the 4th Anniversary event of Goddess of Victory: NIKKE 🤩 YAYYY https://t.co/aqipkxnAjN\n\n#NIKKE4thAnniversar…",
+          "created_at": "Thu Oct 29 08:57:43 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 12100,
+            "retweet": 1151,
+            "reply": 221,
+            "quote": 81,
+            "view": 245995
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "ourokronii",
+            "text": "I’ll be playing the 4th Anniversary event of Goddess of Victory: NIKKE 🤩 YAYYY https://t.co/aqipkxnAjN\n\n#NIKKE4thAnniversary #NIKKEholoSquad #PR https://t.co/tYSP9z2VII",
+            "url": "https://x.com/ourokronii/status/2115423625809727958"
+          },
+          "text_zh": "RT @ourokronii：我将游玩《胜利女神：NIKKE》4周年活动🤩 耶耶 https://t.co/aqipkxnAjN\n\n#NIKKE4thAnniversar…"
+        },
+        {
+          "id": "2115724442752196941",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2115724442752196941",
+          "text": "RT @pbzero_official: The wait is almost over!\n\nBefore the journey begins, our Game Director, Soulframe, shares a personal letter with you a…",
+          "created_at": "Thu Oct 29 08:36:30 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 8895,
+            "retweet": 1060,
+            "reply": 395,
+            "quote": 146,
+            "view": 458922
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "pbzero_official",
+            "text": "The wait is almost over!\n\nBefore the journey begins, our Game Director, Soulframe, shares a personal letter with you all.\n\nWe wholeheartedly welcome you into the Phantom World on October 28 at 7:00 PM PDT! https://t.co/ZqTTv3tyDB",
+            "url": "https://x.com/pbzero_official/status/2115470478127350214"
+          },
+          "text_zh": "RT @pbzero_official：等待即将结束！\n\n在旅程开始之前，我们的游戏总监Soulframe与大家分享一封亲笔信…"
+        }
+      ],
+      "topic": "该账号今日聚焦《NIKKE》四周年庆，转发官方登顶奖励、玛丽安新服装及多位VTuber联动参战消息。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 1,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2115930512175005716",
+          "kind": "quote",
+          "url": "https://x.com/_yoojoonseok/status/2115930512175005716",
+          "text": "D-7\n#StellarBlade #StellarBladeNS2",
+          "created_at": "Thu Oct 29 22:15:20 +0000 2026",
+          "lang": "und",
+          "metrics": {
+            "like": 20,
+            "retweet": 1,
+            "reply": 3,
+            "quote": 0,
+            "view": 330
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Set your alarm⏰\n\nHere's when Stellar Blade Complete Edition launches on Nintendo Switch 2 next week! https://t.co/7FgelqtntH",
+            "url": "https://x.com/StellarBlade/status/2115820955356602378"
+          },
+          "text_zh": "D-7\n#剑星 #剑星NS2"
+        }
+      ],
+      "topic": "该账号今日在关注《剑星》登陆NS2的倒计时（D-7）。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE四周年",
+        "玛丽安",
+        "NIKKE同人图",
+        "剑星NS2",
+        "App Store榜首"
+      ],
+      "_yoojoonseok": [
+        "剑星NS2",
+        "NIKKE四周年",
+        "守望先锋联动",
+        "SHIFT UP",
+        "The Weeknd"
+      ]
+    },
+    "common": [
+      "NIKKE四周年",
+      "剑星NS2"
+    ]
+  }
+}
