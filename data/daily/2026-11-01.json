@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T09:53:39.865944+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2116542257809814013",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2116542257809814013",
+          "text": "RT @NIKKE_kr: 📢 &lt;승리의 여신: 니케&gt; 4주년 기념 ‘MARIAN: WHITE &amp; BLACK IN 용산' DAY 2 오픈! \n\n4주년 기념 용산 옥외 광고 이벤트가\n어느새 2일 차를 맞이하였습니다!\n\n오늘도 많은 지휘관님들께서 현장을 찾…",
+          "created_at": "Sat Oct 31 14:46:12 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 510,
+            "retweet": 91,
+            "reply": 4,
+            "quote": 16,
+            "view": 26434
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_kr",
+            "text": "📢 <승리의 여신: 니케> 4주년 기념 ‘MARIAN: WHITE & BLACK IN 용산' DAY 2 오픈! \n\n4주년 기념 용산 옥외 광고 이벤트가\n어느새 2일 차를 맞이하였습니다!\n\n오늘도 많은 지휘관님들께서 현장을 찾아 주신 덕분에\n행사장이 뜨거운 열기로 가득했습니다.\n\n지휘관님의 변함없는 사랑과 관심에\n진심으로 감사드립니다!\n\n✔️ 진행 기간\n2026년 10월 30일(금) ~ 11월 1일(일), 총 3일간 진행\n\n✔️ 관람 안내\n옥외 광고 관람 : 행사 기간 중 자유롭게 관람 가능\n영업 시간\n└ 10월 31일(토) : 10:30 ~ 21:00\n└ 11월 1일(일) : 10:30 ~ 20:30\n인앱 구매(확률형 아이템 포함)\n\n#니케4주년 #니케용산옥외광고",
+            "url": "https://x.com/NIKKE_kr/status/2116465875977109836"
+          },
+          "text_zh": "RT @NIKKE_kr: 📢 <胜利女神：妮姬> 4周年纪念 ‘MARIAN: WHITE & BLACK IN 龙山’ DAY 2 开放！\n\n4周年纪念龙山户外广告活动\n不知不觉已经迎来了第二天！\n\n今天也有众多指挥官来到现场…"
+        }
+      ],
+      "topic": "该账号关注《胜利女神：妮姬》四周年龙山户外广告活动第二天。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE四周年",
+        "玛丽安",
+        "NIKKE同人图",
+        "剑星NS2",
+        "App Store榜首"
+      ],
+      "_yoojoonseok": [
+        "剑星NS2",
+        "NIKKE四周年",
+        "守望先锋联动",
+        "Shift Up",
+        "The Weeknd"
+      ]
+    },
+    "common": [
+      "NIKKE四周年",
+      "剑星NS2"
+    ]
+  }
+}
