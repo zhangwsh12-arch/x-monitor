@@ -1,0 +1,1232 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>X 账号动态看板</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --card:#ffffff; --border:#e6e8eb; --text:#1f2329;
+    --muted:#8a9099; --accent:#1d9bf0; --post:#1d9bf0; --retweet:#00ba7c;
+    --quote:#7856ff; --reply:#8a9099; --shadow:0 1px 3px rgba(0,0,0,.06);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:var(--bg);color:var(--text);line-height:1.6;padding:24px 16px}
+  .wrap{max-width:820px;margin:0 auto}
+  header{margin-bottom:20px}
+  h1{font-size:22px;font-weight:700;display:flex;align-items:center;gap:8px}
+  .date{color:var(--muted);font-size:14px;margin-top:4px}
+  .nav{margin:14px 0 26px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .nav-btn{font-size:14px;color:var(--accent);text-decoration:none;padding:6px 14px;
+    background:var(--card);border:1px solid var(--border);border-radius:8px;
+    display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+  .nav-btn.disabled{color:#c4c9cf;pointer-events:none;background:#f2f3f5}
+  .nav select{font-size:14px;color:var(--text);padding:6px 10px;border:1px solid var(--border);
+    border-radius:8px;background:var(--card);cursor:pointer;max-width:200px}
+  .nav-label{font-size:12px;color:var(--muted);margin-right:2px}
+  .focus-section{background:#f0f7ff;border-left:3px solid var(--accent);border-radius:6px;
+    padding:10px 14px;margin-bottom:16px}
+  .focus-title{font-size:13px;font-weight:700;color:#1a5fa8;margin-bottom:6px}
+  .focus-sub{font-size:11px;color:var(--muted);font-weight:400;margin-left:4px}
+  .focus-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:4px 0}
+  .focus-acct{font-size:12px;color:var(--muted);min-width:64px}
+  .kw-chip{display:inline-block;font-size:12px;padding:2px 10px;border-radius:10px;
+    background:#eef1f4;color:var(--text);border:1px solid var(--border)}
+  .focus-common{border-top:1px dashed var(--border);padding-top:6px;margin-top:2px}
+  .kw-chip-common{background:#fff3d6;color:#8a5c00;border-color:#f0d9a0}
+  .acct{background:var(--card);border:1px solid var(--border);border-radius:14px;
+    padding:18px 20px;margin-bottom:18px;box-shadow:var(--shadow)}
+  .acct-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
+    flex-wrap:wrap;border-bottom:1px solid var(--border);padding-bottom:12px;margin-bottom:12px}
+  .acct-name{font-size:17px;font-weight:700}
+  .acct-handle{color:var(--muted);font-size:13px;font-weight:400;margin-left:6px}
+  .counts{font-size:12px;color:var(--muted)}
+  .topic{background:#f0f7ff;border-left:3px solid var(--accent);padding:8px 12px;
+    border-radius:6px;font-size:14px;margin-bottom:14px;color:#1a5fa8}
+  .empty{color:var(--muted);font-size:14px;padding:6px 0}
+  .item{padding:12px 0;border-bottom:1px dashed var(--border)}
+  .item:last-child{border-bottom:none}
+  .badge{display:inline-block;font-size:11px;font-weight:600;padding:2px 8px;
+    border-radius:10px;color:#fff;margin-right:8px;vertical-align:middle}
+  .b-post{background:var(--post)} .b-retweet{background:var(--retweet)}
+  .b-quote{background:var(--quote)} .b-reply{background:var(--reply)}
+  .text{font-size:15px;white-space:pre-wrap;word-break:break-word;margin:4px 0}
+  .text-zh{font-size:16px;line-height:1.75;color:#2f3742;background:#f4f8fc;
+    border-left:3px solid var(--accent);border-radius:6px;padding:8px 12px;margin:8px 0 6px}
+  .src{font-size:13px;color:var(--muted);border-left:2px solid var(--border);
+    padding-left:10px;margin:6px 0}
+  .meta{font-size:12px;color:var(--muted);margin-top:6px}
+  .meta a{color:var(--accent);text-decoration:none}
+  footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📡 X 账号动态看板</h1>
+    <div class="date">日报 · 2026-11-03（KST）· 过去 24 小时</div>
+  </header>
+
+  
+
+  <nav class="nav">
+    <a class="nav-btn" href="daily-2026-11-02.html">← 前一天</a>
+    
+
+    <span class="nav-label">日期</span>
+    <select onchange="if(this.value)location.href='daily-'+this.value+'.html'">
+      
+      <option value="2026-11-03" selected>2026-11-03</option>
+      
+      <option value="2026-11-02" >2026-11-02</option>
+      
+      <option value="2026-11-01" >2026-11-01</option>
+      
+      <option value="2026-10-31" >2026-10-31</option>
+      
+      <option value="2026-10-30" >2026-10-30</option>
+      
+      <option value="2026-10-29" >2026-10-29</option>
+      
+      <option value="2026-10-28" >2026-10-28</option>
+      
+      <option value="2026-10-27" >2026-10-27</option>
+      
+      <option value="2026-10-26" >2026-10-26</option>
+      
+      <option value="2026-10-25" >2026-10-25</option>
+      
+      <option value="2026-10-24" >2026-10-24</option>
+      
+      <option value="2026-10-23" >2026-10-23</option>
+      
+      <option value="2026-10-22" >2026-10-22</option>
+      
+      <option value="2026-10-21" >2026-10-21</option>
+      
+      <option value="2026-10-20" >2026-10-20</option>
+      
+      <option value="2026-10-19" >2026-10-19</option>
+      
+      <option value="2026-10-18" >2026-10-18</option>
+      
+      <option value="2026-10-17" >2026-10-17</option>
+      
+      <option value="2026-10-16" >2026-10-16</option>
+      
+      <option value="2026-10-15" >2026-10-15</option>
+      
+      <option value="2026-10-14" >2026-10-14</option>
+      
+      <option value="2026-10-13" >2026-10-13</option>
+      
+      <option value="2026-10-12" >2026-10-12</option>
+      
+      <option value="2026-10-11" >2026-10-11</option>
+      
+      <option value="2026-10-10" >2026-10-10</option>
+      
+      <option value="2026-10-09" >2026-10-09</option>
+      
+      <option value="2026-10-08" >2026-10-08</option>
+      
+      <option value="2026-10-07" >2026-10-07</option>
+      
+      <option value="2026-10-06" >2026-10-06</option>
+      
+      <option value="2026-10-05" >2026-10-05</option>
+      
+      <option value="2026-10-04" >2026-10-04</option>
+      
+      <option value="2026-10-03" >2026-10-03</option>
+      
+      <option value="2026-10-02" >2026-10-02</option>
+      
+      <option value="2026-10-01" >2026-10-01</option>
+      
+      <option value="2026-09-30" >2026-09-30</option>
+      
+      <option value="2026-09-29" >2026-09-29</option>
+      
+      <option value="2026-09-28" >2026-09-28</option>
+      
+      <option value="2026-09-27" >2026-09-27</option>
+      
+      <option value="2026-09-26" >2026-09-26</option>
+      
+      <option value="2026-09-25" >2026-09-25</option>
+      
+      <option value="2026-09-24" >2026-09-24</option>
+      
+      <option value="2026-09-23" >2026-09-23</option>
+      
+      <option value="2026-09-22" >2026-09-22</option>
+      
+      <option value="2026-09-21" >2026-09-21</option>
+      
+      <option value="2026-09-20" >2026-09-20</option>
+      
+      <option value="2026-09-19" >2026-09-19</option>
+      
+      <option value="2026-09-18" >2026-09-18</option>
+      
+      <option value="2026-09-17" >2026-09-17</option>
+      
+      <option value="2026-09-16" >2026-09-16</option>
+      
+      <option value="2026-09-15" >2026-09-15</option>
+      
+      <option value="2026-09-14" >2026-09-14</option>
+      
+      <option value="2026-09-13" >2026-09-13</option>
+      
+      <option value="2026-09-12" >2026-09-12</option>
+      
+      <option value="2026-09-11" >2026-09-11</option>
+      
+      <option value="2026-09-10" >2026-09-10</option>
+      
+      <option value="2026-09-09" >2026-09-09</option>
+      
+      <option value="2026-09-08" >2026-09-08</option>
+      
+      <option value="2026-09-07" >2026-09-07</option>
+      
+      <option value="2026-09-06" >2026-09-06</option>
+      
+      <option value="2026-09-05" >2026-09-05</option>
+      
+      <option value="2026-09-04" >2026-09-04</option>
+      
+      <option value="2026-09-03" >2026-09-03</option>
+      
+      <option value="2026-09-02" >2026-09-02</option>
+      
+      <option value="2026-09-01" >2026-09-01</option>
+      
+      <option value="2026-08-31" >2026-08-31</option>
+      
+      <option value="2026-08-30" >2026-08-30</option>
+      
+      <option value="2026-08-29" >2026-08-29</option>
+      
+      <option value="2026-08-28" >2026-08-28</option>
+      
+      <option value="2026-08-27" >2026-08-27</option>
+      
+      <option value="2026-08-26" >2026-08-26</option>
+      
+      <option value="2026-08-25" >2026-08-25</option>
+      
+      <option value="2026-08-24" >2026-08-24</option>
+      
+      <option value="2026-08-23" >2026-08-23</option>
+      
+      <option value="2026-08-22" >2026-08-22</option>
+      
+      <option value="2026-08-21" >2026-08-21</option>
+      
+      <option value="2026-08-20" >2026-08-20</option>
+      
+      <option value="2026-08-19" >2026-08-19</option>
+      
+      <option value="2026-08-18" >2026-08-18</option>
+      
+      <option value="2026-08-17" >2026-08-17</option>
+      
+      <option value="2026-08-16" >2026-08-16</option>
+      
+      <option value="2026-08-15" >2026-08-15</option>
+      
+      <option value="2026-08-14" >2026-08-14</option>
+      
+      <option value="2026-08-13" >2026-08-13</option>
+      
+      <option value="2026-08-12" >2026-08-12</option>
+      
+      <option value="2026-08-11" >2026-08-11</option>
+      
+      <option value="2026-08-10" >2026-08-10</option>
+      
+      <option value="2026-08-09" >2026-08-09</option>
+      
+      <option value="2026-08-08" >2026-08-08</option>
+      
+      <option value="2026-08-07" >2026-08-07</option>
+      
+      <option value="2026-08-06" >2026-08-06</option>
+      
+      <option value="2026-08-05" >2026-08-05</option>
+      
+      <option value="2026-08-04" >2026-08-04</option>
+      
+      <option value="2026-08-03" >2026-08-03</option>
+      
+      <option value="2026-08-02" >2026-08-02</option>
+      
+      <option value="2026-08-01" >2026-08-01</option>
+      
+      <option value="2026-07-31" >2026-07-31</option>
+      
+      <option value="2026-07-30" >2026-07-30</option>
+      
+      <option value="2026-07-29" >2026-07-29</option>
+      
+      <option value="2026-07-28" >2026-07-28</option>
+      
+      <option value="2026-07-27" >2026-07-27</option>
+      
+      <option value="2026-07-26" >2026-07-26</option>
+      
+      <option value="2026-07-25" >2026-07-25</option>
+      
+      <option value="2026-07-24" >2026-07-24</option>
+      
+      <option value="2026-07-23" >2026-07-23</option>
+      
+      <option value="2026-07-22" >2026-07-22</option>
+      
+      <option value="2026-07-21" >2026-07-21</option>
+      
+      <option value="2026-07-20" >2026-07-20</option>
+      
+      <option value="2026-07-19" >2026-07-19</option>
+      
+      <option value="2026-07-18" >2026-07-18</option>
+      
+      <option value="2026-07-17" >2026-07-17</option>
+      
+      <option value="2026-07-16" >2026-07-16</option>
+      
+      <option value="2026-07-15" >2026-07-15</option>
+      
+      <option value="2026-07-14" >2026-07-14</option>
+      
+      <option value="2026-07-13" >2026-07-13</option>
+      
+      <option value="2026-07-12" >2026-07-12</option>
+      
+      <option value="2026-07-11" >2026-07-11</option>
+      
+      <option value="2026-07-10" >2026-07-10</option>
+      
+      <option value="2026-07-09" >2026-07-09</option>
+      
+      <option value="2026-07-08" >2026-07-08</option>
+      
+      <option value="2026-07-07" >2026-07-07</option>
+      
+      <option value="2026-07-06" >2026-07-06</option>
+      
+      <option value="2026-07-05" >2026-07-05</option>
+      
+      <option value="2026-07-04" >2026-07-04</option>
+      
+      <option value="2026-07-03" >2026-07-03</option>
+      
+      <option value="2026-07-02" >2026-07-02</option>
+      
+      <option value="2026-07-01" >2026-07-01</option>
+      
+      <option value="2026-06-29" >2026-06-29</option>
+      
+      <option value="2026-06-19" >2026-06-19</option>
+      
+      <option value="2026-06-17" >2026-06-17</option>
+      
+      <option value="2026-06-14" >2026-06-14</option>
+      
+      <option value="2026-06-12" >2026-06-12</option>
+      
+      <option value="2026-06-10" >2026-06-10</option>
+      
+      <option value="2026-06-09" >2026-06-09</option>
+      
+      <option value="2026-06-08" >2026-06-08</option>
+      
+      <option value="2026-06-07" >2026-06-07</option>
+      
+      <option value="2026-06-06" >2026-06-06</option>
+      
+      <option value="2026-06-03" >2026-06-03</option>
+      
+      <option value="2026-05-21" >2026-05-21</option>
+      
+      <option value="2026-05-14" >2026-05-14</option>
+      
+      <option value="2026-05-11" >2026-05-11</option>
+      
+      <option value="2026-05-06" >2026-05-06</option>
+      
+      <option value="2026-04-30" >2026-04-30</option>
+      
+      <option value="2026-04-23" >2026-04-23</option>
+      
+      <option value="2026-04-22" >2026-04-22</option>
+      
+      <option value="2026-04-19" >2026-04-19</option>
+      
+      <option value="2026-04-18" >2026-04-18</option>
+      
+      <option value="2026-04-17" >2026-04-17</option>
+      
+      <option value="2026-04-16" >2026-04-16</option>
+      
+      <option value="2026-04-13" >2026-04-13</option>
+      
+      <option value="2026-04-12" >2026-04-12</option>
+      
+      <option value="2026-04-10" >2026-04-10</option>
+      
+      <option value="2026-04-09" >2026-04-09</option>
+      
+      <option value="2026-04-08" >2026-04-08</option>
+      
+      <option value="2026-04-07" >2026-04-07</option>
+      
+      <option value="2026-04-05" >2026-04-05</option>
+      
+      <option value="2026-04-04" >2026-04-04</option>
+      
+      <option value="2026-04-03" >2026-04-03</option>
+      
+      <option value="2026-04-02" >2026-04-02</option>
+      
+      <option value="2026-04-01" >2026-04-01</option>
+      
+      <option value="2026-03-31" >2026-03-31</option>
+      
+      <option value="2026-03-29" >2026-03-29</option>
+      
+      <option value="2026-03-28" >2026-03-28</option>
+      
+      <option value="2026-03-20" >2026-03-20</option>
+      
+      <option value="2026-02-26" >2026-02-26</option>
+      
+      <option value="2026-02-02" >2026-02-02</option>
+      
+      <option value="2026-01-31" >2026-01-31</option>
+      
+      <option value="2026-01-25" >2026-01-25</option>
+      
+      <option value="2026-01-02" >2026-01-02</option>
+      
+      <option value="2026-01-01" >2026-01-01</option>
+      
+      <option value="2025-12-31" >2025-12-31</option>
+      
+      <option value="2025-12-30" >2025-12-30</option>
+      
+      <option value="2025-12-15" >2025-12-15</option>
+      
+      <option value="2025-12-06" >2025-12-06</option>
+      
+      <option value="2025-11-24" >2025-11-24</option>
+      
+      <option value="2025-11-22" >2025-11-22</option>
+      
+      <option value="2025-11-16" >2025-11-16</option>
+      
+      <option value="2025-11-15" >2025-11-15</option>
+      
+      <option value="2025-11-06" >2025-11-06</option>
+      
+      <option value="2025-10-29" >2025-10-29</option>
+      
+      <option value="2025-10-26" >2025-10-26</option>
+      
+      <option value="2025-10-25" >2025-10-25</option>
+      
+      <option value="2025-10-02" >2025-10-02</option>
+      
+      <option value="2025-09-12" >2025-09-12</option>
+      
+      <option value="2025-09-05" >2025-09-05</option>
+      
+      <option value="2025-09-03" >2025-09-03</option>
+      
+      <option value="2025-09-01" >2025-09-01</option>
+      
+      <option value="2025-08-24" >2025-08-24</option>
+      
+      <option value="2025-08-22" >2025-08-22</option>
+      
+      <option value="2025-08-17" >2025-08-17</option>
+      
+      <option value="2025-08-14" >2025-08-14</option>
+      
+      <option value="2025-08-12" >2025-08-12</option>
+      
+      <option value="2025-08-02" >2025-08-02</option>
+      
+      <option value="2025-07-20" >2025-07-20</option>
+      
+      <option value="2025-07-19" >2025-07-19</option>
+      
+      <option value="2025-07-18" >2025-07-18</option>
+      
+      <option value="2025-07-17" >2025-07-17</option>
+      
+      <option value="2025-07-16" >2025-07-16</option>
+      
+      <option value="2025-07-14" >2025-07-14</option>
+      
+      <option value="2025-07-04" >2025-07-04</option>
+      
+      <option value="2025-06-16" >2025-06-16</option>
+      
+      <option value="2025-06-15" >2025-06-15</option>
+      
+      <option value="2025-06-12" >2025-06-12</option>
+      
+      <option value="2025-06-11" >2025-06-11</option>
+      
+      <option value="2025-06-10" >2025-06-10</option>
+      
+      <option value="2025-06-07" >2025-06-07</option>
+      
+      <option value="2025-06-04" >2025-06-04</option>
+      
+      <option value="2025-05-31" >2025-05-31</option>
+      
+      <option value="2025-05-26" >2025-05-26</option>
+      
+      <option value="2025-05-23" >2025-05-23</option>
+      
+      <option value="2025-05-22" >2025-05-22</option>
+      
+      <option value="2025-05-17" >2025-05-17</option>
+      
+      <option value="2025-05-16" >2025-05-16</option>
+      
+      <option value="2025-05-12" >2025-05-12</option>
+      
+      <option value="2025-05-02" >2025-05-02</option>
+      
+      <option value="2025-04-19" >2025-04-19</option>
+      
+      <option value="2025-04-10" >2025-04-10</option>
+      
+      <option value="2025-04-01" >2025-04-01</option>
+      
+      <option value="2025-02-28" >2025-02-28</option>
+      
+      <option value="2025-01-11" >2025-01-11</option>
+      
+      <option value="2024-12-15" >2024-12-15</option>
+      
+      <option value="2024-12-14" >2024-12-14</option>
+      
+      <option value="2024-12-13" >2024-12-13</option>
+      
+      <option value="2024-12-05" >2024-12-05</option>
+      
+      <option value="2024-12-04" >2024-12-04</option>
+      
+      <option value="2024-11-15" >2024-11-15</option>
+      
+      <option value="2024-11-12" >2024-11-12</option>
+      
+      <option value="2024-11-11" >2024-11-11</option>
+      
+      <option value="2024-11-02" >2024-11-02</option>
+      
+      <option value="2024-10-26" >2024-10-26</option>
+      
+      <option value="2024-10-25" >2024-10-25</option>
+      
+      <option value="2024-09-28" >2024-09-28</option>
+      
+      <option value="2024-09-27" >2024-09-27</option>
+      
+      <option value="2024-09-25" >2024-09-25</option>
+      
+      <option value="2024-09-07" >2024-09-07</option>
+      
+      <option value="2024-09-04" >2024-09-04</option>
+      
+      <option value="2024-08-20" >2024-08-20</option>
+      
+      <option value="2024-07-17" >2024-07-17</option>
+      
+      <option value="2024-07-11" >2024-07-11</option>
+      
+      <option value="2024-07-04" >2024-07-04</option>
+      
+      <option value="2024-06-30" >2024-06-30</option>
+      
+      <option value="2024-06-22" >2024-06-22</option>
+      
+      <option value="2024-06-13" >2024-06-13</option>
+      
+      <option value="2024-04-20" >2024-04-20</option>
+      
+      <option value="2024-03-08" >2024-03-08</option>
+      
+      <option value="2024-02-01" >2024-02-01</option>
+      
+      <option value="2023-06-15" >2023-06-15</option>
+      
+      <option value="2023-05-09" >2023-05-09</option>
+      
+      <option value="2023-04-24" >2023-04-24</option>
+      
+      <option value="2023-04-17" >2023-04-17</option>
+      
+      <option value="2023-04-12" >2023-04-12</option>
+      
+      <option value="2023-04-10" >2023-04-10</option>
+      
+      <option value="2023-04-07" >2023-04-07</option>
+      
+      <option value="2023-04-05" >2023-04-05</option>
+      
+      <option value="2023-04-03" >2023-04-03</option>
+      
+      <option value="2023-03-31" >2023-03-31</option>
+      
+      <option value="2023-03-27" >2023-03-27</option>
+      
+      <option value="2023-03-24" >2023-03-24</option>
+      
+      <option value="2023-03-20" >2023-03-20</option>
+      
+      <option value="2023-03-17" >2023-03-17</option>
+      
+      <option value="2023-03-13" >2023-03-13</option>
+      
+      <option value="2023-03-09" >2023-03-09</option>
+      
+      <option value="2023-03-06" >2023-03-06</option>
+      
+      <option value="2023-03-02" >2023-03-02</option>
+      
+      <option value="2023-02-28" >2023-02-28</option>
+      
+      <option value="2023-02-24" >2023-02-24</option>
+      
+      <option value="2023-02-23" >2023-02-23</option>
+      
+      <option value="2023-02-20" >2023-02-20</option>
+      
+      <option value="2023-02-15" >2023-02-15</option>
+      
+      <option value="2023-02-13" >2023-02-13</option>
+      
+      <option value="2023-02-09" >2023-02-09</option>
+      
+      <option value="2023-02-06" >2023-02-06</option>
+      
+      <option value="2023-02-03" >2023-02-03</option>
+      
+      <option value="2023-02-02" >2023-02-02</option>
+      
+      <option value="2023-01-30" >2023-01-30</option>
+      
+      <option value="2023-01-27" >2023-01-27</option>
+      
+      <option value="2023-01-18" >2023-01-18</option>
+      
+      <option value="2023-01-10" >2023-01-10</option>
+      
+      <option value="2023-01-01" >2023-01-01</option>
+      
+      <option value="2022-11-15" >2022-11-15</option>
+      
+      <option value="2022-11-11" >2022-11-11</option>
+      
+      <option value="2022-11-04" >2022-11-04</option>
+      
+      <option value="2022-10-28" >2022-10-28</option>
+      
+      <option value="2022-10-27" >2022-10-27</option>
+      
+      <option value="2022-10-26" >2022-10-26</option>
+      
+      <option value="2022-09-14" >2022-09-14</option>
+      
+      <option value="2022-09-13" >2022-09-13</option>
+      
+      <option value="2022-09-05" >2022-09-05</option>
+      
+      <option value="2022-09-04" >2022-09-04</option>
+      
+      <option value="2022-09-01" >2022-09-01</option>
+      
+      <option value="2022-08-19" >2022-08-19</option>
+      
+      <option value="2022-08-17" >2022-08-17</option>
+      
+      <option value="2022-08-16" >2022-08-16</option>
+      
+      <option value="2022-04-23" >2022-04-23</option>
+      
+      <option value="2022-03-29" >2022-03-29</option>
+      
+      <option value="2022-03-11" >2022-03-11</option>
+      
+      <option value="2020-12-07" >2020-12-07</option>
+      
+      <option value="2020-10-24" >2020-10-24</option>
+      
+      <option value="2020-02-14" >2020-02-14</option>
+      
+      <option value="2020-01-17" >2020-01-17</option>
+      
+      <option value="2020-01-10" >2020-01-10</option>
+      
+      <option value="2020-01-09" >2020-01-09</option>
+      
+      <option value="2020-01-07" >2020-01-07</option>
+      
+      <option value="2019-12-31" >2019-12-31</option>
+      
+      <option value="2019-11-05" >2019-11-05</option>
+      
+      <option value="2019-04-06" >2019-04-06</option>
+      
+      <option value="2019-04-05" >2019-04-05</option>
+      
+      <option value="2019-02-27" >2019-02-27</option>
+      
+      <option value="2019-02-12" >2019-02-12</option>
+      
+      <option value="2019-01-15" >2019-01-15</option>
+      
+      <option value="2018-12-24" >2018-12-24</option>
+      
+      <option value="2018-12-07" >2018-12-07</option>
+      
+      <option value="2018-11-29" >2018-11-29</option>
+      
+      <option value="2018-11-20" >2018-11-20</option>
+      
+      <option value="2018-11-09" >2018-11-09</option>
+      
+      <option value="2018-10-18" >2018-10-18</option>
+      
+      <option value="2018-10-15" >2018-10-15</option>
+      
+      <option value="2018-10-12" >2018-10-12</option>
+      
+      <option value="2018-10-11" >2018-10-11</option>
+      
+      <option value="2018-10-02" >2018-10-02</option>
+      
+      <option value="2018-10-01" >2018-10-01</option>
+      
+      <option value="2018-09-18" >2018-09-18</option>
+      
+      <option value="2018-09-13" >2018-09-13</option>
+      
+      <option value="2018-09-06" >2018-09-06</option>
+      
+      <option value="2018-08-30" >2018-08-30</option>
+      
+      <option value="2018-08-23" >2018-08-23</option>
+      
+      <option value="2018-08-16" >2018-08-16</option>
+      
+      <option value="2018-08-14" >2018-08-14</option>
+      
+      <option value="2018-08-13" >2018-08-13</option>
+      
+      <option value="2018-08-03" >2018-08-03</option>
+      
+      <option value="2018-08-02" >2018-08-02</option>
+      
+      <option value="2018-08-01" >2018-08-01</option>
+      
+      <option value="2018-07-28" >2018-07-28</option>
+      
+      <option value="2018-07-25" >2018-07-25</option>
+      
+      <option value="2018-07-12" >2018-07-12</option>
+      
+      <option value="2018-07-07" >2018-07-07</option>
+      
+      <option value="2018-06-29" >2018-06-29</option>
+      
+      <option value="2018-06-28" >2018-06-28</option>
+      
+      <option value="2018-06-27" >2018-06-27</option>
+      
+      <option value="2018-06-25" >2018-06-25</option>
+      
+      <option value="2018-06-21" >2018-06-21</option>
+      
+      <option value="2018-06-14" >2018-06-14</option>
+      
+      <option value="2018-05-28" >2018-05-28</option>
+      
+      <option value="2018-05-25" >2018-05-25</option>
+      
+      <option value="2018-05-21" >2018-05-21</option>
+      
+      <option value="2018-05-14" >2018-05-14</option>
+      
+      <option value="2018-05-13" >2018-05-13</option>
+      
+      <option value="2018-05-09" >2018-05-09</option>
+      
+      <option value="2018-04-30" >2018-04-30</option>
+      
+      <option value="2018-04-24" >2018-04-24</option>
+      
+      <option value="2018-04-23" >2018-04-23</option>
+      
+      <option value="2018-04-19" >2018-04-19</option>
+      
+      <option value="2018-04-08" >2018-04-08</option>
+      
+      <option value="2018-04-01" >2018-04-01</option>
+      
+      <option value="2018-03-31" >2018-03-31</option>
+      
+      <option value="2018-03-29" >2018-03-29</option>
+      
+      <option value="2018-03-28" >2018-03-28</option>
+      
+      <option value="2018-03-27" >2018-03-27</option>
+      
+      <option value="2018-03-21" >2018-03-21</option>
+      
+      <option value="2018-03-14" >2018-03-14</option>
+      
+      <option value="2018-03-13" >2018-03-13</option>
+      
+      <option value="2018-03-12" >2018-03-12</option>
+      
+      <option value="2018-02-28" >2018-02-28</option>
+      
+      <option value="2018-02-26" >2018-02-26</option>
+      
+      <option value="2018-02-18" >2018-02-18</option>
+      
+      <option value="2018-02-14" >2018-02-14</option>
+      
+      <option value="2018-02-13" >2018-02-13</option>
+      
+      <option value="2018-02-12" >2018-02-12</option>
+      
+      <option value="2018-02-08" >2018-02-08</option>
+      
+      <option value="2018-02-07" >2018-02-07</option>
+      
+      <option value="2018-01-31" >2018-01-31</option>
+      
+      <option value="2018-01-30" >2018-01-30</option>
+      
+      <option value="2018-01-19" >2018-01-19</option>
+      
+      <option value="2018-01-16" >2018-01-16</option>
+      
+      <option value="2018-01-14" >2018-01-14</option>
+      
+      <option value="2018-01-11" >2018-01-11</option>
+      
+      <option value="2018-01-10" >2018-01-10</option>
+      
+      <option value="2018-01-08" >2018-01-08</option>
+      
+      <option value="2018-01-01" >2018-01-01</option>
+      
+      <option value="2017-12-31" >2017-12-31</option>
+      
+      <option value="2017-12-29" >2017-12-29</option>
+      
+      <option value="2017-12-28" >2017-12-28</option>
+      
+      <option value="2017-12-22" >2017-12-22</option>
+      
+      <option value="2017-12-14" >2017-12-14</option>
+      
+      <option value="2017-12-13" >2017-12-13</option>
+      
+      <option value="2017-12-11" >2017-12-11</option>
+      
+      <option value="2017-12-09" >2017-12-09</option>
+      
+      <option value="2017-12-08" >2017-12-08</option>
+      
+      <option value="2017-12-07" >2017-12-07</option>
+      
+      <option value="2017-12-05" >2017-12-05</option>
+      
+      <option value="2017-12-01" >2017-12-01</option>
+      
+      <option value="2017-11-30" >2017-11-30</option>
+      
+      <option value="2017-11-29" >2017-11-29</option>
+      
+      <option value="2017-11-28" >2017-11-28</option>
+      
+      <option value="2017-11-27" >2017-11-27</option>
+      
+      <option value="2017-11-26" >2017-11-26</option>
+      
+      <option value="2017-11-25" >2017-11-25</option>
+      
+      <option value="2017-11-24" >2017-11-24</option>
+      
+      <option value="2017-11-23" >2017-11-23</option>
+      
+      <option value="2017-11-22" >2017-11-22</option>
+      
+      <option value="2017-11-21" >2017-11-21</option>
+      
+      <option value="2017-11-20" >2017-11-20</option>
+      
+      <option value="2017-11-17" >2017-11-17</option>
+      
+      <option value="2017-11-13" >2017-11-13</option>
+      
+      <option value="2017-11-02" >2017-11-02</option>
+      
+      <option value="2017-10-31" >2017-10-31</option>
+      
+      <option value="2017-10-29" >2017-10-29</option>
+      
+      <option value="2017-10-27" >2017-10-27</option>
+      
+      <option value="2017-10-25" >2017-10-25</option>
+      
+      <option value="2017-10-14" >2017-10-14</option>
+      
+      <option value="2017-10-10" >2017-10-10</option>
+      
+      <option value="2017-10-08" >2017-10-08</option>
+      
+      <option value="2017-10-05" >2017-10-05</option>
+      
+      <option value="2017-09-29" >2017-09-29</option>
+      
+      <option value="2017-09-28" >2017-09-28</option>
+      
+      <option value="2017-09-25" >2017-09-25</option>
+      
+      <option value="2017-09-24" >2017-09-24</option>
+      
+      <option value="2017-09-23" >2017-09-23</option>
+      
+      <option value="2017-09-22" >2017-09-22</option>
+      
+      <option value="2017-09-21" >2017-09-21</option>
+      
+      <option value="2017-09-20" >2017-09-20</option>
+      
+      <option value="2017-09-14" >2017-09-14</option>
+      
+      <option value="2017-09-10" >2017-09-10</option>
+      
+      <option value="2017-09-08" >2017-09-08</option>
+      
+      <option value="2017-09-05" >2017-09-05</option>
+      
+      <option value="2017-09-03" >2017-09-03</option>
+      
+      <option value="2017-09-02" >2017-09-02</option>
+      
+      <option value="2017-09-01" >2017-09-01</option>
+      
+      <option value="2017-08-30" >2017-08-30</option>
+      
+      <option value="2017-08-27" >2017-08-27</option>
+      
+      <option value="2017-08-26" >2017-08-26</option>
+      
+      <option value="2017-08-25" >2017-08-25</option>
+      
+      <option value="2017-08-23" >2017-08-23</option>
+      
+      <option value="2017-08-22" >2017-08-22</option>
+      
+      <option value="2017-08-21" >2017-08-21</option>
+      
+      <option value="2017-08-19" >2017-08-19</option>
+      
+      <option value="2017-08-18" >2017-08-18</option>
+      
+      <option value="2017-08-17" >2017-08-17</option>
+      
+      <option value="2017-08-16" >2017-08-16</option>
+      
+    </select>
+
+    <span class="nav-btn disabled">后一天 →</span>
+
+    
+    <span class="nav-label">周报</span>
+    <select onchange="if(this.value)location.href='weekly-'+this.value+'.html'">
+      <option value="">选择周报…</option>
+      <option value="2026-W45">2026-W45</option><option value="2026-W44">2026-W44</option><option value="2026-W43">2026-W43</option><option value="2026-W42">2026-W42</option><option value="2026-W41">2026-W41</option><option value="2026-W40">2026-W40</option><option value="2026-W39">2026-W39</option><option value="2026-W38">2026-W38</option><option value="2026-W37">2026-W37</option><option value="2026-W36">2026-W36</option><option value="2026-W35">2026-W35</option><option value="2026-W34">2026-W34</option>
+    </select>
+    
+  </nav>
+
+  
+  <section class="acct">
+    <div class="acct-head">
+      <div class="acct-name">金亨泰<span class="acct-handle">@jamm3rd</span></div>
+      <div class="counts">原创 1 · 转发 7 · 引用 0</div>
+    </div>
+    <div class="topic">💡 该账号今日关注NIKKE四周年联动与广告、守望先锋×EVE联动概念艺术及《影之刃零》销量破400万。</div>
+    
+      
+      <div class="item">
+        <span class="badge b-retweet">转发</span>
+        <span class="text">RT @Dino_illus: “I’ll give you all of me, Commander.” 
+
+I had the pleasure of illustrating Marian for NIKKE’s billboard in Akihabara. 
+Wish…</span>
+        <div class="text-zh">🇨🇳 转发 @Dino_illus：“我会把我的一切都献给你，指挥官。”
+
+我很荣幸为NIKKE在秋叶原的广告牌绘制了玛丽安。
+希望……</div>
+        
+        <div class="src">↳ @Dino_illus：“I’ll give you all of me, Commander.” 
+
+I had the pleasure of illustrating Marian for NIKKE’s billboard in Akihabara. 
+Wishing NIKKE a happy 4th anniversary~
+#NIKKE4周年 https://t.co/Bzs2WI9bME</div>
+        
+        <div class="meta">
+          👍 14253 · 🔁 2193 · 💬 49 · 👁 133049
+           · <a href="https://x.com/jamm3rd/status/2117255496008946048" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+      <div class="item">
+        <span class="badge b-retweet">转发</span>
+        <span class="text">RT @jpPlayOverwatch: ━━━━ Concept Art ━━━━
+
+「オーバーウォッチ」×「EVE Protocol」コラボ
+
+フレイヤのコンセプトアートを世界最速公開⚔️
+
+#オーバーウォッチ #EVEProtocol https://t.co/hsacB…</span>
+        <div class="text-zh">🇨🇳 转发 @jpPlayOverwatch：━━━━ 概念艺术 ━━━━
+
+《守望先锋》×《EVE Protocol》联动
+
+全球最快公开弗蕾娅的概念艺术⚔️
+
+#守望先锋 #EVEProtocol https://t.co/hsacW…</div>
+        
+        <div class="src">↳ @jpPlayOverwatch：━━━━ Concept Art ━━━━
+
+「オーバーウォッチ」×「EVE Protocol」コラボ
+
+フレイヤのコンセプトアートを世界最速公開⚔️
+
+#オーバーウォッチ #EVEProtocol https://t.co/hsacB90glo</div>
+        
+        <div class="meta">
+          👍 3500 · 🔁 427 · 💬 9 · 👁 212682
+           · <a href="https://x.com/jamm3rd/status/2117255453407350795" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+      <div class="item">
+        <span class="badge b-retweet">转发</span>
+        <span class="text">RT @jpPlayOverwatch: ━━━━━━━━━━━━
+🌐 世界最速公開 🌐
+━━━━━━━━━━━━
+
+「オーバーウォッチ」×「EVE Protocol」コラボ
+ウィドウメイカーのコンセプトアートを公開🕷️
+
+さらに、他のヒーローたちのコンセプトアートも
+本日より…</span>
+        <div class="text-zh">🇨🇳 转发 @jpPlayOverwatch：━━━━━━━━━━━━
+🌐 全球最快公开 🌐
+━━━━━━━━━━━━
+
+《守望先锋》×《EVE Protocol》联动
+公开黑百合的概念艺术🕷️
+
+此外，其他英雄的概念艺术也将
+从今天起……</div>
+        
+        <div class="src">↳ @jpPlayOverwatch：━━━━━━━━━━━━
+🌐 世界最速公開 🌐
+━━━━━━━━━━━━
+
+「オーバーウォッチ」×「EVE Protocol」コラボ
+ウィドウメイカーのコンセプトアートを公開🕷️
+
+さらに、他のヒーローたちのコンセプトアートも
+本日より順次、世界最速で公開。
+
+続報をお見逃しなく。
+
+#オーバーウォッチ #EVEProtocol</div>
+        
+        <div class="meta">
+          👍 10092 · 🔁 901 · 💬 27 · 👁 407790
+           · <a href="https://x.com/jamm3rd/status/2117219922610893096" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+      <div class="item">
+        <span class="badge b-post">原创</span>
+        <span class="text">I gratefully received the limited edition sent by Soulframe Liang today. Thank you so much, and sincere congratulations on [Phantom Blade Zero] reaching 4 million units sold! Let’s keep the momentum going toward 10 million!❤️‍🔥 https://t.co/MVyFaAAIpJ</span>
+        <div class="text-zh">🇨🇳 今天收到了Soulframe Liang寄来的限定版，非常感谢，也衷心祝贺《影之刃零》销量突破400万份！让我们继续保持势头，冲向1000万！❤️‍🔥 https://t.co/MVyFaAAIpJ</div>
+        
+        <div class="meta">
+          👍 3936 · 🔁 226 · 💬 55 · 👁 79072
+           · <a href="https://x.com/jamm3rd/status/2117148431462678883" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+      <div class="item">
+        <span class="badge b-retweet">转发</span>
+        <span class="text">RT @haruhi2715: #니케4주년   #니케용산옥외광고
+아니스가 네온모자 훔쳐옴 https://t.co/9LC3PMNzyk</span>
+        <div class="text-zh">🇨🇳 转发 @haruhi2715：#NIKKE四周年 #NIKKE龙山户外广告
+阿妮斯把霓虹帽子偷来了 https://t.co/9LC3PMNzyk</div>
+        
+        <div class="src">↳ @haruhi2715：#니케4주년   #니케용산옥외광고
+아니스가 네온모자 훔쳐옴 https://t.co/9LC3PMNzyk</div>
+        
+        <div class="meta">
+          👍 2742 · 🔁 353 · 💬 4 · 👁 31768
+           · <a href="https://x.com/jamm3rd/status/2117137527622729948" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+      <div class="item">
+        <span class="badge b-retweet">转发</span>
+        <span class="text">RT @NIKKE_kr: 📢 &lt;MARIAN: WHITE &amp; BLACK IN 용산&gt; DAY 3 오픈 및 이벤트 교환 코드 공개!
+
+지난 10/30(금)부터 11/1(일)까지 3일간 진행된
+&lt;MARIAN: WHITE &amp; BLACK IN 용산&gt; 옥외 광고…</span>
+        <div class="text-zh">🇨🇳 转发 @NIKKE_kr：📢 &lt;MARIAN: WHITE &amp; BLACK IN 龙山&gt; DAY 3 开放及活动兑换码公开！
+
+从10/30（周五）到11/1（周日）为期3天举办的
+&lt;MARIAN: WHITE &amp; BLACK IN 龙山&gt;户外广告……</div>
+        
+        <div class="src">↳ @NIKKE_kr：📢 <MARIAN: WHITE & BLACK IN 용산> DAY 3 오픈 및 이벤트 교환 코드 공개!
+
+지난 10/30(금)부터 11/1(일)까지 3일간 진행된
+<MARIAN: WHITE & BLACK IN 용산> 옥외 광고 이벤트가
+지휘관님의 뜨거운 성원 속에 마무리되었습니다.
+
+아이파크몰 용산점의 곳곳에서 마리안과 함께
+행복한 추억을 만들어 주신 지휘관님 덕분에,
+현장은 기간 내내 따뜻한 열기로 가득했습니다.
+
+그리고 그 열기가 SNS로 이어져
+4주년 기념 특별 옥외 광고 기념 이벤트의
+참여 게시글이 빠르게 100건을 달성하였습니다! 🎉
+
+이를 기념하며, 모든 지휘관님께 감사한 마음을 담아
+3일 차 현장의 사진과 교환 코드를 안내해 드립니다.
+
+자세한 내용은 아래를 확인해 주시길 바라며
+앞으로도 <승리의 여신: 니케>에 많은 관심과 사랑을 부탁드리겠습니다.
+
+🎁 4주년 기념 특별 옥외 광고 기념 이벤트 전원 증정 교환 코드
+- NIKKE4thYongsan
+
+✔️ 보상 목록
+- 모듈 하이 부스트 * 20
+- 배틀 데이터 셋 케이스(1H) * 1
+- 코어 더스트 케이스(1H) * 1
+- 크레디트 케이스(1H) * 1
+
+✔️ 보상 교환 기간
+- 11/18(수) 23:59
+
+✔️ 인게임 보상 교환 방법
+- 게임 로그인 → 로비 우측 상단 [공지] → [교환 코드] 화면 → 교환 코드 입력
+​
+✔️ 공식 커뮤니티 보상 교환 바로가기
+https://t.co/wKD6V2tQaA
+
+* 인앱 구매(확률형 아이템 포함)
+
+#니케4주년 #니케용산옥외광고</div>
+        
+        <div class="meta">
+          👍 867 · 🔁 144 · 💬 1 · 👁 37655
+           · <a href="https://x.com/jamm3rd/status/2117137224907338195" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+      <div class="item">
+        <span class="badge b-retweet">转发</span>
+        <span class="text">RT @WeeklyFamitsu: 11/5(木)発売の週刊ファミ通(2026年11月19日号 No.1970)は【勝利の女神：NIKKE】4周年を特集！
+
+表紙と裏表紙がつながるイラストは描き下ろし。
+このイラストを使用したポスター付録つきです！
+
+46ページ特集では、SH…</span>
+        <div class="text-zh">🇨🇳 转发 @WeeklyFamitsu：11/5（周四）发售的《周刊Fami通》（2026年11月19日号 No.1970）推出【胜利女神：NIKKE】四周年特辑！
+
+封面与封底相连的插画为全新绘制。
+附赠使用该插画的海报附录！
+
+46页特辑中，SH……</div>
+        
+        <div class="src">↳ @WeeklyFamitsu：11/5(木)発売の週刊ファミ通(2026年11月19日号 No.1970)は【勝利の女神：NIKKE】4周年を特集！
+
+表紙と裏表紙がつながるイラストは描き下ろし。
+このイラストを使用したポスター付録つきです！
+
+46ページ特集では、SHIFT UP取材の模様や、読者の質問に開発者が応えるQ&amp;Aコーナーなどをお届けします。 https://t.co/iVAMMFIEYA</div>
+        
+        <div class="meta">
+          👍 2807 · 🔁 801 · 💬 13 · 👁 175061
+           · <a href="https://x.com/jamm3rd/status/2117137174764359769" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+      <div class="item">
+        <span class="badge b-retweet">转发</span>
+        <span class="text">RT @StellarBlade: Stellar Blade × GODDESS OF VICTORY: NIKKE
+An epic crossover of heroic proportions ✨ https://t.co/6W22XY92oo</span>
+        <div class="text-zh">🇨🇳 转发 @StellarBlade：《剑星》×《胜利女神：NIKKE》
+英雄级别的史诗联动 ✨ https://t.co/6W22XY92oo</div>
+        
+        <div class="src">↳ @StellarBlade：Stellar Blade × GODDESS OF VICTORY: NIKKE
+An epic crossover of heroic proportions ✨ https://t.co/6W22XY92oo</div>
+        
+        <div class="meta">
+          👍 8002 · 🔁 670 · 💬 72 · 👁 229127
+           · <a href="https://x.com/jamm3rd/status/2117137144955404447" target="_blank">查看原文 ↗</a>
+        </div>
+      </div>
+      
+    
+  </section>
+  
+  <section class="acct">
+    <div class="acct-head">
+      <div class="acct-name">Jason<span class="acct-handle">@_yoojoonseok</span></div>
+      <div class="counts">原创 0 · 转发 0 · 引用 0</div>
+    </div>
+    <div class="topic">💡 今日无更新</div>
+    
+      <div class="empty">今日无新增内容。</div>
+    
+  </section>
+  
+  <section class="acct">
+    <div class="acct-head">
+      <div class="acct-name">Yoo<span class="acct-handle">@hsyoo___</span></div>
+      <div class="counts">原创 0 · 转发 0 · 引用 0</div>
+    </div>
+    <div class="topic">💡 今日无更新</div>
+    
+      <div class="empty">今日无新增内容。</div>
+    
+  </section>
+  
+
+  <footer>自动生成 · 数据来源 TwitterAPI.io · 2026-11-03 12:24 KST</footer>
+</div>
+</body>
+</html>
