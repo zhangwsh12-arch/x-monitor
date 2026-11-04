@@ -1,0 +1,442 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T11:05:24.711562+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 17,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2117713788510372300",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117713788510372300",
+          "text": "RT @PlayOverwatch: It’s time to fight like the future depends on it 😤\n\n🎯 Widowmaker x EVE\n🛠️ https://t.co/DnBA51jDbn x Lily\n🏹 Freja x Raven…",
+          "created_at": "Tue Nov 03 20:21:27 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 12503,
+            "retweet": 841,
+            "reply": 232,
+            "quote": 249,
+            "view": 606364
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "PlayOverwatch",
+            "text": "It’s time to fight like the future depends on it 😤\n\n🎯 Widowmaker x EVE\n🛠️ https://t.co/DnBA51jDbn x Lily\n🏹 Freja x Raven\n⚔️ Vendetta x Tachy\n🪖 Soldier: 76 x Adam\n\nOverwatch x EVE Protocol is available NOW 🔥 https://t.co/ObF4ATXux6",
+            "url": "https://x.com/PlayOverwatch/status/2117693460257923375"
+          },
+          "text_zh": "RT @PlayOverwatch：是时候为了未来而战了 😤\n\n🎯 黑百合 x EVE\n🛠️ https://t.co/DnBA51jDbn x Lily\n🏹 弗蕾娅 x Raven…"
+        },
+        {
+          "id": "2117605214635393242",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117605214635393242",
+          "text": "RT @star_uing: 니케 하시는 분들을 위한 사이트를 만들었습니당\n본업이 개발자라 직접 만들어봤어요!\n니케허브라는 곳인데, 캐릭터별 가이드도 올려두었구 블라블라 연동하면 내 니케 육성도랑 추천 육성까지 볼 수 있습니다!\n로스트 섹터, 덱 시뮬…",
+          "created_at": "Tue Nov 03 13:10:01 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 12220,
+            "retweet": 1722,
+            "reply": 135,
+            "quote": 115,
+            "view": 391166
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "star_uing",
+            "text": "니케 하시는 분들을 위한 사이트를 만들었습니당\n본업이 개발자라 직접 만들어봤어요!\n니케허브라는 곳인데, 캐릭터별 가이드도 올려두었구 블라블라 연동하면 내 니케 육성도랑 추천 육성까지 볼 수 있습니다!\n로스트 섹터, 덱 시뮬레이션도 있구 더 많은 것들을 차차 추가할 예정이에요.\n온세상 지휘관님들 항상 행복하세요! <3 🤍\nhttps://t.co/HG8nVWOdLi\n#니케 #NIKKE",
+            "url": "https://x.com/star_uing/status/2117255144098394479"
+          },
+          "text_zh": "RT @star_uing：我为玩NIKKE的玩家们做了一个网站\n我的本职工作是开发者，所以自己动手做了！\n这个网站叫NIKKE Hub，上面有各角色的攻略，绑定Blabla账号后还能查看自己的NIKKE养成度和推荐养成方案！\n迷失区域、卡组模拟…"
+        },
+        {
+          "id": "2117603961352200589",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603961352200589",
+          "text": "RT @Genki_JPN: The Legend of Zelda Ocarina of Time remake and Stellar Blade Complete Edition on Switch 2 are out THIS WEEK! https://t.co/lv…",
+          "created_at": "Tue Nov 03 13:05:02 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 800,
+            "retweet": 69,
+            "reply": 22,
+            "quote": 11,
+            "view": 20223
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "Genki_JPN",
+            "text": "The Legend of Zelda Ocarina of Time remake and Stellar Blade Complete Edition on Switch 2 are out THIS WEEK! https://t.co/lvkm6pw03x",
+            "url": "https://x.com/Genki_JPN/status/2117275743340351536"
+          },
+          "text_zh": "RT @Genki_JPN：《塞尔达传说 时之笛》重制版和《剑星》完整版将于本周登陆Switch 2！https://t.co/lv…"
+        },
+        {
+          "id": "2117603769047482423",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603769047482423",
+          "text": "RT @DestinyChildASJ: こんにちは。シナリオライターのELLUNEです。\n\n魔王候補生の皆さんに『デスティニーチャイルド』で&lt;Eclipse&gt;、&lt;Eclosion&gt;、&lt;Puellae Magicae&gt;などをお届けしてもう3年になりますね。\n当時お届けした物語と…",
+          "created_at": "Tue Nov 03 13:04:16 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 516,
+            "retweet": 183,
+            "reply": 5,
+            "quote": 25,
+            "view": 22346
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "DestinyChildASJ",
+            "text": "こんにちは。シナリオライターのELLUNEです。\n\n魔王候補生の皆さんに『デスティニーチャイルド』で<Eclipse>、<Eclosion>、<Puellae Magicae>などをお届けしてもう3年になりますね。\n当時お届けした物語とこうして再び向き合うと、感慨深いものがあります。\n\n現在、『デスティニーチャイルド』のストーリーや世界観を大切に、本作へと紡ぐ作業を進めています。\n原作のキャラクターたちの魅力はもちろん、新たに登場するキャラクターたちの魅力も皆さんにお伝えできると思うと、\n今からとても楽しみです。\n\nダビの最後の言葉を覚えていますか？\n\n「離れ離れになってもまた出会えるんだって。\nそのために別れるんだって。\nだから、最後はいつも笑顔でいなきゃなんだって！」\n\nあの約束を果たせることを、とてもうれしく思います。\n魔王候補生の皆さんにお会いできる日まで、\n良い物語、面白い物語をお届けできるよう、準備を進めてまいります。\n\nありがとうございます。\n\n#デスティニーチャイルドアッセンブル\n#デスブル\n#デスティニーチャイルド\n#デスチャ",
+            "url": "https://x.com/DestinyChildASJ/status/2117513356265607177"
+          },
+          "text_zh": "RT @DestinyChildASJ：大家好，我是剧本作家ELLUNE。\n\n为各位魔王候补生们在《命运之子》中呈现&lt;Eclipse&gt;、&lt;Eclosion&gt;、&lt;Puellae Magicae&gt;等故事，已经过去3年了呢。\n当时为大家带来的故事与…"
+        },
+        {
+          "id": "2117603670707863903",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603670707863903",
+          "text": "RT @DestinyChildAS: 안녕하세요,\n시나리오 라이터 엘룬입니다.\n\n마왕후보생 여러분께 데차의 여러 이야기를 전한 지도 3년이 되어가는군요.\n&lt;Eclipse&gt;, &lt;Eclosion&gt;, &lt;Puellae Magicae&gt; 등등.\n당시 전해드렸던…",
+          "created_at": "Tue Nov 03 13:03:52 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 200,
+            "retweet": 49,
+            "reply": 8,
+            "quote": 17,
+            "view": 19119
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "DestinyChildAS",
+            "text": "안녕하세요,\n시나리오 라이터 엘룬입니다.\n\n마왕후보생 여러분께 데차의 여러 이야기를 전한 지도 3년이 되어가는군요.\n<Eclipse>, <Eclosion>, <Puellae Magicae> 등등.\n당시 전해드렸던 이야기를 이렇게 다시 마주하게 되니 감회가 새로운 듯합니다.\n\n데차의 스토리랑 세계관을 보완·계승해 나가는 작업을 진행하며\n원작 캐릭터들의 매력과, 이번작에서 새로이 등장할 캐릭터들의 매력을 전할 생각을 하니\n가슴이 두근두근 하네요.\n\n다비의 마지막 말을 기억하시나요?\n\n헤어지면 다시 만나게 된다고.\n그걸 위해 헤어지는 거라고.\n그러니, 마지막 순간엔 항상 미소 지어야 한대!\n\n그 약속을 지킬 수 있게 되어 기쁩니다.\n마왕후보생 여러분을 만나 뵙는 날까지,\n좋은 이야기, 재미있는 이야기 전할 수 있도록 열심히 준비하고 있겠습니다.\n\n감사합니다.\n\n#데스티니차일드어셈블\n#데차블\n#데스티니차일드",
+            "url": "https://x.com/DestinyChildAS/status/2117513356248813925"
+          },
+          "text_zh": "RT @DestinyChildAS：大家好，\n我是剧本作家Ellun。\n\n为各位魔王候补生讲述Destiny Child的诸多故事，也快满3年了。\n&lt;Eclipse&gt;、&lt;Eclosion&gt;、&lt;Puellae Magicae&gt;等等。\n当时为大家带来的…"
+        },
+        {
+          "id": "2117603492458381788",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603492458381788",
+          "text": "RT @Ryujee_G1: 여자친구가 그 '릴리바이스', 승리의 여신 일 때\nWhen your girlfriend is THE Liliweiss, Goddess of Victory\n#cosplay #코스프레 #니케 #NIKKE https://t.co…",
+          "created_at": "Tue Nov 03 13:03:10 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 8706,
+            "retweet": 1599,
+            "reply": 44,
+            "quote": 61,
+            "view": 161798
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "Ryujee_G1",
+            "text": "여자친구가 그 '릴리바이스', 승리의 여신 일 때\nWhen your girlfriend is THE Liliweiss, Goddess of Victory\n#cosplay #코스프레 #니케 #NIKKE https://t.co/DdHbWveoEF",
+            "url": "https://x.com/Ryujee_G1/status/2117117491487125792"
+          },
+          "text_zh": "RT @Ryujee_G1：当你的女朋友是那位“莉莉维斯”，胜利女神的时候\nWhen your girlfriend is THE Liliweiss, Goddess of Victory\n#cosplay #코스프레 #니케 #NIKKE https://t.co…"
+        },
+        {
+          "id": "2117603460485095831",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603460485095831",
+          "text": "RT @fune83ojj: #NIKKEfanart\n#NIKKE \n(タグ付きで投稿を作る必要があったので申し訳ないですが(？)過去絵をぺたり｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡) https://t.co/COJD6F4HRq",
+          "created_at": "Tue Nov 03 13:03:02 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 1481,
+            "retweet": 210,
+            "reply": 3,
+            "quote": 0,
+            "view": 16552
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "fune83ojj",
+            "text": "#NIKKEfanart\n#NIKKE \n(タグ付きで投稿を作る必要があったので申し訳ないですが(？)過去絵をぺたり｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡) https://t.co/COJD6F4HRq",
+            "url": "https://x.com/fune83ojj/status/2117394530676986198"
+          },
+          "text_zh": "RT @fune83ojj：#NIKKEfanart\n#NIKKE\n（因为需要带标签发帖所以抱歉啦（？）贴一张以前的画｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡）https://t.co/COJD6F4HRq"
+        },
+        {
+          "id": "2117603398828896454",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603398828896454",
+          "text": "RT @dengekionline: 『NIKKE』が人気ガチャ「まちぼうけ」に初登場！✨\nhttps://t.co/BUgs7bfktA\n\n・ラピ、アニス、ネオン、リトルマーメイドの全4種！\n・ちょこんと座る姿が可愛い全高サイズで1回500円！\n11月より全国の自販機で順次発…",
+          "created_at": "Tue Nov 03 13:02:48 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 4039,
+            "retweet": 1002,
+            "reply": 27,
+            "quote": 266,
+            "view": 216154
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "dengekionline",
+            "text": "『NIKKE』が人気ガチャ「まちぼうけ」に初登場！✨\nhttps://t.co/BUgs7bfktA\n\n・ラピ、アニス、ネオン、リトルマーメイドの全4種！\n・ちょこんと座る姿が可愛い全高サイズで1回500円！\n11月より全国の自販機で順次発売される注目アイテムです！🔫 https://t.co/eupu6FArHU",
+            "url": "https://x.com/dengekionline/status/2117135987281445106"
+          },
+          "text_zh": "RT @dengekionline：《NIKKE》首次登场人气扭蛋“等待系列”！✨\nhttps://t.co/BUgs7bfktA\n\n・拉毗、阿妮斯、尼恩、小美人鱼共4种！\n・乖巧坐姿超可爱，全高尺寸，每次500日元！\n11月起在全国自动售货机依次上架…"
+        },
+        {
+          "id": "2117603232562430239",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603232562430239",
+          "text": "RT @nigmgm_o: 拗ねラピ https://t.co/SsNzI0uMoB",
+          "created_at": "Tue Nov 03 13:02:08 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 7323,
+            "retweet": 813,
+            "reply": 7,
+            "quote": 11,
+            "view": 55533
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "nigmgm_o",
+            "text": "拗ねラピ https://t.co/SsNzI0uMoB",
+            "url": "https://x.com/nigmgm_o/status/2117574503777865788"
+          },
+          "text_zh": "RT @nigmgm_o：闹别扭的拉毗 https://t.co/SsNzI0uMoB"
+        },
+        {
+          "id": "2117603096654426368",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603096654426368",
+          "text": "RT @NIKKE_japan: 【NIKKE × GiGOキャンペーン】\nいよいよ11月14日より、『勝利の女神：NIKKE』× GiGOコラボキャンペーン「ホワイト・オータム」がスタートします🎉\n\n本日は、描き起こしイラストとキャンペーンの詳細を大公開✨\n\n限定商品やコラボ…",
+          "created_at": "Tue Nov 03 13:01:36 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 5741,
+            "retweet": 1007,
+            "reply": 5,
+            "quote": 85,
+            "view": 320809
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【NIKKE × GiGOキャンペーン】\nいよいよ11月14日より、『勝利の女神：NIKKE』× GiGOコラボキャンペーン「ホワイト・オータム」がスタートします🎉\n\n本日は、描き起こしイラストとキャンペーンの詳細を大公開✨\n\n限定商品やコラボたい焼き、ノベルティ付きドリンクなども登場します🥤\n\n詳細は、スレッド投稿をチェック✅\n\n#NIKKE",
+            "url": "https://x.com/NIKKE_japan/status/2117099582614302858"
+          },
+          "text_zh": "RT @NIKKE_japan：【NIKKE × GiGO活动】\n终于从11月14日起，《胜利女神：NIKKE》× GiGO联动活动“白色之秋”即将开启🎉\n\n今天大公开全新绘制插图和活动详情✨\n\n限定商品和联动…"
+        },
+        {
+          "id": "2117603067218846022",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603067218846022",
+          "text": "RT @jpPlayOverwatch: ━━━━ Concept Art ━━━━\n\n「オーバーウォッチ」×「EVE Protocol」コラボ\n\nヴェンデッタのコンセプトアートを世界最速公開🖤\n\n#オーバーウォッチ #EVEProtocol https://t.co/Azrk…",
+          "created_at": "Tue Nov 03 13:01:29 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 1251,
+            "retweet": 122,
+            "reply": 8,
+            "quote": 18,
+            "view": 76513
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "jpPlayOverwatch",
+            "text": "━━━━ Concept Art ━━━━\n\n「オーバーウォッチ」×「EVE Protocol」コラボ\n\nヴェンデッタのコンセプトアートを世界最速公開🖤\n\n#オーバーウォッチ #EVEProtocol https://t.co/Azrkkf2rby",
+            "url": "https://x.com/jpPlayOverwatch/status/2117451704484364782"
+          },
+          "text_zh": "RT @jpPlayOverwatch：━━━━ Concept Art ━━━━\n\n《守望先锋》×《EVE Protocol》联动\n\n全球最快公开 Vendetta 的概念艺术图🖤\n\n#守望先锋 #EVEProtocol https://t.co/Azrk…"
+        },
+        {
+          "id": "2117603049984463022",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117603049984463022",
+          "text": "RT @subobdesu: #NIKKE #NIKKEfanart https://t.co/k7SSvvoOmC",
+          "created_at": "Tue Nov 03 13:01:24 +0000 2026",
+          "lang": "qme",
+          "metrics": {
+            "like": 5246,
+            "retweet": 631,
+            "reply": 9,
+            "quote": 2,
+            "view": 43311
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "subobdesu",
+            "text": "#NIKKE #NIKKEfanart https://t.co/k7SSvvoOmC",
+            "url": "https://x.com/subobdesu/status/2117572516352815589"
+          },
+          "text_zh": "RT @subobdesu：#NIKKE #NIKKEfanart https://t.co/k7SSvvoOmC"
+        },
+        {
+          "id": "2117602799534092392",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117602799534092392",
+          "text": "RT @denfaminicogame: 『ステラーブレイド』の『ベヨネッタ』コラボ衣装が良すぎて、気が付けば「約500枚」撮影してた。まだまだ見てない“シワ”がある\nhttps://t.co/FAfuomOlcP\n\n布の張り、アクセサリー、隠れた靴の裏まで異様な作り込み。確認…",
+          "created_at": "Tue Nov 03 13:00:25 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 340,
+            "retweet": 52,
+            "reply": 4,
+            "quote": 7,
+            "view": 100616
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "denfaminicogame",
+            "text": "『ステラーブレイド』の『ベヨネッタ』コラボ衣装が良すぎて、気が付けば「約500枚」撮影してた。まだまだ見てない“シワ”がある\nhttps://t.co/FAfuomOlcP\n\n布の張り、アクセサリー、隠れた靴の裏まで異様な作り込み。確認は終わった。確認漏れがないか確認しなければ。Switch 2版の先行プレイをお届け https://t.co/OO5VQIFzPJ",
+            "url": "https://x.com/denfaminicogame/status/2117452187114831944"
+          },
+          "text_zh": "RT @denfaminicogame：《剑星》的《猎天使魔女》联动服装实在太棒了，不知不觉就拍了“约500张”。还有没看过的“褶皱”\nhttps://t.co/FAfuomOlcP\n\n布料的张力、饰品、甚至隐藏的鞋底都异常考究。确认…"
+        },
+        {
+          "id": "2117602750540439591",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117602750540439591",
+          "text": "RT @WakitasanX: ほら、マリアン❤️\n地上だよ！一緒に走ろう✨\n\n大切な愛車、大好きなキャラで彩る。\n施工→痛車ステッカーさん🙇\n強力なサポート→MKさん🙇\n\nタクティカルブラックバード🐦‍⬛\n最後の2年を疾走✨\n指揮官の皆様👍\n痛車界隈の皆🙏\n様宜しくお願いしま…",
+          "created_at": "Tue Nov 03 13:00:13 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2306,
+            "retweet": 324,
+            "reply": 29,
+            "quote": 12,
+            "view": 81078
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "WakitasanX",
+            "text": "ほら、マリアン❤️\n地上だよ！一緒に走ろう✨\n\n大切な愛車、大好きなキャラで彩る。\n施工→痛車ステッカーさん🙇\n強力なサポート→MKさん🙇\n\nタクティカルブラックバード🐦‍⬛\n最後の2年を疾走✨\n指揮官の皆様👍\n痛車界隈の皆🙏\n様宜しくお願いします🤝\n#痛車\n#マリアン\n#NIKKE4周年\n#走る個人情報車 https://t.co/JGaJFOygip",
+            "url": "https://x.com/WakitasanX/status/2117389304200900835"
+          },
+          "text_zh": "RT @WakitasanX：看吧，玛丽安❤️\n到地面上啦！一起跑吧✨\n\n用最爱的角色装点心爱的爱车。\n施工→痛车贴纸桑🙇\n强力支援→MK桑🙇\n\n战术黑鸟🐦‍⬛\n最后两年全力疾驰✨\n各位指挥官👍\n痛车圈的朋友们🙏\n请多关照…"
+        },
+        {
+          "id": "2117602705745285187",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117602705745285187",
+          "text": "RT @jpPlayOverwatch: ━━━━ Concept Art ━━━━\n\n「オーバーウォッチ」×「EVE Protocol」コラボ\n\nD. Vaのコンセプトアートを世界最速公開✨\nコラボレーションはいよいよ明日スタート！\n\n#オーバーウォッチ #EVEProtoc…",
+          "created_at": "Tue Nov 03 13:00:02 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2245,
+            "retweet": 251,
+            "reply": 7,
+            "quote": 103,
+            "view": 123586
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "jpPlayOverwatch",
+            "text": "━━━━ Concept Art ━━━━\n\n「オーバーウォッチ」×「EVE Protocol」コラボ\n\nD. Vaのコンセプトアートを世界最速公開✨\nコラボレーションはいよいよ明日スタート！\n\n#オーバーウォッチ #EVEProtocol https://t.co/kNCZ7r6rlD",
+            "url": "https://x.com/jpPlayOverwatch/status/2117497009418461684"
+          },
+          "text_zh": "RT @jpPlayOverwatch：━━━━ Concept Art ━━━━\n\n《守望先锋》×《EVE Protocol》联动\n\n全球最快公开 D.Va 的概念艺术图✨\n联动终于明天开启！\n\n#守望先锋 #EVEProtoc…"
+        },
+        {
+          "id": "2117602676376768746",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117602676376768746",
+          "text": "RT @darknessdfm: &lt;구인&gt; 안녕하세요! [승리의여신:니케]를 같이 만들어가실 [캐릭터 원화가, 일러스트 파트]를 구합니다. 저희팀은 좋은 팀원분들과 학구적인 분위기로 즐겁게 작업을 쭉 이어가고 있습니다.  함께 성장하며 멋진게임을 개발해…",
+          "created_at": "Tue Nov 03 12:59:55 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 4366,
+            "retweet": 678,
+            "reply": 12,
+            "quote": 123,
+            "view": 209876
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "darknessdfm",
+            "text": "&lt;구인&gt; 안녕하세요! [승리의여신:니케]를 같이 만들어가실 [캐릭터 원화가, 일러스트 파트]를 구합니다. 저희팀은 좋은 팀원분들과 학구적인 분위기로 즐겁게 작업을 쭉 이어가고 있습니다.  함께 성장하며 멋진게임을 개발해가실 분을 기다립니다. https://t.co/nYrKsWpoPX",
+            "url": "https://x.com/darknessdfm/status/2117537772252860731"
+          },
+          "text_zh": "RT @darknessdfm：&lt;招聘&gt; 大家好！我们正在招募一起制作《胜利女神：NIKKE》的[角色原画师、插画岗位]。我们团队与优秀的伙伴们在学术氛围中愉快地持续工作着。一起成长、开发出色的游戏…"
+        },
+        {
+          "id": "2117602662518763580",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117602662518763580",
+          "text": "RT @FK_workid: 【work】\n『指揮官、今の內です。 インカウンター！』 \n\n4周年PV「決戦」でPVイラストを制作しました。\nラプチャー・クイーンとの最後の決戦、よろしくお願いします。💪\n#NIKKE4周年 #NIKKE4thAnniversary https:…",
+          "created_at": "Tue Nov 03 12:59:52 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2390,
+            "retweet": 440,
+            "reply": 14,
+            "quote": 2,
+            "view": 52728
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "FK_workid",
+            "text": "【work】\n『指揮官、今の內です。 インカウンター！』 \n\n4周年PV「決戦」でPVイラストを制作しました。\nラプチャー・クイーンとの最後の決戦、よろしくお願いします。💪\n#NIKKE4周年 #NIKKE4thAnniversary https://t.co/iUbFpjUNaj",
+            "url": "https://x.com/FK_workid/status/2117546742149513386"
+          },
+          "text_zh": "RT @FK_workid：【work】\n“指挥官，就是现在。反击！”\n\n我为4周年PV“决战”制作了PV插画。\n与莱彻女王的最终决战，敬请期待。💪\n#NIKKE4周年 #NIKKE4thAnniversary https:…"
+        }
+      ],
+      "topic": "该账号今日聚焦《NIKKE》四周年、联动活动及同人创作，兼及《守望先锋》联动与《剑星》资讯。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE",
+        "命运之子",
+        "守望先锋联动",
+        "游戏美术",
+        "角色养成"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "NIKKE",
+        "守望先锋联动",
+        "SHIFTUP",
+        "游戏发售"
+      ]
+    },
+    "common": [
+      "NIKKE",
+      "守望先锋联动"
+    ]
+  }
+}
