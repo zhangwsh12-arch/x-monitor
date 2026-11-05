@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T11:08:59.217247+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 4,
+        "quote": 6,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2118119768599531759",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2118119768599531759",
+          "text": "お待たせしてしまい、誠に申し訳ございません。PCランチャーのアップデートを実施いたしました。これにより、PCランチャーを起動すると、検査プログラムを通じてセキュリティ状況を自動で確認し、問題に対処できるようになりました。その他の詳細につきましては、アップデートノートにて詳しくご案内いたします。\n\n指揮官の皆様に多大なるご心配をおかけしましたこと、改めて深くお詫び申し上げます。皆様に安全な旅を続けていただけるよう、一層の注意を払い、対応を徹底してまいります。",
+          "created_at": "Wed Nov 04 23:14:40 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2106,
+            "retweet": 918,
+            "reply": 57,
+            "quote": 25,
+            "view": 126462
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "PCランチャーのセキュリティインシデントに関するお詫び https://t.co/qP8eNYiZAi",
+            "url": "https://x.com/NIKKE_japan/status/2118116304590979136"
+          },
+          "text_zh": "非常抱歉让您久等了。我们已对PC启动器进行了更新。由此，启动PC启动器时，可通过检查程序自动确认安全状况并处理问题。其他详细信息将在更新公告中为您详细说明。\n\n再次就此事给各位指挥官带来的极大担忧深表歉意。为了让大家能够继续安全的旅程，我们将更加谨慎、彻底地做好应对工作。"
+        },
+        {
+          "id": "2118119551531655352",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118119551531655352",
+          "text": "RT @NIKKE_en: 【PC Launcher Security Incident and Follow-Up Measures】\n\nWe have identified that some files in the NIKKE Windows PC launcher w…",
+          "created_at": "Wed Nov 04 23:13:48 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2232,
+            "retweet": 304,
+            "reply": 114,
+            "quote": 28,
+            "view": 198443
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【PC Launcher Security Incident and Follow-Up Measures】\n\nWe have identified that some files in the NIKKE Windows PC launcher were recently tampered with by a third party, potentially allowing malicious programs to run when the launcher was launched.\nAs a result, your PCs and account information may have been exposed to security risks. We are continuing to investigate the extent of the potential damage and review appropriate response measures.\nWe are also conducting a thorough review of our network security environment, including our CDN, to determine how the PC launcher files were compromised. We will take all necessary precautions to prevent further damage and ensure that this issue does not happen again.\n\nWe deeply regret that this security incident has caused Commanders significant concern and distress, when our responsibility should have been to provide a safe gaming environment.\nWe take full responsibility for failing to uphold your trust and sincerely apologize.\n\n The following details will be provided on our official website:\n- A summary of the key developments and actions taken based on the information confirmed so far\n- Instructions on how to perform security checks, protect your accounts, and report any loss\n- Strengthening security to prevent future incidents\n\nFor more details: https://t.co/3mWcgYVvtz\n\nIf you believe you may have been affected by this issue or sufferred from any loss, please contact our Customer Support team. We will review each inquiry carefully and respond as promptly as possible.\n\nOnce again, we sincerely apologize for the great concern and distress this incident has caused.\n\nLevel Infinite",
+            "url": "https://x.com/NIKKE_en/status/2118118287318061165"
+          },
+          "text_zh": "RT @NIKKE_en：【PC启动器安全事件及后续措施】\n\n我们已确认NIKKE Windows PC启动器中的部分文件…"
+        },
+        {
+          "id": "2118119533282279671",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2118119533282279671",
+          "text": "We sincerely apologize for the delay. The PC launcher has now been updated so that, when you launch it, a scanning tool can automatically check your system’s security and address detected issues. We will provide further details in the update notes.\n\nOnce again, we offer our deepest apologies for the distress we have caused. We will take even greater care to ensure that all Commanders can continue their journey safely.",
+          "created_at": "Wed Nov 04 23:13:44 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1766,
+            "retweet": 257,
+            "reply": 160,
+            "quote": 17,
+            "view": 55643
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【Our Apology for the PC Launcher Security Incident】 https://t.co/iRX5r79QRv",
+            "url": "https://x.com/NIKKE_en/status/2118116340225732677"
+          },
+          "text_zh": "非常抱歉让您久等了。PC启动器现已更新，启动时扫描工具可自动检查系统安全状况并处理检测到的问题。更多详情将在更新公告中说明。\n\n再次就此事给大家带来的困扰深表歉意。我们将更加谨慎，确保所有指挥官能够继续安全的旅程。"
+        },
+        {
+          "id": "2118118962538115256",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2118118962538115256",
+          "text": "늦어서 죄송합니다. 이제 PC런처를 실행하시면, 검사 프로그램을 통해서 자동으로 지휘관 여러분들의 보안 상황을 체크하고 해결할 수 있도록 업데이트가 진행 되었습니다. 나머지 내용들은 업데이트 노트를 통해 상세히 알려드리도록 하겠습니다. \n\n큰 심려를 끼쳐드려서 다시 한번 사죄의 말씀 전해드리고, 안전한 여정이 될 수 있도록 다시 한번 철저하게 신경쓰겠습니다.",
+          "created_at": "Wed Nov 04 23:11:28 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 1154,
+            "retweet": 370,
+            "reply": 53,
+            "quote": 29,
+            "view": 53490
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_kr",
+            "text": "PC 런처 보안 사고에 대해 사과드립니다. https://t.co/aklAJzh3fP",
+            "url": "https://x.com/NIKKE_kr/status/2118116567368216994"
+          },
+          "text_zh": "非常抱歉来晚了。现在启动PC启动器后，已通过更新使检查程序能够自动检查并解决各位指挥官的安全状况。其余内容将通过更新公告详细告知大家。\n\n再次就此事给大家带来的极大担忧致以歉意，为了让大家拥有安全的旅程，我们将再次彻底加以关注。"
+        },
+        {
+          "id": "2117891546322252242",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2117891546322252242",
+          "text": "We are currently experiencing issues related to the PC launcher. In collaboration with LEVEL INFINITE, we are dedicating all our resources to identifying a fundamental solution, and we are also preparing follow-up measures. We sincerely apologize for the concern and inconvenience this has caused you, Commanders. We will provide updates on these follow-up measures as quickly as possible.\n\nOnce again, please accept our deepest apologies.",
+          "created_at": "Wed Nov 04 08:07:47 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 5408,
+            "retweet": 736,
+            "reply": 283,
+            "quote": 52,
+            "view": 284148
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【Notice Regarding PC Launcher Anomaly】\n\nWe have identified an issue indicating that the PC Launcher's script files may have been tampered with by a third party.\n\nAccordingly, client fixes and an update were implemented on November 4 at approximately 02:30 (UTC+9).\n\nWe are currently investigating the scope of the impact caused by this issue, and we will provide further details regarding follow-up measures in a separate notice.\n\nWe apologize for the inconvenience caused.\n\nGODDESS OF VICTORY: NIKKE Team\n\n#NIKKE",
+            "url": "https://x.com/NIKKE_en/status/2117817602659770434"
+          },
+          "text_zh": "我们目前正面临与PC启动器相关的问题。我们正与LEVEL INFINITE合作，投入全部资源寻找根本性解决方案，同时也在准备后续措施。各位指挥官，对于此事给大家带来的担忧与不便，我们深表歉意。我们将尽快提供有关后续措施的最新消息。\n\n再次致以最诚挚的歉意。"
+        },
+        {
+          "id": "2117891215589007600",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2117891215589007600",
+          "text": "現在、PCランチャーに関連する問題が発生しております。Level Infiniteと協力し、全力を挙げて根本的な解決策の模索に取り組んでおり、今後の対応策についても準備を進めております。指揮官の皆様に多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。今後の対応につきましては、可能な限り迅速にお知らせできるよう努めてまいります。\n\n改めて、深くお詫び申し上げます。",
+          "created_at": "Wed Nov 04 08:06:28 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 3162,
+            "retweet": 1041,
+            "reply": 136,
+            "quote": 69,
+            "view": 386313
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【お知らせ】\nPCランチャーのスクリプトファイルが第三者によって改ざんされた可能性がある異常を確認しました。\n\nこれを受け、11月4日02:30頃にクライアントの修正およびアップデートを実施しました。\n\n現在、本現象による影響範囲を確認しており、今後の対応方針については別途お知らせにてご案内いたします。\n\nこの度は、ご不便とご迷惑をおかけし、大変申し訳ございません。",
+            "url": "https://x.com/NIKKE_japan/status/2117817740555956289"
+          },
+          "text_zh": "目前，已发生与PC启动器相关的问题。我们正与Level Infinite合作，全力以赴寻找根本性解决方案，同时也在推进后续应对措施的准备工作。对于给各位指挥官带来的极大担忧与困扰，我们深表歉意。关于后续应对措施，我们将努力尽快告知大家。\n\n再次深表歉意。"
+        },
+        {
+          "id": "2117891064984223887",
+          "kind": "quote",
+          "url": "https://x.com/jamm3rd/status/2117891064984223887",
+          "text": "현재, PC런처와 관련된 문제가 발생하였습니다. 레벨 인피니트와 협력하여 이 사안에 대해 모든 역량을 총 동원하여 근본적인 해결방법을 찾고 있으며, 후속 조치들 또한 준비 중입니다. 지휘관 여러분들께 깊은 심려와 피해를 끼쳐드려서 정말 죄송합니다. 최대한 빠르게 후속 조치에 대해 알려드릴 수 있도록 하겠습니다. \n\n다시 한번 깊은 사과의 말씀을 드립니다.",
+          "created_at": "Wed Nov 04 08:05:53 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 2440,
+            "retweet": 811,
+            "reply": 180,
+            "quote": 166,
+            "view": 351994
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_kr",
+            "text": "📢 PC 런처 이상 상황 안내\n\nPC 런처의 스크립트 파일이 제3자에 의해\n변조되었을 가능성이 있는 이상 현상을 확인하였습니다.\n\n이에 따라 11/4(수) 2:30경에\n클라이언트 수정 및 업데이트를 진행하였습니다.\n\n현재 해당 현상으로 인한 영향 범위를 확인 중이며,\n후속 조치 방안에 대해 별도 공지를 통해 안내드리겠습니다.\n\n게임 이용에 불편을 드린 점 진심으로 사과드립니다.\n\n* 인앱 구매(확률형 아이템 포함)",
+            "url": "https://x.com/NIKKE_kr/status/2117817404399210900"
+          },
+          "text_zh": "目前，已发生与PC启动器相关的问题。我们正与Level Infinite合作，倾注全部力量寻找此事的根本性解决方案，后续措施也在准备中。给各位指挥官带来深切担忧与损失，真的非常抱歉。我们将尽快告知大家后续措施。\n\n再次致以深切的歉意。"
+        },
+        {
+          "id": "2117885980963377154",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117885980963377154",
+          "text": "RT @NIKKE_kr: 📢 PC 런처 이상 상황 안내\n\nPC 런처의 스크립트 파일이 제3자에 의해\n변조되었을 가능성이 있는 이상 현상을 확인하였습니다.\n\n이에 따라 11/4(수) 2:30경에\n클라이언트 수정 및 업데이트를 진행하였습니다.\n\n현재 해…",
+          "created_at": "Wed Nov 04 07:45:40 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 1091,
+            "retweet": 430,
+            "reply": 162,
+            "quote": 274,
+            "view": 441583
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_kr",
+            "text": "📢 PC 런처 이상 상황 안내\n\nPC 런처의 스크립트 파일이 제3자에 의해\n변조되었을 가능성이 있는 이상 현상을 확인하였습니다.\n\n이에 따라 11/4(수) 2:30경에\n클라이언트 수정 및 업데이트를 진행하였습니다.\n\n현재 해당 현상으로 인한 영향 범위를 확인 중이며,\n후속 조치 방안에 대해 별도 공지를 통해 안내드리겠습니다.\n\n게임 이용에 불편을 드린 점 진심으로 사과드립니다.\n\n* 인앱 구매(확률형 아이템 포함)",
+            "url": "https://x.com/NIKKE_kr/status/2117817404399210900"
+          },
+          "text_zh": "RT @NIKKE_kr：📢 PC启动器异常情况通知\n\n我们已确认PC启动器的脚本文件可能被第三方篡改的异常现象。\n\n据此，我们已于11/4(周三) 2:30左右进行了客户端修正及更新。\n\n目前安…"
+        },
+        {
+          "id": "2117885895986860204",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117885895986860204",
+          "text": "RT @NIKKE_japan: 【お知らせ】\nPCランチャーのスクリプトファイルが第三者によって改ざんされた可能性がある異常を確認しました。\n\nこれを受け、11月4日02:30頃にクライアントの修正およびアップデートを実施しました。… https://t.co/rJvs0Bf…",
+          "created_at": "Wed Nov 04 07:45:20 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 14171,
+            "retweet": 9022,
+            "reply": 382,
+            "quote": 1585,
+            "view": 5551693
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【お知らせ】\nPCランチャーのスクリプトファイルが第三者によって改ざんされた可能性がある異常を確認しました。\n\nこれを受け、11月4日02:30頃にクライアントの修正およびアップデートを実施しました。\n\n現在、本現象による影響範囲を確認しており、今後の対応方針については別途お知らせにてご案内いたします。\n\nこの度は、ご不便とご迷惑をおかけし、大変申し訳ございません。",
+            "url": "https://x.com/NIKKE_japan/status/2117817740555956289"
+          },
+          "text_zh": "RT @NIKKE_japan：【通知】\n我们已确认PC启动器的脚本文件可能被第三方篡改的异常现象。\n\n据此，我们已于11月4日02:30左右实施了客户端修正及更新。… https://t.co/rJvs0Bf…"
+        },
+        {
+          "id": "2117885833265168573",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2117885833265168573",
+          "text": "RT @NIKKE_en: 【Notice Regarding PC Launcher Anomaly】\n\nWe have identified an issue indicating that the PC Launcher's script files may have b…",
+          "created_at": "Wed Nov 04 07:45:05 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 12722,
+            "retweet": 1900,
+            "reply": 1042,
+            "quote": 503,
+            "view": 1509257
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_en",
+            "text": "【Notice Regarding PC Launcher Anomaly】\n\nWe have identified an issue indicating that the PC Launcher's script files may have been tampered with by a third party.\n\nAccordingly, client fixes and an update were implemented on November 4 at approximately 02:30 (UTC+9).\n\nWe are currently investigating the scope of the impact caused by this issue, and we will provide further details regarding follow-up measures in a separate notice.\n\nWe apologize for the inconvenience caused.\n\nGODDESS OF VICTORY: NIKKE Team\n\n#NIKKE",
+            "url": "https://x.com/NIKKE_en/status/2117817602659770434"
+          },
+          "text_zh": "RT @NIKKE_en：【关于PC启动器异常的通知】\n\n我们已确认一个问题，表明PC启动器的脚本文件可能已被…"
+        }
+      ],
+      "topic": "NIKKE PC启动器遭第三方篡改，官方致歉并更新安全扫描。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2118072903539565016",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118072903539565016",
+          "text": "RT @StellarBlade: Only 24 hours until Stellar Blade launches on Nintendo Switch 2! https://t.co/psYhob0aEf",
+          "created_at": "Wed Nov 04 20:08:26 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1579,
+            "retweet": 145,
+            "reply": 87,
+            "quote": 14,
+            "view": 40466
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Only 24 hours until Stellar Blade launches on Nintendo Switch 2! https://t.co/psYhob0aEf",
+            "url": "https://x.com/StellarBlade/status/2117995281975329191"
+          },
+          "text_zh": "转发 @StellarBlade：《剑星》登陆 Nintendo Switch 2 仅剩 24 小时！https://t.co/psYhob0aEf"
+        }
+      ],
+      "topic": "《剑星》明日登陆Switch 2，账号转发倒计时预热。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "PC启动器安全",
+        "NIKKE致歉",
+        "启动器更新",
+        "指挥官安全"
+      ],
+      "_yoojoonseok": [
+        "剑星NS2",
+        "NIKKE四周年",
+        "守望先锋联动",
+        "SHIFTUP"
+      ]
+    },
+    "common": []
+  }
+}
