@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T11:09:35.096362+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 2,
+        "retweet": 5,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2118375767063380348",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118375767063380348",
+          "text": "RT @StellarBlade: 🎮🖥️《 PS5 &amp; PC Shared Update Details》\n\n🔶 Bayonetta Collaboration Costumes\nThe enchanting style of an Umbra Witch has arriv…",
+          "created_at": "Thu Nov 05 16:11:55 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 3649,
+            "retweet": 390,
+            "reply": 50,
+            "quote": 17,
+            "view": 60617
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "🎮🖥️《 PS5 & PC Shared Update Details》\n\n🔶 Bayonetta Collaboration Costumes\nThe enchanting style of an Umbra Witch has arrived in EVE’s world from another dimension! Acquire the Bayonetta collaboration outfits and step into battle with an elegant, bold new look.\n\n4 Nanosuits\n└ Couture Bullet (Bayonetta)\n└ Couture Bullet (Jeanne)\n└ Couture Bullet (Nun)\n└ Couture Bullet (Black Tresses)\n\n2 Pairs of Glasses\n└ Bayonetta's Glasses\n└ Nun's Glasses\n\n2 Pairs of Earrings\n└ Bayonetta's Earrings\n└ Jeanne's Earrings\n\n🔸 Fixed an issue where the side quest <A United People Cannot be Defeated> would not progress after obtaining two Memory Sticks.\n🔸 Fixed an issue where Emil would occasionally get stuck on a cliff in the southern Wasteland and could not be attacked.\n🔸 Fixed an issue where EVE’s hairstyle would not appear in the Equipment and Repair Console screens.\n🔸 Fixed an issue in Adam's entry in the Data Bank.\n\n🖥️ PC // VERSION 1.5.0 UPDATE DETAILS\n\n🔸 Fixed an issue where rapidly switching cosmetics could cause EVE’s appearance in the Equipment screen to differ from the selected item.\n🔸 [Steam Deck] When Steam Input is enabled, button icons and controller images now match the connected controller.",
+            "url": "https://x.com/StellarBlade/status/2118365214852997311"
+          },
+          "text_zh": "RT @StellarBlade: 🎮🖥️《PS5 与 PC 共享更新详情》\n\n🔶 猎天使魔女联动服装\n暗影魔女的迷人风格已经降临…"
+        },
+        {
+          "id": "2118366137742471234",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118366137742471234",
+          "text": "RT @Nib1t_: @StellarBlade Lets go https://t.co/QyUQEHtO0z",
+          "created_at": "Thu Nov 05 15:33:39 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 60,
+            "retweet": 5,
+            "reply": 2,
+            "quote": 0,
+            "view": 2987
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "Nib1t_",
+            "text": "@StellarBlade Lets go https://t.co/QyUQEHtO0z",
+            "url": "https://x.com/Nib1t_/status/2118358631250858387"
+          },
+          "text_zh": "RT @Nib1t_: @StellarBlade 冲啊 https://t.co/QyUQEHtO0z"
+        },
+        {
+          "id": "2118363711929016661",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118363711929016661",
+          "text": "RT @StellarBlade: 《  Nintendo Switch 2 Update Details 》\n\n🔶 Bayonetta Collaboration Costumes\nThe enchanting style of an Umbra Witch has arri…",
+          "created_at": "Thu Nov 05 15:24:00 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2365,
+            "retweet": 263,
+            "reply": 36,
+            "quote": 12,
+            "view": 44764
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "《  Nintendo Switch 2 Update Details 》\n\n🔶 Bayonetta Collaboration Costumes\nThe enchanting style of an Umbra Witch has arrived in EVE’s world from another dimension! Acquire the Bayonetta collaboration outfits and step into battle with an elegant, bold new look.\n\n4 Nanosuits\n└ Couture Bullet (Bayonetta)\n└ Couture Bullet (Jeanne)\n└ Couture Bullet (Nun)\n└ Couture Bullet (Black Tresses)\n\n2 Pairs of Glasses\n└ Bayonetta's Glasses\n└ Nun's Glasses\n\n2 Pairs of Earrings\n└ Bayonetta's Earrings\n└ Jeanne's Earrings\n\n🔸 Added a Frame Generation toggle to the Display settings.\n🔸 Fixed game crashes and improved stability.\n🔸 Fixed some graphical issues and improved visual quality.\n🔸 Fixed an issue in Adam's entry in the Data Bank.",
+            "url": "https://x.com/StellarBlade/status/2118361507054657809"
+          },
+          "text_zh": "RT @StellarBlade: 《Nintendo Switch 2 更新详情》\n\n🔶 猎天使魔女联动服装\n暗影魔女的迷人风格已经降临…"
+        },
+        {
+          "id": "2118358738402976063",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118358738402976063",
+          "text": "RT @PlayStation: It's Witch Time ⌛\n\nThe Stellar Blade - Bayonetta Collaboration content is available today. https://t.co/9CxuCqGmY8",
+          "created_at": "Thu Nov 05 15:04:15 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 6702,
+            "retweet": 643,
+            "reply": 272,
+            "quote": 87,
+            "view": 922432
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "PlayStation",
+            "text": "It's Witch Time ⌛\n\nThe Stellar Blade - Bayonetta Collaboration content is available today. https://t.co/9CxuCqGmY8",
+            "url": "https://x.com/PlayStation/status/2118357795330293795"
+          },
+          "text_zh": "RT @PlayStation: 魔女时间到 ⌛\n\n《剑星》- 猎天使魔女联动内容今日上线。https://t.co/9CxuCqGmY8"
+        },
+        {
+          "id": "2118358724062691797",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118358724062691797",
+          "text": "RT @StellarBlade: Take EVE everywhere 💫 \n\nStellar Blade Complete Edition is now live on the Nintendo Switch 2! https://t.co/2iWfw8LsY5",
+          "created_at": "Thu Nov 05 15:04:11 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 9254,
+            "retweet": 1328,
+            "reply": 292,
+            "quote": 299,
+            "view": 422349
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Take EVE everywhere 💫 \n\nStellar Blade Complete Edition is now live on the Nintendo Switch 2! https://t.co/2iWfw8LsY5",
+            "url": "https://x.com/StellarBlade/status/2118357672802025982"
+          },
+          "text_zh": "RT @StellarBlade: 带着 EVE 随时随地出发 💫\n\n《剑星》完整版现已在 Nintendo Switch 2 上线！https://t.co/2iWfw8LsY5"
+        },
+        {
+          "id": "2118358129130061968",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2118358129130061968",
+          "text": "Heartfelt congratulations on the launch of The Legend of Zelda: Ocarina of Time!\n\nAs luck would have it, Stellar Blade also quietly made its Nintendo Switch 2 debut on the very same day. If you could spare just a little time for us too, we’d love to add a little extra joy to your gaming life!😇\n#StellarBlade #Switch2 #LaunchToday #Zelda",
+          "created_at": "Thu Nov 05 15:01:49 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 4341,
+            "retweet": 441,
+            "reply": 167,
+            "quote": 19,
+            "view": 68885
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "衷心祝贺《塞尔达传说：时之笛》发售！\n\n巧的是，《剑星》也在同一天悄然登陆 Nintendo Switch 2。如果各位能稍微分一点时间给我们，我们也希望能为你的游戏生活增添一点额外的快乐！😇\n#StellarBlade #Switch2 #LaunchToday #Zelda"
+        },
+        {
+          "id": "2118357959432683951",
+          "kind": "post",
+          "url": "https://x.com/jamm3rd/status/2118357959432683951",
+          "text": "『ゼルダの伝説 時のオカリナ』の発売、心よりおめでとうございます！\n\nなんと、このタイミングで『Stellar Blade』のNintendo Switch 2版もひっそりと発売されました。ほんの少しだけでもお時間を分けて、こちらも遊んでいただけたら、皆さまのゲームライフがさらに充実する……かもしれません! 🫠\n#StellarBlade #Switch2 #LaunchNow #Zelda",
+          "created_at": "Thu Nov 05 15:01:09 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2742,
+            "retweet": 410,
+            "reply": 55,
+            "quote": 21,
+            "view": 71380
+          },
+          "author_handle": "jamm3rd",
+          "text_zh": "衷心祝贺《塞尔达传说：时之笛》发售！\n\n没想到，就在这个时机，《剑星》Nintendo Switch 2 版也悄然发售了。如果各位能稍微分一点时间，也来玩玩这边的话，大家的游戏生活或许会更加充实……也说不定！🫠\n#StellarBlade #Switch2 #LaunchNow #Zelda"
+        }
+      ],
+      "topic": "《剑星》Switch 2版发售，联动猎天使魔女服装上线。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 5,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2118511002174284223",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118511002174284223",
+          "text": "RT @platinumgames: A memorable moment! 📸\nSHIFT UP CEO Kim Hyung Tae presenting the EVE figure to PlatinumGames President Atsushi Inaba!\nTha…",
+          "created_at": "Fri Nov 06 01:09:17 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 115,
+            "retweet": 16,
+            "reply": 1,
+            "quote": 0,
+            "view": 3594
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "platinumgames",
+            "text": "A memorable moment! 📸\nSHIFT UP CEO Kim Hyung Tae presenting the EVE figure to PlatinumGames President Atsushi Inaba!\nThank you again for this wonderful gift, SHIFT UP (@StellarBlade)! ❤️ https://t.co/TzqeV5G3Yv",
+            "url": "https://x.com/platinumgames/status/2118494174341390582"
+          },
+          "text_zh": "转发 @platinumgames：难忘的时刻！📸 SHIFT UP CEO 金亨泰向白金游戏总裁稻叶敦志赠送 EVE 手办！这…"
+        },
+        {
+          "id": "2118509572302483836",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118509572302483836",
+          "text": "RT @platinumgames: The Stellar Blade × Bayonetta collaboration costumes are out now!🖤\nSHIFT UP (@StellarBlade) have gifted us this gorgeous…",
+          "created_at": "Fri Nov 06 01:03:36 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 895,
+            "retweet": 130,
+            "reply": 3,
+            "quote": 1,
+            "view": 14559
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "platinumgames",
+            "text": "The Stellar Blade × Bayonetta collaboration costumes are out now!🖤\nSHIFT UP (@StellarBlade) have gifted us this gorgeous EVE figure 🫶\nThe box, signed by SHIFT UP CEO Kim Hyung Tae, shows that its the 17th out of just 50 produced.\nWhy 17? Because Bayonetta just reached its 17th Anniversary! Thank you for the stellar choice!!",
+            "url": "https://x.com/platinumgames/status/2118494039251300829"
+          },
+          "text_zh": "转发 @platinumgames：《剑星》×《猎天使魔女》联动服装现已上线！🖤 SHIFT UP（@StellarBlade）赠予我们这件华丽的…"
+        },
+        {
+          "id": "2118364580175102043",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118364580175102043",
+          "text": "RT @StellarBlade: 🎵 You are now listening to「 White Night (Arrange 2)」, arranged by the wonderful @YOungji1615 ✨\n\nListen to the full album!…",
+          "created_at": "Thu Nov 05 15:27:27 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2608,
+            "retweet": 312,
+            "reply": 26,
+            "quote": 12,
+            "view": 54656
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "🎵 You are now listening to「 White Night (Arrange 2)」, arranged by the wonderful @YOungji1615 ✨\n\nListen to the full album!\nYouTube: https://t.co/fcXB0iRw78\nSpotify: https://t.co/L6iLZiojl7\nApple Music: https://t.co/IWHt12CWCC https://t.co/FHJwHw3SCd",
+            "url": "https://x.com/StellarBlade/status/2117887790654632250"
+          },
+          "text_zh": "转发 @StellarBlade：🎵 你现在听到的是「White Night (Arrange 2)」，由出色的 @YOungji1615 编曲 ✨ 收听完整专辑！…"
+        },
+        {
+          "id": "2118361133694550365",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118361133694550365",
+          "text": "RT @StellarBlade: Take EVE everywhere 💫 \n\nStellar Blade Complete Edition is now live on the Nintendo Switch 2! https://t.co/2iWfw8LsY5",
+          "created_at": "Thu Nov 05 15:13:46 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 9254,
+            "retweet": 1328,
+            "reply": 292,
+            "quote": 299,
+            "view": 422349
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Take EVE everywhere 💫 \n\nStellar Blade Complete Edition is now live on the Nintendo Switch 2! https://t.co/2iWfw8LsY5",
+            "url": "https://x.com/StellarBlade/status/2118357672802025982"
+          },
+          "text_zh": "转发 @StellarBlade：带上 EVE 去任何地方 💫 《剑星》完整版现已在 Nintendo Switch 2 上线！https://t.co/2iWfw8LsY5"
+        },
+        {
+          "id": "2118359141437858067",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118359141437858067",
+          "text": "RT @jamm3rd: Heartfelt congratulations on the launch of The Legend of Zelda: Ocarina of Time!\n\nAs luck would have it, Stellar Blade also qu…",
+          "created_at": "Thu Nov 05 15:05:51 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 4341,
+            "retweet": 441,
+            "reply": 167,
+            "quote": 19,
+            "view": 68885
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "jamm3rd",
+            "text": "Heartfelt congratulations on the launch of The Legend of Zelda: Ocarina of Time!\n\nAs luck would have it, Stellar Blade also quietly made its Nintendo Switch 2 debut on the very same day. If you could spare just a little time for us too, we’d love to add a little extra joy to your gaming life!😇\n#StellarBlade #Switch2 #LaunchToday #Zelda",
+            "url": "https://x.com/jamm3rd/status/2118358129130061968"
+          },
+          "text_zh": "转发 @jamm3rd：衷心祝贺《塞尔达传说：时之笛》发售！碰巧的是，《剑星》也恰…"
+        }
+      ],
+      "topic": "《剑星》与白金工作室联动及Switch 2版上线动态。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "猎天使魔女联动",
+        "Switch2上线",
+        "NIKKE启动器",
+        "PC安全更新"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "猎天使魔女联动",
+        "Switch2上线",
+        "NIKKE周年",
+        "守望先锋联动"
+      ]
+    },
+    "common": [
+      "剑星",
+      "猎天使魔女联动",
+      "Switch2上线"
+    ]
+  }
+}
