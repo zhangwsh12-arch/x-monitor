@@ -1,0 +1,516 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T10:44:51.037917+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 15,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2118881622464586093",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118881622464586093",
+          "text": "RT @kaztsu: 秋葉原ダイビル・エントランス #NIKKE 4thイベント、超ざっくり1,000人くらい。駅前を埋めつくす大行列をつくっていた https://t.co/ZdLVy9C3jU",
+          "created_at": "Sat Nov 07 01:42:00 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 363,
+            "retweet": 204,
+            "reply": 2,
+            "quote": 39,
+            "view": 18939
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "kaztsu",
+            "text": "秋葉原ダイビル・エントランス #NIKKE 4thイベント、超ざっくり1,000人くらい。駅前を埋めつくす大行列をつくっていた https://t.co/ZdLVy9C3jU",
+            "url": "https://x.com/kaztsu/status/2118869981010276849"
+          },
+          "text_zh": "RT @kaztsu：秋叶原Daiwa大楼入口 #NIKKE 四周年活动，粗略估计约1000人左右。站前形成了排满整个区域的大长队 https://t.co/ZdLVy9C3jU"
+        },
+        {
+          "id": "2118862470886695199",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118862470886695199",
+          "text": "RT @eraser369852: 秋葉原のオフイベもう列整列締め切って\n\n10時かららしいです〜😇 https://t.co/fMuevZ0QKS",
+          "created_at": "Sat Nov 07 00:25:54 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 21,
+            "retweet": 2,
+            "reply": 3,
+            "quote": 0,
+            "view": 2063
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "eraser369852",
+            "text": "秋葉原のオフイベもう列整列締め切って\n\n10時かららしいです〜😇 https://t.co/fMuevZ0QKS",
+            "url": "https://x.com/eraser369852/status/2118847099983036883"
+          },
+          "text_zh": "RT @eraser369852：秋叶原线下活动已经整理队列并截止排队了\n\n听说10点开始〜😇 https://t.co/fMuevZ0QKS"
+        },
+        {
+          "id": "2118862440687616440",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118862440687616440",
+          "text": "RT @NikkeGOM: Shift Up no hace eventos de aniversario, escribe cine. Cuatro historias, cuatro obras maestras inolvidables.\n#니케 #ニケ  #NIKKE…",
+          "created_at": "Sat Nov 07 00:25:47 +0000 2026",
+          "lang": "es",
+          "metrics": {
+            "like": 1981,
+            "retweet": 253,
+            "reply": 25,
+            "quote": 8,
+            "view": 19669
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NikkeGOM",
+            "text": "Shift Up no hace eventos de aniversario, escribe cine. Cuatro historias, cuatro obras maestras inolvidables.\n#니케 #ニケ  #NIKKE https://t.co/qI5J0BFxUC",
+            "url": "https://x.com/NikkeGOM/status/2118815979174338650"
+          },
+          "text_zh": "RT @NikkeGOM：Shift Up不做周年庆活动，他们是在写电影。四个故事，四部令人难忘的杰作。\n#니케 #ニケ #NIKKE…"
+        },
+        {
+          "id": "2118862357640429646",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118862357640429646",
+          "text": "RT @ShiftUpWorld: Stellar Parallels 🔥\n\nCrazy how you can now enjoy Stellar Blade beyond the original game. 😎✨ https://t.co/6ItWQAbIE2",
+          "created_at": "Sat Nov 07 00:25:27 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 253,
+            "retweet": 13,
+            "reply": 0,
+            "quote": 0,
+            "view": 6860
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "ShiftUpWorld",
+            "text": "Stellar Parallels 🔥\n\nCrazy how you can now enjoy Stellar Blade beyond the original game. 😎✨ https://t.co/6ItWQAbIE2",
+            "url": "https://x.com/ShiftUpWorld/status/2118849323974995986"
+          },
+          "text_zh": "RT @ShiftUpWorld：星之平行 🔥\n\n现在你可以在原作之外享受《剑星》了，太疯狂了。😎✨ https://t.co/6ItWQAbIE2"
+        },
+        {
+          "id": "2118858892130349374",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118858892130349374",
+          "text": "RT @ellivahpla: stellarblade complete editionとスチールブックが到着しました!\n#stellarblade https://t.co/F08Il5topL",
+          "created_at": "Sat Nov 07 00:11:41 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 121,
+            "retweet": 10,
+            "reply": 0,
+            "quote": 0,
+            "view": 3633
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "ellivahpla",
+            "text": "stellarblade complete editionとスチールブックが到着しました!\n#stellarblade https://t.co/F08Il5topL",
+            "url": "https://x.com/ellivahpla/status/2118609372171698386"
+          },
+          "text_zh": "RT @ellivahpla：《剑星》完整版和铁盒版到货了！\n#stellarblade https://t.co/F08Il5topL"
+        },
+        {
+          "id": "2118857843210383371",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118857843210383371",
+          "text": "RT @POPnGAMES: 🎮🔥 HAPPY FRIDAY! NEW ARRIVALS!! 🔥🎮\n\nAnother Friday, another reason your wallet is crying! 😂💸\n\nCheck out what’s new at POPnGA…",
+          "created_at": "Sat Nov 07 00:07:30 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 47,
+            "retweet": 3,
+            "reply": 1,
+            "quote": 0,
+            "view": 2328
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "POPnGAMES",
+            "text": "🎮🔥 HAPPY FRIDAY! NEW ARRIVALS!! 🔥🎮\n\nAnother Friday, another reason your wallet is crying! 😂💸\n\nCheck out what’s new at POPnGAMES!\n\n⚔️ Stellar Blade: Complete Edition (Switch 2)\n🌑 Qliphah in Providence’s Shadow (PS5 / Switch)\n🎨 Layers of Fear: The Final Masterpiece Edition (Switch 2)\n⚡ Pokémon Legends: Z-A + Mega Dimension (Switch 2)\n\n🔥 Four games, four different adventures!\n\n👀 Which one are you picking up this weekend?\n\n🛒 Available at POPnGAMES!\n🌐 https://t.co/BRNpV2tMjM\n\n#POPnGAMES #NewArrivals #StellarBlade #LayersOfFear #PokemonLegendsZA #NintendoSwitch2 #PS5 #PhysicalGames",
+            "url": "https://x.com/POPnGAMES/status/2118776819050762330"
+          },
+          "text_zh": "RT @POPnGAMES：🎮🔥 周五快乐！新品到货！！🔥🎮\n\n又一个周五，又一个让你的钱包哭泣的理由！😂💸\n\n来看看POPnGA…"
+        },
+        {
+          "id": "2118856456338633215",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118856456338633215",
+          "text": "RT @StellarBlade: The Bayonetta Costume Collaboration with @platinumgames is now live on PC, PS5, and Nintendo Switch 2!\n\nWhich Nanosuit ar…",
+          "created_at": "Sat Nov 07 00:02:00 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1272,
+            "retweet": 129,
+            "reply": 40,
+            "quote": 4,
+            "view": 35156
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "The Bayonetta Costume Collaboration with @platinumgames is now live on PC, PS5, and Nintendo Switch 2!\n\nWhich Nanosuit are you playing with first? 🖤✨",
+            "url": "https://x.com/StellarBlade/status/2118494376632688927"
+          },
+          "text_zh": "RT @StellarBlade：与@platinumgames的《猎天使魔女》联动服装现已在PC、PS5和Nintendo Switch 2上线！\n\n哪套纳米服…"
+        },
+        {
+          "id": "2118855991999783010",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118855991999783010",
+          "text": "RT @gasstong: 니케 성수 무신사 콜라보 https://t.co/4xI0uiCIV5",
+          "created_at": "Sat Nov 07 00:00:09 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 424,
+            "retweet": 55,
+            "reply": 1,
+            "quote": 16,
+            "view": 24274
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "gasstong",
+            "text": "니케 성수 무신사 콜라보 https://t.co/4xI0uiCIV5",
+            "url": "https://x.com/gasstong/status/2118526229548855545"
+          },
+          "text_zh": "RT @gasstong：NIKKE圣水洞Musinsa联名 https://t.co/4xI0uiCIV5"
+        },
+        {
+          "id": "2118855606371254554",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118855606371254554",
+          "text": "RT @CrimsonRoze: Picked up my copy of LoZ Oot remake today and just received my standard copy of Stellar Blade for Switch 2. EVE is happy s…",
+          "created_at": "Fri Nov 06 23:58:37 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 108,
+            "retweet": 14,
+            "reply": 8,
+            "quote": 0,
+            "view": 2072
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "CrimsonRoze",
+            "text": "Picked up my copy of LoZ Oot remake today and just received my standard copy of Stellar Blade for Switch 2. EVE is happy she can finally play ☺️\n\nStill waiting for Steelbook copy to be shipped but at least I have the standard for now #StellarBlade #ZeldaOcarinaofTimeRemake https://t.co/dhM7g9yR0p",
+            "url": "https://x.com/CrimsonRoze/status/2118799258258448623"
+          },
+          "text_zh": "RT @CrimsonRoze：今天拿到了《塞尔达传说 时之笛》重制版，还刚收到Switch 2版《剑星》标准版。EVE很开心，所…"
+        },
+        {
+          "id": "2118855558854021179",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118855558854021179",
+          "text": "RT @StellarBlade: Not only does EVE save the Earth, but she also:\n🪥Enforces good hygiene\n👾Deals with the monsters under your bed\n📖Reads you…",
+          "created_at": "Fri Nov 06 23:58:26 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 4517,
+            "retweet": 515,
+            "reply": 62,
+            "quote": 28,
+            "view": 81843
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "StellarBlade",
+            "text": "Not only does EVE save the Earth, but she also:\n🪥Enforces good hygiene\n👾Deals with the monsters under your bed\n📖Reads you bedtime stories\n\n(Disclaimer: EVE may or may not be a figment of your sleep-deprived imagination after playing Stellar Blade for too long)",
+            "url": "https://x.com/StellarBlade/status/2118538886410330596"
+          },
+          "text_zh": "RT @StellarBlade：EVE不仅拯救地球，她还会：\n🪥督促良好卫生习惯\n👾对付你床下的怪物\n📖给你读…"
+        },
+        {
+          "id": "2118855541980307894",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118855541980307894",
+          "text": "RT @NintendoAmerica: Take EVE everywhere you go with Nintendo Switch 2! \n\nExperience the fast-paced action and cinematic adventure of Stell…",
+          "created_at": "Fri Nov 06 23:58:22 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2170,
+            "retweet": 229,
+            "reply": 46,
+            "quote": 18,
+            "view": 160388
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NintendoAmerica",
+            "text": "Take EVE everywhere you go with Nintendo Switch 2! \n\nExperience the fast-paced action and cinematic adventure of Stellar Blade Complete Edition today: https://t.co/DGMXGlNAA5 https://t.co/GSs1nyEH7L",
+            "url": "https://x.com/NintendoAmerica/status/2118825755907940493"
+          },
+          "text_zh": "RT @NintendoAmerica：带上Nintendo Switch 2，把EVE带到任何地方！\n\n体验《剑星》的快节奏动作和电影式冒险…"
+        },
+        {
+          "id": "2118727830825836624",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118727830825836624",
+          "text": "RT @Nintendo: [トピックス]美しくも苛烈な地球奪還の戦いへ。SFアクション・アドベンチャー『Stellar Blade™ コンプリートエディション』がNintendo Switch 2 で本日発売。\n※本作の対象年齢は「17歳以上」です。\nhttps://t.co…",
+          "created_at": "Fri Nov 06 15:30:53 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 1465,
+            "retweet": 378,
+            "reply": 11,
+            "quote": 16,
+            "view": 360532
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "Nintendo",
+            "text": "[トピックス]美しくも苛烈な地球奪還の戦いへ。SFアクション・アドベンチャー『Stellar Blade™ コンプリートエディション』がNintendo Switch 2 で本日発売。\n※本作の対象年齢は「17歳以上」です。\nhttps://t.co/AjMa5QpdDy",
+            "url": "https://x.com/Nintendo/status/2118509501813006772"
+          },
+          "text_zh": "RT @Nintendo：[专题] 迈向美丽而残酷的地球夺回之战。科幻动作冒险游戏《剑星™ 完整版》今日在Nintendo Switch 2发售。\n※本作年龄分级为“17岁以上”。\nhttps://t.co…"
+        },
+        {
+          "id": "2118727624457699656",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118727624457699656",
+          "text": "RT @platinumgames: The Stellar Blade × Bayonetta collaboration costumes are out now!🖤\nSHIFT UP (@StellarBlade) have gifted us this gorgeous…",
+          "created_at": "Fri Nov 06 15:30:04 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 2357,
+            "retweet": 293,
+            "reply": 14,
+            "quote": 5,
+            "view": 51772
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "platinumgames",
+            "text": "The Stellar Blade × Bayonetta collaboration costumes are out now!🖤\nSHIFT UP (@StellarBlade) have gifted us this gorgeous EVE figure 🫶\nThe box, signed by SHIFT UP CEO Kim Hyung Tae, shows that its the 17th out of just 50 produced.\nWhy 17? Because Bayonetta just reached its 17th Anniversary! Thank you for the stellar choice!!",
+            "url": "https://x.com/platinumgames/status/2118494039251300829"
+          },
+          "text_zh": "RT @platinumgames：《剑星》×《猎天使魔女》联动服装现已上线！🖤\nSHIFT UP（@StellarBlade）送给我们这份华丽的…"
+        },
+        {
+          "id": "2118727602726899793",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118727602726899793",
+          "text": "RT @platinumgames_j: こちらは、キム・ヒョンテ氏から稲葉へフィギュアを贈っていただいた際の一枚📸\nSHIFT UP（@StellarBlade）様、素敵なプレゼントをありがとうございました❤️ https://t.co/avZNPVXjgC",
+          "created_at": "Fri Nov 06 15:29:59 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 92,
+            "retweet": 11,
+            "reply": 0,
+            "quote": 0,
+            "view": 4034
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "platinumgames_j",
+            "text": "こちらは、キム・ヒョンテ氏から稲葉へフィギュアを贈っていただいた際の一枚📸\nSHIFT UP（@StellarBlade）様、素敵なプレゼントをありがとうございました❤️ https://t.co/avZNPVXjgC",
+            "url": "https://x.com/platinumgames_j/status/2118494679935406105"
+          },
+          "text_zh": "RT @platinumgames_j：这是金亨泰先生赠送手办给稻叶时的一张照片📸\n感谢SHIFT UP（@StellarBlade）送来的精美礼物❤️ https://t.co/avZNPVXjgC"
+        },
+        {
+          "id": "2118727570321756192",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2118727570321756192",
+          "text": "RT @platinumgames_j: 『Stellar Blade』×『ベヨネッタ』コラボ衣装、本日より配信開始！🖤\n配信開始に合わせて、以前SHIFT UP（@StellarBlade）様からいただいた特別なイヴフィギュアをご紹介！✨… https://t.co/Aida…",
+          "created_at": "Fri Nov 06 15:29:51 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 690,
+            "retweet": 146,
+            "reply": 2,
+            "quote": 3,
+            "view": 21872
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "platinumgames_j",
+            "text": "『Stellar Blade』×『ベヨネッタ』コラボ衣装、本日より配信開始！🖤\n配信開始に合わせて、以前SHIFT UP（@StellarBlade）様からいただいた特別なイヴフィギュアをご紹介！✨\nいただいたのは、世界限定50体のイヴフィギュア！今年ベヨネッタの17周年に合わせて「17/50」を選んでいただいたとのこと……！🙇\nさらにBOXには、SHIFT UP CEO キム・ヒョンテ氏のサインまで！😱\nイヴとベヨネッタ、並べてみると最高に似合ってませんか？",
+            "url": "https://x.com/platinumgames_j/status/2118494592194765212"
+          },
+          "text_zh": "RT @platinumgames_j：《剑星》×《猎天使魔女》联动服装今日开始配信！🖤\n配合配信开始，介绍一下之前SHIFT UP（@StellarBlade）赠送的特别EVE手办！✨… https://t.co/Aida…"
+        }
+      ],
+      "topic": "该账号今日聚焦《NIKKE》四周年秋叶原线下活动盛况及《剑星》登陆Switch 2与猎天使魔女联动。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 3,
+        "retweet": 3,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2118853293279780933",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118853293279780933",
+          "text": "RT @balbnis: Stellar Blade is out on Switch 2 today. Its truly a wonderful Steelbook and we worked hard to make sure its fully on cart day…",
+          "created_at": "Fri Nov 06 23:49:26 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 426,
+            "retweet": 28,
+            "reply": 28,
+            "quote": 1,
+            "view": 5695
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "balbnis",
+            "text": "Stellar Blade is out on Switch 2 today. Its truly a wonderful Steelbook and we worked hard to make sure its fully on cart day one with Digital release. Hope everyone enjoys it along with Zelda!!\n\n@PMStudiosUSA @SHIFTUP_Corp https://t.co/jtNFsIjx4z",
+            "url": "https://x.com/balbnis/status/2118749656121536539"
+          },
+          "text_zh": "转发 @balbnis：《剑星》今日登陆 Switch 2。这确实是一款精美的 Steelbook，我们努力确保它在发售当天就完整收录于卡带中……"
+        },
+        {
+          "id": "2118848409369215007",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118848409369215007",
+          "text": "RT @PMStudiosUSA: Stellar Blade Complete Edition is available right now physically! \n\nIt comes with a wholllle bunch of extras too!Take Eve…",
+          "created_at": "Fri Nov 06 23:30:01 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 177,
+            "retweet": 21,
+            "reply": 7,
+            "quote": 3,
+            "view": 3156
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "PMStudiosUSA",
+            "text": "Stellar Blade Complete Edition is available right now physically! \n\nIt comes with a wholllle bunch of extras too!Take Eve with you wherever you go❤️ https://t.co/ZL9x4vugcR",
+            "url": "https://x.com/PMStudiosUSA/status/2118741493582078404"
+          },
+          "text_zh": "转发 @PMStudiosUSA：《剑星》完整版实体版现已发售！\n\n它还附带了一大堆额外内容！带上伊芙……"
+        },
+        {
+          "id": "2118628516627718362",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2118628516627718362",
+          "text": "Thank you so much! @theweeknd \nStellar Blade Complete Steelbook Edition\n\n#StellarBlade #StellarBladeNS2 https://t.co/tZDPaZYe1A",
+          "created_at": "Fri Nov 06 08:56:15 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 248,
+            "retweet": 22,
+            "reply": 3,
+            "quote": 1,
+            "view": 2549
+          },
+          "author_handle": "_yoojoonseok",
+          "text_zh": "非常感谢！@theweeknd\n《剑星》完整 Steelbook 版\n\n#StellarBlade #StellarBladeNS2 https://t.co/tZDPaZYe1A"
+        },
+        {
+          "id": "2118586311527604715",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2118586311527604715",
+          "text": "It’s almost too good to eat 🫣\n#StellarBlade #StellarBladeNS2 https://t.co/WPZBgbTkaT",
+          "created_at": "Fri Nov 06 06:08:32 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1042,
+            "retweet": 79,
+            "reply": 15,
+            "quote": 7,
+            "view": 8549
+          },
+          "author_handle": "_yoojoonseok",
+          "text_zh": "简直好看到舍不得吃 🫣\n#StellarBlade #StellarBladeNS2 https://t.co/WPZBgbTkaT"
+        },
+        {
+          "id": "2118584739972161985",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2118584739972161985",
+          "text": "Shift Up’s first console publishing project has been successfully launched. I would like to extend my heartfelt gratitude to all the fans who have always believed in us, supported us, and patiently waited. My deepest thanks also go out all the Shift Up staff whose hard work made this challenge a reality. \n\nI hope you all thoroughly enjoy both the Stellar Blade Nintendo Switch 2 and the newly added Bayonetta collaboration content. Thank you!\n\nP.S. A big congratulations on the release of ‘The Legend of Zelda: Ocarina of Time’ as well! It is a great honor to launch on the very same day as such a masterpiece, and as a fan myself, I cannot wait to play it. Though... I'll have to play it right after I finish Stellar Blade on Nintendo Switch 2 🤭\n#StellarBlade #StellarBladeNS2",
+          "created_at": "Fri Nov 06 06:02:18 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 734,
+            "retweet": 72,
+            "reply": 13,
+            "quote": 1,
+            "view": 7359
+          },
+          "author_handle": "_yoojoonseok",
+          "text_zh": "Shift Up 的首个主机发行项目已成功上线。我衷心感谢所有始终相信我们、支持我们并耐心等待的粉丝们。我也向所有辛勤付出、让这一挑战成为现实的 Shift Up 员工致以最深切的感谢。\n\n希望大家尽情享受《剑星》Nintendo Switch 2 版以及新增的猎天使魔女联动内容。谢谢！\n\n附言：热烈祝贺《The Lege》发售"
+        },
+        {
+          "id": "2118547977770029295",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2118547977770029295",
+          "text": "RT @ellivahpla: @StellarBlade EVErywhere!\n#stellarblade https://t.co/IuY0bEshzb",
+          "created_at": "Fri Nov 06 03:36:13 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 24,
+            "retweet": 3,
+            "reply": 0,
+            "quote": 0,
+            "view": 2992
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "ellivahpla",
+            "text": "@StellarBlade EVErywhere!\n#stellarblade https://t.co/IuY0bEshzb",
+            "url": "https://x.com/ellivahpla/status/2118547373739958688"
+          },
+          "text_zh": "转发 @ellivahpla：@StellarBlade 伊芙无处不在！\n#stellarblade https://t.co/IuY0bEshzb"
+        }
+      ],
+      "topic": "《剑星》Switch 2版今日发售，团队庆祝上线并感谢粉丝支持。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "Switch 2",
+        "线下活动",
+        "联动服装"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch 2",
+        "猎天使魔女联动",
+        "实体版",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Switch 2"
+    ]
+  }
+}
