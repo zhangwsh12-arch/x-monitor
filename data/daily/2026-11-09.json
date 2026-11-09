@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T10:35:01.330626+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 3,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2119558074356961496",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2119558074356961496",
+          "text": "RT @geoffkeighley: #thegameawards https://t.co/slf5JZF6oQ",
+          "created_at": "Sun Nov 08 22:29:59 +0000 2026",
+          "lang": "qme",
+          "metrics": {
+            "like": 14597,
+            "retweet": 995,
+            "reply": 314,
+            "quote": 133,
+            "view": 247120
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "geoffkeighley",
+            "text": "#thegameawards https://t.co/slf5JZF6oQ",
+            "url": "https://x.com/geoffkeighley/status/2119504488126173500"
+          },
+          "text_zh": "转发 @geoffkeighley：#thegameawards https://t.co/slf5JZF6oQ"
+        },
+        {
+          "id": "2119557084304040403",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2119557084304040403",
+          "text": "RT @NixLupus31: Love the details on Eve Widowmaker's back 🥹 https://t.co/g7eSeDOeYP",
+          "created_at": "Sun Nov 08 22:26:03 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1956,
+            "retweet": 49,
+            "reply": 2,
+            "quote": 0,
+            "view": 20647
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NixLupus31",
+            "text": "Love the details on Eve Widowmaker's back 🥹 https://t.co/g7eSeDOeYP",
+            "url": "https://x.com/NixLupus31/status/2119163474454688119"
+          },
+          "text_zh": "转发 @NixLupus31：爱死伊芙·黑百合背部的细节了 🥹 https://t.co/g7eSeDOeYP"
+        },
+        {
+          "id": "2119286536969891908",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2119286536969891908",
+          "text": "RT @PlayStationCA: Welcome to the weekend ✨ https://t.co/xNJ6Nov1UM",
+          "created_at": "Sun Nov 08 04:30:59 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 413,
+            "retweet": 49,
+            "reply": 29,
+            "quote": 1,
+            "view": 12532
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "PlayStationCA",
+            "text": "Welcome to the weekend ✨ https://t.co/xNJ6Nov1UM",
+            "url": "https://x.com/PlayStationCA/status/2119075469320769586"
+          },
+          "text_zh": "转发 @PlayStationCA：欢迎来到周末 ✨ https://t.co/xNJ6Nov1UM"
+        }
+      ],
+      "topic": "该账号今日在关注TGA游戏大奖、游戏角色细节及周末游戏动态。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "游戏周边",
+        "线下活动",
+        "Switch 2"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch 2",
+        "猎天使魔女联动",
+        "实体版",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Switch 2"
+    ]
+  }
+}
