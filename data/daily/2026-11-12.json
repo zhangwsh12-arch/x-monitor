@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T11:47:32.642328+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2120538949517209875",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2120538949517209875",
+          "text": "RT @yosp: Visited @ShiftUpWorld and spent fun time with @jamm3rd and the team :D https://t.co/M2OXZr4YSG",
+          "created_at": "Wed Nov 11 15:27:37 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 1879,
+            "retweet": 147,
+            "reply": 32,
+            "quote": 4,
+            "view": 54701
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "yosp",
+            "text": "Visited @ShiftUpWorld and spent fun time with @jamm3rd and the team :D https://t.co/M2OXZr4YSG",
+            "url": "https://x.com/yosp/status/2120502552450261488"
+          },
+          "text_zh": "转发 @yosp：访问了 @ShiftUpWorld，与 @jamm3rd 及团队度过了愉快的时光 :D https://t.co/M2OXZr4YSG"
+        }
+      ],
+      "topic": "吉田修平拜访Shift Up工作室，与团队愉快交流。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "Shift Up",
+        "线下活动",
+        "联动服装"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch 2",
+        "猎天使魔女联动",
+        "实体版",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Shift Up",
+      "联动服装"
+    ]
+  }
+}
