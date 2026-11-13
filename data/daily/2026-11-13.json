@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T11:29:52.251258+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "Shift Up",
+        "线下活动",
+        "联动服装"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch 2",
+        "实体版",
+        "猎天使魔女联动",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Shift Up",
+      "猎天使魔女联动"
+    ]
+  }
+}
