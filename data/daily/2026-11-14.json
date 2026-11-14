@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T11:10:29.449464+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 2,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2121415488890896683",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2121415488890896683",
+          "text": "RT @lostincult: @StellarBlade The Code EVE and Black Pearl Editions both feature music from the Winter EP and Jazz Arrangement Tracks, with…",
+          "created_at": "Sat Nov 14 01:30:41 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 11,
+            "retweet": 3,
+            "reply": 0,
+            "quote": 0,
+            "view": 825
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "lostincult",
+            "text": "@StellarBlade The Code EVE and Black Pearl Editions both feature music from the Winter EP and Jazz Arrangement Tracks, with no duplicated tracks from the previous Stellar Blade vinyl releases!\n\nhttps://t.co/Lepn5AnSpo\n\n #StellarBlade #OST #Vinyl #LostInCultRecords #SHIFTUP @SHIFTUP_Corp @Jamm3rd @elore",
+            "url": "https://x.com/lostincult/status/2121272887893987715"
+          },
+          "text_zh": "转发 @lostincult：@StellarBlade 《剑星》的代码EVE版和黑珍珠版均收录了冬季EP及爵士编曲曲目的音乐，其中…"
+        },
+        {
+          "id": "2121415465553858957",
+          "kind": "retweet",
+          "url": "https://x.com/_yoojoonseok/status/2121415465553858957",
+          "text": "RT @lostincult: &gt;reBOOT_c0de_EVE\n\nWe launched the @StellarBlade Director's Edition 4xLP last night, have you managed to pick up your copy?…",
+          "created_at": "Sat Nov 14 01:30:35 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 161,
+            "retweet": 21,
+            "reply": 4,
+            "quote": 1,
+            "view": 7432
+          },
+          "author_handle": "_yoojoonseok",
+          "source_tweet": {
+            "handle": "lostincult",
+            "text": "&gt;reBOOT_c0de_EVE\n\nWe launched the @StellarBlade Director's Edition 4xLP last night, have you managed to pick up your copy?\n\nThe Special Edition ‘Code EVE’ Variant is time limited and all versions come bundled with exclusive 12” art cards🔻 https://t.co/bIeZYt9Egs",
+            "url": "https://x.com/lostincult/status/2121272885801017667"
+          },
+          "text_zh": "转发 @lostincult：&gt;reBOOT_c0de_EVE\n\n我们昨晚推出了@StellarBlade《剑星》导演剪辑版4xLP，你抢到你的 copy 了吗？…"
+        }
+      ],
+      "topic": "关注《剑星》导演剪辑版4xLP黑胶唱片及冬季EP、爵士编曲曲目收录详情。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "Shift Up",
+        "联动服装",
+        "线下活动"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch 2版",
+        "实体版",
+        "猎天使魔女联动",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Shift Up",
+      "猎天使魔女联动"
+    ]
+  }
+}
