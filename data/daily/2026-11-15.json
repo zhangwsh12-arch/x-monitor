@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:41:27.044538+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE四周年",
+        "剑星联动",
+        "Shift Up活动",
+        "秋叶原线下",
+        "游戏周边"
+      ],
+      "_yoojoonseok": [
+        "剑星完整版",
+        "Switch 2发售",
+        "猎天使魔女联动",
+        "实体版周边",
+        "Shift Up发行"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Shift Up",
+      "猎天使魔女联动"
+    ]
+  }
+}
