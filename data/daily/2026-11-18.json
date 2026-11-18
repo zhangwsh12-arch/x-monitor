@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T12:33:06.765988+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 4,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2122690586008559660",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2122690586008559660",
+          "text": "RT @fummyn: おんせんだいすきクラブ https://t.co/t2i8uooGfX",
+          "created_at": "Tue Nov 17 13:57:28 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 2082,
+            "retweet": 338,
+            "reply": 7,
+            "quote": 1,
+            "view": 21780
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "fummyn",
+            "text": "おんせんだいすきクラブ https://t.co/t2i8uooGfX",
+            "url": "https://x.com/fummyn/status/2122296176980693417"
+          },
+          "text_zh": "RT @fummyn: 超爱温泉俱乐部 https://t.co/t2i8uooGfX"
+        },
+        {
+          "id": "2122690490219036947",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2122690490219036947",
+          "text": "RT @NicholasF0425: https://t.co/76RSuzsukf",
+          "created_at": "Tue Nov 17 13:57:05 +0000 2026",
+          "lang": "zxx",
+          "metrics": {
+            "like": 3969,
+            "retweet": 457,
+            "reply": 3,
+            "quote": 4,
+            "view": 50620
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NicholasF0425",
+            "text": "https://t.co/76RSuzsukf",
+            "url": "https://x.com/NicholasF0425/status/2122325791019290795"
+          },
+          "text_zh": "RT @NicholasF0425: https://t.co/76RSuzsukf"
+        },
+        {
+          "id": "2122690474041569513",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2122690474041569513",
+          "text": "RT @phantom_pics: My stellar blade corner is coming along quite nicely ✨❤️ https://t.co/FoTZqLmCvf",
+          "created_at": "Tue Nov 17 13:57:01 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 410,
+            "retweet": 20,
+            "reply": 5,
+            "quote": 0,
+            "view": 7239
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "phantom_pics",
+            "text": "My stellar blade corner is coming along quite nicely ✨❤️ https://t.co/FoTZqLmCvf",
+            "url": "https://x.com/phantom_pics/status/2122534159922937964"
+          },
+          "text_zh": "RT @phantom_pics: 我的《剑星》专区越来越有模有样了 ✨❤️ https://t.co/FoTZqLmCvf"
+        },
+        {
+          "id": "2122690300397371498",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2122690300397371498",
+          "text": "RT @yosp: 김 씨, 감사합니다😊  \nThank you, Kim-san!\n@jamm3rd #StellarBlade https://t.co/rEDJKQ8iSz",
+          "created_at": "Tue Nov 17 13:56:19 +0000 2026",
+          "lang": "ko",
+          "metrics": {
+            "like": 2615,
+            "retweet": 163,
+            "reply": 25,
+            "quote": 4,
+            "view": 53612
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "yosp",
+            "text": "김 씨, 감사합니다😊  \nThank you, Kim-san!\n@jamm3rd #StellarBlade https://t.co/rEDJKQ8iSz",
+            "url": "https://x.com/yosp/status/2122563690310578366"
+          },
+          "text_zh": "RT @yosp: 金先生，谢谢您😊  \nThank you, Kim-san!\n@jamm3rd #StellarBlade https://t.co/rEDJKQ8iSz"
+        }
+      ],
+      "topic": "该账号今日关注《剑星》相关内容和温泉俱乐部。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "Shift Up",
+        "游戏展活动"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch 2版",
+        "猎天使魔女联动",
+        "实体版周边",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Shift Up"
+    ]
+  }
+}
