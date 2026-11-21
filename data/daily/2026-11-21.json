@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T12:03:43.190466+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2123861888379543633",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2123861888379543633",
+          "text": "RT @saaya_cosplay: 【勝利の女神：NIKKE 大型併せ 集合写真】\n\n10月11日、総勢129名で『勝利の女神：NIKKE』の大型併せを開催いたしました。\n\nそれぞれが思い思いの好きなキャラクターのために衣装や小道具を準備して、この日のために集まってくださった…",
+          "created_at": "Fri Nov 20 19:31:48 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 3430,
+            "retweet": 460,
+            "reply": 13,
+            "quote": 112,
+            "view": 125436
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "saaya_cosplay",
+            "text": "【勝利の女神：NIKKE 大型併せ 集合写真】\n\n10月11日、総勢129名で『勝利の女神：NIKKE』の大型併せを開催いたしました。\n\nそれぞれが思い思いの好きなキャラクターのために衣装や小道具を準備して、この日のために集まってくださったこと。\n目の前に大好きなNIKKEの世界が広がっていた時間が、本当に幸せでした。\n\nこれだけの人数で一日を過ごし、こうして一枚の写真を残せたのは、参加者の皆さまが撮影や進行にご協力くださったおかげです。ご参加くださった皆さま、撮影を引き受けてくださったカメラマンの皆さま、準備から当日の運営まで支えてくださった皆さま、1日走り回ってくれたアシスタントのみんな、本当にありがとうございました！\n企画からずっと私を支えて一緒に楽しんでくれた副主催のあおち（@aoo_chika ）りか（@lazulinescent ）、今回も本当にありがとう！3人だったからできた事だよ。\n\n併せが終わってから「楽しかった」と声をかけていただけたことも、主催として本当に嬉しかったです。NIKKEを通じて出会えた皆さまと、あの日を一緒に過ごせたことを嬉しく思います。\n\n主催　貴方ノさやぴ\n集合写真撮影　ミリさん@mi_rates \n\n#NIKKEで出会えた仲間達20261011",
+            "url": "https://x.com/saaya_cosplay/status/2123724369017077811"
+          },
+          "text_zh": "RT @saaya_cosplay: 【胜利女神：NIKKE 大型合影 集体照】\n\n10月11日，共计129人举办了《胜利女神：NIKKE》的大型合影活动。\n\n大家各自为了自己喜爱的角色准备服装和小道具，为了这一天聚集在一起……"
+        }
+      ],
+      "topic": "该账号关注《胜利女神：NIKKE》129人大型合影活动。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "Shift Up",
+        "游戏展活动",
+        "角色扮演"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "实体版发行",
+        "Switch 2",
+        "联动内容",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星",
+      "Shift Up"
+    ]
+  }
+}
