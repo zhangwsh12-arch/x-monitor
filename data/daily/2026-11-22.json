@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T11:01:25.219320+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "Shift Up",
+        "游戏展活动",
+        "角色扮演"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "实体版发行",
+        "Switch 2",
+        "联动服装",
+        "原声音乐"
+      ]
+    },
+    "common": [
+      "剑星"
+    ]
+  }
+}
