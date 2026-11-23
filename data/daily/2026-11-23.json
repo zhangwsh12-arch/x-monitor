@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T11:26:15.539909+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 1,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2124397868631068733",
+          "kind": "post",
+          "url": "https://x.com/_yoojoonseok/status/2124397868631068733",
+          "text": "G-STAR 2026 was fun. Reuniting with old friends, making new ones, and gaining fresh knowledge and experiences. See you again next year! https://t.co/ujHMWTRJnm",
+          "created_at": "Sun Nov 22 07:01:35 +0000 2026",
+          "lang": "en",
+          "metrics": {
+            "like": 7,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "view": 186
+          },
+          "author_handle": "_yoojoonseok",
+          "text_zh": "G-STAR 2026 很有趣。与老友重逢，结识新朋友，收获了全新的知识与体验。明年再见！https://t.co/ujHMWTRJnm"
+        }
+      ],
+      "topic": "G-STAR 2026展会收官，分享重逢老友、结识新朋与收获新知体验。"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "剑星",
+        "NIKKE",
+        "线下活动",
+        "角色扮演",
+        "游戏展"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "实体版发售",
+        "Switch2",
+        "联动内容",
+        "ShiftUp"
+      ]
+    },
+    "common": [
+      "剑星"
+    ]
+  }
+}
