@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T14:51:41.334046+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 1,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [
+        {
+          "id": "2124744693812752877",
+          "kind": "retweet",
+          "url": "https://x.com/jamm3rd/status/2124744693812752877",
+          "text": "RT @NIKKE_japan: 【#NIKKE オケコンPV公開】\n『勝利の女神：NIKKE』オーケストラコンサート「NIKKE ORCHESTRAL CONCERT Echoes of Eternity」のPV Full Ver.を公開します！\n\nさらに、ただいまチケットの…",
+          "created_at": "Mon Nov 23 05:59:45 +0000 2026",
+          "lang": "ja",
+          "metrics": {
+            "like": 16609,
+            "retweet": 3345,
+            "reply": 69,
+            "quote": 466,
+            "view": 612409
+          },
+          "author_handle": "jamm3rd",
+          "source_tweet": {
+            "handle": "NIKKE_japan",
+            "text": "【#NIKKE オケコンPV公開】\n『勝利の女神：NIKKE』オーケストラコンサート「NIKKE ORCHESTRAL CONCERT Echoes of Eternity」のPV Full Ver.を公開します！\n\nさらに、ただいまチケットの二次抽選受付中🎫\n\nおなじみの旋律が、再びコンサートホールに響き渡る――\n心に残るひとときを、ぜひ会場でお過ごしください♬\n\n◆公演情報\n開催日：2027年1月9日(土)\n会場：パシフィコ横浜 国立大ホール\n\n◆受付締切\n11月29日23:59\n\n詳細はスレッド内のURLよりご確認ください。\n\n#NIKKEconcert2027 #ニケオケコン2027",
+            "url": "https://x.com/NIKKE_japan/status/2124019980585074815"
+          },
+          "text_zh": "RT @NIKKE_japan: 【#NIKKE 音乐会PV公开】\n《胜利女神：NIKKE》管弦音乐会「NIKKE ORCHESTRAL CONCERT Echoes of Eternity」的PV完整版现已公开！\n\n此外，目前门票…"
+        }
+      ],
+      "topic": "关注《胜利女神：NIKKE》管弦音乐会PV公开及门票信息。"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE",
+        "剑星",
+        "线下活动",
+        "角色扮演",
+        "游戏音乐会"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch 2",
+        "实体版",
+        "联动内容",
+        "Shift Up"
+      ]
+    },
+    "common": [
+      "剑星"
+    ]
+  }
+}
