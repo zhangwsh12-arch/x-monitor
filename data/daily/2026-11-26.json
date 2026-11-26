@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T13:03:18.061807+09:00",
+  "accounts": [
+    {
+      "handle": "jamm3rd",
+      "name": "金亨泰",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "_yoojoonseok",
+      "name": "Jason",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    },
+    {
+      "handle": "hsyoo___",
+      "name": "Yoo",
+      "first_run": false,
+      "counts": {
+        "post": 0,
+        "retweet": 0,
+        "quote": 0,
+        "reply": 0
+      },
+      "items": [],
+      "topic": "今日无更新"
+    }
+  ],
+  "keywords": {
+    "accounts": {
+      "jamm3rd": [
+        "NIKKE",
+        "剑星",
+        "线下活动",
+        "游戏音乐会"
+      ],
+      "_yoojoonseok": [
+        "剑星",
+        "Switch2版",
+        "联动内容",
+        "实体版"
+      ]
+    },
+    "common": [
+      "剑星"
+    ]
+  }
+}
